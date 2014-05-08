@@ -1,2 +1,6 @@
 location
 ========
+
+name
+latitude
+longitude
