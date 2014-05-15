@@ -1,6 +1,0 @@
-location
-========
-
-name
-latitude
-longitude
