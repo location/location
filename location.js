@@ -20,7 +20,9 @@ function displayPosition(pos){
     var glat = pos.coords.latitude;
     var glon = pos.coords.longitude;
     var thediv = document.getElementById("location");
-    thediv.innerHTML = "<p><a href='http://location.gl/vote/?name="+name+"&glat="+glat+"&glon="+glon+"'>Vote</a></p>";    
+  
+    thediv.innerHTML = "<form method='POST' action='http://location.gl/vote/'><table><tr><th>Name</th><td><input type='text' name='name' value='" + name + "' /></td></tr><tr><th>GLat</th><td><input type='text' name='glat' value='" + glat + "' /></td></tr><tr><th>GLon</th><td><input type='text' name='glon' value='" + glon + "' /></td></tr><tr><td colspan='2'><input type='submit' value='Vote' /></td></tr></table></form>\n";
+    
 }
 
 // Error callback function
