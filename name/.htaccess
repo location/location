@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^([\sa-åA-Å0-9]+)$ /index.php?name=$1 [L]

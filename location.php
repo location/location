@@ -15,6 +15,10 @@ class Location {
     $this->glon = $glon;
     $this->link = $link;
 
+    $fp = fopen("/home/1/l/location/location/vote/data.sql","a+");
+    fwrite($fp, "INSERT INTO location (name, glat, glon, ggeo, link) VALUES ('" . $this->name . "', " . $this->glat . ", " . $this->glon . ", POINT(" . $this->glat . "," . $this->glon . "), '" . $this->link . "');\n");
+    fclose($fp);
+    
     $fp = fopen("/home/1/l/location/location/vote/vote.txt","a+");
     fwrite($fp, $this->name . "," . $this->glat . "," . $this->glon . "," . $this->link . "\n");
     fclose($fp);

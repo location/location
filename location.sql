@@ -1,4 +1,3 @@
-DROP TABLE location;
 CREATE TABLE location (
        id BIGINT PRIMARY KEY NOT NULL AUTO_INCREMENT,
        name TEXT NOT NULL,
@@ -6,5 +5,6 @@ CREATE TABLE location (
        glat DECIMAL(10, 8) NOT NULL,
        glon DECIMAL(11, 8) NOT NULL,
        ggeo GEOMETRY NOT NULL,
-       SPATIAL INDEX(ggeo)
+       SPATIAL INDEX(ggeo),
+       link TEXT
 ) Engine="MyISAM";
