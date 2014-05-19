@@ -1,6 +1,6 @@
 <!--
 // Main function
-function locationGeo() {
+function Location() {
     // Determine support for geolocation
     if (navigator.geolocation){
 	var timeoutVal = 10 * 1000 * 1000;
@@ -36,6 +36,6 @@ function displayError(error) {
     thediv.innerHTML = "<p>Location Error: " + errors[error.code] + "</p>";
 }
 
-locationGeo();
+Location();
 
 -->
