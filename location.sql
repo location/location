@@ -1,3 +1,4 @@
+DROP TABLE location;
 CREATE TABLE location (
        id BIGINT PRIMARY KEY NOT NULL AUTO_INCREMENT,
        name TEXT NOT NULL,
@@ -7,5 +8,3 @@ CREATE TABLE location (
        ggeo GEOMETRY NOT NULL,
        SPATIAL INDEX(ggeo)
 ) Engine="MyISAM";
-
-CREATE SPATIAL INDEX location_geo ON location (ggeo);
