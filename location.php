@@ -97,6 +97,7 @@ class Location {
     if ($this->glon == NULL) $this->glon = 0;
 
     $this->data .= "<html>\n<head>\n<title>" . $this->name . "</title>\n<meta charset='UTF-8'>\n";
+    $this->data .= "<meta name='viewport' content='width=240; user-scalable=no' />\n";
     $this->data .= "<style>#map { width:100%; height:800px; }</style>\n";
     $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n";
     $this->data .= "</head>\n";
