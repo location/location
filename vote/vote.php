@@ -26,7 +26,7 @@ foreach ($array as $item) {
 $loc = new Location();
 $loc->dist("37", "-121", 5000);
 
-exit(0);
+// exit(0);
 
   /* echo "Location Tags in USA\n"; */
 

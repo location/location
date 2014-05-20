@@ -8,17 +8,20 @@ class Location {
   public $glat;
   public $glon;
 
-  function dist($glat, $glon, $distance) {
+  function dist($name, $glat, $glon, $distance) {
     
+    $this->name = $name;
+    $this->glat = $glat;
+    $this->glon = $glon;
+
     $pt1 = $glat + $distance / ( 111.1 / cos($glat));
     $pt2 = $glon + $distance / 111.1;
     $pt3 = $glat - $distance / ( 111.1 / cos($glat));
     $pt4 = $glon - $distance / 111.1;
     
-    $query="SELECT * FROM location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), ggeo);\n";
+    // $query="SELECT * FROM location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), ggeo);\n";
     
-    echo $query . "\n";
-    
+    return "<a href='https://www.youtube.com/watch?v=ARJ8cAGm6JE'>I'm sorry Dave, I'm afraid I can't do that.</a>";
   }
   
   function vote($name, $glat, $glon, $link) {
@@ -71,7 +74,7 @@ class Location {
       // print $item[0] . "<br />\n";
       if ($item[0]==$name) {
 	$found = 1;
-	$data .= "<tr><td><a href='" . $item[3] . "'>" . $item[0] . "</a></td><td><a href='http://maps.google.com/?q=" . $item[1] . "," . $item[2] . "'>" . $item[1] . "," . $item[2] . "</a></td></tr>\n";
+	$data .= "<tr><td><a href='" . $item[3] . "'>" . $item[0] . "</a></td><td><a href='/dist/?name=" . $item[0] . "&glat=" . "0" . "&glon=" . "0" . "&hash=" . sha256("" . $item[1] . "," . $item[2] . "") . "'>0,0</a></td></tr>\n";
 	// "SELECT name, glat, glon FROM location WHERE name = '" . $item[0] . "';";
       }
     }
@@ -91,7 +94,7 @@ class Location {
     if ($this->name == NULL) $this->name = "name";
     if ($this->link == NULL) $this->link = "http://location.gl/" . $this->name;
     if ($this->name == "name") $this->link = "http://location.gl/";
-    if ($this->link == "http://location.gl/vote/") $this->link = "http://location.gl/name/" . $this->name;
+    if ($this->link == "http://location.gl/vote/") $this->link = "http://location.gl/" . $this->name;
 
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
@@ -104,7 +107,8 @@ class Location {
     $this->data .= "<body>\n";
     $this->data .= "<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "';</script>\n";
     $this->data .= "<script src='http://location.gl/location.js'></script>\n";
-    $this->data .= "<h2><a href='http://location.gl/" . $this->name . "'>" . $this->name . "</a></h2>\n";
+    $this->data .= "<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n";
+    $this->data .= "<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
     $this->data .= "<div id='errormsg'></div>\n";
     $this->data .= "<div id='location'></div>\n";   
     $this->data .= "<h3>Privacy</h3>\n<p><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></p>\n";
