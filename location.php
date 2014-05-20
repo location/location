@@ -8,6 +8,19 @@ class Location {
   public $glat;
   public $glon;
 
+  function dist($glat, $glon, $distance) {
+    
+    $pt1 = $glat + $distance / ( 111.1 / cos($glat));
+    $pt2 = $glon + $distance / 111.1;
+    $pt3 = $glat - $distance / ( 111.1 / cos($glat));
+    $pt4 = $glon - $distance / 111.1;
+    
+    $query="SELECT * FROM location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), ggeo);\n";
+    
+    echo $query . "\n";
+    
+  }
+  
   function vote($name, $glat, $glon, $link) {
 
     $this->name = $name;
@@ -29,6 +42,8 @@ class Location {
 
     setlocale(LC_ALL, 'nb_NO.UTF8');
 
+    if ($name == "name") return;
+
     $this->name = $name;
 
     $array = array();
@@ -46,19 +61,24 @@ class Location {
       } 
       fclose($fp); 
     } 
-    
+
+    $found = 0;
+
     $data .= "<h3>Results</h3>\n";
 
     $data .= "<table>\n";
     foreach ($array as $item) {
       // print $item[0] . "<br />\n";
       if ($item[0]==$name) {
+	$found = 1;
 	$data .= "<tr><td><a href='" . $item[3] . "'>" . $item[0] . "</a></td><td><a href='http://maps.google.com/?q=" . $item[1] . "," . $item[2] . "'>" . $item[1] . "," . $item[2] . "</a></td></tr>\n";
 	// "SELECT name, glat, glon FROM location WHERE name = '" . $item[0] . "';";
       }
     }
     $data .= "</table>\n";
-    return $data;    
+
+    if ($found == 1) return $data;
+    
   }
   
   function link($name, $glat, $glon, $link) {
