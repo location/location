@@ -20,8 +20,12 @@ class Location {
     $pt4 = $glon - $distance / 111.1;
     
     // $query="SELECT * FROM location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), ggeo);\n";
-    
-    return "<a href='https://www.youtube.com/watch?v=ARJ8cAGm6JE'>I'm sorry Dave, I'm afraid I can't do that.</a>";
+    $data .= "<html><head>\n";
+    $data .= "<link rel='stylesheet' type='text/css' href='/location.css' />";
+    $data .= "</head><body>\n";
+    $data .= "<a href='https://www.youtube.com/watch?v=ARJ8cAGm6JE'>I'm sorry Dave, I'm afraid I can't do that.</a>";
+    $data .= "</body></html>\n";
+    return $data;
   }
   
   function vote($name, $glat, $glon, $link) {
@@ -100,6 +104,7 @@ class Location {
     if ($this->glon == NULL) $this->glon = 0;
 
     $this->data .= "<html>\n<head>\n<title>" . $this->name . "</title>\n<meta charset='UTF-8'>\n";
+    $this->data .= "<link rel='Stylesheet' type='text/css' href='/location.css' />";
     $this->data .= "<meta name='viewport' content='width=240; user-scalable=no' />\n";
     $this->data .= "<style>#map { width:100%; height:800px; }</style>\n";
     $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n";
