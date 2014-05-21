@@ -70,6 +70,7 @@ class Location {
     } 
 
     $found = 0;
+    $items = 0;
 
     $data .= "<h3>Results</h3>\n";
 
@@ -77,8 +78,9 @@ class Location {
     foreach ($array as $item) {
       // print $item[0] . "<br />\n";
       if ($item[0]==$name) {
+	$items++;
 	$found = 1;
-	$data .= "<tr><td><a href='" . $item[3] . "'>" . $item[0] . "</a></td><td><a href='/dist/?name=" . $item[0] . "&glat=" . "0" . "&glon=" . "0" . "&hash=" . sha256("" . $item[1] . "," . $item[2] . "") . "'>0,0</a></td></tr>\n";
+	$data .= "<tr><td><a href='" . $item[3] . "'>" . $item[0] . "</a></td><td><a href='/dist/?name=" . $item[0] . "&glat=" . $item[1] . "&glon=" . $item[2] . "&link=" . $item[3] . "&hash=" . sha256("" . $item[1] . "," . $item[2] . "") . "'>" . $item[1] . "," . $item[2] . "</a></td></tr>\n";
 	// "SELECT name, glat, glon FROM location WHERE name = '" . $item[0] . "';";
       }
     }
@@ -103,21 +105,14 @@ class Location {
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
 
-    $this->data .= "<html>\n<head>\n<title>" . $this->name . "</title>\n<meta charset='UTF-8'>\n";
-    $this->data .= "<link rel='Stylesheet' type='text/css' href='/location.css' />";
-    $this->data .= "<meta name='viewport' content='width=240; user-scalable=no' />\n";
-    $this->data .= "<style>#map { width:100%; height:800px; }</style>\n";
-    $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n";
-    $this->data .= "</head>\n";
-    $this->data .= "<body>\n";
-    $this->data .= "<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "';</script>\n";
-    $this->data .= "<script src='http://location.gl/location.js'></script>\n";
-    $this->data .= "<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n";
-    $this->data .= "<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
-    $this->data .= "<div id='errormsg'></div>\n";
+    $this->data .= "<html>\n<head>\n<title>" . $this->name . "</title>\n<meta charset='UTF-8'>\n<link rel='Stylesheet' type='text/css' href='/location.css' /><meta name='viewport' content='width=240; user-scalable=no' />\n<style>#map { width:100%; height:800px; }</style>\n<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n</head>\n<body>\n<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "';</script>\n<script src='http://location.gl/location.js'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
+    $this->data .= $this->find($this->name);   
+    $this->data .= "<h3>Annotate Location</h3>\n";
     $this->data .= "<div id='location'></div>\n";   
-    $this->data .= "<h3>Privacy</h3>\n<p><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></p>\n";
-    $this->data .= $this->find($this->name);
+    $this->data .= "<div id='errormsg'></div>\n";
+
+    $this->data .= $this->info;
+    $this->data .= "<h3>Privacy</h3>\n<p style='background: #ffaaaa'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></p>\n";
     $this->data .= "</body>\n</html>\n";
 
     return $this->data;
