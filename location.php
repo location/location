@@ -35,6 +35,14 @@ class Location {
     $this->glon = $glon;
     $this->link = $link;
 
+    if ($this->name == NULL) $this->name = "name";
+    if ($this->link == NULL) $this->link = "http://location.gl/" . $this->name;
+    if ($this->name == "name") $this->link = "http://location.gl/";
+    if ($this->link == "http://location.gl/vote/") $this->link = "http://location.gl/" . $this->name;
+
+    if ($this->glat == NULL) $this->glat = 0;
+    if ($this->glon == NULL) $this->glon = 0;
+
     $fp = fopen("/home/1/l/location/location/vote/data.sql","a+");
     fwrite($fp, "INSERT INTO location (name, glat, glon, ggeo, link) VALUES ('" . $this->name . "', " . $this->glat . ", " . $this->glon . ", POINT(" . $this->glat . "," . $this->glon . "), '" . $this->link . "');\n");
     fclose($fp);
