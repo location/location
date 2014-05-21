@@ -2,10 +2,13 @@
 require_once("../location.php");
 
 $location = new Location();
-$location->vote($_POST['name'],$_POST['glat'],$_POST['glon'],$_POST['link']);
-$location->info = "<h3>Info</h3>\n<p style='background: #ffaa00'>Registered vote for " . $_POST['name'] . " (" . $_POST['link'] . ") from (" . $_POST['glat'] . "," . $_POST['glon'] . ")</p>"; 
+if ($_POST['name']!=NULL && $_POST['glat']!=NULL && $_POST['glon']!=NULL && $_POST['link']!=NULL) {
+  $location->vote($_POST['name'],$_POST['glat'],$_POST['glon'],$_POST['link']);
+  $location->data .= "<p><span style='background: #ffcc00'>";
+  $location->data .= "Registered vote for <b>" . $_POST['name'] . "</b> (<a href='" . $_POST['link'] . "'>" . $_POST['link'] . "</a></b>) from (<b>" . $_POST['glat'] . "<b>,<b>" . $_POST['glon'] . "</b>)</span></p>"; 
+}
 $location->link($_POST['name'],$_POST['glat'],$_POST['glon'],$_POST['link']);
 // echo $location->dist($_POST['name'],$_POST['glat'],$_POST['glon'],0.5);
-echo $location->data;
+$location->push($_POST['name']);
 
 ?>

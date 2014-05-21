@@ -8,6 +8,15 @@ class Location {
   public $glat;
   public $glon;
 
+  function info() {
+    $this->data .= "<h3>Distribution</h3>\n<p><span style='background: #aaaaff'>" . $this->dist($this->name, $this->glat, $this->glon, 0.5) . "</span></p>";
+  }
+
+  function push() {
+    $this->data .= "<!-- " . $this->name . " -->\n";
+    echo $this->data;
+  }
+
   function dist($name, $glat, $glon, $distance) {
     
     $this->name = $name;
@@ -21,6 +30,7 @@ class Location {
     
     // $query="SELECT * FROM location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), ggeo);\n";
     $data .= "<html><head>\n";
+    $data .= "<title>Location Name Service - " . $name . "</title>\n";
     $data .= "<link rel='stylesheet' type='text/css' href='/location.css' />";
     $data .= "</head><body>\n";
     $data .= "<a href='https://www.youtube.com/watch?v=ARJ8cAGm6JE'>I'm sorry Dave, I'm afraid I can't do that.</a>";
@@ -113,14 +123,15 @@ class Location {
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
 
-    $this->data .= "<html>\n<head>\n<title>" . $this->name . "</title>\n<meta charset='UTF-8'>\n<link rel='Stylesheet' type='text/css' href='/location.css' /><meta name='viewport' content='width=240; user-scalable=no' />\n<style>#map { width:100%; height:800px; }</style>\n<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n</head>\n<body>\n<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "';</script>\n<script src='http://location.gl/location.js'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
-    $this->data .= $this->find($this->name);   
+    $this->data .= "<html>\n<head>\n<title>Location Name Service - " . $this->name . "</title>\n<meta charset='UTF-8'>\n<link rel='Stylesheet' type='text/css' href='/location.css' /><meta name='viewport' content='width=240; user-scalable=no' />\n<style>#map { width:100%; height:800px; }</style>\n";
+    $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n</head>\n<body>\n";
+    $this->data .= "<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "';</script>\n<script src='http://location.gl/location.js'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
+    $this->data .= $this->info($this->name);
+    $this->data .= $this->find($this->name);
     $this->data .= "<h3>Annotate Location</h3>\n";
     $this->data .= "<div id='location'></div>\n";   
     $this->data .= "<div id='errormsg'></div>\n";
-
-    $this->data .= $this->info;
-    $this->data .= "<h3>Privacy</h3>\n<p style='background: #ffaaaa'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></p>\n";
+    $this->data .= "<h3>Privacy Notice</h3>\n<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
     $this->data .= "</body>\n</html>\n";
 
     return $this->data;
