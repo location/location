@@ -1,15 +1,28 @@
 <?php
 
+define('DATABASE',"location");
+define('HOSTNAME',"location.mysql.domeneshop.no");
+define('PASSWORD',"LKX2tNG7");
+define('USERNAME',"location");
+
 class Location {
+
+  public $db;
 
   public $data;
   public $link;
   public $name;
   public $glat;
   public $glon;
+  public $dist;
+
+  function __construct() {
+    session_start();
+    mb_internal_encoding("UTF-8");
+  }
 
   function info() {
-    $this->data .= "<h3>Distribution</h3>\n<p><span style='background: #aaaaff'>" . $this->dist($this->name, $this->glat, $this->glon, 0.5) . "</span></p>";
+    $this->data .= "<h3>Distribution</h3>\n<p><span style='background: #aaaaff'>" . $this->dist($this->name, $this->glat, $this->glon, $this->link, $this->dist) . "</span></p>";
   }
 
   function push() {
@@ -17,33 +30,67 @@ class Location {
     echo $this->data;
   }
 
-  function dist($name, $glat, $glon, $distance) {
+  function dist($name, $glat, $glon, $link, $dist) {
     
-    $this->name = $name;
-    $this->glat = $glat;
-    $this->glon = $glon;
-
-    $pt1 = $glat + $distance / ( 111.1 / cos($glat));
-    $pt2 = $glon + $distance / 111.1;
-    $pt3 = $glat - $distance / ( 111.1 / cos($glat));
-    $pt4 = $glon - $distance / 111.1;
-    
-    // $query="SELECT * FROM location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), ggeo);\n";
-    $data .= "<html><head>\n";
-    $data .= "<title>Location Name Service - " . $name . "</title>\n";
-    $data .= "<link rel='stylesheet' type='text/css' href='/location.css' />";
-    $data .= "</head><body>\n";
-    $data .= "<a href='https://www.youtube.com/watch?v=ARJ8cAGm6JE'>I'm sorry Dave, I'm afraid I can't do that.</a>";
-    $data .= "</body></html>\n";
-    return $data;
-  }
-  
-  function vote($name, $glat, $glon, $link) {
-
     $this->name = $name;
     $this->glat = $glat;
     $this->glon = $glon;
     $this->link = $link;
+    $this->dist = $dist;
+
+    /* $data .= "<html><head>\n"; */
+    /* $data .= "<title>Location Name Service - " . $name . "</title>\n"; */
+    /* $data .= "<link rel='stylesheet' type='text/css' href='/location.css' />"; */
+    /* $data .= "</head><body>\n"; */
+    // $data .= "<a href='https://www.youtube.com/watch?v=ARJ8cAGm6JE'>I'm sorry Dave, I'm afraid I can't do that.</a>";
+
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    $pt1 = -90;
+    $pt2 = -180;
+    $pt3 = 90;
+    $pt4 = 180;
+
+    $this->db->set_charset("utf8");
+
+    // echo mysqli_character_set_name ($this->db);
+    
+    $query = "SELECT DISTINCT *, (
+      6371.3929 * acos (
+      cos ( radians(" . $glat . ") )
+      * cos( radians( glat ) )
+      * cos( radians( glon ) - radians(" . $glon . ") )
+      + sin ( radians(" . $glat . ") )
+      * sin( radians( glat ) )
+    )) AS dist FROM location WHERE name = '" . $name . "' HAVING dist < " . $dist . " ORDER BY dist DESC;";
+
+    echo $query;
+
+    $result = $this->db->query($query);
+
+    $data .= "<table>\n";
+
+    while($object = mysqli_fetch_object($result)) {
+
+      $data .= "<tr><td><p><b><a href='" . $object->link . "'>" . $object->name . "</a></b> - (" . $object->dist . ",(" . $object->glat . "," . $object->glon . ")</a><br /><a href='" . $object->link . "'>" . $object->link . "</a></p>\n";
+      $data .= "</td></tr>\n";
+      
+    } 
+    
+    $data .= "</table>\n";
+    
+    mysqli_close($this->db);   
+    
+    return $data;
+  }
+  
+  function vote($name, $glat, $glon, $link, $dist) {
+    
+    $this->name = $name;
+    $this->glat = $glat;
+    $this->glon = $glon;
+    $this->link = $link;
+    $this->dist = $dist;
 
     if ($this->name == NULL) $this->name = "name";
     if ($this->link == NULL) $this->link = "http://location.gl/" . $this->name;
@@ -52,6 +99,33 @@ class Location {
 
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
+
+    if ($this->dist == NULL) $this->dist = 10000;
+
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+    $this->db->set_charset("utf8");
+
+    // echo $name . $glat . $glon . $this->db->real_escape_string($link);
+
+    /* if ($dist['California'] < 1); */ // UPDATE votement SET vote = vote + 1 WHERE name = 'California' AND id = 1;
+
+    $query = "INSERT INTO location (name, glat, glon, ggeo, link, vote) VALUES ('" . $this->db->real_escape_string($name) . "', " . $this->db->real_escape_string($glat) . ", " . $this->db->real_escape_string($glon) . ", POINT(" . $this->db->real_escape_string($glat) . "," . $this->db->real_escape_string($glon) . "), '" . $this->db->real_escape_string($link) . "', 1);";
+
+    // echo "<p>" . $query . "</p>\n";
+
+    $result = $this->db->query($query);
+
+    $query = "SELECT DISTINCT name, distance FROM votement WHERE name = '" . $this->db->real_escape_string($name) . "';"; /* FIXME: Replace vote value '1' with autoincremental value from database */
+
+    // echo "<p>" . $query . "</p>\n";
+
+    $result = $this->db->query($query);
+
+    while ($object = mysqli_fetch_object($result)) {
+      echo "<p>Distance to " . $object->name . " is " . $object->distance . "</p>\n";
+    }
+
+    mysqli_close($this->db);
 
     $fp = fopen("/home/1/l/location/location/vote/data.sql","a+");
     fwrite($fp, "INSERT INTO location (name, glat, glon, ggeo, link) VALUES ('" . $this->name . "', " . $this->glat . ", " . $this->glon . ", POINT(" . $this->glat . "," . $this->glon . "), '" . $this->link . "');\n");
@@ -60,60 +134,18 @@ class Location {
     $fp = fopen("/home/1/l/location/location/vote/vote.txt","a+");
     fwrite($fp, $this->name . "," . $this->glat . "," . $this->glon . "," . $this->link . "\n");
     fclose($fp);
-		  
-  }
 
-  function find($name) {
-
-    setlocale(LC_ALL, 'nb_NO.UTF8');
-
-    if ($name == "name") return;
-
-    $this->name = $name;
-
-    $array = array();
-    $row = 0;
-    
-    if (($fp = fopen("/home/1/l/location/location/vote/vote.txt", "r")) != FALSE) { 
-      while (($data = fgetcsv($fp, 1000, ",")) !== FALSE) { 
-	$num = count($data); 
-	// echo "<p>$num fields in line $row: <br /></p>\n"; 
-	$row++; 
-	array_push($array, $data); 
-	for ($c=0; $c < $num; $c++) { 
-	  // echo $data[$c] . "<br />\n"; 
-	} 
-      } 
-      fclose($fp); 
-    } 
-
-    $found = 0;
-    $items = 0;
-
-    $data .= "<h3>Results</h3>\n";
-
-    $data .= "<table>\n";
-    foreach ($array as $item) {
-      // print $item[0] . "<br />\n";
-      if ($item[0]==$name) {
-	$items++;
-	$found = 1;
-	$data .= "<tr><td><a href='" . $item[3] . "'>" . $item[0] . "</a></td><td><a href='/dist/?name=" . $item[0] . "&glat=" . $item[1] . "&glon=" . $item[2] . "&link=" . $item[3] . "&hash=" . sha256("" . $item[1] . "," . $item[2] . "") . "'>" . $item[1] . "," . $item[2] . "</a></td></tr>\n";
-	// "SELECT name, glat, glon FROM location WHERE name = '" . $item[0] . "';";
-      }
-    }
-    $data .= "</table>\n";
-
-    if ($found == 1) return $data;
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
     
   }
-  
-  function link($name, $glat, $glon, $link) {
+
+  function link($name, $glat, $glon, $link, $dist) {
 
     $this->name = $name;
     $this->link = $link;
     $this->glat = $glat;
     $this->glon = $glon;
+    $this->dist = $dist;
 
     if ($this->name == NULL) $this->name = "name";
     if ($this->link == NULL) $this->link = "http://location.gl/" . $this->name;
@@ -123,14 +155,20 @@ class Location {
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
 
+    if ($this->dist == NULL) $this->dist = 10000;
+
+    header('Content-Type: text/html; charset=utf-8');
+
     $this->data .= "<html>\n<head>\n<title>Location Name Service - " . $this->name . "</title>\n<meta charset='UTF-8'>\n<link rel='Stylesheet' type='text/css' href='/location.css' /><meta name='viewport' content='width=240; user-scalable=no' />\n<style>#map { width:100%; height:800px; }</style>\n";
-    $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n</head>\n<body>\n";
-    $this->data .= "<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "';</script>\n<script src='http://location.gl/location.js'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
-    $this->data .= $this->info($this->name);
-    $this->data .= $this->find($this->name);
-    $this->data .= "<h3>Annotate Location</h3>\n";
+    $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n";
+    $this->data .= "</head>\n<body>\n";
+    $this->data .= "<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; dist = '" . $this->dist . "';</script>\n<script src='http://location.gl/location.js'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
+    $this->data .= "<h3>Search Nearby Location</h3>\n";
     $this->data .= "<div id='location'></div>\n";   
     $this->data .= "<div id='errormsg'></div>\n";
+    if ($_POST['name']!=NULL) {
+      $this->data .= $this->info($this->name,$this->glat,$this->glon,$this->link,$this->dist);
+    }
     $this->data .= "<h3>Privacy Notice</h3>\n<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
     $this->data .= "</body>\n</html>\n";
 
