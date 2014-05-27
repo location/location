@@ -7,7 +7,7 @@ CREATE TABLE votement (
        glon DECIMAL(11, 8) NOT NULL,
        distance FLOAT,
        vote BIGINT
-);
+) Engine="MyISAM" DEFAULT CHARSET=utf8;
 
 CREATE TABLE location (
        id BIGINT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -28,8 +28,9 @@ CREATE TRIGGER on_vote
        AFTER INSERT ON location
        FOR EACH ROW
        	   BEGIN
-	      INSERT INTO votement (name, glat, glon) VALUES (NEW.name, NEW.glat, NEW.glon);
+	      INSERT INTO votement (name, glat, glon, distance, vote) VALUES (NEW.name, NEW.glat, NEW.glon, 0, 0);
               UPDATE votement SET distance = (6371.3929 * acos (cos ( radians(NEW.glat) ) * cos( radians( glat ) ) * cos( radians( glon ) - radians(NEW.glon) ) + sin ( radians(NEW.glat)) * sin( radians( glat )))) WHERE name = NEW.name;
+	      UPDATE votement SET vote = vote + 1 WHERE name = NEW.name;
 	   END$$
 
 INSERT INTO votement (name, glat, glon, vote) VALUES ('California', 30, -120, 1);

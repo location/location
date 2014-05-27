@@ -22,12 +22,35 @@ class Location {
   }
 
   function info() {
-    $this->data .= "<h3>Distribution</h3>\n<p><span style='background: #aaaaff'>" . $this->dist($this->name, $this->glat, $this->glon, $this->link, $this->dist) . "</span></p>";
+    // $this->data .= "<h3>Distribution</h3>\n<p><span style='background: #aaaaff'>" . $this->dist($this->name, $this->glat, $this->glon, $this->link, $this->dist) . "</span></p>";
   }
 
   function push() {
     $this->data .= "<!-- " . $this->name . " -->\n";
+    $this->data .= "</body>\n</html>\n";
     echo $this->data;
+  }
+
+  function AverageDistance($name) {
+    $this->name = $name;
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    $query = "SELECT *,SUM(distance)/COUNT(distance) AS avg FROM votement WHERE name = '" . $name . "' ORDER BY distance DESC;";
+
+    // echo $query;
+
+    $result = $this->db->query($query);
+
+    
+    while($object = mysqli_fetch_object($result)) {
+      if ($object->name != NULL) {
+	$data .= "<p>" . $object->avg . " km (" . $object->vote . " votes)</p>";
+      }
+    } 
+    
+    mysqli_close($this->db);   
+
+    return $data;
   }
 
   function dist($name, $glat, $glon, $link, $dist) {
@@ -122,7 +145,7 @@ class Location {
     $result = $this->db->query($query);
 
     while ($object = mysqli_fetch_object($result)) {
-      echo "<p>Distance to " . $object->name . " is " . $object->distance . "</p>\n";
+      // echo "<p>Distance to " . $object->name . " is " . $object->distance . "</p>\n";
     }
 
     mysqli_close($this->db);
@@ -163,14 +186,15 @@ class Location {
     $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n";
     $this->data .= "</head>\n<body>\n";
     $this->data .= "<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; dist = '" . $this->dist . "';</script>\n<script src='http://location.gl/location.js'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
-    $this->data .= "<h3>Search Nearby Location</h3>\n";
+    $this->data .= "<h3>Average Distance</h3>\n";
+    $this->data .= $this->AverageDistance($this->name);
+    $this->data .= "<h3>Vote By Location</h3>\n";
     $this->data .= "<div id='location'></div>\n";   
     $this->data .= "<div id='errormsg'></div>\n";
     if ($_POST['name']!=NULL) {
       $this->data .= $this->info($this->name,$this->glat,$this->glon,$this->link,$this->dist);
     }
     $this->data .= "<h3>Privacy Notice</h3>\n<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
-    $this->data .= "</body>\n</html>\n";
 
     return $this->data;
 
