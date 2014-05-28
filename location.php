@@ -1,9 +1,6 @@
 <?php
 
-define('DATABASE',"location");
-define('HOSTNAME',"location.mysql.domeneshop.no");
-define('PASSWORD',"LKX2tNG7");
-define('USERNAME',"location");
+require_once("location-config.php");
 
 class Location {
 
@@ -73,8 +70,12 @@ class Location {
     $hyp = sqrt($X * $X + $Y * $Y);
     $lat = atan2($Z, $hyp);
 
-    $data .= "<p>Center is at " . $lat * 180 / pi() . "," . $lon * 180 / pi() . "</p>";
-    
+    if ($lat == 0 && $lon == 0) {
+      $data .= "<p>Center is not yet calculated because there are no votes for this location.  Click on 'Vote' to enter some data.</p>";
+    } else {
+      $data .= "<p>Center is at " . $lat * 180 / pi() . "," . $lon * 180 / pi() . "</p>";
+    }
+
     mysqli_close($this->db);   
 
     return $data;
