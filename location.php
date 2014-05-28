@@ -71,9 +71,9 @@ class Location {
     $lat = atan2($Z, $hyp);
 
     if ($lat == 0 && $lon == 0) {
-      $data .= "<p>Center is not yet calculated because there are no votes for this location.  Click on 'Vote' to enter some data.</p>";
+      $data .= "<p>No midpoint/center for <b>" . $this->name . "</b>, because there are no votes for this location.  Click on 'Vote' to enter some data.</p>";
     } else {
-      $data .= "<p>Center is at " . $lat * 180 / pi() . "," . $lon * 180 / pi() . "</p>";
+      $data .= "<p>" . $lat * 180 / pi() . "," . $lon * 180 / pi() . "</p>";
     }
 
     mysqli_close($this->db);   
@@ -95,6 +95,8 @@ class Location {
     while($object = mysqli_fetch_object($result)) {
       if ($object->name != NULL) {
 	$data .= "<p>" . $object->avg . " km (" . $object->vote . " votes)</p>";
+      } else {
+	$data .= "<p>No average distance for <b>" . $this->name . "</b>, because there are no votes for this location.  Click on 'Vote' to enter some data.</p>";
       }
     } 
     
