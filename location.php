@@ -31,6 +31,55 @@ class Location {
     echo $this->data;
   }
 
+  function Midpoint($name) {
+    $this->name = $name;
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    $query = "SELECT DISTINCT * FROM location WHERE name = '" . $name . "';";
+
+    // echo $query;
+
+    $result = $this->db->query($query);
+
+    $i = 0;
+
+    $X = 0.0;
+    $Y = 0.0;
+    $Z = 0.0;
+
+    $num_coords = mysqli_num_rows($result);
+
+    while($object = mysqli_fetch_object($result)) {
+
+      $lat = $object->glat * pi()/180;
+      $lon = $object->glon * pi()/180;
+
+      $a = cos($lat) * cos($lon);
+      $b = cos($lat) * sin($lon);
+      $c = sin($lat);
+      
+      $X += $a;
+      $Y += $b;
+      $Z += $c;
+      
+      // print $X .",". $Y .",". $Z . "<br />\n";
+    }
+    
+    $X /= $num_coords;
+    $Y /= $num_coords;
+    $Z /= $num_coords;
+
+    $lon = atan2($Y, $X);
+    $hyp = sqrt($X * $X + $Y * $Y);
+    $lat = atan2($Z, $hyp);
+
+    $data .= "<p>Center is at " . $lat * 180 / pi() . "," . $lon * 180 / pi() . "</p>";
+    
+    mysqli_close($this->db);   
+
+    return $data;
+  }
+
   function AverageDistance($name) {
     $this->name = $name;
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
@@ -73,8 +122,6 @@ class Location {
     $pt2 = -180;
     $pt3 = 90;
     $pt4 = 180;
-
-    $this->db->set_charset("utf8");
 
     // echo mysqli_character_set_name ($this->db);
     
@@ -126,7 +173,6 @@ class Location {
     if ($this->dist == NULL) $this->dist = 10000;
 
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
-    $this->db->set_charset("utf8");
 
     // echo $name . $glat . $glon . $this->db->real_escape_string($link);
 
@@ -180,12 +226,12 @@ class Location {
 
     if ($this->dist == NULL) $this->dist = 10000;
 
-    header('Content-Type: text/html; charset=utf-8');
-
     $this->data .= "<html>\n<head>\n<title>Location Name Service - " . $this->name . "</title>\n<meta charset='UTF-8'>\n<link rel='Stylesheet' type='text/css' href='/location.css' /><meta name='viewport' content='width=240; user-scalable=no' />\n<style>#map { width:100%; height:800px; }</style>\n";
     $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n";
     $this->data .= "</head>\n<body>\n";
     $this->data .= "<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; dist = '" . $this->dist . "';</script>\n<script src='http://location.gl/location.js'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
+    $this->data .= "<h3>Midpoint</h3>\n";
+    $this->data .= $this->Midpoint($this->name);
     $this->data .= "<h3>Average Distance</h3>\n";
     $this->data .= $this->AverageDistance($this->name);
     $this->data .= "<h3>Vote By Location</h3>\n";
@@ -202,3 +248,4 @@ class Location {
 
 }
 ?>
+
