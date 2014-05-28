@@ -18,10 +18,6 @@ class Location {
     mb_internal_encoding("UTF-8");
   }
 
-  function info() {
-    // $this->data .= "<h3>Distribution</h3>\n<p><span style='background: #aaaaff'>" . $this->dist($this->name, $this->glat, $this->glon, $this->link, $this->dist) . "</span></p>";
-  }
-
   function push() {
     $this->data .= "<!-- " . $this->name . " -->\n";
     $this->data .= "</body>\n</html>\n";
@@ -73,7 +69,7 @@ class Location {
     if ($lat == 0 && $lon == 0) {
       $data .= "<p>No midpoint/center for <b>" . $this->name . "</b>, because there are no votes for this location.  Click on 'Vote' to enter some data.</p>";
     } else {
-      $data .= "<p>" . $lat * 180 / pi() . "," . $lon * 180 / pi() . "</p>";
+      $data .= "<p><a href='https://maps.google.com/?q=" . $lat * 180 / pi() . "," . $lon * 180 / pi() . "'>" . $lat * 180 / pi() . "," . $lon * 180 / pi() . "</a></p>";
     }
 
     mysqli_close($this->db);   
@@ -105,7 +101,7 @@ class Location {
     return $data;
   }
 
-  function dist($name, $glat, $glon, $link, $dist) {
+  function LastVoteDistance($name) {
     
     $this->name = $name;
     $this->glat = $glat;
@@ -121,21 +117,7 @@ class Location {
 
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
-    $pt1 = -90;
-    $pt2 = -180;
-    $pt3 = 90;
-    $pt4 = 180;
-
-    // echo mysqli_character_set_name ($this->db);
-    
-    $query = "SELECT DISTINCT *, (
-      6371.3929 * acos (
-      cos ( radians(" . $glat . ") )
-      * cos( radians( glat ) )
-      * cos( radians( glon ) - radians(" . $glon . ") )
-      + sin ( radians(" . $glat . ") )
-      * sin( radians( glat ) )
-    )) AS dist FROM location WHERE name = '" . $name . "' HAVING dist < " . $dist . " ORDER BY dist DESC;";
+    $query = "SELECT DISTINCT name,glat,glon,distance FROM votement WHERE name = '" . $name . "' ORDER BY distance;";
 
     echo $query;
 
@@ -145,7 +127,7 @@ class Location {
 
     while($object = mysqli_fetch_object($result)) {
 
-      $data .= "<tr><td><p><b><a href='" . $object->link . "'>" . $object->name . "</a></b> - (" . $object->dist . ",(" . $object->glat . "," . $object->glon . ")</a><br /><a href='" . $object->link . "'>" . $object->link . "</a></p>\n";
+      $data .= "<tr><td><p><b><a href='" . $object->link . "'>" . $object->name . "</a></b> @ (<a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a>) is " . $object->distance . " km away from the last vote</p>\n";
       $data .= "</td></tr>\n";
       
     } 
@@ -235,14 +217,13 @@ class Location {
     $this->data .= "<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; dist = '" . $this->dist . "';</script>\n<script src='http://location.gl/location.js'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
     $this->data .= "<h3>Midpoint</h3>\n";
     $this->data .= $this->Midpoint($this->name);
-    $this->data .= "<h3>Average Distance</h3>\n";
+    $this->data .= "<h3>Last Vote Distance</h3>\n";
+    $this->data .= $this->LastVoteDistance($this->name);
+    $this->data .= "<h3>Average Distance for Last Vote Distances</h3>\n";
     $this->data .= $this->AverageDistance($this->name);
     $this->data .= "<h3>Vote By Location</h3>\n";
     $this->data .= "<div id='location'></div>\n";   
     $this->data .= "<div id='errormsg'></div>\n";
-    if ($_POST['name']!=NULL) {
-      $this->data .= $this->info($this->name,$this->glat,$this->glon,$this->link,$this->dist);
-    }
     $this->data .= "<h3>Privacy Notice</h3>\n<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
 
     return $this->data;
