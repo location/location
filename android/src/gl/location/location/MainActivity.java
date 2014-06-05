@@ -26,7 +26,7 @@ public class MainActivity extends Activity
 		super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         Intent sendIntent = new Intent (Intent.ACTION_VIEW);
-        Uri uri = Uri.parse("http:/location.gl/Global");
+        Uri uri = Uri.parse("http:/location.gl/Location");
 		sendIntent.setData(uri);
 		startActivity(sendIntent);
     }
