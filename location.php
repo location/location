@@ -7,6 +7,8 @@ class Location {
   public $db;
 
   public $data;
+  public $info;
+
   public $link;
   public $name;
   public $glat;
@@ -25,6 +27,7 @@ class Location {
   }
 
   function Midpoint($name) {
+
     $this->name = $name;
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
@@ -67,7 +70,7 @@ class Location {
     $lat = atan2($Z, $hyp);
 
     if ($lat == 0 && $lon == 0) {
-      $data .= "<p>No midpoint/center for <b>" . $this->name . "</b>, because there are no votes for this location.  Click on 'Vote' to enter some data.</p>";
+      $data .= "<p>None</p>";
     } else {
       $data .= "<p><a href='https://maps.google.com/?q=" . $lat * 180 / pi() . "," . $lon * 180 / pi() . "'>" . $lat * 180 / pi() . "," . $lon * 180 / pi() . "</a></p>";
     }
@@ -87,12 +90,11 @@ class Location {
 
     $result = $this->db->query($query);
 
-    
     while($object = mysqli_fetch_object($result)) {
       if ($object->name != NULL) {
-	$data .= "<p>" . $object->avg . " km (" . $object->vote . " votes)</p>";
+	$data .= "<p>" . $object->avg . " km (" . $object->vote . " votes)</p>\n";
       } else {
-	$data .= "<p>No average distance for <b>" . $this->name . "</b>, because there are no votes for this location.  Click on 'Vote' to enter some data.</p>";
+	$data .= "<p>None</p>\n";
       }
     } 
     
@@ -117,23 +119,32 @@ class Location {
 
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
-    $query = "SELECT DISTINCT name,glat,glon,distance FROM votement WHERE name = '" . $name . "' ORDER BY distance;";
+    $query = "SELECT DISTINCT location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE location.name = '" . $name . "' AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY votement.distance;";
 
-    echo $query;
+    // echo $query;
 
     $result = $this->db->query($query);
 
-    $data .= "<table>\n";
+    $num_votes = mysqli_num_rows($result);
 
-    while($object = mysqli_fetch_object($result)) {
+    if ($num_votes != 0) {
 
-      $data .= "<tr><td><p><b><a href='" . $object->link . "'>" . $object->name . "</a></b> @ (<a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a>) is " . $object->distance . " km away from the last vote</p>\n";
-      $data .= "</td></tr>\n";
+      $data .= "<p>";
       
-    } 
-    
-    $data .= "</table>\n";
-    
+      while($object = mysqli_fetch_object($result)) {
+	$data .= "<b><a href='" . $object->link . "'>" . $object->link . "</a></b> @ (<a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a>) is " . $object->distance . " km away from the last vote<br />\n";
+	// print_r($object);
+      } 
+
+      
+      $data .= "</p>\n";
+
+    } else {
+
+      $data .= "<p>None</p>";
+
+    }
+
     mysqli_close($this->db);   
     
     return $data;
@@ -147,10 +158,25 @@ class Location {
     $this->link = $link;
     $this->dist = $dist;
 
-    if ($this->name == NULL) $this->name = "name";
+    $this->name = $name;
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    $query = "SELECT DISTINCT link FROM location WHERE name = '" . $name . "' ORDER by rank DESC LIMIT 1;";
+
+    // echo $query;
+
+    $result = $this->db->query($query);
+
+    while($object = mysqli_fetch_object($result)) {
+      $this->link = $object->link;
+    }
+    
+    if ($this->name == NULL) $this->name = "Home";
+    if ($this->name == "Home") $this->link = "http://location.gl/"; 
+    if ($this->link == "http://location.gl/vote/") $this->link = $object->link;
     if ($this->link == NULL) $this->link = "http://location.gl/" . $this->name;
-    if ($this->name == "name") $this->link = "http://location.gl/";
-    if ($this->link == "http://location.gl/vote/") $this->link = "http://location.gl/" . $this->name;
+
+    mysqli_close($this->db);
 
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
@@ -169,7 +195,7 @@ class Location {
 
     $result = $this->db->query($query);
 
-    $query = "SELECT DISTINCT name, distance FROM votement WHERE name = '" . $this->db->real_escape_string($name) . "';"; /* FIXME: Replace vote value '1' with autoincremental value from database */
+    $query = "SELECT DISTINCT name, distance FROM votement WHERE name = '" . $this->db->real_escape_string($name) . "';";
 
     // echo "<p>" . $query . "</p>\n";
 
@@ -189,8 +215,6 @@ class Location {
     fwrite($fp, $this->name . "," . $this->glat . "," . $this->glon . "," . $this->link . "\n");
     fclose($fp);
 
-    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
-    
   }
 
   function link($name, $glat, $glon, $link, $dist) {
@@ -200,21 +224,42 @@ class Location {
     $this->glat = $glat;
     $this->glon = $glon;
     $this->dist = $dist;
+    $this->name = $name;
 
-    if ($this->name == NULL) $this->name = "name";
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    $query = "SELECT DISTINCT link FROM location WHERE name = '" . $name . "' ORDER by rank DESC LIMIT 1;";
+
+    // echo $query;
+
+    $result = $this->db->query($query);
+
+    while($object = mysqli_fetch_object($result)) {
+      $this->link = $object->link;
+    }
+    
+    if ($this->name == NULL) $this->name = "Home";
+    if ($this->name == "Home") $this->link = "http://location.gl/"; 
+    if ($this->link == "http://location.gl/vote/") $this->link = $object->link;
     if ($this->link == NULL) $this->link = "http://location.gl/" . $this->name;
-    if ($this->name == "name") $this->link = "http://location.gl/";
-    if ($this->link == "http://location.gl/vote/") $this->link = "http://location.gl/" . $this->name;
+
+    mysqli_close($this->db);
 
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
-
     if ($this->dist == NULL) $this->dist = 10000;
 
-    $this->data .= "<html>\n<head>\n<title>Location Name Service - " . $this->name . "</title>\n<meta charset='UTF-8'>\n<link rel='Stylesheet' type='text/css' href='/location.css' /><meta name='viewport' content='width=240; user-scalable=no' />\n<style>#map { width:100%; height:800px; }</style>\n";
-    $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false'></script>\n";
+    $this->data .= '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">';
+    $this->data .= '<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">';
+
+    $this->data .= "\n<head>\n<title>Location Name Service - " . $this->name . "</title>\n";
+    $this->data .= '<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />';
+    $this->data .= "<link rel='Stylesheet' type='text/css' href='/location.css' /><meta name='viewport' content='width=240; user-scalable=no' />\n<style type='text/css'>#map { width:100%; height:800px; }</style>\n";
+    $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false' type='text/javascript'></script>\n";
     $this->data .= "</head>\n<body>\n";
-    $this->data .= "<h1>location.gl</h1>\n<script>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; dist = '" . $this->dist . "';</script>\n<script src='http://location.gl/location.js'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
+    $this->data .= $this->info;
+    $this->data .= "<h1>location.gl</h1>\n<script type='text/javascript'>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; dist = '" . $this->dist . "';</script>\n<script src='http://location.gl/location.js' type='text/javascript'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
     $this->data .= "<h3>Midpoint</h3>\n";
     $this->data .= $this->Midpoint($this->name);
     $this->data .= "<h3>Last Vote Distance</h3>\n";
