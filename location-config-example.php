@@ -1,6 +1,6 @@
 <?php
 define('DATABASE',"location");
-define('HOSTNAME',"location.mysql.domeneshop.no");
+define('HOSTNAME',"hostname");
 define('PASSWORD',"changeme");
 define('USERNAME',"location");
 ?>
