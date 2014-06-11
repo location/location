@@ -8,6 +8,7 @@ class Location {
 
   public $data;
   public $info;
+  public $news;
 
   public $link;
   public $name;
@@ -24,6 +25,13 @@ class Location {
     $this->data .= "<!-- " . $this->name . " -->\n";
     $this->data .= "</body>\n</html>\n";
     echo $this->data;
+  }
+
+  function AppearIn($name) {
+
+    $data = "<p><iframe src='http://appear.in/" . $name . "' width='400' height='400'></iframe>\n";
+
+    return $data;
   }
 
   function Midpoint($name) {
@@ -73,6 +81,60 @@ class Location {
       $data .= "<p>None</p>";
     } else {
       $data .= "<p><a href='https://maps.google.com/?q=" . $lat * 180 / pi() . "," . $lon * 180 / pi() . "'>" . $lat * 180 / pi() . "," . $lon * 180 / pi() . "</a></p>";
+    }
+
+    mysqli_close($this->db);   
+
+    return $data;
+  }
+
+  function NewsLink($name) {
+
+    $this->name = $name;
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    $query = "SELECT DISTINCT * FROM location WHERE name = '" . $name . "';";
+
+    // echo $query;
+
+    $result = $this->db->query($query);
+
+    $i = 0;
+
+    $X = 0.0;
+    $Y = 0.0;
+    $Z = 0.0;
+
+    $num_coords = mysqli_num_rows($result);
+
+    while($object = mysqli_fetch_object($result)) {
+
+      $lat = $object->glat * pi()/180;
+      $lon = $object->glon * pi()/180;
+
+      $a = cos($lat) * cos($lon);
+      $b = cos($lat) * sin($lon);
+      $c = sin($lat);
+      
+      $X += $a;
+      $Y += $b;
+      $Z += $c;
+      
+      // print $X .",". $Y .",". $Z . "<br />\n";
+    }
+    
+    $X /= $num_coords;
+    $Y /= $num_coords;
+    $Z /= $num_coords;
+
+    $lon = atan2($Y, $X);
+    $hyp = sqrt($X * $X + $Y * $Y);
+    $lat = atan2($Z, $hyp);
+
+    if ($lat == 0 && $lon == 0) {
+      $data .= "<p>None</p>";
+    } else {
+      $data .= "<a href='http://location.gl/news/?glat=" . $lat*180/pi() . "&glon=" . $lon*180/pi() . "&grad=" . $this->dist . "'>http://location.gl/news/?glat=" . $lat*180/pi() . "&glon=" . $lon*180/pi() . "&grad=" . $this->dist . "</a>";
     }
 
     mysqli_close($this->db);   
@@ -147,6 +209,42 @@ class Location {
 
     mysqli_close($this->db);   
     
+    return $data;
+  }
+
+  function news($glat, $glon, $grad) {
+    $this->glat = $glat;
+    $this->glon = $glon;
+    $this->grad = $grad;
+
+    // Locate the distance to the farthest or the nearest point for $name instead of using radius
+
+    $pt1 = $this->glat + $this->grad / ( 111.1 / cos($this->glat));
+    $pt2 = $this->glon + $this->grad / 111.1;
+    $pt3 = $this->glat - $this->grad / ( 111.1 / cos($this->glat));
+    $pt4 = $this->glon - $this->grad / 111.1;
+
+    // Verify this
+    $query="SELECT * FROM location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), ggeo);\n";
+    
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    // $query = "SELECT DISTINCT location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE location.name = '" . $name . "' AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY votement.distance;";
+
+    // List hot name items near you
+
+    $query = "SELECT DISTINCT location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), location.ggeo) AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY location.name,location.id DESC;";
+
+    // $query = "SELECT DISTINCT * FROM votement WHERE glat = '" . $name . "' ORDER by rank DESC LIMIT 1;";
+
+    // echo $query;
+
+    $result = $this->db->query($query);
+
+    while($object = mysqli_fetch_object($result)) {
+      $data .= "<table><tr><td><a href='http://location.gl/" . $object->name . "'>" . $object->name . "</a></td><td><form method=POST action='http://location.gl/vote/'><input type='hidden' name='name' value='" . $object->name . "' /><input type='hidden' name='glat' value='" . $object->glat . "' /><input type='hidden' name='glon' value='" . $object->glon . "' /><input type='hidden' name='grad' value='" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . "' /><input type='submit' name='Vote' value='Vote' /></form></td><td>" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . " km away</td><td><a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a></td></tr></table>";
+    }
+
     return $data;
   }
   
@@ -259,18 +357,22 @@ class Location {
     $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false' type='text/javascript'></script>\n";
     $this->data .= "</head>\n<body>\n";
     $this->data .= $this->info;
-    $this->data .= "<h1>location.gl</h1>\n<script type='text/javascript'>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; dist = '" . $this->dist . "';</script>\n<script src='http://location.gl/location.js' type='text/javascript'></script>\n<h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
+    $this->data .= "<h1>location.gl</h1>\n";
+    $this->data .= "<h3>Privacy Notice</h3>\n<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
+    $this->data .= "<script type='text/javascript'>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; dist = '" . $this->dist . "';</script>\n<script src='http://location.gl/location.js' type='text/javascript'></script>\n";
+    // <h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
+    $this->data .= "<div id='location'></div>\n";   
+    $this->data .= "<div id='errormsg'></div>\n";
+    $this->data .= "<h3>Video Conference</h3>\n";
+    $this->data .= $this->AppearIn($this->name);
+    $this->data .= "<h3>News</h3>\n";
+    $this->data .= $this->NewsLink($this->name);
     $this->data .= "<h3>Midpoint</h3>\n";
     $this->data .= $this->Midpoint($this->name);
     $this->data .= "<h3>Last Vote Distance</h3>\n";
     $this->data .= $this->LastVoteDistance($this->name);
     $this->data .= "<h3>Average Distance for Last Vote Distances</h3>\n";
     $this->data .= $this->AverageDistance($this->name);
-    $this->data .= "<h3>Vote By Location</h3>\n";
-    $this->data .= "<div id='location'></div>\n";   
-    $this->data .= "<div id='errormsg'></div>\n";
-    $this->data .= "<h3>Privacy Notice</h3>\n<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
-
     return $this->data;
 
   }
