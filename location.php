@@ -14,7 +14,7 @@ class Location {
   public $name;
   public $glat;
   public $glon;
-  public $dist;
+  public $grad;
 
   function __construct() {
     session_start();
@@ -134,7 +134,7 @@ class Location {
     if ($lat == 0 && $lon == 0) {
       $data .= "<p>None</p>";
     } else {
-      $data .= "<a href='http://location.gl/news/?glat=" . $lat*180/pi() . "&glon=" . $lon*180/pi() . "&grad=" . $this->dist . "'>http://location.gl/news/?glat=" . $lat*180/pi() . "&glon=" . $lon*180/pi() . "&grad=" . $this->dist . "</a>";
+      $data .= "<a href='http://location.gl/news/?glat=" . $lat*180/pi() . "&glon=" . $lon*180/pi() . "&grad=" . $this->grad . "'>http://location.gl/news/?glat=" . $lat*180/pi() . "&glon=" . $lon*180/pi() . "&grad=" . $this->grad . "</a>";
     }
 
     mysqli_close($this->db);   
@@ -171,7 +171,7 @@ class Location {
     $this->glat = $glat;
     $this->glon = $glon;
     $this->link = $link;
-    $this->dist = $dist;
+    $this->grad = $grad;
 
     /* $data .= "<html><head>\n"; */
     /* $data .= "<title>Location Name Service - " . $name . "</title>\n"; */
@@ -248,13 +248,13 @@ class Location {
     return $data;
   }
   
-  function vote($name, $glat, $glon, $link, $dist) {
+  function vote($name, $glat, $glon, $link, $grad) {
     
     $this->name = $name;
     $this->glat = $glat;
     $this->glon = $glon;
     $this->link = $link;
-    $this->dist = $dist;
+    $this->grad = $grad;
 
     $this->name = $name;
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
@@ -279,13 +279,13 @@ class Location {
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
 
-    if ($this->dist == NULL) $this->dist = 10000;
+    if ($this->grad == NULL) $this->grad = 10000;
 
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
     // echo $name . $glat . $glon . $this->db->real_escape_string($link);
 
-    /* if ($dist['California'] < 1); */ // UPDATE votement SET vote = vote + 1 WHERE name = 'California' AND id = 1;
+    /* if ($grad['California'] < 1); */ // UPDATE votement SET vote = vote + 1 WHERE name = 'California' AND id = 1;
 
     $query = "INSERT INTO location (name, glat, glon, ggeo, link, vote) VALUES ('" . $this->db->real_escape_string($name) . "', " . $this->db->real_escape_string($glat) . ", " . $this->db->real_escape_string($glon) . ", POINT(" . $this->db->real_escape_string($glat) . "," . $this->db->real_escape_string($glon) . "), '" . $this->db->real_escape_string($link) . "', 1);";
 
@@ -315,13 +315,13 @@ class Location {
 
   }
 
-  function link($name, $glat, $glon, $link, $dist) {
+  function link($name, $glat, $glon, $link, $grad) {
 
     $this->name = $name;
     $this->link = $link;
     $this->glat = $glat;
     $this->glon = $glon;
-    $this->dist = $dist;
+    $this->grad = $grad;
     $this->name = $name;
 
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
@@ -345,7 +345,7 @@ class Location {
 
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
-    if ($this->dist == NULL) $this->dist = 10000;
+    if ($this->grad == NULL) $this->grad = 10000;
 
     $this->data .= '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">';
@@ -359,7 +359,7 @@ class Location {
     $this->data .= $this->info;
     $this->data .= "<h1>location.gl</h1>\n";
     $this->data .= "<h3>Privacy Notice</h3>\n<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
-    $this->data .= "<script type='text/javascript'>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; dist = '" . $this->dist . "';</script>\n<script src='http://location.gl/location.js' type='text/javascript'></script>\n";
+    $this->data .= "<script type='text/javascript'>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; grad = '" . $this->grad . "';</script>\n<script src='http://location.gl/location.js' type='text/javascript'></script>\n";
     // <h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
     $this->data .= "<div id='location'></div>\n";   
     $this->data .= "<div id='errormsg'></div>\n";
