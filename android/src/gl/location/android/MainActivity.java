@@ -1,4 +1,4 @@
-package gl.location.location;
+package gl.location.android;
 
 import android.app.*;
 import android.os.*;
@@ -24,9 +24,9 @@ public class MainActivity extends Activity
     public void onCreate(Bundle savedInstanceState)
 	{
 		super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
-        Intent sendIntent = new Intent (Intent.ACTION_VIEW);
-        Uri uri = Uri.parse("http:/location.gl/Home");
+        	setContentView(R.layout.main);
+        	Intent sendIntent = new Intent (Intent.ACTION_VIEW);
+        	Uri uri = Uri.parse("http:/location.gl/Home");
 		sendIntent.setData(uri);
 		startActivity(sendIntent);
     }
