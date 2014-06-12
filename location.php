@@ -12,6 +12,7 @@ class Location {
 
   public $link;
   public $name;
+
   public $glat;
   public $glon;
   public $grad;
@@ -29,7 +30,7 @@ class Location {
 
   function AppearIn($name) {
 
-    $data = "<p><iframe src='http://appear.in/" . $name . "' width='400' height='400'></iframe>\n";
+    $data = "<p><iframe src='http://appear.in/" . sha256("http://location.gl/".$name) . "' width='400' height='400'></iframe>\n";
 
     return $data;
   }
@@ -241,9 +242,13 @@ class Location {
 
     $result = $this->db->query($query);
 
+    $data .= "<table>\n";
+
     while($object = mysqli_fetch_object($result)) {
-      $data .= "<table><tr><td><a href='http://location.gl/" . $object->name . "'>" . $object->name . "</a></td><td><form method=POST action='http://location.gl/vote/'><input type='hidden' name='name' value='" . $object->name . "' /><input type='hidden' name='glat' value='" . $object->glat . "' /><input type='hidden' name='glon' value='" . $object->glon . "' /><input type='hidden' name='grad' value='" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . "' /><input type='submit' name='Vote' value='Vote' /></form></td><td>" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . " km away</td><td><a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a></td></tr></table>";
+      $data .= "<tr><td><a href='http://location.gl/" . $object->name . "'>" . $object->name . "</a></td><td><form method=POST action='http://location.gl/vote/'><input type='hidden' name='name' value='" . $object->name . "' /><input type='hidden' name='glat' value='" . $object->glat . "' /><input type='hidden' name='glon' value='" . $object->glon . "' /><input type='hidden' name='grad' value='" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . "' /><input type='submit' name='Vote' value='Vote' /></form></td><td>" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . " km away</td><td><a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a></td></tr>";
     }
+
+    $data .= "</table>\n";
 
     return $data;
   }
@@ -259,7 +264,7 @@ class Location {
     $this->name = $name;
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
-    $query = "SELECT DISTINCT link FROM location WHERE name = '" . $name . "' ORDER by rank DESC LIMIT 1;";
+    $query = "SELECT DISTINCT link FROM location WHERE name = '" . $name . "' ORDER by vote DESC LIMIT 1;";
 
     // echo $query;
 
@@ -279,7 +284,7 @@ class Location {
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
 
-    if ($this->grad == NULL) $this->grad = 10000;
+    if ($this->grad == NULL) $this->grad = 100000;
 
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
@@ -345,7 +350,7 @@ class Location {
 
     if ($this->glat == NULL) $this->glat = 0;
     if ($this->glon == NULL) $this->glon = 0;
-    if ($this->grad == NULL) $this->grad = 10000;
+    if ($this->grad == NULL) $this->grad = 100000;
 
     $this->data .= '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">';

@@ -33,14 +33,3 @@ CREATE TRIGGER on_vote
 	      UPDATE votement SET vote = vote + 1 WHERE name = NEW.name;
 	   END$$
 
-INSERT INTO votement (name, glat, glon, vote) VALUES ('California', 30, -120, 1);
-INSERT INTO location (name, glat, glon, ggeo, link, vote) VALUES ('California', 32.35201083799544, -12.9352903165217, POINT(37.35201083799544,-121.9352903165217), 'http://www.tesla.com/', 1);
-
-
-SELECT * from votement;
-SELECT * from location;
-
-INSERT INTO location (name, glat, glon, ggeo, link, vote) VALUES ('California', 35.35201083799544, -179.9352903165217, POINT(37.35201083799544,-121.9352903165217), 'http://www.tesla.com/', 1);
-
-SELECT * from votement;
-SELECT * from location;
