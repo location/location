@@ -21,7 +21,7 @@ function displayPosition(pos){
     var glon = pos.coords.longitude;
     var thediv = document.getElementById("location");
   
-    thediv.innerHTML = "<form method='POST' action='http://location.gl/vote/'><table><tr><th>Name</th><td><input type='text' name='name' value='" + name + "' /></td></tr><tr><th>Link</th><td><input type='text' name='link' value='" + link + "' /><span style='font-size: 9px'>Hint: Link to <a href='http://location.gl/" + name + "'>http://location.gl/" + name + "</a></span></td></tr><tr><th>GLat</th><td><input type='text' name='glat' value='" + glat + "' /></td></tr><tr><th>GLon</th><td><input type='text' name='glon' value='" + glon + "' /></td></tr><tr><th>GRad</th><td><input type='text' name='grad' value='" + grad + "' /></td></tr><tr><td colspan='2'><input type='submit' value='Vote' /></td></tr></table></form>\n";
+    thediv.innerHTML = "<form method='POST' action='http://location.gl/vote/'><table><tr><th>Name</th><td><input type='text' name='name' value='" + name + "' /></td></tr><tr><th>Link</th><td><input type='text' name='link' value='" + link + "' /></td></tr><tr><th>GLat</th><td><input type='text' name='glat' value='" + glat + "' /></td></tr><tr><th>GLon</th><td><input type='text' name='glon' value='" + glon + "' /></td></tr><tr><th>GRad</th><td><input type='text' name='grad' value='" + grad + "' /></td></tr><tr><td colspan='2'><input type='submit' value='Vote' /></td></tr></table></form>\n";
     
 }
 

@@ -18,8 +18,8 @@ class Location {
   public $grad;
 
   function __construct() {
-    session_start();
-    mb_internal_encoding("UTF-8");
+    /* session_start(); */
+    // mb_internal_encoding("UTF-8");
   }
 
   function push() {
@@ -40,7 +40,7 @@ class Location {
     $this->name = $name;
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
-    $query = "SELECT DISTINCT * FROM location WHERE name = '" . $name . "';";
+    $query = "SELECT DISTINCT * FROM location WHERE name = '" . $this->db->real_escape_string($name) . "';";
 
     // echo $query;
 
@@ -94,7 +94,7 @@ class Location {
     $this->name = $name;
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
-    $query = "SELECT DISTINCT * FROM location WHERE name = '" . $name . "';";
+    $query = "SELECT DISTINCT * FROM location WHERE name = '" . $this->db->real_escape_string($name) . "';";
 
     // echo $query;
 
@@ -147,7 +147,7 @@ class Location {
     $this->name = $name;
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
-    $query = "SELECT *,SUM(distance)/COUNT(distance) AS avg FROM votement WHERE name = '" . $name . "' ORDER BY distance DESC;";
+    $query = "SELECT *,SUM(distance)/COUNT(distance) AS avg FROM votement WHERE name = '" . $this->db->real_escape_string($name) . "' ORDER BY distance DESC;";
 
     // echo $query;
 
@@ -155,7 +155,7 @@ class Location {
 
     while($object = mysqli_fetch_object($result)) {
       if ($object->name != NULL) {
-	$data .= "<p>" . $object->avg . " km (" . $object->vote . " votes)</p>\n";
+	$data .= "<p>" . $object->avg . " km away (" . $object->vote . " votes)</p>\n";
       } else {
 	$data .= "<p>None</p>\n";
       }
@@ -182,7 +182,7 @@ class Location {
 
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
-    $query = "SELECT DISTINCT location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE location.name = '" . $name . "' AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY votement.distance;";
+    $query = "SELECT DISTINCT location.id,location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE location.name = '" . $this->db->real_escape_string($name) . "' AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY votement.distance;";
 
     // echo $query;
 
@@ -192,16 +192,12 @@ class Location {
 
     if ($num_votes != 0) {
 
-      $data .= "<p>";
-      
       while($object = mysqli_fetch_object($result)) {
-	$data .= "<b><a href='" . $object->link . "'>" . $object->link . "</a></b> @ (<a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a>) is " . $object->distance . " km away from the last vote<br />\n";
+	$data .= "<b>" . $object->name . " {" . $object->id . "} is " . $object->distance . " km away from last vote<br />\n";
 	// print_r($object);
       } 
 
       
-      $data .= "</p>\n";
-
     } else {
 
       $data .= "<p>None</p>";
@@ -234,7 +230,7 @@ class Location {
 
     // List hot name items near you
 
-    $query = "SELECT DISTINCT location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), location.ggeo) AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY location.name,location.id DESC;";
+    $query = "SELECT DISTINCT location.id,location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), location.ggeo) AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY location.id DESC;";
 
     // $query = "SELECT DISTINCT * FROM votement WHERE glat = '" . $name . "' ORDER by rank DESC LIMIT 1;";
 
@@ -242,17 +238,40 @@ class Location {
 
     $result = $this->db->query($query);
 
-    $data .= "<table>\n";
+    $i = 0;
 
     while($object = mysqli_fetch_object($result)) {
-      $data .= "<tr><td><a href='http://location.gl/" . $object->name . "'>" . $object->name . "</a></td><td><form method=POST action='http://location.gl/vote/'><input type='hidden' name='name' value='" . $object->name . "' /><input type='hidden' name='glat' value='" . $object->glat . "' /><input type='hidden' name='glon' value='" . $object->glon . "' /><input type='hidden' name='grad' value='" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . "' /><input type='submit' name='Vote' value='Vote' /></form></td><td>" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . " km away</td><td><a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a></td></tr>";
+      if ($i++%2 == 0) {
+	$data .= "<table border='1' style='background: #cccccc' width='100%'>";
+      } else {
+	$data .= "<table border='1' style='background: #eeeee' width='100%'>";
+      }
+      $data .= "<tr><th width='50'>Name {#}</th><td><a href='http://location.gl/" . $object->name . "'>" . $object->name . "</a> {" . $object->id . "}</td></tr><tr><th>Link</th><td><a href='" . $object->link . "'>" . $object->link . "</a></td></tr><!-- tr form method=POST action='http://location.gl/vote/'><input type='hidden' name='name' value='" . $object->name . "' <input type='hidden' name='glat' value='" . $object->glat . "' /><input type='hidden' name='glon' value='" . $object->glon . "' /><input type='hidden' name='grad' value='" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . "' /><input type='submit' name='Vote' value='Vote' /> /form --></td></tr><tr><!-- <th>Home/Away</th><td>" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . " km away</td></tr>--><tr><th>GMap</th><td><a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a></td></tr><tr><th>Midpoint</th><td>" . $this->Midpoint($object->name) . "</td></tr><tr><th>Distances</th><td>" . $this->LastVoteDistance($object->name) . "</td></tr><tr><th>Video</th><td><a href='http://appear.in/" . sha256($object->name) . "'>http://appear.in/" . sha256($object->name) . "</a></td></tr><tr><th>JSON</th><td>" . $this->json($object->name, $object->id) . "</td></tr></table>";
     }
-
-    $data .= "</table>\n";
 
     return $data;
   }
   
+  function json($name, $id) {
+
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    // $query = "SELECT DISTINCT location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE location.name = '" . $name . "' AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY votement.distance;";
+
+    // List hot name items near you
+
+    $query = "SELECT name,link,glat,glon FROM location WHERE name = '" . $this->db->real_escape_string($name) . "' AND id = '" . $this->db->real_escape_string($id) . "';";
+
+    $result = $this->db->query($query);
+
+    while($obj = mysql_fetch_object($result)) {
+      $arr[] = $obj;      
+    }
+
+    return json_encode($obj);
+   
+  }
+
   function vote($name, $glat, $glon, $link, $grad) {
     
     $this->name = $name;
@@ -264,7 +283,7 @@ class Location {
     $this->name = $name;
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
-    $query = "SELECT DISTINCT link FROM location WHERE name = '" . $name . "' ORDER by vote DESC LIMIT 1;";
+    $query = "SELECT DISTINCT link FROM location WHERE name = '" . $this->db->real_escape_string($name) . "' ORDER by vote DESC LIMIT 1;";
 
     // echo $query;
 
@@ -384,4 +403,3 @@ class Location {
 
 }
 ?>
-
