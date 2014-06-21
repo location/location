@@ -30,7 +30,8 @@ class Location {
 
   function AppearIn($name) {
 
-    $data = "<p><iframe src='http://appear.in/" . sha256("http://location.gl/".$name) . "' width='400' height='400'></iframe>\n";
+    $s256 = sha256("http://location.gl/".$name);
+    $data = "<p><a href='http://appear.in/" . $s256 . "'>http://appear.in/" . $s256 . "</a></p>\n";
 
     return $data;
   }
@@ -230,7 +231,7 @@ class Location {
 
     // List hot name items near you
 
-    $query = "SELECT DISTINCT location.id,location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), location.ggeo) AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY location.id DESC;";
+    $query = "SELECT DISTINCT location.id,location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE MBRContains(GeomFromText('LineString(".$this->db->real_escape_string($pt1)." ".$this->db->real_escape_string($pt2).", ".$this->db->real_escape_string($pt3)." ".$this->db->real_escape_string($pt4).")'), location.ggeo) AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY location.id DESC;";
 
     // $query = "SELECT DISTINCT * FROM votement WHERE glat = '" . $name . "' ORDER by rank DESC LIMIT 1;";
 
@@ -246,13 +247,13 @@ class Location {
       } else {
 	$data .= "<table border='1' style='background: #eeeee' width='100%'>";
       }
-      $data .= "<tr><th width='50'>Name {#}</th><td><a href='http://location.gl/" . $object->name . "'>" . $object->name . "</a> {" . $object->id . "}</td></tr><tr><th>Link</th><td><a href='" . $object->link . "'>" . $object->link . "</a></td></tr><!-- tr form method=POST action='http://location.gl/vote/'><input type='hidden' name='name' value='" . $object->name . "' <input type='hidden' name='glat' value='" . $object->glat . "' /><input type='hidden' name='glon' value='" . $object->glon . "' /><input type='hidden' name='grad' value='" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . "' /><input type='submit' name='Vote' value='Vote' /> /form --></td></tr><tr><!-- <th>Home/Away</th><td>" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . " km away</td></tr>--><tr><th>GMap</th><td><a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a></td></tr><tr><th>Midpoint</th><td>" . $this->Midpoint($object->name) . "</td></tr><tr><th>Distances</th><td>" . $this->LastVoteDistance($object->name) . "</td></tr><tr><th>Video</th><td><a href='http://appear.in/" . sha256($object->name) . "'>http://appear.in/" . sha256($object->name) . "</a></td></tr><tr><th>JSON</th><td>" . $this->json($object->name, $object->id) . "</td></tr></table>";
+      $data .= "<tr><th width='50'>Name {#}</th><td><a href='http://location.gl/" . $object->name . "'>" . $object->name . "</a> {" . $object->id . "}</td></tr><tr><th>Link</th><td><a href='" . $object->link . "'>" . $object->link . "</a></td></tr><!-- tr form method=POST action='http://location.gl/vote/'><input type='hidden' name='name' value='" . $object->name . "' <input type='hidden' name='glat' value='" . $object->glat . "' /><input type='hidden' name='glon' value='" . $object->glon . "' /><input type='hidden' name='grad' value='" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . "' /><input type='submit' name='Vote' value='Vote' /> /form --></td></tr><tr><!-- <th>Home/Away</th><td>" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . " km away</td></tr>--><tr><th>GMap</th><td><a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a></td></tr><tr><th>Midpoint</th><td>" . $this->Midpoint($object->name) . "</td></tr><tr><th>Distances</th><td>" . $this->LastVoteDistance($object->name) . "</td></tr><tr><th>Video</th><td><a href='http://appear.in/" . sha256($object->name) . "'>http://appear.in/" . sha256($object->name) . "</a></td></tr><tr><th>JSON</th><td>" . $this->json($object->name) . "</td></tr></table>";
     }
 
     return $data;
   }
   
-  function json($name, $id) {
+  function json($name) {
 
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
@@ -260,15 +261,19 @@ class Location {
 
     // List hot name items near you
 
-    $query = "SELECT name,link,glat,glon FROM location WHERE name = '" . $this->db->real_escape_string($name) . "' AND id = '" . $this->db->real_escape_string($id) . "';";
+    $query = "SELECT DISTINCT location.id,location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE MBRContains(GeomFromText('LineString(".$this->db->real_escape_string($pt1)." ".$this->db->real_escape_string($pt2).", ".$this->db->real_escape_string($pt3)." ".$this->db->real_escape_string($pt4).")'), location.ggeo) AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY location.id DESC;";
 
+    $data = array();
     $result = $this->db->query($query);
 
-    while($obj = mysql_fetch_object($result)) {
-      $arr[] = $obj;      
-    }
+    $data = array();
+    while ( $row = mysql_fetch_array($result) )
+      {
+        $data[$row['id']] = array( "id" => $row['id'] ,"name" => $row['name']);
+      }
 
-    return json_encode($obj);
+    // print_r($data);
+    return json_encode($data);
    
   }
 
@@ -350,7 +355,7 @@ class Location {
 
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
-    $query = "SELECT DISTINCT link FROM location WHERE name = '" . $name . "' ORDER by rank DESC LIMIT 1;";
+    $query = "SELECT DISTINCT link FROM location WHERE name = '" . $this->db->real_escape_string($name) . "' ORDER by rank DESC LIMIT 1;";
 
     // echo $query;
 
@@ -382,13 +387,11 @@ class Location {
     $this->data .= "</head>\n<body>\n";
     $this->data .= $this->info;
     $this->data .= "<h1>location.gl</h1>\n";
-    $this->data .= "<h3>Privacy Notice</h3>\n<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
+    $this->data .= "<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
     $this->data .= "<script type='text/javascript'>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; grad = '" . $this->grad . "';</script>\n<script src='http://location.gl/location.js' type='text/javascript'></script>\n";
     // <h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
     $this->data .= "<div id='location'></div>\n";   
     $this->data .= "<div id='errormsg'></div>\n";
-    $this->data .= "<h3>Video Conference</h3>\n";
-    $this->data .= $this->AppearIn($this->name);
     $this->data .= "<h3>News</h3>\n";
     $this->data .= $this->NewsLink($this->name);
     $this->data .= "<h3>Midpoint</h3>\n";
@@ -397,6 +400,9 @@ class Location {
     $this->data .= $this->LastVoteDistance($this->name);
     $this->data .= "<h3>Average Distance for Last Vote Distances</h3>\n";
     $this->data .= $this->AverageDistance($this->name);
+    $this->data .= "<h3>Video</h3>\n";
+    $this->data .= $this->AppearIn($this->name);
+
     return $this->data;
 
   }
