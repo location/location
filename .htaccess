@@ -1,2 +1,5 @@
 RewriteEngine On
-RewriteRule ^([\sa-åA-Å0-9]+)$ /index.php?name=$1 [L]
+RewriteRule ^([a-åA-Å0-9]+)$ /index.php?name=$1 [L]
+RewriteRule ^([a-åA-Å0-9]+)\.push$ /push/?name=$1 [L]
+RewriteRule ^([a-åA-Å0-9]+)\.pull$ /pull/?name=$1 [L]
+
