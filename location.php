@@ -231,7 +231,7 @@ class Location {
 
     // List hot name items near you
 
-    $query = "SELECT DISTINCT location.id,location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE MBRContains(GeomFromText('LineString(".$this->db->real_escape_string($pt1)." ".$this->db->real_escape_string($pt2).", ".$this->db->real_escape_string($pt3)." ".$this->db->real_escape_string($pt4).")'), location.ggeo) AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY location.id DESC;";
+    $query = "SELECT DISTINCT location.id,location.name,location.glat,location.glon,votement.distance,location.link,location.time FROM votement,location WHERE MBRContains(GeomFromText('LineString(".$this->db->real_escape_string($pt1)." ".$this->db->real_escape_string($pt2).", ".$this->db->real_escape_string($pt3)." ".$this->db->real_escape_string($pt4).")'), location.ggeo) AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY location.id DESC;";
 
     // $query = "SELECT DISTINCT * FROM votement WHERE glat = '" . $name . "' ORDER by rank DESC LIMIT 1;";
 
@@ -247,7 +247,11 @@ class Location {
       } else {
 	$data .= "<table border='1' style='background: #eeeee' width='100%'>";
       }
-      $data .= "<tr><th width='50'>Name {#}</th><td><a href='http://location.gl/" . $object->name . "'>" . $object->name . "</a> {" . $object->id . "}</td></tr><tr><th>Link</th><td><a href='" . $object->link . "'>" . $object->link . "</a></td></tr><!-- tr form method=POST action='http://location.gl/vote/'><input type='hidden' name='name' value='" . $object->name . "' <input type='hidden' name='glat' value='" . $object->glat . "' /><input type='hidden' name='glon' value='" . $object->glon . "' /><input type='hidden' name='grad' value='" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . "' /><input type='submit' name='Vote' value='Vote' /> /form --></td></tr><tr><!-- <th>Home/Away</th><td>" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . " km away</td></tr>--><tr><th>GMap</th><td><a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a></td></tr><tr><th>Midpoint</th><td>" . $this->Midpoint($object->name) . "</td></tr><tr><th>Distances</th><td>" . $this->LastVoteDistance($object->name) . "</td></tr><tr><th>Video</th><td><a href='http://appear.in/" . sha256($object->name) . "'>http://appear.in/" . sha256($object->name) . "</a></td></tr><tr><th>JSON</th><td>" . $this->json($object->name) . "</td></tr></table>";
+      $data .= "<tr><th width='50'>Name {#}</th><td><a href='http://location.gl/" . $object->name . "'>" . $object->name . "</a> {" . $object->id . "}</td></tr><tr><th>Link</th><td><a href='" . $object->link . "'>" . $object->link . "</a></td></tr><!-- tr form method=POST action='http://location.gl/vote/'><input type='hidden' name='name' value='" . $object->name . "' <input type='hidden' name='glat' value='" . $object->glat . "' /><input type='hidden' name='glon' value='" . $object->glon . "' /><input type='hidden' name='grad' value='" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . "' /><input type='submit' name='Vote' value='Vote' /> /form --></td></tr><tr><!-- <th>Home/Away</th><td>" . ((6371.3929 * acos (cos ( deg2rad($object->glat) ) * cos( deg2rad( $this->glat ) ) * cos( deg2rad( $this->glon ) - deg2rad($object->glon) ) + sin ( deg2rad($object->glat)) * sin( deg2rad( $this->glat ))))) . " km away</td></tr>--><tr><th>GMap</th><td><a href='https://maps.google.com/?q=" . $object->glat . "," . $object->glon . "'>" . $object->glat . "," . $object->glon . "</a></td></tr><tr><th>Midpoint</th><td>" . $this->Midpoint($object->name) . "</td></tr><tr><th>Distances</th><td>" . $this->LastVoteDistance($object->name) . "</td></tr><tr><th>Video</th><td><a href='http://appear.in/" . sha256($object->name) . "'>http://appear.in/" . sha256($object->name) . "</a></td></tr><tr><th>Time</th><td>" . $object->time . "</td></tr></table>";
+    }
+
+    if ($i==0) {
+      print "<p>No news is good news.</p><p>Usage: Add hyperlink to http://location.gl/SomeName or search below.<form method='GET' action='http://location.gl/'><input type='text' name='name' value='' /><input type='submit' value='Search' /></form></p><p>Then click Vote.</p>";
     }
 
     return $data;
@@ -316,7 +320,7 @@ class Location {
 
     /* if ($grad['California'] < 1); */ // UPDATE votement SET vote = vote + 1 WHERE name = 'California' AND id = 1;
 
-    $query = "INSERT INTO location (name, glat, glon, ggeo, link, vote) VALUES ('" . $this->db->real_escape_string($name) . "', " . $this->db->real_escape_string($glat) . ", " . $this->db->real_escape_string($glon) . ", POINT(" . $this->db->real_escape_string($glat) . "," . $this->db->real_escape_string($glon) . "), '" . $this->db->real_escape_string($link) . "', 1);";
+    $query = "INSERT INTO location (name, glat, glon, ggeo, link, vote, time) VALUES ('" . $this->db->real_escape_string($name) . "', " . $this->db->real_escape_string($glat) . ", " . $this->db->real_escape_string($glon) . ", POINT(" . $this->db->real_escape_string($glat) . "," . $this->db->real_escape_string($glon) . "), '" . $this->db->real_escape_string($link) . "', 1, NOW());";
 
     // echo "<p>" . $query . "</p>\n";
 
@@ -335,11 +339,11 @@ class Location {
     mysqli_close($this->db);
 
     $fp = fopen("/home/1/l/location/location/vote/data.sql","a+");
-    fwrite($fp, "INSERT INTO location (name, glat, glon, ggeo, link) VALUES ('" . $this->name . "', " . $this->glat . ", " . $this->glon . ", POINT(" . $this->glat . "," . $this->glon . "), '" . $this->link . "');\n");
+    fwrite($fp, "INSERT INTO location (name, glat, glon, ggeo, link, time) VALUES ('" . $this->name . "', " . $this->glat . ", " . $this->glon . ", POINT(" . $this->glat . "," . $this->glon . "), '" . $this->link . "',NOW());\n");
     fclose($fp);
     
     $fp = fopen("/home/1/l/location/location/vote/vote.txt","a+");
-    fwrite($fp, $this->name . "," . $this->glat . "," . $this->glon . "," . $this->link . "\n");
+    fwrite($fp, $this->name . "," . $this->glat . "," . $this->glon . "," . $this->link . "," . $this->time . "\n");
     fclose($fp);
 
   }

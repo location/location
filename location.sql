@@ -19,7 +19,8 @@ CREATE TABLE location (
        SPATIAL INDEX(ggeo),
        link TEXT,
        vote BIGINT REFERENCES votement(vote),
-       distance DECIMAL(10, 8)
+       distance DECIMAL(10, 8),
+       time TIMESTAMP
 ) Engine="MyISAM" DEFAULT CHARSET=utf8;
 
 DELIMITER $$
