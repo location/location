@@ -23,6 +23,7 @@ class Location {
   }
 
   function send() {
+    $this->data .= "<h3>Source</h3>\n<a href='https://github.com/location/" . __CLASS__ . "'>https://github.com/location/" . __CLASS__ . "</a>\n";
     $this->data .= "<!-- " . $this->name . " -->\n";
     $this->data .= "</body>\n</html>\n";
     echo $this->data; 
@@ -386,7 +387,7 @@ class Location {
     return "<location name='Tag1' link='http://newonflix.com/article1.html' glat='60' glon='10' grad='100'><a href='http://location.gl/Tag1'>Tag1</a></location><location name='Tag2' link='http://newonflix.com/article2.html' glat='60' glon='10' grad='100'><a href='http://location.gl/Tag2'>Tag2</a></location><location name='Tag3' link='http://newonflix.com/article3.html' glat='60' glon='10' grad='100'><a href='http://location.gl/Tag3'>Tag3</a></location>";
   }
 
-  function data($name, $link) {
+  function tags($name, $glat, $glon, $link, $grad) {
     // check if ($name, $link) is in cache.
     $cached = $this->cached($name, $glat, $glon, $link, $grad);
     if ($cached == PULLNAME) {
@@ -429,8 +430,6 @@ class Location {
     if ($this->glon == NULL) $this->glon = 0;
     if ($this->grad == NULL) $this->grad = 100000;
 
-    $this->data($this->name, $this->link);
-    
     $this->data .= '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">';
     $this->data .= '<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">';
@@ -457,7 +456,8 @@ class Location {
     $this->data .= $this->AverageDistance($this->name);
     $this->data .= "<h3>Video</h3>\n";
     $this->data .= $this->AppearIn($this->name);
-
+    $this->data .= "<h3>Tags</h3>\n";
+    $this->data .= $this->tags($this->name, $this->glat, $this->glon, $this->link, $this->grad);
     return $this->data;
 
   }
