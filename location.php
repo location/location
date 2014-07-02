@@ -22,10 +22,10 @@ class Location {
     // mb_internal_encoding("UTF-8");
   }
 
-  function push() {
+  function send() {
     $this->data .= "<!-- " . $this->name . " -->\n";
     $this->data .= "</body>\n</html>\n";
-    echo $this->data;
+    echo $this->data; 
   }
 
   function AppearIn($name) {
@@ -348,6 +348,55 @@ class Location {
 
   }
 
+  function cached($name, $glat, $glon, $link, $grad) {
+    // Check if ($name,$glat,$glon,$link,$grad) is in cache.  If true:
+    // return PULLNAME;
+    // If false,
+    // return PUSHNAME;
+
+    return PUSHNAME;
+  }
+
+  function pull($name, $glat, $glon, $link, $grad) {
+    // Location Tags already indexed for $link, pull from database table locationtags for $name, $glat, $glon, $link, $grad
+    return "<location link='http://newonflix.com/article1.html' glat='60' glon='10' grad='100'>Tag1</location><location link='http://newonflix.com/article2.html' glat='60' glon='10' grad='100'>Tag2</location link='http://newonflix.com/article3.html' glat='60' glon='10' grad='100'>Tag3</location>";
+  }
+  
+  function push($name, $glat, $glon, $link, $grad) {
+    // Fetch HTML on http://newonflix.com/article1.html ($link) using curl
+
+    // Look for all occurences of '$name' in HTML on http://newonflix.com/article1.html ($link) in the pattern "<a href='http://location.gl/$name'>$name</a>"  /* REGEXP? */
+
+    // Return occurences of '$name'
+
+    // Return list of all Location Tags such as <location>Oslo</location>, <location>Lillehammer</location> tags on http://newonflix.com/article.html
+
+    // Store Location Tags in 2-gram location word table
+
+    // CREATE TABLE locationtags (
+    //   key TEXT,  /* Tag1 DUPLICATE */ /* Tag1 */   /* Tag1 */   /* Tag2 DUPLICATE */   /* Tag2 DUPLICATE */    /* Tag2 */ /* Tag3 DUPLICATE */    /* Tag3 DUPLICATE */  /* Tag3 DUPLICATE */
+    //   name TEXT, /* Tag1 */           /* Tag2 */   /* Tag3 */   /* Tag1 */             /* Tag2 */              /* Tag3 */  /* Tag1 */             /* Tag2 */            /* Tag3 */
+    //   glat FLOAT,
+    //   glon FLOAT,
+    //   link TEXT,   /* http://newonflix.com/article.html */
+    //   grad FLOAT
+    // );
+
+    // Location Tags already indexed for $link, pull from database table locationtags for $name, $glat, $glon, $link, $grad
+    return "<location name='Tag1' link='http://newonflix.com/article1.html' glat='60' glon='10' grad='100'><a href='http://location.gl/Tag1'>Tag1</a></location><location name='Tag2' link='http://newonflix.com/article2.html' glat='60' glon='10' grad='100'><a href='http://location.gl/Tag2'>Tag2</a></location><location name='Tag3' link='http://newonflix.com/article3.html' glat='60' glon='10' grad='100'><a href='http://location.gl/Tag3'>Tag3</a></location>";
+  }
+
+  function data($name, $link) {
+    // check if ($name, $link) is in cache.
+    $cached = $this->cached($name, $glat, $glon, $link, $grad);
+    if ($cached == PULLNAME) {
+      $this->data .= $this->pull($name, $glat, $glon, $link, $grad);
+    }
+    if ($cached == PUSHNAME) {
+      $this->data .= $this->push($name, $glat, $glon, $link, $grad);
+    }
+  }
+
   function link($name, $glat, $glon, $link, $grad) {
 
     $this->name = $name;
@@ -380,6 +429,8 @@ class Location {
     if ($this->glon == NULL) $this->glon = 0;
     if ($this->grad == NULL) $this->grad = 100000;
 
+    $this->data($this->name, $this->link);
+    
     $this->data .= '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">';
     $this->data .= '<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">';
