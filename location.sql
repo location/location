@@ -1,6 +1,3 @@
-DROP TABLE votement;
-DROP TABLE location;
-
 CREATE TABLE tags (
        name TEXT NOT NULL,
        tags TEXT NOT NULL,
