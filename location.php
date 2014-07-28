@@ -168,7 +168,7 @@ class Location {
     return $data;
   }
 
-  function LastVoteDistance($name) {
+  function LastVoteDistance($name,$glat,$glon,$link,$grad) {
     
     $this->name = $name;
     $this->glat = $glat;
@@ -184,7 +184,7 @@ class Location {
 
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
-    $query = "SELECT DISTINCT location.id,location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE location.name = '" . $this->db->real_escape_string($name) . "' AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY votement.distance;";
+    $query = "SELECT DISTINCT location.id,location.name,location.vote,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE location.name = '" . $this->db->real_escape_string($name) . "' AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY votement.distance;";
 
     // echo $query;
 
@@ -195,7 +195,7 @@ class Location {
     if ($num_votes != 0) {
 
       while($object = mysqli_fetch_object($result)) {
-	$data .= "<b>" . $object->name . " {" . $object->id . "} is " . $object->distance . " km away from last vote<br />\n";
+	$data .= "<b>{" . $object->id . "}, <a href='" . $object->link . "'>" . $object->link . "</a>, (" . $object->glat . "," . $object->glon . "), " . $object->distance . " km away, " . $object->vote . " votes<br />\n";
 	// print_r($object);
       } 
 
@@ -398,6 +398,28 @@ class Location {
     }
   }
 
+  /* function route($name) { */
+  /*   $data = $this->location("OSL"); */
+  /*   $data .= $this->location("DY7001"); */
+  /*   $data .= $this->location("JFK"); */
+  /*   $data .= $this->location("NYC"); */
+  /*   $data .= $this->location("Westin"); */
+  /*   $data .= $this->location("EmpireStateBuilding"); */
+  /*   $data .= $this->location("RoseCenterforEarthandSpace"); */
+  /*   $data .= $this->location("AMNH"); */
+  /*   $data .= $this->location("PalmNYCToo"); */
+  /*   $data .= $this->location("NYP"); */
+  /*   $data .= $this->location("BOS"); */
+  /*   $data .= $this->location("KendallHotel"); */
+  /*   $data .= $this->location("DY7002"); */
+  /*   return $data; */
+  /* } */
+
+  function location($name) {
+    $data = "<a href='http://location.gl/" . $name . "'>" . $name . "</a>\n";
+    return $data;
+  }
+
   function link($name, $glat, $glon, $link, $grad) {
 
     $this->name = $name;
@@ -440,12 +462,14 @@ class Location {
     $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false' type='text/javascript'></script>\n";
     $this->data .= "</head>\n<body>\n";
     $this->data .= $this->info;
-    $this->data .= "<h1>location.gl</h1>\n";
+    $this->data .= "<h1>location.gl/" . $this->name . "</h1>\n";
     $this->data .= "<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
     $this->data .= "<script type='text/javascript'>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; grad = '" . $this->grad . "';</script>\n<script src='http://location.gl/location.js' type='text/javascript'></script>\n";
     // <h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
     $this->data .= "<div id='location'></div>\n";   
     $this->data .= "<div id='errormsg'></div>\n";
+    /* $this->data .= "<h3>Route</h3>\n"; */
+    /* $this->data .= $this->route($this->name); */
     $this->data .= "<h3>News</h3>\n";
     $this->data .= $this->NewsLink($this->name);
     $this->data .= "<h3>Midpoint</h3>\n";
