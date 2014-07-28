@@ -1,0 +1,5 @@
+location:location.c
+	$(CC) location.c -o location
+
+install:
+	install location /usr/bin/location
