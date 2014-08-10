@@ -462,7 +462,11 @@ class Location {
     $this->data .= "<script src='http://maps.google.com/maps/api/js?sensor=false' type='text/javascript'></script>\n";
     $this->data .= "</head>\n<body>\n";
     $this->data .= $this->info;
+<<<<<<< HEAD
+    $this->data .= "<h1>location.gl</h1>\n";
+=======
     $this->data .= "<h1>location.gl/" . $this->name . "</h1>\n";
+>>>>>>> branch 'master' of https://github.com/location/location.git
     $this->data .= "<p><span style='background: #cccc00;'><i>location.gl stores geolocation data after you have clicked on \"Vote\", so don't click \"Vote\" if you don't want location.gl to store your location.</i></span></p>\n";
     $this->data .= "<script type='text/javascript'>link = '" . $this->link . "'; name = '" . $this->name ."'; glat = '" . $this->glat ."'; glon = '" . $this->glon . "'; grad = '" . $this->grad . "';</script>\n<script src='http://location.gl/location.js' type='text/javascript'></script>\n";
     // <h2><a href='" . $this->link . "'>" . $this->name . "</a></h2>\n<p><a href='" . $this->link . "'>" . $this->link . "</a></p>\n";
