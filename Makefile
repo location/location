@@ -1,3 +1,2 @@
-location:location.java
-	javac location.java
-	jar c location.class >android/libs/location.jar
+location:
+	make -C android/libs/gl/location/
