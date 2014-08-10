@@ -3,3 +3,6 @@
 <!ATTLIST location link CDATA #REQUIRED >
 <!ATTLIST location glat NMTOKEN #REQUIRED >
 <!ATTLIST location glon NMTOKEN #REQUIRED >
+<!ATTLIST location grad NMTOKEN #REQUIRED >
+<!ATTLIST location vote NMTOKEN #REQUIRED >
+

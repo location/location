@@ -16,6 +16,6 @@ if ($_SERVER['HTTP_REFERER']=="http://location.gl/Home/" . $_GET['name']) {
   $location->link($_GET['name'],$_GET['glat'],$_GET['glon'],$_SERVER['HTTP_REFERER'],$_GET['grad']);
 }
 // $location->AverageDistance($_GET['name']);
-$location->push($_GET['name']);
+$location->send($_GET['name']);
 
 ?>
