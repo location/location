@@ -1,5 +1,11 @@
-DROP TABLE votement;
-DROP TABLE location;
+CREATE TABLE tags (
+       name TEXT NOT NULL,
+       tags TEXT NOT NULL,
+       glat DECIMAL(10, 8) NOT NULL,
+       glon DECIMAL(11, 8) NOT NULL,
+       link TEXT,
+       grad FLOAT
+) Engine="MyISAM" DEFAULT CHARSET=utf8;
 
 CREATE TABLE votement (
        name TEXT NOT NULL,
@@ -19,7 +25,8 @@ CREATE TABLE location (
        SPATIAL INDEX(ggeo),
        link TEXT,
        vote BIGINT REFERENCES votement(vote),
-       distance DECIMAL(10, 8)
+       distance DECIMAL(10, 8),
+       time TIMESTAMP
 ) Engine="MyISAM" DEFAULT CHARSET=utf8;
 
 DELIMITER $$

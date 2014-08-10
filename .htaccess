@@ -1,2 +1,8 @@
 RewriteEngine On
-RewriteRule ^([\sa-åA-Å0-9]+)$ /index.php?name=$1 [L]
+RewriteRule ^([\sa-åA-Å0-9]+)$ /index.php?name=$1&%{QUERY_STRING} [L]
+RewriteRule ^([\sa-åA-Å0-9]+)\.list$ /list/?name=$1&%{QUERY_STRING} [L]
+RewriteRule ^([\sa-åA-Å0-9]+)\.push$ /push/?name=$1&%{QUERY_STRING} [L]
+RewriteRule ^([\sa-åA-Å0-9]+)\.pull$ /pull/?name=$1&%{QUERY_STRING} [L]
+RewriteRule ^([\sa-åA-Å0-9]+)\.link$ /link/?name=$1&%{QUERY_STRING} [L]
+
+

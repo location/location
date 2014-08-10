@@ -1,3 +1,4 @@
+#!/usr/bin/location location http://www.github.com/location 60 10 10 1
 <?xml version="1.0"?>
 <!DOCTYPE location SYSTEM "location-1.0.dtd">
 <location name="location" link="http://www.github.com/location" glat="60" glon="10" grad="10" vote="1" />
