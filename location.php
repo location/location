@@ -384,7 +384,10 @@ class Location {
     // );
 
     // Location Tags already indexed for $link, pull from database table locationtags for $name, $glat, $glon, $link, $grad
-    return "<location name='Tag1' link='http://newonflix.com/article1.html' glat='60' glon='10' grad='100'><a href='http://location.gl/Tag1'>Tag1</a></location><location name='Tag2' link='http://newonflix.com/article2.html' glat='60' glon='10' grad='100'><a href='http://location.gl/Tag2'>Tag2</a></location><location name='Tag3' link='http://newonflix.com/article3.html' glat='60' glon='10' grad='100'><a href='http://location.gl/Tag3'>Tag3</a></location>";
+    // FIXME: return "&lt;location name='" . $name . "' link='" . $link . "' glat='" . $glat . "' glon='" . $glon . "' grad='" . $grad . "'&gt;&lt;a href='http://location.gl/" . $name . "'&gt;&" . $name . "&lt;/a&gt;&lt;/location&gt;";
+
+    return "<location name='" . $name . "' link='http://location.gl/" . $name . "'><a href='http://location.gl/" . $name . "'>&" . $name . "</a></location>";
+
   }
 
   function tags($name, $glat, $glon, $link, $grad) {
