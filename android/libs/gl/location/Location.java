@@ -10,7 +10,7 @@ public class Location {
 	private static String glat = "0.0";
 	private static String glon = "0.0";
 	private static String grad = "0";
-	private static String vote = "1";
+	private static String vote = "01";
 
 	public static void main (String[] args) throws Exception {
 		try {
