@@ -5,4 +5,3 @@
 <!ATTLIST location glon NMTOKEN #REQUIRED >
 <!ATTLIST location grad NMTOKEN #REQUIRED >
 <!ATTLIST location vote NMTOKEN #REQUIRED >
-
