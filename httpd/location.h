@@ -7,5 +7,6 @@
 #define glon 0
 #define grad 0
 #define vote 0
+#define rack 0
 
 #endif /* LOCATION_H */
