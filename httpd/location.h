@@ -2,7 +2,7 @@
 #define LOCATION_H
 
 #define name "location"
-#define link "http://localhost/location"
+#define link "http://localhost/location/"
 #define glat 0
 #define glon 0
 #define grad 0
