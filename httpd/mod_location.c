@@ -5,12 +5,13 @@
 **    LoadModule location_module modules/mod_location.so
 **    <Location /location>
 **         name "localhost"
-**         tags "a cab ac"
+**         link "http://localhost/location/"
+**         tags "a b c"
 **         glat "0"
 **         glon "0"
-**         link "http://localhost/location"
-**         grad "10"
-**         vote "10"
+**         grad "0"
+**         vote "0"
+**         rack "0"
 **         SetHandler location
 **    </Location>
 **
@@ -18,28 +19,28 @@
 **
 **    $ apachectl restart
 **
-**  you immediately can request the URL /location and watch for the
+**  you immediately can request the URL /location/ and watch for the
 **  output of this module. This can be achieved for instance via:
 **
-**    $ lynx -mime_header http://localhost/location 
+**    $ lynx -mime_header http://localhost/location/
 **
 **  The output should be similar to the following one:
 **
-**    200 OK
-**    Connection: close
-**    Date: Wed, 03 Sep 2014 14:05:35 GMT
+**    HTTP/1.1 200 OK
+**    Date: Wed, 03 Sep 2014 14:28:42 GMT
 **    Server: Apache/2.4.7 (Ubuntu)
+**    Vary: Accept-Encoding
+**    Content-Length: 165
+**    Connection: close
 **    Content-Type: text/html
-**    Client-Date: Wed, 03 Sep 2014 14:05:35 GMT
-**    Client-Peer: 127.0.0.1:80
-**    Client-Response-Num: 1  
+**    
 **    Location-name: "location"
 **    Location-link: "http://localhost/location/"
 **    Location-glat: "0"
 **    Location-glon: "0"
 **    Location-grad: "0"
 **    Location-vote: "0"
-**
+**    Location-rack: "0"
 */ 
 
 #include "httpd.h"
@@ -63,6 +64,7 @@ static int location_handler(request_rec *r)
       ap_rputs("Location-glon: \"0\"\n", r);
       ap_rputs("Location-grad: \"0\"\n", r);
       ap_rputs("Location-vote: \"0\"\n", r);
+      ap_rputs("Location-rack: \"0\"\n", r);
     }
     return OK;
 }
