@@ -1,3 +1,4 @@
 xlocation:	xlocation.c
-		cc xlocation.c -o xlocation -lX11
-
+		$(CC) xlocation.c -o xlocation -lX11
+install:
+		install xlocation /usr/bin/xlocation
