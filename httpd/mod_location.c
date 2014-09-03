@@ -14,7 +14,14 @@
 **    #   apache2.conf
 **    LoadModule location_module modules/mod_location.so
 **    <Location /location>
-**    SetHandler location
+**         name "localhost"
+**         tags "a cab ac"
+**         glat "0"
+**         glon "0"
+**         link "http://localhost/location"
+**         grad "10"
+**         vote "10"
+**         SetHandler location
 **    </Location>
 **
 **  Then after restarting Apache via
@@ -34,13 +41,20 @@
 **    Connection: close
 **    Content-Type: text/html
 **  
-**    The sample page from mod_location.c
+**    location-name: "location"
+**    location-link: "http://localhost/location/"
+**    location-glat: "0"
+**    location-glon: "0"
+**    location-grad: "0"
+**    location-vote: "0"
+**
 */ 
 
 #include "httpd.h"
 #include "http_config.h"
 #include "http_protocol.h"
 #include "ap_config.h"
+#include "location.h"
 
 /* The sample content handler */
 static int location_handler(request_rec *r)
@@ -50,8 +64,15 @@ static int location_handler(request_rec *r)
     }
     r->content_type = "text/html";      
 
-    if (!r->header_only)
-        ap_rputs("The sample page from mod_location.c\n", r);
+    if (!r->header_only) {
+        ap_rputs("Location:\n", r);
+        ap_rputs(name, r);
+        ap_rputs(link, r);
+        ap_rputs(glat, r);
+        ap_rputs(glon, r);
+        ap_rputs(grad, r);
+        ap_rputs(vote, r);
+    }
     return OK;
 }
 
