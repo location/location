@@ -65,13 +65,12 @@ static int location_handler(request_rec *r)
     r->content_type = "text/html";      
 
     if (!r->header_only) {
-        ap_rputs("Location:\n", r);
-        ap_rputs(name, r);
-        ap_rputs(link, r);
-        ap_rputs(glat, r);
-        ap_rputs(glon, r);
-        ap_rputs(grad, r);
-        ap_rputs(vote, r);
+      ap_rputs("location-name: \"location\"\n", r);
+      ap_rputs("location-link: \"http://localhost/location/\"\n", r);
+      ap_rputs("location-glat: \"0\"\n", r);
+      ap_rputs("location-glon: \"0\"\n", r);
+      ap_rputs("location-grad: \"0\"\n", r);
+      ap_rputs("location-vote: \"0\"\n", r);
     }
     return OK;
 }
