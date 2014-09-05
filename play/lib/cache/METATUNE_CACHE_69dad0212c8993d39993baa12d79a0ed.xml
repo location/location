@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Freddie Hubbard"/>
+  <opensearch:totalResults>865</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:6jt4upvseN1iV31iB2LDgr">
+    <name>A Night In Tunisia</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20900128</id>
+    <album href="spotify:album:0lcdc9pUe5p7FQZsOpE3gG">
+      <name>100 Best Of Blue Note</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>29</track-number>
+    <length>626.666000</length>
+    <popularity>0.38320</popularity>
+  </track>
+  <track href="spotify:track:63V8TNRlwZjDsMYuIcvlTB">
+    <name>Red Clay</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10113450</id>
+    <album href="spotify:album:3rbGfGoXGh1pFkzyehRJww">
+      <name>Red Clay</name>
+      <released>1970</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AT AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BW BY BZ CD CF CG CH CI CK CM CN CU CV CY DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GU GW GY HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MZ NA NC NE NG NL NO NP NR NU OM PF PG PH PK PL PM PN PR PS PT PW QA RE RO RU RW SA SB SC SD SE SG SH SI SL SM SN SO SR ST SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG UZ VA VC VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>728.426000</length>
+    <popularity>0.36548</popularity>
+  </track>
+  <track href="spotify:track:1caaPKXsfmGTT1t5Zcu243">
+    <name>Little Sunflower</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20201622</id>
+    <album href="spotify:album:3pZiA4rrKQQP8ZXDAafgYj">
+      <name>Backlash</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>475.200000</length>
+    <popularity>0.36141</popularity>
+  </track>
+  <track href="spotify:track:2JdllRPH6a8NCpt2bpxpns">
+    <name>Red Clay</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10113450</id>
+    <album href="spotify:album:1EKOKpUcbqvwxFcmek60Za">
+      <name>Red Clay (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>729.760000</length>
+    <popularity>0.31921</popularity>
+  </track>
+  <track href="spotify:track:55MzANtenUsRomx64dS3rI">
+    <name>Something In The Past</name>
+    <artist href="spotify:artist:6xyaria4AcxjRuJZLkWvMW">
+      <name>Guru</name>
+    </artist>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USVI29501068</id>
+    <album href="spotify:album:5xfPV8byJVCmeqe1LeVFqz">
+      <name>Jazzmatazz Volume II: The New Reality</name>
+      <released>1995</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>19</track-number>
+    <length>198.533000</length>
+    <popularity>0.30838</popularity>
+  </track>
+  <track href="spotify:track:2rvlhyiUa082VRTa3OFgmh">
+    <name>Arietis</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20300166</id>
+    <album href="spotify:album:1WW55eOxlZCvPWJDYmhZXD">
+      <name>Ready For Freddie (Rudy Van Gelder Remaster Edition)</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>401.560000</length>
+    <popularity>0.26828</popularity>
+  </track>
+  <track href="spotify:track:4tJuvW54wr9Rc6oCP0gNUU">
+    <name>Dream Weaver</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10900715</id>
+    <album href="spotify:album:2EpVva5zmjgTieS0KxB1oC">
+      <name>Windjammer</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>326.266000</length>
+    <popularity>0.28647</popularity>
+  </track>
+  <track href="spotify:track:7Ct1AF0R8MX2oHIl7OFG7x">
+    <name>Liquid Love</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10900676</id>
+    <album href="spotify:album:5ls1t4FEeLx2pCVtWDMns4">
+      <name>Liquid Love</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>347.666000</length>
+    <popularity>0.28613</popularity>
+  </track>
+  <track href="spotify:track:6mC7oExk7PiIcO9h6NoJZB">
+    <name>Red Clay</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10113450</id>
+    <album href="spotify:album:0d3L2lCtunvh7YLFyRch6Y">
+      <name>Jazz Moods - Hot</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>729.560000</length>
+    <popularity>0.27684</popularity>
+  </track>
+  <track href="spotify:track:7M9NJv7jeQo1Eyg9ZWtV0g">
+    <name>Blue Spirits (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20300588</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>738.040000</length>
+    <popularity>0.27652</popularity>
+  </track>
+  <track href="spotify:track:6Aa7I896W5QtImOGEx97MC">
+    <name>Red Clay</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM17000134</id>
+    <album href="spotify:album:2cUABm3EhhcvncNDvTpGq5">
+      <name>The Baddest Hubbard</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>727.333000</length>
+    <popularity>0.24039</popularity>
+  </track>
+  <track href="spotify:track:4CHHDkxbgYOE0wP71CL0AT">
+    <name>Birdlike</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20300169</id>
+    <album href="spotify:album:1WW55eOxlZCvPWJDYmhZXD">
+      <name>Ready For Freddie (Rudy Van Gelder Remaster Edition)</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>615.426000</length>
+    <popularity>0.24646</popularity>
+  </track>
+  <track href="spotify:track:4N6JkrGD78eLooaTDmwo9s">
+    <name>Weaver Of Dreams</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20300167</id>
+    <album href="spotify:album:1WW55eOxlZCvPWJDYmhZXD">
+      <name>Ready For Freddie (Rudy Van Gelder Remaster Edition)</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>395.560000</length>
+    <popularity>0.22510</popularity>
+  </track>
+  <track href="spotify:track:1a5dJSejIJwboFhPRZadv6">
+    <name>Baraka Sasa</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10900667</id>
+    <album href="spotify:album:4tA0BvdOPb994j9pr6N5hW">
+      <name>High Energy</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>628.826000</length>
+    <popularity>0.23977</popularity>
+  </track>
+  <track href="spotify:track:5YTPRVC0gOXdD17IhOanqI">
+    <name>Gypsy Blue (2002 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20100733</id>
+    <album href="spotify:album:4WF3FMkvyd8Ogh2Hz76C9v">
+      <name>Open Sesame (The Rudy Van Gelder Edition)</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>388.026000</length>
+    <popularity>0.23872</popularity>
+  </track>
+  <track href="spotify:track:5jdRRkDllWDZpIYS25AjFP">
+    <name>South Street Stroll</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20109230</id>
+    <album href="spotify:album:1TPySBwGi7RI2hGhm39Jqs">
+      <name>A Soul Experiment</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>269.573000</length>
+    <popularity>0.23821</popularity>
+  </track>
+  <track href="spotify:track:5CZZKrPcSVCuMjHhU7kq5U">
+    <name>Skagly</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10900560</id>
+    <album href="spotify:album:1EIRzoEoOOPMu9aNRlzxmR">
+      <name>Skagly</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>873.906000</length>
+    <popularity>0.23793</popularity>
+  </track>
+  <track href="spotify:track:0Ym1XHuFUolBWg6pTZHarn">
+    <name>Up Jumped Spring</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20107686</id>
+    <album href="spotify:album:3pZiA4rrKQQP8ZXDAafgYj">
+      <name>Backlash</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>401.226000</length>
+    <popularity>0.23648</popularity>
+  </track>
+  <track href="spotify:track:51rjxO4PLrWelh4izyiLg7">
+    <name>Crisis</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20300170</id>
+    <album href="spotify:album:1WW55eOxlZCvPWJDYmhZXD">
+      <name>Ready For Freddie (Rudy Van Gelder Remaster Edition)</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>693.666000</length>
+    <popularity>0.21580</popularity>
+  </track>
+  <track href="spotify:track:3zkUZvGHBtphTSHQIychm1">
+    <name>Open Sesame (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20100730</id>
+    <album href="spotify:album:4WF3FMkvyd8Ogh2Hz76C9v">
+      <name>Open Sesame (The Rudy Van Gelder Edition)</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>431.733000</length>
+    <popularity>0.23352</popularity>
+  </track>
+  <track href="spotify:track:69QM5QmYUP4m1W5lQsm1p4">
+    <name>Black Orpheus</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <artist href="spotify:artist:0W5dlTiXGpQqs0OhqCRE92">
+      <name>Eddie Higgins</name>
+    </artist>
+    <id type="isrc">USA371198136</id>
+    <album href="spotify:album:63mO2h93nK4p28iY5P9SYt">
+      <name>Essential Jazz Masters</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>275.307000</length>
+    <popularity>0.26664</popularity>
+  </track>
+  <track href="spotify:track:213ciBOxkhpZIhSoKmsPhn">
+    <name>Marie Antoinette (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20300168</id>
+    <album href="spotify:album:1WW55eOxlZCvPWJDYmhZXD">
+      <name>Ready For Freddie (Rudy Van Gelder Remaster Edition)</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>398.773000</length>
+    <popularity>0.21048</popularity>
+  </track>
+  <track href="spotify:track:64nV4JZ5LAleONUC3yV7mj">
+    <name>But Beautiful (2002 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20100732</id>
+    <album href="spotify:album:4WF3FMkvyd8Ogh2Hz76C9v">
+      <name>Open Sesame (The Rudy Van Gelder Edition)</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>386.773000</length>
+    <popularity>0.22855</popularity>
+  </track>
+  <track href="spotify:track:3SHWZGAvCDcAajSAw3KRU6">
+    <name>The Intrepid Fox</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10113451</id>
+    <album href="spotify:album:1EKOKpUcbqvwxFcmek60Za">
+      <name>Red Clay (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>643.706000</length>
+    <popularity>0.22742</popularity>
+  </track>
+  <track href="spotify:track:1MCJ935hb90go1PaycG8VD">
+    <name>Backlash</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20201620</id>
+    <album href="spotify:album:3pZiA4rrKQQP8ZXDAafgYj">
+      <name>Backlash</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>254.840000</length>
+    <popularity>0.22587</popularity>
+  </track>
+  <track href="spotify:track:6jBba5W4oIe8CK6wMUo6zK">
+    <name>Crisis</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEZ651119848</id>
+    <album href="spotify:album:6nfHfSaYm2VQZzhSK6YXdV">
+      <name>The Chant</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>693.000000</length>
+    <popularity>0.22312</popularity>
+  </track>
+  <track href="spotify:track:7aRHFNmc5zkCHJHb512CLy">
+    <name>Little Sunflower</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10805588</id>
+    <album href="spotify:album:02NqItxfzKpRwg2cZzjqCf">
+      <name>The Love Connection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AT AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BW BY BZ CA CD CF CG CH CI CK CM CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GU GW GY HR HT HU IE IL IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NG NL NO NP NR NU OM PF PG PK PL PM PN PR PS PT PW QA RE RO RU RW SA SB SC SD SE SH SI SK SL SM SN SO SR ST SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG US UZ VA VC VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>560.666000</length>
+    <popularity>0.22279</popularity>
+  </track>
+  <track href="spotify:track:19nxhKTDQXBWTc8T32FbGj">
+    <name>One Mint Julep (2002 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20100736</id>
+    <album href="spotify:album:4WF3FMkvyd8Ogh2Hz76C9v">
+      <name>Open Sesame (The Rudy Van Gelder Edition)</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>364.000000</length>
+    <popularity>0.22273</popularity>
+  </track>
+  <track href="spotify:track:34qsGHH3KTSn3DMTBwbH9y">
+    <name>Delphia</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10020621</id>
+    <album href="spotify:album:1EKOKpUcbqvwxFcmek60Za">
+      <name>Red Clay (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>439.840000</length>
+    <popularity>0.21633</popularity>
+  </track>
+  <track href="spotify:track:2dO0HZAPtc6crcAlsa8gvH">
+    <name>The Return Of The Prodigal Son</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20201621</id>
+    <album href="spotify:album:3pZiA4rrKQQP8ZXDAafgYj">
+      <name>Backlash</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>342.160000</length>
+    <popularity>0.21628</popularity>
+  </track>
+  <track href="spotify:track:427kN0cBqkK527uXrFOVsG">
+    <name>Mr. Clean</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM17000192</id>
+    <album href="spotify:album:1r66S2fnO8T8QWaVGWp2jo">
+      <name>Straight Life</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>814.373000</length>
+    <popularity>0.21613</popularity>
+  </track>
+  <track href="spotify:track:2TbG0uvC3BdlCk2W638bwf">
+    <name>Red Clay - Alternate Version</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10113449</id>
+    <album href="spotify:album:1EKOKpUcbqvwxFcmek60Za">
+      <name>Red Clay (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>1125.266000</length>
+    <popularity>0.21412</popularity>
+  </track>
+  <track href="spotify:track:14JD85yNhfol8oJDdZWoHa">
+    <name>High Blues Pressure</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20401044</id>
+    <album href="spotify:album:6JawuQRbwe2e4U8snURxEV">
+      <name>High Blues Pressure</name>
+      <released>1967</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>451.986000</length>
+    <popularity>0.20740</popularity>
+  </track>
+  <track href="spotify:track:64rHDxDhz71GtHxs5QBsQ5">
+    <name>Suite Sioux</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10025630</id>
+    <album href="spotify:album:1EKOKpUcbqvwxFcmek60Za">
+      <name>Red Clay (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>524.546000</length>
+    <popularity>0.20525</popularity>
+  </track>
+  <track href="spotify:track:4ZWojS2l1H2teFLrWq3zyJ">
+    <name>Mr. Clean</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM17000192</id>
+    <album href="spotify:album:1BeVs7rQJ7LRj1sklSXRec">
+      <name>Straight Life (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>818.986000</length>
+    <popularity>0.20264</popularity>
+  </track>
+  <track href="spotify:track:3Ljy7wv8En9a4dteSEI8Qx">
+    <name>You're My Everything (1999 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN29801102</id>
+    <album href="spotify:album:6WXQu3KjFlb9Hjwzy3vyS5">
+      <name>Hub-Tones (The Rudy Van Gelder Edition)</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>397.133000</length>
+    <popularity>0.20125</popularity>
+  </track>
+  <track href="spotify:track:7rCey5nJttWUORgYwG4hVS">
+    <name>Coral Keys</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20104923</id>
+    <album href="spotify:album:5wfMkrCCBB6VAAssH144yT">
+      <name>The Black Angel</name>
+      <released>1969</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>321.080000</length>
+    <popularity>0.19948</popularity>
+  </track>
+  <track href="spotify:track:3JkgrvbHI6TlskLY4pwEUM">
+    <name>First Light</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10021793</id>
+    <album href="spotify:album:7EKI2xGm95sooPhcZ6wYGu">
+      <name>First Light (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>664.933000</length>
+    <popularity>0.19878</popularity>
+  </track>
+  <track href="spotify:track:7AA3gxoDwLN8NuVfZ5NEt9">
+    <name>All Or Nothing At All (2002 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20100735</id>
+    <album href="spotify:album:4WF3FMkvyd8Ogh2Hz76C9v">
+      <name>Open Sesame (The Rudy Van Gelder Edition)</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>336.266000</length>
+    <popularity>0.19724</popularity>
+  </track>
+  <track href="spotify:track:0pCE2aG7sSTbd0DoqztdtV">
+    <name>South Street Stroll</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20109230</id>
+    <album href="spotify:album:2ch7KBbO0WfQODOe8WNIP9">
+      <name>Right On 2</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>269.573000</length>
+    <popularity>0.19417</popularity>
+  </track>
+  <track href="spotify:track:3clWhEBnsg7k2Yc2u7BLp2">
+    <name>Dolphin Dance</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">US2Y30606865</id>
+    <album href="spotify:album:772pVPJFGNI6occyAKVtrm">
+      <name>Freddie Hubbard Live</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>1254.893000</length>
+    <popularity>0.14686</popularity>
+  </track>
+  <track href="spotify:track:0O9c9mXva0LUUDnwLxMEak">
+    <name>Red Clay</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10113450</id>
+    <album href="spotify:album:2jWaNubVicbGt8kf4NiSqT">
+      <name>Red Clay</name>
+      <released>1970</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>728.733000</length>
+    <popularity>0.19179</popularity>
+  </track>
+  <track href="spotify:track:0AvuvLpjF912cKj88MX7AS">
+    <name>Straight Life</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM17000191</id>
+    <album href="spotify:album:1BeVs7rQJ7LRj1sklSXRec">
+      <name>Straight Life (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>1057.440000</length>
+    <popularity>0.18957</popularity>
+  </track>
+  <track href="spotify:track:5SGf405BF7ubhAyQQkgtVC">
+    <name>Sky Dive</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM17200816</id>
+    <album href="spotify:album:3Vm72uegm654HYr78v3gOq">
+      <name>Sky Dive</name>
+      <released>1972</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>454.360000</length>
+    <popularity>0.18702</popularity>
+  </track>
+  <track href="spotify:track:1E91hlZPPCdYNzxILC1Pqm">
+    <name>Povo</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10021810</id>
+    <album href="spotify:album:3Vm72uegm654HYr78v3gOq">
+      <name>Sky Dive</name>
+      <released>1972</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>883.293000</length>
+    <popularity>0.18681</popularity>
+  </track>
+  <track href="spotify:track:1AJEfhkGLdDOS1wivzkohr">
+    <name>Cold Turkey</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10113452</id>
+    <album href="spotify:album:1EKOKpUcbqvwxFcmek60Za">
+      <name>Red Clay (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>625.053000</length>
+    <popularity>0.18673</popularity>
+  </track>
+  <track href="spotify:track:2OqoMSn4PQOh8PmskWconZ">
+    <name>Here's That Rainy Day</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10021796</id>
+    <album href="spotify:album:3s1GTJ8NBLGz4G30uDu9RX">
+      <name>California Concert: The Hollywood Palladium (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>519.053000</length>
+    <popularity>0.18619</popularity>
+  </track>
+  <track href="spotify:track:0s7s1PxBqhQtquJjGhK9iL">
+    <name>Marie Antoinette (Alternate Take)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20300172</id>
+    <album href="spotify:album:1WW55eOxlZCvPWJDYmhZXD">
+      <name>Ready For Freddie (Rudy Van Gelder Remaster Edition)</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>373.746000</length>
+    <popularity>0.16842</popularity>
+  </track>
+  <track href="spotify:track:2ZelujCYIx5zwfRIFolVX8">
+    <name>Sad To Say</name>
+    <artist href="spotify:artist:78NDaMzmcDKjt7mkXs7AuG">
+      <name>Benny Golson</name>
+    </artist>
+    <artist href="spotify:artist:7IufJxYNC6TvqIaC9zJwFy">
+      <name>Freddie Hubbard Quintet</name>
+    </artist>
+    <id type="isrc">GBHVK0800137</id>
+    <album href="spotify:album:1tlhAfo9pTgq8dB26aLKRB">
+      <name>The Most Relaxing Jazz Music In The Universe</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AM AT AU AZ BA BE BG BY CH CY CZ DE DK EE ES FI FJ FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO NZ PF PG PL PM PT RE RO RU SB SE SI SK SM TR UA VA VU YT</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>614.000000</length>
+    <popularity>0.20914</popularity>
+  </track>
+  <track href="spotify:track:0lC1SnD0xglUROHnRZkQlY">
+    <name>Straight Life</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM17000191</id>
+    <album href="spotify:album:1r66S2fnO8T8QWaVGWp2jo">
+      <name>Straight Life</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>1046.973000</length>
+    <popularity>0.18474</popularity>
+  </track>
+  <track href="spotify:track:7zOLsPEldoOIKlW4Y04rRy">
+    <name>Arietis (Alternate Take)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20300171</id>
+    <album href="spotify:album:1WW55eOxlZCvPWJDYmhZXD">
+      <name>Ready For Freddie (Rudy Van Gelder Remaster Edition)</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>351.093000</length>
+    <popularity>0.16581</popularity>
+  </track>
+  <track href="spotify:track:7klgda5qS7rOnbyCXV8ITG">
+    <name>Uncle Albert/Admiral Halsey</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10021830</id>
+    <album href="spotify:album:7EKI2xGm95sooPhcZ6wYGu">
+      <name>First Light (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>495.626000</length>
+    <popularity>0.18101</popularity>
+  </track>
+  <track href="spotify:track:2GEyD3xdN1jRfHO1Lu3F7K">
+    <name>Arietis</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEZ651119849</id>
+    <album href="spotify:album:6nfHfSaYm2VQZzhSK6YXdV">
+      <name>The Chant</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>401.000000</length>
+    <popularity>0.18035</popularity>
+  </track>
+  <track href="spotify:track:2S4zpjfSKapsaSbDKTx9vK">
+    <name>On The Que-Tee</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20201623</id>
+    <album href="spotify:album:3pZiA4rrKQQP8ZXDAafgYj">
+      <name>Backlash</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>347.240000</length>
+    <popularity>0.17966</popularity>
+  </track>
+  <track href="spotify:track:4301mY0tu0MwnQXrU9DR94">
+    <name>Super Blue</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM17801226</id>
+    <album href="spotify:album:5vdK1fs5l1WdUE1rWh0sU6">
+      <name>Super Blue (With Bonus Tracks)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>471.146000</length>
+    <popularity>0.17760</popularity>
+  </track>
+  <track href="spotify:track:4I8n4AxTBIBwD90DsmDk5x">
+    <name>Bolivia</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <artist href="spotify:artist:076PWAWUwxsA4D0QNWf04I">
+      <name>Ralph Moore</name>
+    </artist>
+    <artist href="spotify:artist:4vDfWi1S8RneRAgCPOIThL">
+      <name>Vincent Herring</name>
+    </artist>
+    <artist href="spotify:artist:7DCTgrI6aDK3nBRZm5RUKT">
+      <name>Cedar Walton</name>
+    </artist>
+    <id type="isrc">USMU10821360</id>
+    <album href="spotify:album:2w2bsxPXSgVm3rGCVO8Tjr">
+      <name>Bolivia</name>
+      <released>1991</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>417.867000</length>
+    <popularity>0.22356</popularity>
+  </track>
+  <track href="spotify:track:6Bb0sMelZ0JmQhhF7qriJH">
+    <name>Marie Antoinette</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEZ651119850</id>
+    <album href="spotify:album:6nfHfSaYm2VQZzhSK6YXdV">
+      <name>The Chant</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>398.000000</length>
+    <popularity>0.17322</popularity>
+  </track>
+  <track href="spotify:track:6hmQADTUGQXnfrABjZaWyb">
+    <name>Hub's Nub (2002 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20100737</id>
+    <album href="spotify:album:4WF3FMkvyd8Ogh2Hz76C9v">
+      <name>Open Sesame (The Rudy Van Gelder Edition)</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>411.880000</length>
+    <popularity>0.17251</popularity>
+  </track>
+  <track href="spotify:track:1Zc2DaWcxg7FyQRwKRAYYk">
+    <name>Minor Mishap</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USA371511115</id>
+    <album href="spotify:album:2TCZBPVPsIVnBLgTi6slME">
+      <name>Groovy! (feat. Pepper Adams &amp; Duke Pearson)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>266.200000</length>
+    <popularity>0.16878</popularity>
+  </track>
+  <track href="spotify:track:0OjN4jcVhnbbHbzfGoevub">
+    <name>Arietis</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEBL60779706</id>
+    <album href="spotify:album:1bWscmJRriCTwLTPLoxLUj">
+      <name>Ready for Freddie</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>401.560000</length>
+    <popularity>0.14277</popularity>
+  </track>
+  <track href="spotify:track:71UqjvKjjJ5dYT2iYRbgDQ">
+    <name>Here's That Rainy Day</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10021796</id>
+    <album href="spotify:album:2yRz3kaB9C8HzHafQd1ehc">
+      <name>The Best Of Freddie Hubbard</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>516.093000</length>
+    <popularity>0.13125</popularity>
+  </track>
+  <track href="spotify:track:2eXmjwALiIZBz9OaO3d6Id">
+    <name>Caravan</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USMC16247560</id>
+    <album href="spotify:album:5oz9KYLyfXwjOLr2HxPoGx">
+      <name>The Artistry Of Freddie Hubbard / The Body And The Soul</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT AU BE CH DE DK EE ES FI FR GB HR HU IE IN IT LT LV NL NO NZ PL PT SE SG UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>447.346000</length>
+    <popularity>0.13968</popularity>
+  </track>
+  <track href="spotify:track:0pKJLkEcMZ2XQ41MTs4Ar5">
+    <name>First Light</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10313592</id>
+    <album href="spotify:album:5EN0XQp11GkfhqKHJhmti0">
+      <name>First Light</name>
+      <released>1971</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>665.066000</length>
+    <popularity>0.16475</popularity>
+  </track>
+  <track href="spotify:track:2gjSFqTL79uBeQbQJK4AA6">
+    <name>Open Sesame (Alternate Take) (2002 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20100731</id>
+    <album href="spotify:album:4WF3FMkvyd8Ogh2Hz76C9v">
+      <name>Open Sesame (The Rudy Van Gelder Edition)</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>436.200000</length>
+    <popularity>0.16337</popularity>
+  </track>
+  <track href="spotify:track:1o2fRH83yvYRldmv4J1UJc">
+    <name>Birdlike</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEZ651119851</id>
+    <album href="spotify:album:6nfHfSaYm2VQZzhSK6YXdV">
+      <name>The Chant</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>615.000000</length>
+    <popularity>0.16265</popularity>
+  </track>
+  <track href="spotify:track:4smrXKmLPMpyHIwe4v4mWg">
+    <name>The Intrepid Fox</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10113451</id>
+    <album href="spotify:album:3rbGfGoXGh1pFkzyehRJww">
+      <name>Red Clay</name>
+      <released>1970</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AT AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BW BY BZ CD CF CG CH CI CK CM CN CU CV CY DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GU GW GY HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MZ NA NC NE NG NL NO NP NR NU OM PF PG PH PK PL PM PN PR PS PT PW QA RE RO RU RW SA SB SC SD SE SG SH SI SL SM SN SO SR ST SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG UZ VA VC VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>642.000000</length>
+    <popularity>0.16250</popularity>
+  </track>
+  <track href="spotify:track:5810rYspuS8Vi1TJeGPVqW">
+    <name>Suite Sioux</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10025630</id>
+    <album href="spotify:album:3rbGfGoXGh1pFkzyehRJww">
+      <name>Red Clay</name>
+      <released>1970</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AT AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BW BY BZ CD CF CG CH CI CK CM CN CU CV CY DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GU GW GY HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MZ NA NC NE NG NL NO NP NR NU OM PF PG PH PK PL PM PN PR PS PT PW QA RE RO RU RW SA SB SC SD SE SG SH SI SL SM SN SO SR ST SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG UZ VA VC VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>516.333000</length>
+    <popularity>0.16249</popularity>
+  </track>
+  <track href="spotify:track:01a23tagFxN7rI5f3ZSAUd">
+    <name>Prophet Jennings (1999 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN29801103</id>
+    <album href="spotify:album:6WXQu3KjFlb9Hjwzy3vyS5">
+      <name>Hub-Tones (The Rudy Van Gelder Edition)</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>331.253000</length>
+    <popularity>0.16128</popularity>
+  </track>
+  <track href="spotify:track:5Zp3FewNwovBhRoopA84Gg">
+    <name>Moment to Moment</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10024863</id>
+    <album href="spotify:album:7EKI2xGm95sooPhcZ6wYGu">
+      <name>First Light (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>344.360000</length>
+    <popularity>0.16107</popularity>
+  </track>
+  <track href="spotify:track:4moi8y3oJWPqm8PQfrnUHz">
+    <name>First Light</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10021793</id>
+    <album href="spotify:album:2yRz3kaB9C8HzHafQd1ehc">
+      <name>The Best Of Freddie Hubbard</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>664.560000</length>
+    <popularity>0.12420</popularity>
+  </track>
+  <track href="spotify:track:1SEoZF2bV2dbuZq6eQb80z">
+    <name>Lost Dreams</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10900675</id>
+    <album href="spotify:album:5ls1t4FEeLx2pCVtWDMns4">
+      <name>Liquid Love</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>750.560000</length>
+    <popularity>0.15989</popularity>
+  </track>
+  <track href="spotify:track:1hbuSPqnuL4gujHS2ZWAZ5">
+    <name>Delphia</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10020621</id>
+    <album href="spotify:album:3rbGfGoXGh1pFkzyehRJww">
+      <name>Red Clay</name>
+      <released>1970</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AT AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BW BY BZ CD CF CG CH CI CK CM CN CU CV CY DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GU GW GY HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MZ NA NC NE NG NL NO NP NR NU OM PF PG PH PK PL PM PN PR PS PT PW QA RE RO RU RW SA SB SC SD SE SG SH SI SL SM SN SO SR ST SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG UZ VA VC VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>440.333000</length>
+    <popularity>0.15969</popularity>
+  </track>
+  <track href="spotify:track:2PeJWalk3QIOZbf9Z90M16">
+    <name>Yesterday's Dreams</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10020928</id>
+    <album href="spotify:album:7EKI2xGm95sooPhcZ6wYGu">
+      <name>First Light (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>236.253000</length>
+    <popularity>0.15874</popularity>
+  </track>
+  <track href="spotify:track:1TUnByfwv3uiVeOtdAs5xk">
+    <name>Asiatic Raes</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN29700545</id>
+    <album href="spotify:album:0NU6BhJliKCq8jTPvFsTdP">
+      <name>Goin' Up</name>
+      <released>1960</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>406.266000</length>
+    <popularity>0.15761</popularity>
+  </track>
+  <track href="spotify:track:19naWBsLEkWKc61ERtQ3xm">
+    <name>Hub-Tones (1999 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN29801104</id>
+    <album href="spotify:album:6WXQu3KjFlb9Hjwzy3vyS5">
+      <name>Hub-Tones (The Rudy Van Gelder Edition)</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>504.426000</length>
+    <popularity>0.15678</popularity>
+  </track>
+  <track href="spotify:track:1fmvusuz786bQsmstYoh9x">
+    <name>Red Clay - Alternate Version</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10113449</id>
+    <album href="spotify:album:3rbGfGoXGh1pFkzyehRJww">
+      <name>Red Clay</name>
+      <released>1970</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AT AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BW BY BZ CD CF CG CH CI CK CM CN CU CV CY DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GU GW GY HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MZ NA NC NE NG NL NO NP NR NU OM PF PG PH PK PL PM PN PR PS PT PW QA RE RO RU RW SA SB SC SD SE SG SH SI SL SM SN SO SR ST SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG UZ VA VC VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>1125.066000</length>
+    <popularity>0.15653</popularity>
+  </track>
+  <track href="spotify:track:6ZhPgmUjAibm5DiqZdxA4c">
+    <name>You're My Everything (Alternate Take) (1999 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN29801107</id>
+    <album href="spotify:album:49Xjwu2IJkZZw8HTEDz5td">
+      <name>Pure Jazz</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>395.773000</length>
+    <popularity>0.15633</popularity>
+  </track>
+  <track href="spotify:track:1Vl1UnDvhUpKuLc7piRTEz">
+    <name>The Black Angel</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20104921</id>
+    <album href="spotify:album:5wfMkrCCBB6VAAssH144yT">
+      <name>The Black Angel</name>
+      <released>1969</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>500.866000</length>
+    <popularity>0.15578</popularity>
+  </track>
+  <track href="spotify:track:5AIpBhSrDw3xPGZip6KRn0">
+    <name>Marie Antoinette</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20200328</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>388.200000</length>
+    <popularity>0.15494</popularity>
+  </track>
+  <track href="spotify:track:4dkPvzFn7qlwgKxLUM4rMi">
+    <name>Open Sesame</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">GBHFE1028187</id>
+    <album href="spotify:album:1YqcgHF1kAfFrKJkPDrgzK">
+      <name>Open Sesame</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>431.134000</length>
+    <popularity>0.15466</popularity>
+  </track>
+  <track href="spotify:track:7ppHxuavV1iAeYKxwXYpcC">
+    <name>I Wished I Knew</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USA371365877</id>
+    <album href="spotify:album:1cGFVk6mbcYs8MN1R8LnRP">
+      <name>100 Trumpet Jazz Classics</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>468.533000</length>
+    <popularity>0.15282</popularity>
+  </track>
+  <track href="spotify:track:5PSn9DHIu4wdOLgFY9W3vB">
+    <name>Open Sesame (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20100730</id>
+    <album href="spotify:album:4ADqSU58qpJX2Y4lsDLs6d">
+      <name>Rollins' Choice (Blue Note Selections by Henry Rollins)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>431.266000</length>
+    <popularity>0.15084</popularity>
+  </track>
+  <track href="spotify:track:3jIG00T3OD7yH0gGUmcnCf">
+    <name>Arietis (Alternate Take)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEZ651119852</id>
+    <album href="spotify:album:6nfHfSaYm2VQZzhSK6YXdV">
+      <name>The Chant</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>351.000000</length>
+    <popularity>0.15074</popularity>
+  </track>
+  <track href="spotify:track:70vdN8eNYCQ6vLObFaxxtn">
+    <name>Moon Of Manakoora</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <artist href="spotify:artist:0W5dlTiXGpQqs0OhqCRE92">
+      <name>Eddie Higgins</name>
+    </artist>
+    <id type="isrc">USA371198128</id>
+    <album href="spotify:album:63mO2h93nK4p28iY5P9SYt">
+      <name>Essential Jazz Masters</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>225.133000</length>
+    <popularity>0.18367</popularity>
+  </track>
+  <track href="spotify:track:0yYCL8alCD32uXOUt530F4">
+    <name>Hub-Tones</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN28500089</id>
+    <album href="spotify:album:1vklN7S5RaL03pw3foEt4F">
+      <name>The History of Blue Note, 70th Anniversary</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>41</track-number>
+    <length>503.733000</length>
+    <popularity>0.15038</popularity>
+  </track>
+  <track href="spotify:track:0eywPZ0O1jasem5XcPnFXw">
+    <name>The Godfather (from the Paramount motionpicture "The Godfather")</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM10021794</id>
+    <album href="spotify:album:2yRz3kaB9C8HzHafQd1ehc">
+      <name>The Best Of Freddie Hubbard</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>440.600000</length>
+    <popularity>0.11443</popularity>
+  </track>
+  <track href="spotify:track:2pemtyPM4AcpTM2RsbpTUL">
+    <name>Birdlike</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEBL60779709</id>
+    <album href="spotify:album:1bWscmJRriCTwLTPLoxLUj">
+      <name>Ready for Freddie</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>615.426000</length>
+    <popularity>0.12487</popularity>
+  </track>
+  <track href="spotify:track:3XzrvUzSh7T5iuUuxre3Ju">
+    <name>Gypsy Blue (Alternate Take) (2002 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20100734</id>
+    <album href="spotify:album:4WF3FMkvyd8Ogh2Hz76C9v">
+      <name>Open Sesame (The Rudy Van Gelder Edition)</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>455.266000</length>
+    <popularity>0.14904</popularity>
+  </track>
+  <track href="spotify:track:0phmzsFbVc0lDboOkQpsN1">
+    <name>Weaver of Dreams</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEBL60779707</id>
+    <album href="spotify:album:1bWscmJRriCTwLTPLoxLUj">
+      <name>Ready for Freddie</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>395.560000</length>
+    <popularity>0.12407</popularity>
+  </track>
+  <track href="spotify:track:4l6ujSIaaRtTjXaK7bAFQi">
+    <name>Chocolate Shake</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USMC16349027</id>
+    <album href="spotify:album:7yH2bZXENiDXA4LZsMX4Sx">
+      <name>The House That Trane Built: The Story Of Impulse Records</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CN CZ DE EE ES FI FR GB HR HU IE LT LV NL NZ PL PT RU SE SG SK TR TW UA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>236.706000</length>
+    <popularity>0.14887</popularity>
+  </track>
+  <track href="spotify:track:4CeFpWqqZimm4PHQCyV4Kl">
+    <name>Lament For Booker (1999 Digital Remaster) (The Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN29801105</id>
+    <album href="spotify:album:6WXQu3KjFlb9Hjwzy3vyS5">
+      <name>Hub-Tones (The Rudy Van Gelder Edition)</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>581.426000</length>
+    <popularity>0.14875</popularity>
+  </track>
+  <track href="spotify:track:4Mtv0UYAEsLxc8ydAx63BH">
+    <name>Echoes Of Blue</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USAT20201625</id>
+    <album href="spotify:album:3pZiA4rrKQQP8ZXDAafgYj">
+      <name>Backlash</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>585.293000</length>
+    <popularity>0.14796</popularity>
+  </track>
+  <track href="spotify:track:2l1x5YinKV2JkeDy2EOqjY">
+    <name>Marie Antoinette (Alternate Take)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEZ651119853</id>
+    <album href="spotify:album:6nfHfSaYm2VQZzhSK6YXdV">
+      <name>The Chant</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>373.000000</length>
+    <popularity>0.14721</popularity>
+  </track>
+  <track href="spotify:track:4mVl2OAiKHxOrzSSsk2KrY">
+    <name>Blues for Alvina</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USA371511116</id>
+    <album href="spotify:album:2TCZBPVPsIVnBLgTi6slME">
+      <name>Groovy! (feat. Pepper Adams &amp; Duke Pearson)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>439.013000</length>
+    <popularity>0.14611</popularity>
+  </track>
+  <track href="spotify:track:1FuRaMCNNvH5QpWMhFZlZ1">
+    <name>Birdland</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USEE10251175</id>
+    <album href="spotify:album:293fiOBI8WMvN9M9X3qv9T">
+      <name>Ride Like The Wind</name>
+      <released>1982</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>381.573000</length>
+    <popularity>0.14604</popularity>
+  </track>
+  <track href="spotify:track:06VgrzKciUr9hveC7pnuyz">
+    <name>The Nearness of You</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USA371511117</id>
+    <album href="spotify:album:2TCZBPVPsIVnBLgTi6slME">
+      <name>Groovy! (feat. Pepper Adams &amp; Duke Pearson)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>303.547000</length>
+    <popularity>0.14589</popularity>
+  </track>
+  <track href="spotify:track:1tvytKiqD5Ysb7Kadp9xUr">
+    <name>Devil's Island</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <artist href="spotify:artist:0W5dlTiXGpQqs0OhqCRE92">
+      <name>Eddie Higgins</name>
+    </artist>
+    <id type="isrc">USA371198129</id>
+    <album href="spotify:album:63mO2h93nK4p28iY5P9SYt">
+      <name>Essential Jazz Masters</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>237.000000</length>
+    <popularity>0.17733</popularity>
+  </track>
+  <track href="spotify:track:3hKyAIaRgCKLHAspmO5ILk">
+    <name>Marie Antoinette</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEBL60779708</id>
+    <album href="spotify:album:1bWscmJRriCTwLTPLoxLUj">
+      <name>Ready for Freddie</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>398.773000</length>
+    <popularity>0.11949</popularity>
+  </track>
+  <track href="spotify:track:2C2OlVw546IK1a47pW2nES">
+    <name>Here's The Rainy Day</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USSM17000193</id>
+    <album href="spotify:album:1BeVs7rQJ7LRj1sklSXRec">
+      <name>Straight Life (CTI Records 40th Anniversary Edition - Original recording remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>316.160000</length>
+    <popularity>0.14365</popularity>
+  </track>
+  <track href="spotify:track:3mZLlVKE43shvvze0oGxEF">
+    <name>Weaver Of Dreams</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">DEZ651119854</id>
+    <album href="spotify:album:6nfHfSaYm2VQZzhSK6YXdV">
+      <name>The Chant</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>395.000000</length>
+    <popularity>0.14360</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Wed, 15 Feb 2012 15:54:10 GMT -->

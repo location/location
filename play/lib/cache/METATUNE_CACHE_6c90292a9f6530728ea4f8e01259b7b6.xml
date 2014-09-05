@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Paris Combo"/>
+  <opensearch:totalResults>194</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:20Ic4bF8KEGH72uXEQdAUF">
+    <name>On N'a Pas Besoin</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502144</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>249.827000</length>
+    <popularity>0.35787</popularity>
+  </track>
+  <track href="spotify:track:6ftcTDNGh948vP39WjbmTO">
+    <name>Moi, Mon Âme Et Ma Conscience</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502145</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>260.240000</length>
+    <popularity>0.34308</popularity>
+  </track>
+  <track href="spotify:track:42EijejetuGgYJK4KaQwB6">
+    <name>Fibre De Verre</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101080</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>220.933000</length>
+    <popularity>0.38109</popularity>
+  </track>
+  <track href="spotify:track:2np3abRnPI9qWq5NEb0nc7">
+    <name>Je Rêve Encore</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502146</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>247.200000</length>
+    <popularity>0.31289</popularity>
+  </track>
+  <track href="spotify:track:58OsJV1FrVY1ZbfnivQ9YT">
+    <name>High, Low, In</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410282</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>213.387000</length>
+    <popularity>0.32776</popularity>
+  </track>
+  <track href="spotify:track:2UjGOYeDQoNsnHwuspQeVS">
+    <name>Valse D'amour</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502155</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>167.533000</length>
+    <popularity>0.26995</popularity>
+  </track>
+  <track href="spotify:track:3beDMOwe31mVbm6Bdu3DWq">
+    <name>Istanbul</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502150</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>255.840000</length>
+    <popularity>0.26541</popularity>
+  </track>
+  <track href="spotify:track:3YhnrY351insqyOzdvWkyT">
+    <name>Irénée</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502148</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>238.200000</length>
+    <popularity>0.26117</popularity>
+  </track>
+  <track href="spotify:track:4lRj57alff2lroLBpFg4ec">
+    <name>Les Portes De L'ennui</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502147</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>171.293000</length>
+    <popularity>0.24917</popularity>
+  </track>
+  <track href="spotify:track:4Gwng5moFbYbqsHLmiF5xw">
+    <name>Le Roi De La Forêt</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502151</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>225.493000</length>
+    <popularity>0.24302</popularity>
+  </track>
+  <track href="spotify:track:6RPvYxbDoVBx5T2GNp1BEs">
+    <name>St Exubérant</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502152</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>281.573000</length>
+    <popularity>0.23725</popularity>
+  </track>
+  <track href="spotify:track:4N20b0jbzGnT1aXRQ4QsC1">
+    <name>Je Suis Un If</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502157</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>246.267000</length>
+    <popularity>0.23711</popularity>
+  </track>
+  <track href="spotify:track:36y7dGX9cDsIFDliOokQOd">
+    <name>Living Room</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977020</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>257.400000</length>
+    <popularity>0.29191</popularity>
+  </track>
+  <track href="spotify:track:5NidygDPFQEsD89RUyvF7W">
+    <name>Si J'avais Été</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502153</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>196.733000</length>
+    <popularity>0.23458</popularity>
+  </track>
+  <track href="spotify:track:0BaZShXrjoB3m23E2RqfbX">
+    <name>Interlude Potzi</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502149</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>82.600000</length>
+    <popularity>0.23446</popularity>
+  </track>
+  <track href="spotify:track:4l5X32Ioh7xj2BGDG1bXH4">
+    <name>Calendar</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410283</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>189.160000</length>
+    <popularity>0.28637</popularity>
+  </track>
+  <track href="spotify:track:7KAG717LY3dcfdNjz1BSL6">
+    <name>Ainsi Soit-il</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502154</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>149.627000</length>
+    <popularity>0.22390</popularity>
+  </track>
+  <track href="spotify:track:19Ah3WC9y2wC3MafXmUirO">
+    <name>Obliques</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502156</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>195.333000</length>
+    <popularity>0.22142</popularity>
+  </track>
+  <track href="spotify:track:0WSIETL2cWfsMFDBse7D1M">
+    <name>Aquarium</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410284</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>272.200000</length>
+    <popularity>0.27506</popularity>
+  </track>
+  <track href="spotify:track:3BrdW41mhLrQLmVBhfafbg">
+    <name>Berry-Bouy</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USK010502158</id>
+    <album href="spotify:album:1UKFf7F9wbbxdxm1D5nQLw">
+      <name>Paris Combo</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>246.507000</length>
+    <popularity>0.21369</popularity>
+  </track>
+  <track href="spotify:track:087IfhBNRDZvXs3aQ7pBix">
+    <name>Lettre A P</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101010</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>222.666000</length>
+    <popularity>0.26291</popularity>
+  </track>
+  <track href="spotify:track:2lg3fqu5dpWrNfS9SJKDNL">
+    <name>Touriste d'une vie</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410287</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>236.133000</length>
+    <popularity>0.26162</popularity>
+  </track>
+  <track href="spotify:track:594thwMsSGlUfixrw0FHM1">
+    <name>Etoile pâle</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410286</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>239.707000</length>
+    <popularity>0.25980</popularity>
+  </track>
+  <track href="spotify:track:6jUpcP6anWZVetWeXwfpzc">
+    <name>Ennemis Siamois</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410285</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>213.587000</length>
+    <popularity>0.25964</popularity>
+  </track>
+  <track href="spotify:track:1tTrNxYY2OJsI2ivjAo3AI">
+    <name>Moi Mon Ame Et Ma Conscience</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756020</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>261.933000</length>
+    <popularity>0.20350</popularity>
+  </track>
+  <track href="spotify:track:1nyiJWvEysp1hDVq3ZETik">
+    <name>Attraction</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101000</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>235.560000</length>
+    <popularity>0.25568</popularity>
+  </track>
+  <track href="spotify:track:2iVG7dH8JR7MQKP5zMqTvD">
+    <name>Trois Petits Points</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020100930</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>208.866000</length>
+    <popularity>0.25371</popularity>
+  </track>
+  <track href="spotify:track:5Z0jy7ILAwaz3xyANDkAK9">
+    <name>On N'a Pas Besoin</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756010</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>247.666000</length>
+    <popularity>0.19907</popularity>
+  </track>
+  <track href="spotify:track:4Sr3jGtkEcA5Z3kqiGrsKH">
+    <name>Baguée</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410288</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>188.547000</length>
+    <popularity>0.25311</popularity>
+  </track>
+  <track href="spotify:track:2tMyq2l57zmoGDPe4IHhbQ">
+    <name>Je ne sais qui fumer</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410295</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>201.160000</length>
+    <popularity>0.25213</popularity>
+  </track>
+  <track href="spotify:track:0Z5XnAjoLMAsp4Ra1ZdyUx">
+    <name>Prête à porter</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410291</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>257.960000</length>
+    <popularity>0.24989</popularity>
+  </track>
+  <track href="spotify:track:0teBMgO8JuAwtmAnSQG8Kn">
+    <name>Danse Des Esprits</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020100990</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>217.066000</length>
+    <popularity>0.24784</popularity>
+  </track>
+  <track href="spotify:track:50PTofjqn3WYOkBE76MkIc">
+    <name>Reflet</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410290</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>221.507000</length>
+    <popularity>0.24648</popularity>
+  </track>
+  <track href="spotify:track:02KNKx6V3MPjP5T0L1FYUR">
+    <name>Motus</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410289</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>197.493000</length>
+    <popularity>0.24292</popularity>
+  </track>
+  <track href="spotify:track:22QTv2HtADmUkqa4tfz7G8">
+    <name>Irenée</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756050</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>235.266000</length>
+    <popularity>0.18662</popularity>
+  </track>
+  <track href="spotify:track:0BfMEFAwR4FDmWN4gFzLCh">
+    <name>Baron de chaise</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410292</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>149.787000</length>
+    <popularity>0.23952</popularity>
+  </track>
+  <track href="spotify:track:3CA0qr3CvgC5DnRLD6pvPL">
+    <name>Je Rêve Encore</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756030</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>245.933000</length>
+    <popularity>0.18237</popularity>
+  </track>
+  <track href="spotify:track:6QQy4g2eBwjMtnuR4b1HCs">
+    <name>Discordance</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410293</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>229.280000</length>
+    <popularity>0.23511</popularity>
+  </track>
+  <track href="spotify:track:1HA1pOmSuFuq2oSKHguNPq">
+    <name>Living Room</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977020</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>257.400000</length>
+    <popularity>0.23460</popularity>
+  </track>
+  <track href="spotify:track:4CTDoAWeyuDSIAWABsoQaW">
+    <name>Mais Que Fait La Nasa</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020100970</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>242.453000</length>
+    <popularity>0.23312</popularity>
+  </track>
+  <track href="spotify:track:3iQjRdc2YDUhP4lsTAd11k">
+    <name>Aléas</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">USKO10410294</id>
+    <album href="spotify:album:1U821uo8pZtsOwRBNfQYSS">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>221.213000</length>
+    <popularity>0.22715</popularity>
+  </track>
+  <track href="spotify:track:15rX0MT4DujCYwWXWkTY6P">
+    <name>Traits De Caractère</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020100980</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>253.773000</length>
+    <popularity>0.22682</popularity>
+  </track>
+  <track href="spotify:track:7wTFH7P8Tee73hQDsERPn4">
+    <name>Living Room</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977020</id>
+    <album href="spotify:album:7Bl1mBhNvg9jqaNIRmbmi4">
+      <name>Triple Best Of Les Plus Belles Chansons Francaises 1980-2000</name>
+      <released>2008</released>
+      <availability>
+        <territories>SE</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>250.800000</length>
+    <popularity>0.22491</popularity>
+  </track>
+  <track href="spotify:track:1JRxuOkp6WcWvvyp2RkLAj">
+    <name>Berceuse Insomniaque</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101030</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>201.093000</length>
+    <popularity>0.22197</popularity>
+  </track>
+  <track href="spotify:track:2zJdY7Rd1blggK202QVouh">
+    <name>Escapade</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101070</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>227.413000</length>
+    <popularity>0.21648</popularity>
+  </track>
+  <track href="spotify:track:38EEbJf59FBqo8z9Lm7B0q">
+    <name>Dans Les Bras D'Un Loup</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101020</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>203.933000</length>
+    <popularity>0.21604</popularity>
+  </track>
+  <track href="spotify:track:6hh9TfZHOf1vdtwgkf4cq3">
+    <name>Les Portes De L'Ennui</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756040</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>175.026000</length>
+    <popularity>0.15978</popularity>
+  </track>
+  <track href="spotify:track:4AmYfzDFkR3sHfy7tv8BYs">
+    <name>Avril</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101050</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>269.773000</length>
+    <popularity>0.21177</popularity>
+  </track>
+  <track href="spotify:track:66WZny43eXduxEYJ0aNFE1">
+    <name>Le Roi De La Forêt</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756080</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>225.093000</length>
+    <popularity>0.15893</popularity>
+  </track>
+  <track href="spotify:track:3SQLe2ciWCFnaGCw6ONUk9">
+    <name>Valse D'Amour</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756120</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>166.813000</length>
+    <popularity>0.15857</popularity>
+  </track>
+  <track href="spotify:track:0d23580J6NsEK15EG1QjEf">
+    <name>Si J'Avais Eté</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756100</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>198.400000</length>
+    <popularity>0.15781</popularity>
+  </track>
+  <track href="spotify:track:6VVH6rXNNbyWrXGUTDBZ78">
+    <name>Je Suis Un If</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756140</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>244.640000</length>
+    <popularity>0.15692</popularity>
+  </track>
+  <track href="spotify:track:2tqsByIsnTdiKICfJw22m3">
+    <name>Istanbul</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756070</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>252.640000</length>
+    <popularity>0.15608</popularity>
+  </track>
+  <track href="spotify:track:1agjbHdm2y92Ubgam20ueD">
+    <name>Pourquoi Les Vaches ?</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101040</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>263.320000</length>
+    <popularity>0.20687</popularity>
+  </track>
+  <track href="spotify:track:29rBpFhrabEBbZ1IRcuhKO">
+    <name>Pas A Pas - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020202000</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>350.693000</length>
+    <popularity>0.20623</popularity>
+  </track>
+  <track href="spotify:track:3osggez6TpO4zLBbWjzGJg">
+    <name>Interlude Potzi</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756060</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>85.533000</length>
+    <popularity>0.15216</popularity>
+  </track>
+  <track href="spotify:track:0lDMrr4jnBE6SgeCYnDBlK">
+    <name>St Exubérant</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756090</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>281.840000</length>
+    <popularity>0.15190</popularity>
+  </track>
+  <track href="spotify:track:2d396qRZ8tLkqoCEG8l0Ey">
+    <name>Pas A Pas</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977040</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>256.093000</length>
+    <popularity>0.20331</popularity>
+  </track>
+  <track href="spotify:track:6waYmhh9OZJc05CtbJYMmd">
+    <name>Señor</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977070</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>260.026000</length>
+    <popularity>0.20231</popularity>
+  </track>
+  <track href="spotify:track:5toEOK9CgdVH38agtxp6SW">
+    <name>Rétroviseur</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101060</id>
+    <album href="spotify:album:1kxzVa9yxhLSLPJayLzRJj">
+      <name>Attraction</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV NL NO PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>256.986000</length>
+    <popularity>0.19874</popularity>
+  </track>
+  <track href="spotify:track:1eFs3ScvjmghoPq60Qpm7j">
+    <name>Berry Bouy</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756150</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>252.000000</length>
+    <popularity>0.14586</popularity>
+  </track>
+  <track href="spotify:track:1qtMYZP41NNdIQ2ypPZXun">
+    <name>Ainsi Soit-Il</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756110</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>148.133000</length>
+    <popularity>0.14411</popularity>
+  </track>
+  <track href="spotify:track:2VOlnX2sNXkTkzOZxTb4Z5">
+    <name>Obliques</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829756130</id>
+    <album href="spotify:album:6JwmjqwmgVxF6q6qxujBR7">
+      <name>Paris Combo</name>
+      <released>2000</released>
+      <availability>
+        <territories>BE CH CZ DE DK EE ES FI FR HK IE IT LT LV NL NO PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>195.346000</length>
+    <popularity>0.14116</popularity>
+  </track>
+  <track href="spotify:track:2yWt93pAyxDLb3bDNJhhDD">
+    <name>Señor - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020202100</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>370.080000</length>
+    <popularity>0.19172</popularity>
+  </track>
+  <track href="spotify:track:3B7VFfwzmUVHq9gfksaKku">
+    <name>Living Room - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020202030</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>298.013000</length>
+    <popularity>0.19142</popularity>
+  </track>
+  <track href="spotify:track:7sqlEb8MwenZYQJ9uuCTw5">
+    <name>Reflet - Instrumental</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020102000</id>
+    <album href="spotify:album:6pVrBCOoISxJxv5BQoaYe0">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>219.533000</length>
+    <popularity>0.19005</popularity>
+  </track>
+  <track href="spotify:track:1LkeZr4Q4s6CzJjEM82HXr">
+    <name>Moi, Mom Ame Et Ma Conscience</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">US4R30903912</id>
+    <album href="spotify:album:3oXI8Od7qwwrZ1lqWRahLi">
+      <name>Bring Me Back</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>258.267000</length>
+    <popularity>0.18920</popularity>
+  </track>
+  <track href="spotify:track:1uUEBkr2uiujqlxqEd9oAH">
+    <name>Homeron</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977060</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>213.867000</length>
+    <popularity>0.18902</popularity>
+  </track>
+  <track href="spotify:track:1lzsKGMHSzjNj7YoL5CN2R">
+    <name>Señor</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977070</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>260.027000</length>
+    <popularity>0.18769</popularity>
+  </track>
+  <track href="spotify:track:4UQmDL1yEmTKELoNxqHMLw">
+    <name>Homeron</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977060</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>213.866000</length>
+    <popularity>0.18557</popularity>
+  </track>
+  <track href="spotify:track:3Jf73JidTqGy3g892rNNIQ">
+    <name>Prête A Porter</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020102010</id>
+    <album href="spotify:album:6pVrBCOoISxJxv5BQoaYe0">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>254.400000</length>
+    <popularity>0.18042</popularity>
+  </track>
+  <track href="spotify:track:1f8AwjyxJ7mvIUibhwJ7Lb">
+    <name>Je Suis Sourde</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977050</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>253.306000</length>
+    <popularity>0.17688</popularity>
+  </track>
+  <track href="spotify:track:3u8uS1rpcwYRAenVOsBVLB">
+    <name>Sous La Lune</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977080</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>251.500000</length>
+    <popularity>0.17593</popularity>
+  </track>
+  <track href="spotify:track:5Eww7dgJgt33aweraTvH9S">
+    <name>Pas A Pas</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977040</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>256.093000</length>
+    <popularity>0.17487</popularity>
+  </track>
+  <track href="spotify:track:5CtV4kS1DxpAsQsKdRQknW">
+    <name>Terrien D'Eau Douce</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977030</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>186.666000</length>
+    <popularity>0.17411</popularity>
+  </track>
+  <track href="spotify:track:6dhmp3r0u9u4PLXbjgFhc9">
+    <name>Terrien D'Eau Douce</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977030</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>186.667000</length>
+    <popularity>0.17361</popularity>
+  </track>
+  <track href="spotify:track:6oZUgjxo1lyHx8HWXjOSbH">
+    <name>Si Mon Amour</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977100</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>173.800000</length>
+    <popularity>0.17343</popularity>
+  </track>
+  <track href="spotify:track:2IMtFVBXj4JUE8NyE4ijbA">
+    <name>Dans Les Bras D'Un Loup - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020202010</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>198.013000</length>
+    <popularity>0.16812</popularity>
+  </track>
+  <track href="spotify:track:0Y6pQiIiGBcvDjz1n7y4PH">
+    <name>Sous La Lune</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977080</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>251.667000</length>
+    <popularity>0.16799</popularity>
+  </track>
+  <track href="spotify:track:2OV7emp4GvdBsC9pESUpi7">
+    <name>Ubiquité</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977010</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>205.306000</length>
+    <popularity>0.16726</popularity>
+  </track>
+  <track href="spotify:track:2Flwi6iYfArMRpij5nGqLV">
+    <name>Istanbul - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020201910</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>312.493000</length>
+    <popularity>0.16692</popularity>
+  </track>
+  <track href="spotify:track:6LAIuS6A5qBqFP41FEQnsY">
+    <name>High Low In</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101940</id>
+    <album href="spotify:album:6pVrBCOoISxJxv5BQoaYe0">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>210.560000</length>
+    <popularity>0.16072</popularity>
+  </track>
+  <track href="spotify:track:70NR1aEZxLoXNENO15OeuT">
+    <name>Attraction - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020202020</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>253.773000</length>
+    <popularity>0.16014</popularity>
+  </track>
+  <track href="spotify:track:7BWeHJ4Xtq8TOfxRLdwse2">
+    <name>Irenée - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020201940</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>239.146000</length>
+    <popularity>0.15889</popularity>
+  </track>
+  <track href="spotify:track:5ys3kkldG3YNBqcnT7FFj4">
+    <name>Chez Nous</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977110</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>202.440000</length>
+    <popularity>0.15823</popularity>
+  </track>
+  <track href="spotify:track:4i1R1BPVOphNkEE0p7cHSZ">
+    <name>Je Suis Sourde</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977050</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>253.307000</length>
+    <popularity>0.15735</popularity>
+  </track>
+  <track href="spotify:track:7dPcBHBP5cfi7DQLBoEbER">
+    <name>Ubiquité - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020201930</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>202.626000</length>
+    <popularity>0.15677</popularity>
+  </track>
+  <track href="spotify:track:5Suosb3AKw88hxMmYvshg6">
+    <name>Ubiquité</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977010</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>205.307000</length>
+    <popularity>0.15273</popularity>
+  </track>
+  <track href="spotify:track:1hIE5rcceD80s76X6nV6os">
+    <name>Chez Nous</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977110</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>202.440000</length>
+    <popularity>0.15257</popularity>
+  </track>
+  <track href="spotify:track:6nq8mMlQ2RKpG4SmqziE3j">
+    <name>Aquarium</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020101950</id>
+    <album href="spotify:album:6pVrBCOoISxJxv5BQoaYe0">
+      <name>Motifs</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>271.213000</length>
+    <popularity>0.15223</popularity>
+  </track>
+  <track href="spotify:track:7tp71k9tpDr88OEWxUdSnB">
+    <name>Mais Que Fait La Nasa ? - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020202080</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>238.236000</length>
+    <popularity>0.15086</popularity>
+  </track>
+  <track href="spotify:track:61FWvW0hV6JDh5lAdeh9Xr">
+    <name>Sous La Lune - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020201990</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>299.493000</length>
+    <popularity>0.15052</popularity>
+  </track>
+  <track href="spotify:track:0s5mEM7TdVDLx6X1pUxf7q">
+    <name>Mobil'Homme</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977120</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>310.250000</length>
+    <popularity>0.14988</popularity>
+  </track>
+  <track href="spotify:track:3imRvE4vbAJ72w72ye77g7">
+    <name>Mobil'Homme</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977120</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>310.267000</length>
+    <popularity>0.14896</popularity>
+  </track>
+  <track href="spotify:track:3tCRI48RCXdn9XCNwSBrwi">
+    <name>Lettre A P - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020201950</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>235.373000</length>
+    <popularity>0.14870</popularity>
+  </track>
+  <track href="spotify:track:0gGzjwUdKPFKzPOAj6u8ZB">
+    <name>Le Roi De La Forêt - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020202150</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>250.496000</length>
+    <popularity>0.14472</popularity>
+  </track>
+  <track href="spotify:track:7sqb26foSLxU4V1lCH1DiX">
+    <name>Escapade - Live - Instrumental</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020201970</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>249.660000</length>
+    <popularity>0.14407</popularity>
+  </track>
+  <track href="spotify:track:3YXzoapsOJcXf0Wlujk6ds">
+    <name>Moi Mon Ame Et Ma Conscience - Live</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRZ020202120</id>
+    <album href="spotify:album:1SwrFfGPnmvjh2sdTVrei5">
+      <name>Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>BE CN DE DK EE ES FR IE LT LV MY NO PT SE SG TH UA</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>461.800000</length>
+    <popularity>0.14343</popularity>
+  </track>
+  <track href="spotify:track:28AJUyS3C9UMvox7tpW5Fd">
+    <name>L'Avenir Incertain Du Titanic</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977090</id>
+    <album href="spotify:album:1h7Y5TEQbHDYyW1nNeiKSW">
+      <name>Living-Room</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>216.693000</length>
+    <popularity>0.14296</popularity>
+  </track>
+  <track href="spotify:track:6EyfdorbU1xpvKysXWTUNT">
+    <name>L'Avenir Incertain Du Titanic</name>
+    <artist href="spotify:artist:5xDjKV6UvzyrI3RnwHq02G">
+      <name>Paris Combo</name>
+    </artist>
+    <id type="isrc">FRY829977090</id>
+    <album href="spotify:album:4ej537mAS2U8LAdsUwYWHF">
+      <name>3CD 2003</name>
+      <released>2003</released>
+      <availability>
+        <territories>CN FR</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>216.000000</length>
+    <popularity>0.14289</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Thu, 23 Feb 2012 20:05:35 GMT -->

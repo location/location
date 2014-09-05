@@ -1,0 +1,1750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Koop"/>
+  <opensearch:totalResults>251</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:28Zg3EXyibO3UEda2WirSV">
+    <name>Koop Island Blues</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600604</id>
+    <album href="spotify:album:3vbvhBzSe3KnqkROlMMQTq">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE FI GR HK IS IT JP KR LT LV MX NO PL RU SE TR TW UA VE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>276.360000</length>
+    <popularity>0.58142</popularity>
+  </track>
+  <track href="spotify:track:0pEb2cHdPKyKBAanFUOLTp">
+    <name>Koop Island Blues</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600604</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>276.360000</length>
+    <popularity>0.56174</popularity>
+  </track>
+  <track href="spotify:track:5T8Czk2nF3VExTwXccFyor">
+    <name>Come to Me</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600602</id>
+    <album href="spotify:album:3vbvhBzSe3KnqkROlMMQTq">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE FI GR HK IS IT JP KR LT LV MX NO PL RU SE TR TW UA VE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>173.386000</length>
+    <popularity>0.54078</popularity>
+  </track>
+  <track href="spotify:track:19MMMKq4LzbTvhOMYccIRd">
+    <name>Waltz For Koop</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103010</id>
+    <album href="spotify:album:0X1R9oJfADbmCxXb4II8G8">
+      <name>Waltz for Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>186.880000</length>
+    <popularity>0.49479</popularity>
+  </track>
+  <track href="spotify:track:0MuXZVMXHl01DBU5DdO3EP">
+    <name>Summer Sun</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103040</id>
+    <album href="spotify:album:0X1R9oJfADbmCxXb4II8G8">
+      <name>Waltz for Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>227.520000</length>
+    <popularity>0.49461</popularity>
+  </track>
+  <track href="spotify:track:6HiwrSg0bAdQXDOx4ZqO5J">
+    <name>Come To Me</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600602</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>173.386000</length>
+    <popularity>0.50763</popularity>
+  </track>
+  <track href="spotify:track:66PJ1lsv3JfSELck971wrQ">
+    <name>I See a Different You</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600601</id>
+    <album href="spotify:album:3vbvhBzSe3KnqkROlMMQTq">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE FI GR HK IS IT JP KR LT LV MX NO PL RU SE TR TW UA VE</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>198.893000</length>
+    <popularity>0.46489</popularity>
+  </track>
+  <track href="spotify:track:0SFFoON1xEtFVIrhDMVhUU">
+    <name>Koop Island Blues</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600604</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>274.000000</length>
+    <popularity>0.44820</popularity>
+  </track>
+  <track href="spotify:track:0AbWcaFA1bsObTMmsgPnBo">
+    <name>Tonight</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103020</id>
+    <album href="spotify:album:0X1R9oJfADbmCxXb4II8G8">
+      <name>Waltz for Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>174.626000</length>
+    <popularity>0.45121</popularity>
+  </track>
+  <track href="spotify:track:7dHb4AksTmfc5sxyhawa85">
+    <name>Waltz For Koop</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103010</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>186.880000</length>
+    <popularity>0.43337</popularity>
+  </track>
+  <track href="spotify:track:0AJZJIq8XRtbfk5oY0iRY7">
+    <name>Forces... Darling</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600603</id>
+    <album href="spotify:album:3vbvhBzSe3KnqkROlMMQTq">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE FI GR HK IS IT JP KR LT LV MX NO PL RU SE TR TW UA VE</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>305.133000</length>
+    <popularity>0.43193</popularity>
+  </track>
+  <track href="spotify:track:1vOYlwRdG3RbxyvOxQy28x">
+    <name>Let's Elope</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600605</id>
+    <album href="spotify:album:3vbvhBzSe3KnqkROlMMQTq">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE FI GR HK IS IT JP KR LT LV MX NO PL RU SE TR TW UA VE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>196.720000</length>
+    <popularity>0.42697</popularity>
+  </track>
+  <track href="spotify:track:7kzrXoCs15diWgPxBV2TgV">
+    <name>The Moonbounce</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600606</id>
+    <album href="spotify:album:3vbvhBzSe3KnqkROlMMQTq">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE FI GR HK IS IT JP KR LT LV MX NO PL RU SE TR TW UA VE</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>168.160000</length>
+    <popularity>0.41011</popularity>
+  </track>
+  <track href="spotify:track:75sAWnVBYaaYs1mWbB05Qg">
+    <name>Koop Island Blues</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <artist href="spotify:artist:2L3kwZFd16zjHz9a5kEPAm">
+      <name>Ane Brun</name>
+    </artist>
+    <id type="isrc">SELEI0600604</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>272.760000</length>
+    <popularity>0.40010</popularity>
+  </track>
+  <track href="spotify:track:5ekaNGlD1DHpPMVsgTJu0l">
+    <name>Whenever There Is You</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600608</id>
+    <album href="spotify:album:3vbvhBzSe3KnqkROlMMQTq">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE FI GR HK IS IT JP KR LT LV MX NO PL RU SE TR TW UA VE</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>243.640000</length>
+    <popularity>0.40969</popularity>
+  </track>
+  <track href="spotify:track:2KZteRoTMdOK7zIvHPtVpV">
+    <name>Baby</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103030</id>
+    <album href="spotify:album:0X1R9oJfADbmCxXb4II8G8">
+      <name>Waltz for Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>227.413000</length>
+    <popularity>0.41266</popularity>
+  </track>
+  <track href="spotify:track:367QcuWYyNzSVYrdywoEff">
+    <name>Beyond the Sun</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600607</id>
+    <album href="spotify:album:3vbvhBzSe3KnqkROlMMQTq">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE FI GR HK IS IT JP KR LT LV MX NO PL RU SE TR TW UA VE</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>295.440000</length>
+    <popularity>0.40159</popularity>
+  </track>
+  <track href="spotify:track:5D4TesvJql4oP1xvv3p44D">
+    <name>Forces... Darling</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600603</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>305.133000</length>
+    <popularity>0.43944</popularity>
+  </track>
+  <track href="spotify:track:0q7bOhFpUxAcw24BmogjIw">
+    <name>Relaxin At Club F****n</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103080</id>
+    <album href="spotify:album:0X1R9oJfADbmCxXb4II8G8">
+      <name>Waltz for Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>256.026000</length>
+    <popularity>0.40207</popularity>
+  </track>
+  <track href="spotify:track:5EWRR25SKtP0jVrm3wEK7n">
+    <name>Drum Rhythm (Music for Ballet Exercises)</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600609</id>
+    <album href="spotify:album:3vbvhBzSe3KnqkROlMMQTq">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE FI GR HK IS IT JP KR LT LV MX NO PL RU SE TR TW UA VE</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>134.946000</length>
+    <popularity>0.39664</popularity>
+  </track>
+  <track href="spotify:track:47S3bi6FL6ChJHi0NY5SFi">
+    <name>Let's Elope</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600605</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>196.720000</length>
+    <popularity>0.43453</popularity>
+  </track>
+  <track href="spotify:track:5OqNZex0XB5JJV09t2X9fB">
+    <name>In A Heartbeat</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103070</id>
+    <album href="spotify:album:0X1R9oJfADbmCxXb4II8G8">
+      <name>Waltz for Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>310.480000</length>
+    <popularity>0.39892</popularity>
+  </track>
+  <track href="spotify:track:5p6Ea33B5wTdPQvha4Ulg9">
+    <name>Soul For Sahib</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103050</id>
+    <album href="spotify:album:0X1R9oJfADbmCxXb4II8G8">
+      <name>Waltz for Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>217.826000</length>
+    <popularity>0.39836</popularity>
+  </track>
+  <track href="spotify:track:06QKwrVf01n11UkG06L1wM">
+    <name>Bright Nights</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103090</id>
+    <album href="spotify:album:0X1R9oJfADbmCxXb4II8G8">
+      <name>Waltz for Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>235.826000</length>
+    <popularity>0.39212</popularity>
+  </track>
+  <track href="spotify:track:7i7AffG2BR2XfZG3pxoEn1">
+    <name>Modal Mile</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103060</id>
+    <album href="spotify:album:0X1R9oJfADbmCxXb4II8G8">
+      <name>Waltz for Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>261.973000</length>
+    <popularity>0.39167</popularity>
+  </track>
+  <track href="spotify:track:23a3wVKm0ir9wFU3h5p4gG">
+    <name>Strange Love</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0702619</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>204.813000</length>
+    <popularity>0.42632</popularity>
+  </track>
+  <track href="spotify:track:7x0PcKmiBTgjnw9n0GFqwn">
+    <name>Koop Island Blues</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600604</id>
+    <album href="spotify:album:3I6yiuImMqcMlQJJrNIC5e">
+      <name>Koop Islands</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CR CU CV CX CY CZ DJ DM DO DZ EG EH ER ES ET FJ FK FM FO FR GA GB GD GE GG GH GI GL GM GN GP GQ GS GT GU GW HM HN HR HT HU ID IE IL IM IN IO IQ IR JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LU LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RW SA SB SC SD SH SI SJ SK SL SM SN SO ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UG UM UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>274.000000</length>
+    <popularity>0.35702</popularity>
+  </track>
+  <track href="spotify:track:44ZIVmySA3L29cMelUVYvo">
+    <name>Summer Sun</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103040</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>227.520000</length>
+    <popularity>0.42033</popularity>
+  </track>
+  <track href="spotify:track:5fKFi6AgqRWBI9DDImiNJM">
+    <name>I See A Different You</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600601</id>
+    <album href="spotify:album:2GEB3N3aTonm4PuSoVj2ip">
+      <name>Freshly Composted 2 - Compost 250</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>201.480000</length>
+    <popularity>0.41508</popularity>
+  </track>
+  <track href="spotify:track:1wBb0kb9guAfwlEQbtXlux">
+    <name>Waltz For Koop</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">GBKTX0701289</id>
+    <album href="spotify:album:0UY14V5WxeRATgSta3Z7iz">
+      <name>Ibiza: Summer Chillout Classics Box Set - 42 Chilled Balearic Grooves</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>183.760000</length>
+    <popularity>0.37112</popularity>
+  </track>
+  <track href="spotify:track:45h2J6GBhn3LmueBDregR2">
+    <name>Tonight</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103020</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>174.626000</length>
+    <popularity>0.41069</popularity>
+  </track>
+  <track href="spotify:track:5khazNO5bYA31AupGLKpSb">
+    <name>Koop Island Blues</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">NL-P43-11-00485</id>
+    <album href="spotify:album:0kC6PltyBtDOnfbpzHdNKe">
+      <name>Ibiza Beats - Volume 3</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>269.000000</length>
+    <popularity>0.36956</popularity>
+  </track>
+  <track href="spotify:track:6ptF7DI3ij2Tl2AqQVTQfZ">
+    <name>Glömd</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702020</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>293.680000</length>
+    <popularity>0.40546</popularity>
+  </track>
+  <track href="spotify:track:5EBOa7FuxSjTbkC7fMWLJT">
+    <name>Whenever There Is You</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600608</id>
+    <album href="spotify:album:3I6yiuImMqcMlQJJrNIC5e">
+      <name>Koop Islands</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CR CU CV CX CY CZ DJ DM DO DZ EG EH ER ES ET FJ FK FM FO FR GA GB GD GE GG GH GI GL GM GN GP GQ GS GT GU GW HM HN HR HT HU ID IE IL IM IN IO IQ IR JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LU LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RW SA SB SC SD SH SI SJ SK SL SM SN SO ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UG UM UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>241.000000</length>
+    <popularity>0.36220</popularity>
+  </track>
+  <track href="spotify:track:55whWuvJbHPLdEZHLZKaAZ">
+    <name>Baby</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103030</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>227.413000</length>
+    <popularity>0.40077</popularity>
+  </track>
+  <track href="spotify:track:4aKU0pSnVdXxMu17lDAwdh">
+    <name>The Moonbounce</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600606</id>
+    <album href="spotify:album:3I6yiuImMqcMlQJJrNIC5e">
+      <name>Koop Islands</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CR CU CV CX CY CZ DJ DM DO DZ EG EH ER ES ET FJ FK FM FO FR GA GB GD GE GG GH GI GL GM GN GP GQ GS GT GU GW HM HN HR HT HU ID IE IL IM IN IO IQ IR JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LU LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RW SA SB SC SD SH SI SJ SK SL SM SN SO ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UG UM UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>166.000000</length>
+    <popularity>0.35922</popularity>
+  </track>
+  <track href="spotify:track:5q2M2ITKpyACc1mfun2Q0x">
+    <name>I See A Different You</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600601</id>
+    <album href="spotify:album:3f074j3QCgdfP8XiaYpQpP">
+      <name>Coup De Grâce</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>198.893000</length>
+    <popularity>0.39948</popularity>
+  </track>
+  <track href="spotify:track:2B8L1D2rmtd7zbSZ0zpmpt">
+    <name>Beyond The Son</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600607</id>
+    <album href="spotify:album:3I6yiuImMqcMlQJJrNIC5e">
+      <name>Koop Islands</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CR CU CV CX CY CZ DJ DM DO DZ EG EH ER ES ET FJ FK FM FO FR GA GB GD GE GG GH GI GL GM GN GP GQ GS GT GU GW HM HN HR HT HU ID IE IL IM IN IO IQ IR JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LU LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RW SA SB SC SD SH SI SJ SK SL SM SN SO ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UG UM UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>293.000000</length>
+    <popularity>0.35240</popularity>
+  </track>
+  <track href="spotify:track:0pjFihp6lmO6KCZtqUvyPk">
+    <name>Drum Rhythm A - Music For Ballet Exercises</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600609</id>
+    <album href="spotify:album:3I6yiuImMqcMlQJJrNIC5e">
+      <name>Koop Islands</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CR CU CV CX CY CZ DJ DM DO DZ EG EH ER ES ET FJ FK FM FO FR GA GB GD GE GG GH GI GL GM GN GP GQ GS GT GU GW HM HN HR HT HU ID IE IL IM IN IO IQ IR JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LU LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RW SA SB SC SD SH SI SJ SK SL SM SN SO ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UG UM UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>134.000000</length>
+    <popularity>0.34840</popularity>
+  </track>
+  <track href="spotify:track:7l458qP0ZOccSkXCd4hQSI">
+    <name>Tonight - Nicola Conte New Jazz Version</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0900202</id>
+    <album href="spotify:album:2pSKGvLVTaCgTferiisQv5">
+      <name>Waltz for Koop</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>397.173000</length>
+    <popularity>0.35363</popularity>
+  </track>
+  <track href="spotify:track:5yWO8WjAn4fTUbCAUFBNep">
+    <name>Baby - D' Malicious Remix</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0900201</id>
+    <album href="spotify:album:2pSKGvLVTaCgTferiisQv5">
+      <name>Waltz for Koop</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>189.666000</length>
+    <popularity>0.34948</popularity>
+  </track>
+  <track href="spotify:track:0z17LDnZC8spZNRbnk60vF">
+    <name>Relaxin At Club F****n - Dorfmeister vs. Madrid De Los Austrias Version</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0900205</id>
+    <album href="spotify:album:2pSKGvLVTaCgTferiisQv5">
+      <name>Waltz for Koop</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>358.146000</length>
+    <popularity>0.34854</popularity>
+  </track>
+  <track href="spotify:track:163X2DQl1tYVBWMDxhHBbi">
+    <name>Summer Sun - Markus Enochson Remix</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0900204</id>
+    <album href="spotify:album:2pSKGvLVTaCgTferiisQv5">
+      <name>Waltz for Koop</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>405.360000</length>
+    <popularity>0.34039</popularity>
+  </track>
+  <track href="spotify:track:5XgbgHL4fEUQrcAUp4r1Gp">
+    <name>Come To Me</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600602</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>171.000000</length>
+    <popularity>0.37523</popularity>
+  </track>
+  <track href="spotify:track:39QuTrFP7iq7KygulIO1MM">
+    <name>Waltz For Koop - DJ Patife Remix</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0900208</id>
+    <album href="spotify:album:2pSKGvLVTaCgTferiisQv5">
+      <name>Waltz for Koop</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>506.586000</length>
+    <popularity>0.32106</popularity>
+  </track>
+  <track href="spotify:track:3ctKLmKYtVFPJLaToXomNQ">
+    <name>Come To Me feat. Yukimi Nagano</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600602</id>
+    <album href="spotify:album:3I6yiuImMqcMlQJJrNIC5e">
+      <name>Koop Islands</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CR CU CV CX CY CZ DJ DM DO DZ EG EH ER ES ET FJ FK FM FO FR GA GB GD GE GG GH GI GL GM GN GP GQ GS GT GU GW HM HN HR HT HU ID IE IL IM IN IO IQ IR JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LU LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RW SA SB SC SD SH SI SJ SK SL SM SN SO ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UG UM UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>171.000000</length>
+    <popularity>0.33386</popularity>
+  </track>
+  <track href="spotify:track:45eCilC717Z0LRfK9m9qdC">
+    <name>Come To Me</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <artist href="spotify:artist:34U611pEEfxLSRX3NIPcHf">
+      <name>Yukimi Nagano</name>
+    </artist>
+    <id type="isrc">SELEI0600602</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>171.360000</length>
+    <popularity>0.33884</popularity>
+  </track>
+  <track href="spotify:track:5Y9vBhAAgyh4v03gDY0dmJ">
+    <name>Modal Mile - 2 Banks Of 4 Remix</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0900203</id>
+    <album href="spotify:album:2pSKGvLVTaCgTferiisQv5">
+      <name>Waltz for Koop</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>320.386000</length>
+    <popularity>0.31843</popularity>
+  </track>
+  <track href="spotify:track:3uzDmnJ8d16Q6maGPua8Ld">
+    <name>Forces… Darling</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600603</id>
+    <album href="spotify:album:3I6yiuImMqcMlQJJrNIC5e">
+      <name>Koop Islands</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CR CU CV CX CY CZ DJ DM DO DZ EG EH ER ES ET FJ FK FM FO FR GA GB GD GE GG GH GI GL GM GN GP GQ GS GT GU GW HM HN HR HT HU ID IE IL IM IN IO IQ IR JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LU LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RW SA SB SC SD SH SI SJ SK SL SM SN SO ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UG UM UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>303.000000</length>
+    <popularity>0.31003</popularity>
+  </track>
+  <track href="spotify:track:5bOz6FKUeJUulxvcJktSom">
+    <name>I See A Different You</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600601</id>
+    <album href="spotify:album:3I6yiuImMqcMlQJJrNIC5e">
+      <name>Koop Islands</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CR CU CV CX CY CZ DJ DM DO DZ EG EH ER ES ET FJ FK FM FO FR GA GB GD GE GG GH GI GL GM GN GP GQ GS GT GU GW HM HN HR HT HU ID IE IL IM IN IO IQ IR JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LU LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RW SA SB SC SD SH SI SJ SK SL SM SN SO ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UG UM UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>196.000000</length>
+    <popularity>0.30413</popularity>
+  </track>
+  <track href="spotify:track:4C2SwJ3WBMJaGS2rdsES4Z">
+    <name>Waltz For Koop</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103010</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>186.000000</length>
+    <popularity>0.30392</popularity>
+  </track>
+  <track href="spotify:track:0usFj88SEuZdWT1u2S74BK">
+    <name>Introduktion</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702010</id>
+    <album href="spotify:album:0w2En0fcZmsokdYXp67ug6">
+      <name>Sons of Koop</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>107.333000</length>
+    <popularity>0.30890</popularity>
+  </track>
+  <track href="spotify:track:0JEFcKK6ixiAitILW60zmi">
+    <name>In A Hearbeat - Hird Remix</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0900207</id>
+    <album href="spotify:album:2pSKGvLVTaCgTferiisQv5">
+      <name>Waltz for Koop</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>247.160000</length>
+    <popularity>0.30824</popularity>
+  </track>
+  <track href="spotify:track:04Agv2vxzmPmnQmCYSNTG5">
+    <name>The Moonbounce</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600606</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>166.133000</length>
+    <popularity>0.30286</popularity>
+  </track>
+  <track href="spotify:track:7rFcGeExJWwFXdoYnGpTvl">
+    <name>Bright Nights - Aima Techno Chimp Dub Mix</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0900206</id>
+    <album href="spotify:album:2pSKGvLVTaCgTferiisQv5">
+      <name>Waltz for Koop</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>442.853000</length>
+    <popularity>0.30669</popularity>
+  </track>
+  <track href="spotify:track:78a7ehnIIgo9vRB4Jh5Rr8">
+    <name>Glömd</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702020</id>
+    <album href="spotify:album:0w2En0fcZmsokdYXp67ug6">
+      <name>Sons of Koop</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>293.680000</length>
+    <popularity>0.30660</popularity>
+  </track>
+  <track href="spotify:track:3igK0OGeAVFRvAnfhKSHlS">
+    <name>Absolute Space</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702050</id>
+    <album href="spotify:album:0w2En0fcZmsokdYXp67ug6">
+      <name>Sons of Koop</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>305.506000</length>
+    <popularity>0.30655</popularity>
+  </track>
+  <track href="spotify:track:3Cqm6GiQuImnjeKLg8ot34">
+    <name>Let’s Elope</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600605</id>
+    <album href="spotify:album:3I6yiuImMqcMlQJJrNIC5e">
+      <name>Koop Islands</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CR CU CV CX CY CZ DJ DM DO DZ EG EH ER ES ET FJ FK FM FO FR GA GB GD GE GG GH GI GL GM GN GP GQ GS GT GU GW HM HN HR HT HU ID IE IL IM IN IO IQ IR JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LU LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NF NG NI NL NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RW SA SB SC SD SH SI SJ SK SL SM SN SO ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UG UM UZ VA VC VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>194.000000</length>
+    <popularity>0.29536</popularity>
+  </track>
+  <track href="spotify:track:38ZdIyWoP8dWv45ut0fJfQ">
+    <name>Koop Island Blues</name>
+    <artist href="spotify:artist:5CoE8rjdqtMO8SiQbYca2H">
+      <name>Oscar Simonsson"</name>
+    </artist>
+    <artist href="spotify:artist:7tf3AS4rGU2JMQBhF6rvdd">
+      <name>"Ane Brun</name>
+    </artist>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <artist href="spotify:artist:7N1btbmZy63b0S1YpEB9My">
+      <name>Markus Zingmark</name>
+    </artist>
+    <id type="isrc">SELEI0600604</id>
+    <album href="spotify:album:6lnVLiVOxbkl0KKjk6oGNe">
+      <name>Buddha Bar IX</name>
+      <released>2007</released>
+      <availability>
+        <territories>AF AG AI AN AO AQ AR AS AU AW AZ BB BD BF BI BJ BM BN BO BR BS BT BV BW BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX DJ DM DO DZ EC EH ER ET FJ FK FM GA GD GF GH GL GM GN GP GQ GS GT GU GW GY HK HM HN HT ID IN IO JM JP KE KH KI KM KN KP KR KY LA LC LK LR LS LY MA MG MH ML MM MN MO MP MQ MR MS MU MV MW MX MY MZ NA NC NE NF NG NI NP NR NU NZ PA PE PF PG PH PK PM PN PR PS PW PY RW SB SC SD SG SL SN SO SR ST SV SZ TC TD TF TG TH TK TL TN TO TT TV TW TZ UG UM US UY VC VE VG VI VN VU WF WS ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>268.707000</length>
+    <popularity>0.32641</popularity>
+  </track>
+  <track href="spotify:track:1KYwkFVQ1G2bpD65fR0p7T">
+    <name>Summer Sun - Carlito Remix</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0900209</id>
+    <album href="spotify:album:2pSKGvLVTaCgTferiisQv5">
+      <name>Waltz for Koop</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>391.413000</length>
+    <popularity>0.29922</popularity>
+  </track>
+  <track href="spotify:track:3JB3FcQUcI8BH9dzeVfv2g">
+    <name>Psalm</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702030</id>
+    <album href="spotify:album:0w2En0fcZmsokdYXp67ug6">
+      <name>Sons of Koop</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>279.346000</length>
+    <popularity>0.29852</popularity>
+  </track>
+  <track href="spotify:track:0mQU57jJrbvHRoRmzDzLlV">
+    <name>Intro</name>
+    <artist href="spotify:artist:14NPkkAvH5KHqZhqFpuJEg">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">USJ3V1109671</id>
+    <album href="spotify:album:2vX723upkLwYa2SusxepuT">
+      <name>Tha Luv That Love Produced</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>106.240000</length>
+    <popularity>0.33116</popularity>
+  </track>
+  <track href="spotify:track:1B6D0JQMneAoQYhxTcp1qJ">
+    <name>Ball Playa</name>
+    <artist href="spotify:artist:14NPkkAvH5KHqZhqFpuJEg">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">USJ3V1109672</id>
+    <album href="spotify:album:2vX723upkLwYa2SusxepuT">
+      <name>Tha Luv That Love Produced</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>130.612000</length>
+    <popularity>0.32974</popularity>
+  </track>
+  <track href="spotify:track:4lUIiUXSfPb8P5dyU55g50">
+    <name>Strange Love</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0702619</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>204.813000</length>
+    <popularity>0.28934</popularity>
+  </track>
+  <track href="spotify:track:7lRpNsYNwUXXl5aFtpaRpW">
+    <name>Whenever There Is You</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <artist href="spotify:artist:34U611pEEfxLSRX3NIPcHf">
+      <name>Yukimi Nagano</name>
+    </artist>
+    <id type="isrc">SELEI0600608</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>241.253000</length>
+    <popularity>0.31275</popularity>
+  </track>
+  <track href="spotify:track:6tUFctlfxBNkZ48Bf6eEjA">
+    <name>Words of Tranquility</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702060</id>
+    <album href="spotify:album:0w2En0fcZmsokdYXp67ug6">
+      <name>Sons of Koop</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>313.586000</length>
+    <popularity>0.29287</popularity>
+  </track>
+  <track href="spotify:track:4OBRDJVT6uwJUlBubIuaIJ">
+    <name>Forces… Darling</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600603</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>303.000000</length>
+    <popularity>0.32629</popularity>
+  </track>
+  <track href="spotify:track:5aYOguryqOImE8fgZlMvOj">
+    <name>Bjarne Riis</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702040</id>
+    <album href="spotify:album:0w2En0fcZmsokdYXp67ug6">
+      <name>Sons of Koop</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>166.640000</length>
+    <popularity>0.29056</popularity>
+  </track>
+  <track href="spotify:track:4wBgELqFwBcdrxy9xoUFNK">
+    <name>Come To Me</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SEEFR0600602</id>
+    <album href="spotify:album:1A46mWCyayyHJQ6LGO6q2U">
+      <name>Grey's Anatomy Volume 3</name>
+      <released>2007</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>169.720000</length>
+    <popularity>0.32278</popularity>
+  </track>
+  <track href="spotify:track:1u1JAk0sZexKIiUS9MnJhf">
+    <name>Drum Rhythm A [Music For Ballet Exercises]</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600609</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>135.373000</length>
+    <popularity>0.28209</popularity>
+  </track>
+  <track href="spotify:track:0jeSsJfFurZ62wdGHwYlmp">
+    <name>Let’s Elope</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600605</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>194.000000</length>
+    <popularity>0.31980</popularity>
+  </track>
+  <track href="spotify:track:34CE1zM4VYFbgw8SQCs3Gl">
+    <name>Jellyfishes</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702080</id>
+    <album href="spotify:album:0w2En0fcZmsokdYXp67ug6">
+      <name>Sons of Koop</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>414.186000</length>
+    <popularity>0.28229</popularity>
+  </track>
+  <track href="spotify:track:6vswUKyaaudjcyAM9rkgoD">
+    <name>Waltz For Koop - Feat. Cecilia Stalin</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103010</id>
+    <album href="spotify:album:5WKCF3SAUe0GanVmFL9QCH">
+      <name>Waltz For Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>BB BS BZ CA CR DO GT HN HT JM KY LC MX NI PA PR SV TT US VI</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>186.880000</length>
+    <popularity>0.26112</popularity>
+  </track>
+  <track href="spotify:track:3vm0aEj2SMGtncYdjU2DI7">
+    <name>I See A Different You</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <artist href="spotify:artist:34U611pEEfxLSRX3NIPcHf">
+      <name>Yukimi Nagano</name>
+    </artist>
+    <id type="isrc">SELEI0600601</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>196.866000</length>
+    <popularity>0.29646</popularity>
+  </track>
+  <track href="spotify:track:0uv87wOXLuQMO5iKZdgd7Q">
+    <name>Hellsbells</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702100</id>
+    <album href="spotify:album:0w2En0fcZmsokdYXp67ug6">
+      <name>Sons of Koop</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>243.960000</length>
+    <popularity>0.27643</popularity>
+  </track>
+  <track href="spotify:track:1NErP5BYwfJeBVSJYozKZt">
+    <name>Forces....Darling</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <artist href="spotify:artist:5I2hdsBZpNvCB71cieQSw3">
+      <name>Earl Zinger</name>
+    </artist>
+    <id type="isrc">SELEI0600603</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>303.093000</length>
+    <popularity>0.29245</popularity>
+  </track>
+  <track href="spotify:track:58Xw43Wh852wsL1riSNbA5">
+    <name>Salvation</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702070</id>
+    <album href="spotify:album:0w2En0fcZmsokdYXp67ug6">
+      <name>Sons of Koop</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>306.053000</length>
+    <popularity>0.27285</popularity>
+  </track>
+  <track href="spotify:track:2UWxBr9E96XFzC6nsZmPAv">
+    <name>Here's That Rainy Day - Koop Remix</name>
+    <artist href="spotify:artist:5rX2c1zow6hCph8PnnU3kF">
+      <name>Astrud Gilberto</name>
+    </artist>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">USGR10300565</id>
+    <album href="spotify:album:6sHssbd2OeNYv6Xeq1VNL9">
+      <name>Verve Remixed 2</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IT LT LV MY NL NO NZ PL PT SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>211.146000</length>
+    <popularity>0.30713</popularity>
+  </track>
+  <track href="spotify:track:1YuOpTPh7NUMdbplquz1s7">
+    <name>Young And Foolish</name>
+    <artist href="spotify:artist:0o3nSvAzubeQu5hVOQyD6a">
+      <name>Koop Arponen</name>
+    </artist>
+    <id type="isrc">FIBAR1000078</id>
+    <album href="spotify:album:5XPJ2ftMaOip73o7oUrmZp">
+      <name>Bright Lights</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CR CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UZ VA VC VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>209.266000</length>
+    <popularity>0.33625</popularity>
+  </track>
+  <track href="spotify:track:6aR9ZzzHGHenxeNoruyc1X">
+    <name>Once Britten</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702090</id>
+    <album href="spotify:album:0w2En0fcZmsokdYXp67ug6">
+      <name>Sons of Koop</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>248.013000</length>
+    <popularity>0.26772</popularity>
+  </track>
+  <track href="spotify:track:57khL1qBWK1pVou9ojIlMG">
+    <name>Stand Clear</name>
+    <artist href="spotify:artist:14NPkkAvH5KHqZhqFpuJEg">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">USJ3V1109673</id>
+    <album href="spotify:album:2vX723upkLwYa2SusxepuT">
+      <name>Tha Luv That Love Produced</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>178.547000</length>
+    <popularity>0.29731</popularity>
+  </track>
+  <track href="spotify:track:23t6TQw5F56B6mqI7CKY7S">
+    <name>Summer Sun</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103040</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>227.000000</length>
+    <popularity>0.29142</popularity>
+  </track>
+  <track href="spotify:track:6IRI5Atcn42Hhvzp4OD7PI">
+    <name>Let's Elope</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <artist href="spotify:artist:4kRVdpZTEtqYGQtoqYPv3n">
+      <name>Mikael Sundin</name>
+    </artist>
+    <id type="isrc">SELEI0600605</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>194.680000</length>
+    <popularity>0.27271</popularity>
+  </track>
+  <track href="spotify:track:2tqCuwcmWCBlTzcH7DtiUC">
+    <name>Strange Love</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0702619</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>204.000000</length>
+    <popularity>0.28756</popularity>
+  </track>
+  <track href="spotify:track:2SMlGXRpJd9SWaH5ZzcciR">
+    <name>Tonight</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103020</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>174.000000</length>
+    <popularity>0.28713</popularity>
+  </track>
+  <track href="spotify:track:0b15k4zoAPRhYl6cekwMZm">
+    <name>Summer Sun - Feat. Yukimi Nagano</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103040</id>
+    <album href="spotify:album:5WKCF3SAUe0GanVmFL9QCH">
+      <name>Waltz For Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>BB BS BZ CA CR DO GT HN HT JM KY LC MX NI PA PR SV TT US VI</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>227.560000</length>
+    <popularity>0.25197</popularity>
+  </track>
+  <track href="spotify:track:6iFYYAqndPFJFdRd25nrlS">
+    <name>Beyond The Son</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <artist href="spotify:artist:5I2hdsBZpNvCB71cieQSw3">
+      <name>Earl Zinger</name>
+    </artist>
+    <id type="isrc">SELE10600607</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>292.226000</length>
+    <popularity>0.26653</popularity>
+  </track>
+  <track href="spotify:track:6OMWHBJbATsUBsakHx8eKX">
+    <name>Strange Love</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <artist href="spotify:artist:0XF6KRFMk624XUnttYcJq0">
+      <name>Hilde Louise Asbjørnsen</name>
+    </artist>
+    <id type="isrc">SELEI0702619</id>
+    <album href="spotify:album:5f1YTwFtWWFcW2S5aPjBS9">
+      <name>Strange Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY CC CD CF CG CH CI CK CL CM CN CO CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GU GW GY HK HM HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NL NO NP NR NU NZ OM PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>204.813000</length>
+    <popularity>0.33167</popularity>
+  </track>
+  <track href="spotify:track:4ygrQZBUbmtJkVDy2K5qf4">
+    <name>Come To Me</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <artist href="spotify:artist:34U611pEEfxLSRX3NIPcHf">
+      <name>Yukimi Nagano</name>
+    </artist>
+    <id type="isrc">GBCAD0707014</id>
+    <album href="spotify:album:7utDnqKdc3HiSx54MSaGSc">
+      <name>Koop Islands</name>
+      <released>2007</released>
+      <availability>
+        <territories>GF US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>199.093000</length>
+    <popularity>0.26638</popularity>
+  </track>
+  <track href="spotify:track:7L26zmtKi7f1m1MD4NnSsG">
+    <name>Every Song I Hear</name>
+    <artist href="spotify:artist:0o3nSvAzubeQu5hVOQyD6a">
+      <name>Koop Arponen</name>
+    </artist>
+    <id type="isrc">FIBAR0900021</id>
+    <album href="spotify:album:6iz38vWQWpzuSA5GiMykA5">
+      <name>Every Song I Hear</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CR CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PF PG PH PK PL PM PN PR PS PT PW QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UZ VA VC VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>236.640000</length>
+    <popularity>0.31087</popularity>
+  </track>
+  <track href="spotify:track:5GmJZjIMn4ghyDE09msKLS">
+    <name>I See A Different You</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0600601</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>196.000000</length>
+    <popularity>0.27560</popularity>
+  </track>
+  <track href="spotify:track:2TLi1wqWzo32zNoPfKpgiP">
+    <name>Baby</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103030</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>226.000000</length>
+    <popularity>0.27558</popularity>
+  </track>
+  <track href="spotify:track:4urDUCIdcsg8oix8OxQHxh">
+    <name>Glömd</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEC9702020</id>
+    <album href="spotify:album:5UohfKOo4HeRsVnG7b9Td9">
+      <name>Coup De Grace (1997-2007)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR AU BO BR CL CO EC ES GB GF GY IE IT NZ PE PT PY SR UY VE</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>294.000000</length>
+    <popularity>0.27108</popularity>
+  </track>
+  <track href="spotify:track:2nwUXJBKg4QFEZt4KjiewO">
+    <name>My Era</name>
+    <artist href="spotify:artist:14NPkkAvH5KHqZhqFpuJEg">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">USJ3V1109674</id>
+    <album href="spotify:album:2vX723upkLwYa2SusxepuT">
+      <name>Tha Luv That Love Produced</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>154.331000</length>
+    <popularity>0.26889</popularity>
+  </track>
+  <track href="spotify:track:5kkRWnc2GEMTgbQOmEMB0q">
+    <name>Here's That Rainy Day - Koop Remix</name>
+    <artist href="spotify:artist:5rX2c1zow6hCph8PnnU3kF">
+      <name>Astrud Gilberto</name>
+    </artist>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">USGR10300565</id>
+    <album href="spotify:album:4lFQ3rz34iGRBrmwsJKcZo">
+      <name>Verve Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CZ DK EE ES FI FR HK HR HU IE IN IT LT LV NL NO NZ PL PT RU SE SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>211.146000</length>
+    <popularity>0.26391</popularity>
+  </track>
+  <track href="spotify:track:7IYfk5zr4HGTLPo5oZaDKX">
+    <name>Tonight - Feat. Mikael Sundin</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103020</id>
+    <album href="spotify:album:5WKCF3SAUe0GanVmFL9QCH">
+      <name>Waltz For Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>BB BS BZ CA CR DO GT HN HT JM KY LC MX NI PA PR SV TT US VI</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>174.627000</length>
+    <popularity>0.22948</popularity>
+  </track>
+  <track href="spotify:track:07GLHWEyiUg3xJaHAspY2s">
+    <name>Smoke Clears</name>
+    <artist href="spotify:artist:14NPkkAvH5KHqZhqFpuJEg">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">USJ3V1109675</id>
+    <album href="spotify:album:2vX723upkLwYa2SusxepuT">
+      <name>Tha Luv That Love Produced</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>244.010000</length>
+    <popularity>0.26318</popularity>
+  </track>
+  <track href="spotify:track:3ASJ2scMyK0cdPhtEtap8d">
+    <name>Bright Nights - Feat. Yukimi Nagano</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103090</id>
+    <album href="spotify:album:5WKCF3SAUe0GanVmFL9QCH">
+      <name>Waltz For Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>BB BS BZ CA CR DO GT HN HT JM KY LC MX NI PA PR SV TT US VI</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>235.827000</length>
+    <popularity>0.22509</popularity>
+  </track>
+  <track href="spotify:track:6tEDCIAfeYCsiFddTE5sn6">
+    <name>Relaxin' At Club F****n</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0103080</id>
+    <album href="spotify:album:5WKCF3SAUe0GanVmFL9QCH">
+      <name>Waltz For Koop</name>
+      <released>2002</released>
+      <availability>
+        <territories>BB BS BZ CA CR DO GT HN HT JM KY LC MX NI PA PR SV TT US VI</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>255.320000</length>
+    <popularity>0.22341</popularity>
+  </track>
+  <track href="spotify:track:167DB31NrDzxyIbsmm69Iz">
+    <name>Drum Rhythm A (Music For Ballet Exercises) (Drumlesson Mix A by Christian Prommer)</name>
+    <artist href="spotify:artist:7wyBxBXLVLaiF2jxHCpvTe">
+      <name>Koop</name>
+    </artist>
+    <id type="isrc">SELEI0601703</id>
+    <album href="spotify:album:4TePe7dfZxAdcQ3YvyFPC6">
+      <name>Future Sounds Of Jazz Vol.11</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>420.667000</length>
+    <popularity>0.25383</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:21:41 GMT -->

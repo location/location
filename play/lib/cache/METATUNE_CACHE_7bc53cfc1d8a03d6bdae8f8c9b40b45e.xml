@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Julian Berntzen"/>
+  <opensearch:totalResults>86</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:1cNmYGuEwuDzbXD2TpcEb1">
+    <name>Waffy Town</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700273</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>199.200000</length>
+    <popularity>0.21663</popularity>
+  </track>
+  <track href="spotify:track:7DFfyerLEjRyilxA4xkbCt">
+    <name>Little Book</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700272</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>177.307000</length>
+    <popularity>0.18618</popularity>
+  </track>
+  <track href="spotify:track:44PSUYx5Pv7DR0AuxSixhh">
+    <name>Girl From Town</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700275</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>244.088000</length>
+    <popularity>0.16815</popularity>
+  </track>
+  <track href="spotify:track:2RwSBYUoBHUTskKMf1dIvu">
+    <name>A Song For The Ghost We Saw</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700276</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>204.293000</length>
+    <popularity>0.16300</popularity>
+  </track>
+  <track href="spotify:track:7BTDOkDA2jvt9JbxTgN3ta">
+    <name>Dr Jeff</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700274</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>219.466000</length>
+    <popularity>0.15411</popularity>
+  </track>
+  <track href="spotify:track:3oxLwEKAlcxcQ50veHGrIr">
+    <name>The Park 1920</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400359</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>199.866000</length>
+    <popularity>0.11869</popularity>
+  </track>
+  <track href="spotify:track:4aYFAe9AzvcUwVOPb6aoo8">
+    <name>Teddy`s Band</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700279</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>270.466000</length>
+    <popularity>0.11703</popularity>
+  </track>
+  <track href="spotify:track:656ZGv99ThhxZCiKVdtF40">
+    <name>Mr. Piggystar</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700280</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>224.676000</length>
+    <popularity>0.10036</popularity>
+  </track>
+  <track href="spotify:track:7J2x9O7LHgrgvxCYQBulFU">
+    <name>Jason The Face</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700282</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>263.093000</length>
+    <popularity>0.10905</popularity>
+  </track>
+  <track href="spotify:track:5wl5OVMoX08lCK9a59JVwv">
+    <name>William</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400360</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>176.960000</length>
+    <popularity>0.08643</popularity>
+  </track>
+  <track href="spotify:track:1dV1tbEiP8xqJVL4bABEBG">
+    <name>Caramel Smog</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400362</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>239.706000</length>
+    <popularity>0.09955</popularity>
+  </track>
+  <track href="spotify:track:5IUFp1QQeLzYPTVdtnTKWR">
+    <name>The Clown</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700277</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>98.866000</length>
+    <popularity>0.09250</popularity>
+  </track>
+  <track href="spotify:track:3RogCx6wPjc5JgLVCpoKRT">
+    <name>Garden Swing 1932</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700278</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>47.200000</length>
+    <popularity>0.09012</popularity>
+  </track>
+  <track href="spotify:track:6Ywqm9qt2fiW0DnjJV7XFf">
+    <name>Mrs Dandelliohn`s Music And Flowers</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700281</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>223.933000</length>
+    <popularity>0.09335</popularity>
+  </track>
+  <track href="spotify:track:2nKTnLHlN6cA4RgPJ2sbqe">
+    <name>The Magician</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700283</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>163.793000</length>
+    <popularity>0.09031</popularity>
+  </track>
+  <track href="spotify:track:3P7zfy9gRgHq6sUioXrJvO">
+    <name>Song For The Day</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70700284</id>
+    <album href="spotify:album:3JpPuNKTy8DV5VgGsnRP3i">
+      <name>Waffy Town</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>169.226000</length>
+    <popularity>0.08633</popularity>
+  </track>
+  <track href="spotify:track:7BSOjdtXJ5MSkm0f7lsJaH">
+    <name>Swing William Swing</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400361</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>76.533000</length>
+    <popularity>0.05922</popularity>
+  </track>
+  <track href="spotify:track:15w1nlH1rFnw04gHX84TiZ">
+    <name>The Cat (Theme From The Movie Theatre)</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400364</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>160.493000</length>
+    <popularity>0.05996</popularity>
+  </track>
+  <track href="spotify:track:7fys57ICBqXakPz9fPUUtx">
+    <name>The Night Will Turn To Day</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400363</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>157.600000</length>
+    <popularity>0.05851</popularity>
+  </track>
+  <track href="spotify:track:5Q4HVMzkJZ3puKlXCIRsZA">
+    <name>Letters In The Sun</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400365</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>262.400000</length>
+    <popularity>0.07145</popularity>
+  </track>
+  <track href="spotify:track:0LaYIwC7TYVKwU2iaohf7h">
+    <name>Mary And Moon</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400368</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>153.973000</length>
+    <popularity>0.06153</popularity>
+  </track>
+  <track href="spotify:track:52WAI8HWEQJLPLGKUjeP6E">
+    <name>In The House Where She Lives (Paint Your Days)</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400369</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>323.840000</length>
+    <popularity>0.05888</popularity>
+  </track>
+  <track href="spotify:track:4mXoZM9CZbRsHBuOVtaWOU">
+    <name>Julias Jewelry</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800378</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>267.386000</length>
+    <popularity>0.07056</popularity>
+  </track>
+  <track href="spotify:track:6SPJw75O9hzH47BrK7jvg3">
+    <name>Intro / Overture</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800379</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>50.093000</length>
+    <popularity>0.06286</popularity>
+  </track>
+  <track href="spotify:track:0qUfI8DuBMk8UkRGDq9ni9">
+    <name>Rocket Ship Love</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800377</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>199.106000</length>
+    <popularity>0.07056</popularity>
+  </track>
+  <track href="spotify:track:3I4A2HB3HqgsAPN4TsLqzX">
+    <name>Johnny</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800380</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>206.453000</length>
+    <popularity>0.05087</popularity>
+  </track>
+  <track href="spotify:track:0y0H5GYV3tK7YbJ5iM087E">
+    <name>The View</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800381</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>155.226000</length>
+    <popularity>0.06604</popularity>
+  </track>
+  <track href="spotify:track:222JEThP98SmX7lJBefpU1">
+    <name>A Penguine Neon Dance</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800382</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>83.680000</length>
+    <popularity>0.06884</popularity>
+  </track>
+  <track href="spotify:track:4P8qmTJVriAlpmTbSr3Dja">
+    <name>Julias Jewelry</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800378</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>269.240000</length>
+    <popularity>0.06035</popularity>
+  </track>
+  <track href="spotify:track:3LZOHY5DXDLoRBKI9NZy4c">
+    <name>Lady Jane - Demo</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800497</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>236.626000</length>
+    <popularity>0.05325</popularity>
+  </track>
+  <track href="spotify:track:4b5cFk2awI7zIHXtpMg2tw">
+    <name>Fly Away In Mind (Ellie´s Song)</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NO2EA1101010</id>
+    <album href="spotify:album:5tAswNo0fKRduv6gKE5GoR">
+      <name>Fly Away In Mind (Ellie´s Song)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>224.650000</length>
+    <popularity>0.07737</popularity>
+  </track>
+  <track href="spotify:track:1fVIgZB9rounX704da6sex">
+    <name>Across The Street</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NO2EA1201080</id>
+    <album href="spotify:album:47Me8eYMatwPGGBxXKXdwr">
+      <name>Across The Street</name>
+      <released>2012</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>238.016000</length>
+    <popularity>0.06856</popularity>
+  </track>
+  <track href="spotify:track:2VtRtobK3YCX5FzOlRecMH">
+    <name>Mr Max</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400366</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>227.466000</length>
+    <popularity>0.04925</popularity>
+  </track>
+  <track href="spotify:track:3tXrQEG9tmDtNVqKm0oDtj">
+    <name>A Strangers House</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOAMM0400367</id>
+    <album href="spotify:album:2G1pseXo3WBZGZnyupC6t3">
+      <name>Pictures  (In The House Where She Lives)</name>
+      <released>2004</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>182.466000</length>
+    <popularity>0.04980</popularity>
+  </track>
+  <track href="spotify:track:6KuK1mR8gGsTrZo5Aw6wVV">
+    <name>Rocket Ship Love</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70702593</id>
+    <album href="spotify:album:4PeHCf36MKhSNYiitICp8H">
+      <name>Rocket Ship Love</name>
+      <released>2007</released>
+      <availability>
+        <territories>CN DE EE FI HU LT LV MY NO PT SG TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>183.506000</length>
+    <popularity>0.03710</popularity>
+  </track>
+  <track href="spotify:track:4345uFvUo3ukSyATXW4Mn3">
+    <name>Julias Jewelry - Single edit</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800242</id>
+    <album href="spotify:album:2KoNgnJpwSR64HArjD7QdY">
+      <name>Julias Jewelry</name>
+      <released>2008</released>
+      <availability>
+        <territories>CN DE EE FI HU IL LT LV MY NO PT SG TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>230.226000</length>
+    <popularity>0.03982</popularity>
+  </track>
+  <track href="spotify:track:0tV674vF0IAhMNNpw8DEqu">
+    <name>Intro / Overture</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800379</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>47.647000</length>
+    <popularity>0.01274</popularity>
+  </track>
+  <track href="spotify:track:3eKkYhB0fFheRT7HNXnq1W">
+    <name>Rocket Ship Love</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800377</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>197.106000</length>
+    <popularity>0.04033</popularity>
+  </track>
+  <track href="spotify:track:4vVxzoVhUSrbawHaMTl89D">
+    <name>Johnny</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800380</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>204.428000</length>
+    <popularity>0.00543</popularity>
+  </track>
+  <track href="spotify:track:6DWTvSvM6fpUCTnyfEL8lh">
+    <name>The View</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800381</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>153.226000</length>
+    <popularity>0.01044</popularity>
+  </track>
+  <track href="spotify:track:5MQbERiOilVN5Q19z9STy7">
+    <name>A Penguine Neon Dance</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800382</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>82.533000</length>
+    <popularity>0.01004</popularity>
+  </track>
+  <track href="spotify:track:52oM9m1mLAwWZFN5lw7MES">
+    <name>Clouds Will Pass</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800383</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>136.120000</length>
+    <popularity>0.02946</popularity>
+  </track>
+  <track href="spotify:track:6wDMVIQnO4vNoyj8TLDyh8">
+    <name>Sunny Street</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800384</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>275.266000</length>
+    <popularity>0.00899</popularity>
+  </track>
+  <track href="spotify:track:5Q4VhbSFKpwHfFv8ChQUjh">
+    <name>A Loveletter For Jenny Bell</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800385</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>117.678000</length>
+    <popularity>0.00599</popularity>
+  </track>
+  <track href="spotify:track:0cpLzsm2QhgPqm4HpaRSYR">
+    <name>Ballroom Universe</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800386</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>234.320000</length>
+    <popularity>0.01079</popularity>
+  </track>
+  <track href="spotify:track:4adrRJB0lap4SczIYNipAs">
+    <name>Rainbow Mixtures</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800387</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>200.226000</length>
+    <popularity>0.00797</popularity>
+  </track>
+  <track href="spotify:track:4QRx4wUdU6jWfjyawT3uhw">
+    <name>Zathinne</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800388</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>162.933000</length>
+    <popularity>0.00775</popularity>
+  </track>
+  <track href="spotify:track:44bwKvAYDD2A8Xvrk6IUEn">
+    <name>Lonely Ballroom Piano</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800389</id>
+    <album href="spotify:album:1DuY9BMz6LJrhpBvSP68Sp">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>83.866000</length>
+    <popularity>0.00767</popularity>
+  </track>
+  <track href="spotify:track:4k87sUu0lyap2JxZsr0kJ0">
+    <name>Intro / Overture</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800379</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>50.093000</length>
+    <popularity>0.01052</popularity>
+  </track>
+  <track href="spotify:track:1lHYWGwZLMNmmCeBVVdwEk">
+    <name>Rocket Ship Love</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800377</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>198.500000</length>
+    <popularity>0.01987</popularity>
+  </track>
+  <track href="spotify:track:6pqq2oJYPwAop0kgM7HooY">
+    <name>Johnny</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800380</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>205.500000</length>
+    <popularity>0.01831</popularity>
+  </track>
+  <track href="spotify:track:0Dqj0Fna92W1ijru3TqS7C">
+    <name>The View</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800381</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>155.226000</length>
+    <popularity>0.01448</popularity>
+  </track>
+  <track href="spotify:track:1sBlXcNBK7sxiaGN9IeuxK">
+    <name>A Penguine Neon Dance</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800382</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>83.680000</length>
+    <popularity>0.00655</popularity>
+  </track>
+  <track href="spotify:track:3aLGeRrwyNfDNk0gl4E8WB">
+    <name>Julias Jewelry</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800378</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>269.240000</length>
+    <popularity>0.01435</popularity>
+  </track>
+  <track href="spotify:track:0T3zN8fW6EiStlucWgIKz7">
+    <name>Clouds Will Pass</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800383</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>137.613000</length>
+    <popularity>0.01116</popularity>
+  </track>
+  <track href="spotify:track:30kzsUqxrGazEVDF1AWZ9x">
+    <name>Sunny Street</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800384</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>277.306000</length>
+    <popularity>0.00664</popularity>
+  </track>
+  <track href="spotify:track:6IceBGcAEjjwcST7PbGEqX">
+    <name>A Loveletter For Jenny Bell</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800385</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>119.500000</length>
+    <popularity>0.00662</popularity>
+  </track>
+  <track href="spotify:track:2N1yydzfYlarce57RU4aqd">
+    <name>Ballroom Universe</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800386</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>234.320000</length>
+    <popularity>0.01406</popularity>
+  </track>
+  <track href="spotify:track:2mB3SGRQo21MFfs6cupDz1">
+    <name>Rainbow Mixtures</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800387</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>201.746000</length>
+    <popularity>0.01181</popularity>
+  </track>
+  <track href="spotify:track:06AaJJVIgZSxBnWPwNjYZ1">
+    <name>Zathinne</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800388</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>164.693000</length>
+    <popularity>0.01035</popularity>
+  </track>
+  <track href="spotify:track:0NEJ5RGFt4OvrlvcC4VMRm">
+    <name>Lonely Ballroom Piano</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800389</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>83.866000</length>
+    <popularity>0.03774</popularity>
+  </track>
+  <track href="spotify:track:7sPWWZUoZ7oshd09EfULEV">
+    <name>A Loveletter For Jenny Bell - Alternativ Piano Version</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800447</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>130.000000</length>
+    <popularity>0.03940</popularity>
+  </track>
+  <track href="spotify:track:1mxhkpBONKJLLlqHG8boMY">
+    <name>Johnny - Original Home Recorded Demo</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800448</id>
+    <album href="spotify:album:0yn4RvYk9ANsYb8b7S0862">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL LT LV MY NL NO NZ PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>145.240000</length>
+    <popularity>0.02211</popularity>
+  </track>
+  <track href="spotify:track:3QMjcIJOsesqR4nMGQ1r7M">
+    <name>Clouds Will Pass</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800383</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>137.613000</length>
+    <popularity>0.04339</popularity>
+  </track>
+  <track href="spotify:track:5hVcq3XCi9IFSc7VEKaWjr">
+    <name>Sunny Street</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800384</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>276.750000</length>
+    <popularity>0.04178</popularity>
+  </track>
+  <track href="spotify:track:3FF5H7DGajy9o52XnROGUj">
+    <name>A Loveletter For Jenny Bell</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800385</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>119.500000</length>
+    <popularity>0.03303</popularity>
+  </track>
+  <track href="spotify:track:0pTOGEtQ93QUFskWr32w5k">
+    <name>Ballroom Universe</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800386</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>233.750000</length>
+    <popularity>0.04484</popularity>
+  </track>
+  <track href="spotify:track:7jK5AFlvJ8HS2XNdptujZ9">
+    <name>Rainbow Mixtures</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800387</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>201.746000</length>
+    <popularity>0.02979</popularity>
+  </track>
+  <track href="spotify:track:1NO4KWbq5KzJAH1fyiBQQv">
+    <name>Zathinne</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800388</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>164.693000</length>
+    <popularity>0.03071</popularity>
+  </track>
+  <track href="spotify:track:2iwGO7AhqvWfgkCb1dfoaw">
+    <name>Lonely Ballroom Piano</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800389</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>83.866000</length>
+    <popularity>0.03368</popularity>
+  </track>
+  <track href="spotify:track:5ywBRUURRkMsY10Y86NWra">
+    <name>Sunny Street - Demo</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800498</id>
+    <album href="spotify:album:6Oh9R4Nkddof2jScroRzrH">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE DK EE FI FR GB HK IE IL LT LV MY NL NO NZ PL PT SE SG SK TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>135.520000</length>
+    <popularity>0.03298</popularity>
+  </track>
+  <track href="spotify:track:7xJYM47Igqpou1DHE2DivH">
+    <name>Intro / Overture</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800379</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>50.093000</length>
+    <popularity>0.00450</popularity>
+  </track>
+  <track href="spotify:track:7zJxmQp5CAgGl6uQ713FfA">
+    <name>Rocket Ship Love</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800377</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>199.107000</length>
+    <popularity>0.01273</popularity>
+  </track>
+  <track href="spotify:track:4q8rPziEZds9o2lQvnPQvy">
+    <name>Johnny</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800380</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>206.425000</length>
+    <popularity>0.00385</popularity>
+  </track>
+  <track href="spotify:track:4GWTpkn0jb77hh4HtMJO3H">
+    <name>The View</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800381</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>155.227000</length>
+    <popularity>0.00537</popularity>
+  </track>
+  <track href="spotify:track:4ZyFA0R9k4ug7xEYJJjOoD">
+    <name>A Penguine Neon Dance</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800382</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>83.680000</length>
+    <popularity>0.04222</popularity>
+  </track>
+  <track href="spotify:track:6R9d1yWWaB7ciMCSF50B0H">
+    <name>Julias Jewelry</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800378</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>269.240000</length>
+    <popularity>0.00410</popularity>
+  </track>
+  <track href="spotify:track:2m8hJclKcQ5CUx2Ed62aGP">
+    <name>Clouds Will Pass</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800383</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>137.613000</length>
+    <popularity>0.00458</popularity>
+  </track>
+  <track href="spotify:track:26iKU8CMaYJg5yLf0g3S6N">
+    <name>Sunny Street</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800384</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>277.307000</length>
+    <popularity>0.00187</popularity>
+  </track>
+  <track href="spotify:track:21siaMOaZ7WtB8VDQvkwwr">
+    <name>A Loveletter For Jenny Bell</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800385</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>119.693000</length>
+    <popularity>0.00125</popularity>
+  </track>
+  <track href="spotify:track:1FunKmyNXSmd8l8HzeWmid">
+    <name>Ballroom Universe</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800386</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>234.320000</length>
+    <popularity>0.00098</popularity>
+  </track>
+  <track href="spotify:track:3yBJPjGNn7F9rkCZCNgjBs">
+    <name>Rainbow Mixtures</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800387</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>201.747000</length>
+    <popularity>0.00229</popularity>
+  </track>
+  <track href="spotify:track:3ZDqkpsuYU3Wxzn5cuynKg">
+    <name>Zathinne</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800388</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>164.693000</length>
+    <popularity>0.00078</popularity>
+  </track>
+  <track href="spotify:track:2j3R9COoCNg2t2nx9XJHKO">
+    <name>Lonely Ballroom Piano</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800389</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>83.867000</length>
+    <popularity>0.00090</popularity>
+  </track>
+  <track href="spotify:track:5ZXx4fqJy3yuyAyd8wVRax">
+    <name>A Loveletter For Jenny Bell - Alternativ Piano Version</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800447</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>130.560000</length>
+    <popularity>0.00506</popularity>
+  </track>
+  <track href="spotify:track:4JI82RLejniiPew3Ukwx7x">
+    <name>Johnny - Original Home Recorded Demo</name>
+    <artist href="spotify:artist:3LdZDdtwvv73slrOeEXgRi">
+      <name>Julian Berntzen</name>
+    </artist>
+    <id type="isrc">NOUM70800448</id>
+    <album href="spotify:album:51b8yeUm3mMODk4tB1Jc6V">
+      <name>Rocket Ship Love</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>145.240000</length>
+    <popularity>0.00410</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Wed, 19 Sep 2012 16:01:38 GMT -->

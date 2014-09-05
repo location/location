@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Ani DiFranco"/>
+  <opensearch:totalResults>878</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:4wPcYTPrTaPa7mcgHRObJn">
+    <name>Life Boat</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100002</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>249.467000</length>
+    <popularity>0.56778</popularity>
+  </track>
+  <track href="spotify:track:5zswtVbDvrlvrqtChwSwe2">
+    <name>Life Boat</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100002</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>249.467000</length>
+    <popularity>0.54006</popularity>
+  </track>
+  <track href="spotify:track:0yvkK6CnD3BqFzsyINTRAb">
+    <name>Unworry</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100003</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>256.893000</length>
+    <popularity>0.53832</popularity>
+  </track>
+  <track href="spotify:track:3IidbdbOc8XeES5uHdWkij">
+    <name>You Had Time</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49400010</id>
+    <album href="spotify:album:34gVxaOKBJDYu735xVwTwn">
+      <name>Out Of Range</name>
+      <released>1994</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>348.000000</length>
+    <popularity>0.52146</popularity>
+  </track>
+  <track href="spotify:track:1kKEWH9qmY2hKh57kxqtYN">
+    <name>Which Side Are You On? (feat. Pete Seeger)</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <artist href="spotify:artist:1P9syEkl41IFowWIJN7ZBY">
+      <name>Pete Seeger</name>
+    </artist>
+    <id type="isrc">USRB41100004</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>387.387000</length>
+    <popularity>0.53140</popularity>
+  </track>
+  <track href="spotify:track:2tvnpXtvkQ248JFtCWONh8">
+    <name>Both Hands</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000001</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>218.000000</length>
+    <popularity>0.45683</popularity>
+  </track>
+  <track href="spotify:track:3bSbzDGBppxXBeRwC5mFD8">
+    <name>Splinter</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100005</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>276.400000</length>
+    <popularity>0.51377</popularity>
+  </track>
+  <track href="spotify:track:48IG49286juDOaSMJQmFwH">
+    <name>Promiscuity</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100006</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>200.413000</length>
+    <popularity>0.51106</popularity>
+  </track>
+  <track href="spotify:track:4Fxcg9RcOCr2HoCkLp8av9">
+    <name>Unworry</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100003</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>256.893000</length>
+    <popularity>0.50346</popularity>
+  </track>
+  <track href="spotify:track:3wYJnjv0q8IWgxwL90uz3u">
+    <name>Albacore</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100007</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>248.200000</length>
+    <popularity>0.50141</popularity>
+  </track>
+  <track href="spotify:track:7twyogX7RTX0k2POyCkYg5">
+    <name>J</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100008</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>315.253000</length>
+    <popularity>0.50019</popularity>
+  </track>
+  <track href="spotify:track:1KSPcdIXgtQIrZnw2ds3eC">
+    <name>Hearse</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100010</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>244.213000</length>
+    <popularity>0.49725</popularity>
+  </track>
+  <track href="spotify:track:4Niha4jLyV2BacoSyU1iqn">
+    <name>If Yr Not</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100009</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>170.707000</length>
+    <popularity>0.49476</popularity>
+  </track>
+  <track href="spotify:track:3KtfhI8axbMKtxRa2UQ7Ip">
+    <name>Mariachi</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100011</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>243.267000</length>
+    <popularity>0.48949</popularity>
+  </track>
+  <track href="spotify:track:1gNlOjnPcCTwTfd1NQxcXG">
+    <name>32 Flavors</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700037</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>367.000000</length>
+    <popularity>0.48169</popularity>
+  </track>
+  <track href="spotify:track:1cCg1z2EEEvl19fwwh46rY">
+    <name>Amendment</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100012</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>386.893000</length>
+    <popularity>0.47964</popularity>
+  </track>
+  <track href="spotify:track:2y8qzed2Egra7XXU9qKe5p">
+    <name>Which Side Are You On?</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <artist href="spotify:artist:1P9syEkl41IFowWIJN7ZBY">
+      <name>Pete Seeger</name>
+    </artist>
+    <id type="isrc">USRB41100004</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>387.387000</length>
+    <popularity>0.49462</popularity>
+  </track>
+  <track href="spotify:track:3SxTYC1DGrwubUlFMZ5AAO">
+    <name>Zoo</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100013</id>
+    <album href="spotify:album:5aIEUKZZzFuFOY1yciFh6U">
+      <name>Which Side Are you On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>188.013000</length>
+    <popularity>0.47262</popularity>
+  </track>
+  <track href="spotify:track:4FGxHGYFZGuBrqswVNA56j">
+    <name>Untouchable Face</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49600001</id>
+    <album href="spotify:album:6kIlHbJGKrsxmC71F4EUFL">
+      <name>Dilate</name>
+      <released>1996</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>278.000000</length>
+    <popularity>0.47087</popularity>
+  </track>
+  <track href="spotify:track:6Z606yVsHprUyB6XQvEIPm">
+    <name>Splinter</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100005</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>276.400000</length>
+    <popularity>0.46470</popularity>
+  </track>
+  <track href="spotify:track:75sJQH955jgEocBfYrDxO4">
+    <name>Promiscuity</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100006</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>200.413000</length>
+    <popularity>0.46035</popularity>
+  </track>
+  <track href="spotify:track:23i9SxRAUo9MSrzpwoS5x1">
+    <name>Albacore</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100007</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>248.200000</length>
+    <popularity>0.45428</popularity>
+  </track>
+  <track href="spotify:track:4pHfKcnPfaHZzlYYeoSdCF">
+    <name>J</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100008</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>315.253000</length>
+    <popularity>0.45142</popularity>
+  </track>
+  <track href="spotify:track:3Q5t2Rqr4h0Q6HgQm9TRHx">
+    <name>If Yr Not</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100009</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>170.707000</length>
+    <popularity>0.44516</popularity>
+  </track>
+  <track href="spotify:track:35PvOzNwUXozbLkdU21Xkz">
+    <name>Hearse</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100010</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>244.213000</length>
+    <popularity>0.44445</popularity>
+  </track>
+  <track href="spotify:track:1UlKyKPkvQmnWfeXM9UUsX">
+    <name>Mariachi</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100011</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>243.267000</length>
+    <popularity>0.43695</popularity>
+  </track>
+  <track href="spotify:track:2YiJ94yWunCnkqMppvz13h">
+    <name>Zoo</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100013</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>188.013000</length>
+    <popularity>0.43199</popularity>
+  </track>
+  <track href="spotify:track:0ajYepq3mP2FTBdbLnVa94">
+    <name>Amendment</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB41100012</id>
+    <album href="spotify:album:2ZqEWMOjYvNb6HW1yvzbr0">
+      <name>Which Side Are You On?</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>386.893000</length>
+    <popularity>0.43095</popularity>
+  </track>
+  <track href="spotify:track:2fVRxEOnmJTrVbV4HlxfDu">
+    <name>Wishin' and Hopin'</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USLIC0601914</id>
+    <album href="spotify:album:28S9FqmzE6jZTjlzdxuQ5R">
+      <name>MY BEST FRIEND'S WEDDING  MUSIC FROM THE MOTION PICTURE</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>194.240000</length>
+    <popularity>0.42569</popularity>
+  </track>
+  <track href="spotify:track:4kqttKTDDtO3MjeDZsqWVn">
+    <name>Little Plastic Castle</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49800012</id>
+    <album href="spotify:album:7otMAGF1QobbYCdIb4RlOf">
+      <name>Little Plastic Castle</name>
+      <released>1998</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>243.000000</length>
+    <popularity>0.41625</popularity>
+  </track>
+  <track href="spotify:track:0NbvLGNYCx95iDjWUNnSyG">
+    <name>Talk to Me Now</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000002</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>269.000000</length>
+    <popularity>0.35859</popularity>
+  </track>
+  <track href="spotify:track:1XYs64co0DYiVOZiAzvJnM">
+    <name>Untouchable Face</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700041</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>217.000000</length>
+    <popularity>0.41094</popularity>
+  </track>
+  <track href="spotify:track:3AsxxGic2SsdRJDcCjjjAu">
+    <name>Tis of Thee</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49800001</id>
+    <album href="spotify:album:4rBmk8EPDrBNXwUysWn4F6">
+      <name>Up Up Up Up Up Up</name>
+      <released>1999</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>282.000000</length>
+    <popularity>0.40339</popularity>
+  </track>
+  <track href="spotify:track:0GnhiOx9wdG22YGn62JmUm">
+    <name>Fire Door</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700030</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>178.000000</length>
+    <popularity>0.40111</popularity>
+  </track>
+  <track href="spotify:track:7ejZbKfrhyXiwWeRIwjQVx">
+    <name>As Is</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700045</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>246.000000</length>
+    <popularity>0.39942</popularity>
+  </track>
+  <track href="spotify:track:4gJp9OsXVh3qFoLfYzwmDs">
+    <name>Out of Habit</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000012</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>165.000000</length>
+    <popularity>0.34164</popularity>
+  </track>
+  <track href="spotify:track:62h5yFjJfVZszO0FsQYmt5">
+    <name>Shy</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700036</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>286.000000</length>
+    <popularity>0.39635</popularity>
+  </track>
+  <track href="spotify:track:5NJqn5cTRF7Az8oHxbXTHu">
+    <name>Red Letter Year</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800022</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>257.000000</length>
+    <popularity>0.39361</popularity>
+  </track>
+  <track href="spotify:track:443Zt6lyoazR1uQILswfYN">
+    <name>Not a Pretty Girl</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49500007</id>
+    <album href="spotify:album:7agdP8K83huoz91qucQO6O">
+      <name>Not A Pretty Girl</name>
+      <released>1995</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>238.000000</length>
+    <popularity>0.39278</popularity>
+  </track>
+  <track href="spotify:track:7rALkUqEkBqitfPRz5JArO">
+    <name>Buildings and Bridges</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700033</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>242.000000</length>
+    <popularity>0.38903</popularity>
+  </track>
+  <track href="spotify:track:7FaDQ5enQ5pBGwjNgK1bLr">
+    <name>All This</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800023</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>193.000000</length>
+    <popularity>0.38267</popularity>
+  </track>
+  <track href="spotify:track:4hp0xdGCAgmZiZamOiuwQ4">
+    <name>Grey</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700050</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>310.000000</length>
+    <popularity>0.38060</popularity>
+  </track>
+  <track href="spotify:track:3tuefNdmyHafwEf2mX8SzE">
+    <name>God's Country</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700031</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>168.000000</length>
+    <popularity>0.37935</popularity>
+  </track>
+  <track href="spotify:track:1gmcazmHO2T20CMiByDJhj">
+    <name>You Had Time</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700032</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>347.000000</length>
+    <popularity>0.37877</popularity>
+  </track>
+  <track href="spotify:track:1BMBaxBaZvzJJrBiG9JKj6">
+    <name>Joyful Girl</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700042</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>269.000000</length>
+    <popularity>0.37575</popularity>
+  </track>
+  <track href="spotify:track:3ngx7V10sXdqUqp1SUlBeC">
+    <name>Napoleon - Live</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800012</id>
+    <album href="spotify:album:1AccTvVrcpqYHtm5IcXlm3">
+      <name>Babeville (Live - September 2007) - EP</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>460.027000</length>
+    <popularity>0.37564</popularity>
+  </track>
+  <track href="spotify:track:1FPSTjyO0ubNwXaTwSOd03">
+    <name>Smiling Underneath</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800025</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>299.000000</length>
+    <popularity>0.37539</popularity>
+  </track>
+  <track href="spotify:track:2ptUwt8CM9wJRvQ5xRvRRX">
+    <name>Present Infant</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800024</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>182.000000</length>
+    <popularity>0.37336</popularity>
+  </track>
+  <track href="spotify:track:1JHj6GydtOaXiKX30v5rus">
+    <name>Work Your Way Out</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000004</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>248.000000</length>
+    <popularity>0.31451</popularity>
+  </track>
+  <track href="spotify:track:68kxz0qnJb8g7fYHAgI9oa">
+    <name>Fire Door</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000009</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>162.000000</length>
+    <popularity>0.31199</popularity>
+  </track>
+  <track href="spotify:track:4pph5yOUTIZ4FFH4F7X8fa">
+    <name>Napoleon</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700046</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>277.000000</length>
+    <popularity>0.36848</popularity>
+  </track>
+  <track href="spotify:track:0mwU1hNneRMF6RJXc3cb7p">
+    <name>Wishin' and Hopin'</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USLIC0601914</id>
+    <album href="spotify:album:2NGbXA2SwEaWNwlWY6SRK3">
+      <name>My Best Friend's Wedding: Music From The Motion Picture</name>
+      <released>1997</released>
+      <availability>
+        <territories>CA CN HK ID IN KR MX PH SG TW US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>194.240000</length>
+    <popularity>0.36820</popularity>
+  </track>
+  <track href="spotify:track:22j7jpZ8NKWY4qDLTox20K">
+    <name>Dilate</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700038</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>286.000000</length>
+    <popularity>0.36635</popularity>
+  </track>
+  <track href="spotify:track:2CHgqu9MzWjzcydpQoEGhS">
+    <name>Cradle &amp; All</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700035</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>257.000000</length>
+    <popularity>0.36471</popularity>
+  </track>
+  <track href="spotify:track:45XTt1xwbrbLHCBaExRCTx">
+    <name>You Had Time - live</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40200050</id>
+    <album href="spotify:album:3HkH35vMvMSWQW0MK7zX3X">
+      <name>So Much Shouting So Much Laughing</name>
+      <released>2002</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>236.000000</length>
+    <popularity>0.36434</popularity>
+  </track>
+  <track href="spotify:track:1jcdboeJg4BuNqWtFf74KB">
+    <name>Gravel</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49800014</id>
+    <album href="spotify:album:7otMAGF1QobbYCdIb4RlOf">
+      <name>Little Plastic Castle</name>
+      <released>1998</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>212.000000</length>
+    <popularity>0.36411</popularity>
+  </track>
+  <track href="spotify:track:41r7kYFPuoLZOyMoycZyd5">
+    <name>Gravel</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700040</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>253.000000</length>
+    <popularity>0.36258</popularity>
+  </track>
+  <track href="spotify:track:7aJf4oqGk5rA4lKr3V8YQn">
+    <name>Fuel</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700044</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>240.000000</length>
+    <popularity>0.35959</popularity>
+  </track>
+  <track href="spotify:track:7cNskkyphRK4AWsrwZL1hL">
+    <name>Way Tight</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800026</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>230.000000</length>
+    <popularity>0.35926</popularity>
+  </track>
+  <track href="spotify:track:4NtTv5BkstPgMn4ndZK1Fl">
+    <name>The Story</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000010</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>210.000000</length>
+    <popularity>0.30091</popularity>
+  </track>
+  <track href="spotify:track:494qjOqmNEUnAxHjiivHMM">
+    <name>Not a Pretty Girl - live</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800014</id>
+    <album href="spotify:album:1AccTvVrcpqYHtm5IcXlm3">
+      <name>Babeville (Live - September 2007) - EP</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>205.920000</length>
+    <popularity>0.35503</popularity>
+  </track>
+  <track href="spotify:track:6aMQVVspTWeJ4G5yVkeKSu">
+    <name>Coming Up</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700034</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>150.000000</length>
+    <popularity>0.35417</popularity>
+  </track>
+  <track href="spotify:track:0Tod2XFVClT2AS1rc0OBox">
+    <name>Dog Coffee</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000005</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>176.000000</length>
+    <popularity>0.29603</popularity>
+  </track>
+  <track href="spotify:track:1CFkuwB7dJEYApfPcSdNEu">
+    <name>Little Plastic Castle</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700043</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>243.000000</length>
+    <popularity>0.35155</popularity>
+  </track>
+  <track href="spotify:track:4Ub6cZQUYeGsukAesEWieI">
+    <name>Shameless</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700047</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>251.000000</length>
+    <popularity>0.35072</popularity>
+  </track>
+  <track href="spotify:track:1aFfTVydzdAWjs13csgirQ">
+    <name>Lost Woman Song</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000006</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>290.000000</length>
+    <popularity>0.29409</popularity>
+  </track>
+  <track href="spotify:track:7vLxbxPPTr74DfhJVRTNFf">
+    <name>Falling Is Like This</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49400008</id>
+    <album href="spotify:album:34gVxaOKBJDYu735xVwTwn">
+      <name>Out Of Range</name>
+      <released>1994</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>181.000000</length>
+    <popularity>0.34975</popularity>
+  </track>
+  <track href="spotify:track:3wEZgyyLOflkvCCEbjo1vC">
+    <name>Superhero</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49600003</id>
+    <album href="spotify:album:6kIlHbJGKrsxmC71F4EUFL">
+      <name>Dilate</name>
+      <released>1996</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>285.000000</length>
+    <popularity>0.34945</popularity>
+  </track>
+  <track href="spotify:track:7EUUQSsRau7LFrQH4J9rFg">
+    <name>Present Infant - Live</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800013</id>
+    <album href="spotify:album:1AccTvVrcpqYHtm5IcXlm3">
+      <name>Babeville (Live - September 2007) - EP</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>199.933000</length>
+    <popularity>0.34496</popularity>
+  </track>
+  <track href="spotify:track:1KdyQ3pDOYqCnTDBf9CONr">
+    <name>Emancipated Minor</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800027</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>270.000000</length>
+    <popularity>0.34341</popularity>
+  </track>
+  <track href="spotify:track:6ixjZoe0muxpgLCqcUjqUk">
+    <name>Two Little Girls</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49800016</id>
+    <album href="spotify:album:7otMAGF1QobbYCdIb4RlOf">
+      <name>Little Plastic Castle</name>
+      <released>1998</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>297.000000</length>
+    <popularity>0.34223</popularity>
+  </track>
+  <track href="spotify:track:6qNZs6SqUkYBhBAjqOGgvg">
+    <name>Atom</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800029</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>325.000000</length>
+    <popularity>0.34057</popularity>
+  </track>
+  <track href="spotify:track:5yyG8nba04V67QQEWgDWxa">
+    <name>Hello Birmingham</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700048</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>318.000000</length>
+    <popularity>0.34053</popularity>
+  </track>
+  <track href="spotify:track:0sZTtII6JZbocJuBhVbBvY">
+    <name>The Slant</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000003</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>96.000000</length>
+    <popularity>0.28330</popularity>
+  </track>
+  <track href="spotify:track:3jSWN7UfPi5JBVpy5wzTuH">
+    <name>Fuel - live</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800015</id>
+    <album href="spotify:album:1AccTvVrcpqYHtm5IcXlm3">
+      <name>Babeville (Live - September 2007) - EP</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>357.373000</length>
+    <popularity>0.33942</popularity>
+  </track>
+  <track href="spotify:track:1C988rSQtm9XhE7lKflZZl">
+    <name>Good Luck</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800028</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>155.000000</length>
+    <popularity>0.33899</popularity>
+  </track>
+  <track href="spotify:track:5JZY7N2hzDmlEAUBJgaDrj">
+    <name>Letting the Telephone Ring</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000013</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>270.000000</length>
+    <popularity>0.28264</popularity>
+  </track>
+  <track href="spotify:track:6lPLs1oFejAMuQ62wBmMba">
+    <name>Pale Purple</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000007</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>242.000000</length>
+    <popularity>0.28256</popularity>
+  </track>
+  <track href="spotify:track:0TJIrqJwEJFAg3S8WWCQUB">
+    <name>Angry Anymore</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49800006</id>
+    <album href="spotify:album:4rBmk8EPDrBNXwUysWn4F6">
+      <name>Up Up Up Up Up Up</name>
+      <released>1999</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>212.000000</length>
+    <popularity>0.33846</popularity>
+  </track>
+  <track href="spotify:track:1bH7Cpg0rJcGni1PLBMj6s">
+    <name>As Is</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49800015</id>
+    <album href="spotify:album:7otMAGF1QobbYCdIb4RlOf">
+      <name>Little Plastic Castle</name>
+      <released>1998</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>246.000000</length>
+    <popularity>0.33782</popularity>
+  </track>
+  <track href="spotify:track:50EAvMRbMPXcymOadRW6Tv">
+    <name>Rush Hour</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000008</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>303.000000</length>
+    <popularity>0.28073</popularity>
+  </track>
+  <track href="spotify:track:4nV0LYkGFHrAcZbhzmLvub">
+    <name>Swan Dive</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49800020</id>
+    <album href="spotify:album:7otMAGF1QobbYCdIb4RlOf">
+      <name>Little Plastic Castle</name>
+      <released>1998</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>389.000000</length>
+    <popularity>0.33601</popularity>
+  </track>
+  <track href="spotify:track:2HcLn3UxvcwzEtwvhfYhR4">
+    <name>Distracted</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700039</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>68.000000</length>
+    <popularity>0.33309</popularity>
+  </track>
+  <track href="spotify:track:76vigPSHhTYwNSxaE6hJBp">
+    <name>Overlap</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700065</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>320.000000</length>
+    <popularity>0.33274</popularity>
+  </track>
+  <track href="spotify:track:1MlOrEUOzRsy3SCPCEbAzQ">
+    <name>Both Hands</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700064</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>201.000000</length>
+    <popularity>0.33080</popularity>
+  </track>
+  <track href="spotify:track:03toJREq1J6EVQ0H3dzmIY">
+    <name>Round a Pole</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800030</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>178.000000</length>
+    <popularity>0.32875</popularity>
+  </track>
+  <track href="spotify:track:0U1pYZzgymxHXh5QS1Lqwk">
+    <name>Landing Gear</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800031</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>175.000000</length>
+    <popularity>0.32786</popularity>
+  </track>
+  <track href="spotify:track:1GCJtB5oDaIjNUtlbMEemH">
+    <name>Marrow</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700052</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>318.000000</length>
+    <popularity>0.32776</popularity>
+  </track>
+  <track href="spotify:track:24TPee17G1pxswrufHIFlw">
+    <name>Fuel</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49800013</id>
+    <album href="spotify:album:7otMAGF1QobbYCdIb4RlOf">
+      <name>Little Plastic Castle</name>
+      <released>1998</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>240.000000</length>
+    <popularity>0.32674</popularity>
+  </track>
+  <track href="spotify:track:7DVUfv32ljxmZ3tHUc5YpT">
+    <name>Star Matter</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800032</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>168.000000</length>
+    <popularity>0.32560</popularity>
+  </track>
+  <track href="spotify:track:2MZRtBHJVLPTwqw59E4WXb">
+    <name>Red Letter Year Reprise</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40800033</id>
+    <album href="spotify:album:1eFPDdN0jgPDEhC6fA3vyK">
+      <name>Red Letter Year</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>386.000000</length>
+    <popularity>0.32554</popularity>
+  </track>
+  <track href="spotify:track:2mNZQxOluO3GDleYDUaupB">
+    <name>Dilate</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49600004</id>
+    <album href="spotify:album:6kIlHbJGKrsxmC71F4EUFL">
+      <name>Dilate</name>
+      <released>1996</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>290.000000</length>
+    <popularity>0.32448</popularity>
+  </track>
+  <track href="spotify:track:3xWWE98MKjSWjFzMDaNZue">
+    <name>Shameless</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49600007</id>
+    <album href="spotify:album:6kIlHbJGKrsxmC71F4EUFL">
+      <name>Dilate</name>
+      <released>1996</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>291.000000</length>
+    <popularity>0.32361</popularity>
+  </track>
+  <track href="spotify:track:6AxnReStsbnrG8qT2GwpCu">
+    <name>Every Angle</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49000011</id>
+    <album href="spotify:album:3f6WpP5IWliBfFnW3ohErI">
+      <name>Ani DiFranco</name>
+      <released>1990</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>164.000000</length>
+    <popularity>0.26606</popularity>
+  </track>
+  <track href="spotify:track:2HTpoy2kk7KxxYDO5mPh8d">
+    <name>Outta Me, Onto You</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49600002</id>
+    <album href="spotify:album:6kIlHbJGKrsxmC71F4EUFL">
+      <name>Dilate</name>
+      <released>1996</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>276.000000</length>
+    <popularity>0.32016</popularity>
+  </track>
+  <track href="spotify:track:3xD75xQ8G4l44UaFqqrcdo">
+    <name>Studying Stones</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700059</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>230.000000</length>
+    <popularity>0.32009</popularity>
+  </track>
+  <track href="spotify:track:4ze4Me3auqQuhUSrvnqSjX">
+    <name>Swim</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700056</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>185.000000</length>
+    <popularity>0.31826</popularity>
+  </track>
+  <track href="spotify:track:6CaAyzjDpYW68wEsAHub6y">
+    <name>Out of Range - acoustic</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB49400002</id>
+    <album href="spotify:album:34gVxaOKBJDYu735xVwTwn">
+      <name>Out Of Range</name>
+      <released>1994</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>225.000000</length>
+    <popularity>0.31711</popularity>
+  </track>
+  <track href="spotify:track:1vvlD2gZaJ93mz1LuqJCwm">
+    <name>Subdivision</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40700054</id>
+    <album href="spotify:album:2PoqOxdv9AArE8UuWngxvk">
+      <name>Canon</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>225.000000</length>
+    <popularity>0.31708</popularity>
+  </track>
+  <track href="spotify:track:22UQ1vlV8SxBbUSETUNXMf">
+    <name>Knuckledown</name>
+    <artist href="spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD">
+      <name>Ani Difranco</name>
+    </artist>
+    <id type="isrc">USRB40500001</id>
+    <album href="spotify:album:2jHwl9O6qZ7NNuJ7t9eXjT">
+      <name>Knuckle Down</name>
+      <released>2005</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>274.000000</length>
+    <popularity>0.31621</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:27:31 GMT -->

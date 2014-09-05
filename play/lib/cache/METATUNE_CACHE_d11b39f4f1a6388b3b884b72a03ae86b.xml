@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Marit Larsen"/>
+  <opensearch:totalResults>191</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:2XJrFs7r1waCkaCsUOHVcM">
+    <name>God natt</name>
+    <artist href="spotify:artist:2rvUlmaAfN7eKSVAcaRj9t">
+      <name>Vinni</name>
+    </artist>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOG841201070</id>
+    <album href="spotify:album:6HNWV3I8FpSL2p2VLEBRl8">
+      <name>Oppvåkningen</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>225.578000</length>
+    <popularity>0.57653</popularity>
+  </track>
+  <track href="spotify:track:2RssYUkYzmEtvxmUX0C19A">
+    <name>Vår beste dag</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100003</id>
+    <album href="spotify:album:72dAuYKSanaCXmsLzS7eUN">
+      <name>Vår beste dag</name>
+      <released>2011</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>202.832000</length>
+    <popularity>0.55281</popularity>
+  </track>
+  <track href="spotify:track:41JU9s1C0UVRAfw395umZW">
+    <name>Coming Home</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100586</id>
+    <album href="spotify:album:32GJmzwZ2qDBZsStMoOLhA">
+      <name>Coming Home</name>
+      <released>2011</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>240.533000</length>
+    <popularity>0.52586</popularity>
+  </track>
+  <track href="spotify:track:26Iu0jp6FndbJxiSXZNJz2">
+    <name>If A Song Could Get Me You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800073</id>
+    <album href="spotify:album:7s40yuUMjpcmSPJVLw4VY8">
+      <name>If A Song Could Get Me You</name>
+      <released>2008</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>210.126000</length>
+    <popularity>0.52213</popularity>
+  </track>
+  <track href="spotify:track:35VR1AGMIO5iQpv1CnGBF6">
+    <name>Under The Surface</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601020</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>254.756000</length>
+    <popularity>0.49728</popularity>
+  </track>
+  <track href="spotify:track:1XyAH98wlFdDDi3P5OmPk8">
+    <name>Under Overflaten (Som Marit Larsen)</name>
+    <artist href="spotify:artist:3X23gpg1vPacr0hBARyxtN">
+      <name>Karpe Diem</name>
+    </artist>
+    <id type="isrc">NOBLV0802010</id>
+    <album href="spotify:album:3OhT5Mxp6To0XwxoxF6wnk">
+      <name>Fire Vegger</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>203.381000</length>
+    <popularity>0.51178</popularity>
+  </track>
+  <track href="spotify:track:1QeLBeyG5QBBwlx1L7QS58">
+    <name>Don't Move</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100589</id>
+    <album href="spotify:album:31D0Z1Gr1oCgPftNtwKpYm">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>226.807000</length>
+    <popularity>0.46342</popularity>
+  </track>
+  <track href="spotify:track:2yEqQywlkGpdgX5ySNJJRm">
+    <name>Keeper Of The Keys</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100588</id>
+    <album href="spotify:album:31D0Z1Gr1oCgPftNtwKpYm">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>241.814000</length>
+    <popularity>0.44459</popularity>
+  </track>
+  <track href="spotify:track:6aYl0U4RSye9FrY6ah6oPx">
+    <name>If A Song Could Get Me You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800073</id>
+    <album href="spotify:album:7HMUpIjoCzaWj6PF9WaFwC">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AR AT BE BO BR BW CH CL CO CR CY CZ DE EC ES GR GT HN HU IE IT KZ LU MT MX NA NG NI NL PA PE PL PT PY RO RU SK SV TR UY VE ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>208.348000</length>
+    <popularity>0.42554</popularity>
+  </track>
+  <track href="spotify:track:3mtKz0ZF3svrknGeaFy0C1">
+    <name>Under overflaten (som Marit Larsen)</name>
+    <artist href="spotify:artist:3X23gpg1vPacr0hBARyxtN">
+      <name>Karpe Diem</name>
+    </artist>
+    <id type="isrc">NOBLV0802010</id>
+    <album href="spotify:album:3ayRZvA7vk21A1ukF6EsdU">
+      <name>Under overflaten (som Marit Larsen)</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>203.982000</length>
+    <popularity>0.39068</popularity>
+  </track>
+  <track href="spotify:track:6dp5bTeiySoMSiN51JoMfp">
+    <name>Coming Home</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100586</id>
+    <album href="spotify:album:31D0Z1Gr1oCgPftNtwKpYm">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>240.533000</length>
+    <popularity>0.41891</popularity>
+  </track>
+  <track href="spotify:track:14HaWf0A62NdYyTLuONwF8">
+    <name>Coming Home</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100586</id>
+    <album href="spotify:album:2KzBVwlxgiy121rm9wyeEV">
+      <name>Coming Home</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>240.010000</length>
+    <popularity>0.41807</popularity>
+  </track>
+  <track href="spotify:track:6zgyCdbFh5VY7jy0vEY4iE">
+    <name>What If</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100590</id>
+    <album href="spotify:album:31D0Z1Gr1oCgPftNtwKpYm">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>297.999000</length>
+    <popularity>0.40850</popularity>
+  </track>
+  <track href="spotify:track:50Zk5OVDAMuH62C95E7w2I">
+    <name>I Can't Love You Anymore</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100591</id>
+    <album href="spotify:album:31D0Z1Gr1oCgPftNtwKpYm">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>261.945000</length>
+    <popularity>0.40235</popularity>
+  </track>
+  <track href="spotify:track:2gKjzwVGWGjiEeilvJuDxv">
+    <name>Don't Save Me</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0510010</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>228.872000</length>
+    <popularity>0.39952</popularity>
+  </track>
+  <track href="spotify:track:7hUyHTbWugVMP9SyCm8gkO">
+    <name>If A Song Could Get Me You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800073</id>
+    <album href="spotify:album:3yzDzLXFh12fqvp2Lx7Pg5">
+      <name>The Chase</name>
+      <released>2008</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>210.649000</length>
+    <popularity>0.38696</popularity>
+  </track>
+  <track href="spotify:track:736RXkLNjZbw1wnxqOMwDf">
+    <name>Have You Ever</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100594</id>
+    <album href="spotify:album:31D0Z1Gr1oCgPftNtwKpYm">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>247.592000</length>
+    <popularity>0.38580</popularity>
+  </track>
+  <track href="spotify:track:6w2qPbyRiVYRxHny8dLVfL">
+    <name>If A Song Could Get Me You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800073</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>205.917000</length>
+    <popularity>0.38389</popularity>
+  </track>
+  <track href="spotify:track:3kbzfMLtlwJNgoKJW6tIh1">
+    <name>Last Night</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100593</id>
+    <album href="spotify:album:31D0Z1Gr1oCgPftNtwKpYm">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>262.547000</length>
+    <popularity>0.38308</popularity>
+  </track>
+  <track href="spotify:track:6jkWIRL8fzmvCtaw46PR8z">
+    <name>Me And The Highway</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100592</id>
+    <album href="spotify:album:31D0Z1Gr1oCgPftNtwKpYm">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>301.843000</length>
+    <popularity>0.38233</popularity>
+  </track>
+  <track href="spotify:track:3whEq7qDs0tTiGZNtlyVRi">
+    <name>Under overflaten (som Marit Larsen) (Singback Live)</name>
+    <artist href="spotify:artist:3X23gpg1vPacr0hBARyxtN">
+      <name>Karpe Diem</name>
+    </artist>
+    <id type="isrc">NOBLV0802012</id>
+    <album href="spotify:album:3ayRZvA7vk21A1ukF6EsdU">
+      <name>Under overflaten (som Marit Larsen)</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>202.649000</length>
+    <popularity>0.35110</popularity>
+  </track>
+  <track href="spotify:track:6wJl3h2Zc184qhfkHKxTqU">
+    <name>The Chase</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800072</id>
+    <album href="spotify:album:3yzDzLXFh12fqvp2Lx7Pg5">
+      <name>The Chase</name>
+      <released>2008</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>211.721000</length>
+    <popularity>0.37958</popularity>
+  </track>
+  <track href="spotify:track:5jhWHEtZca5al1DcFcWHum">
+    <name>Under overflaten (som Marit Larsen) (Ints Mix)</name>
+    <artist href="spotify:artist:3X23gpg1vPacr0hBARyxtN">
+      <name>Karpe Diem</name>
+    </artist>
+    <id type="isrc">NOBLV0802011</id>
+    <album href="spotify:album:3ayRZvA7vk21A1ukF6EsdU">
+      <name>Under overflaten (som Marit Larsen)</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>202.230000</length>
+    <popularity>0.34918</popularity>
+  </track>
+  <track href="spotify:track:2t9YTFqnVz3ZhuvNr3mQrS">
+    <name>Fine Line</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100595</id>
+    <album href="spotify:album:31D0Z1Gr1oCgPftNtwKpYm">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>269.946000</length>
+    <popularity>0.37523</popularity>
+  </track>
+  <track href="spotify:track:1KrrElYM0zQJfcwScPmJUI">
+    <name>Solid Ground</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601040</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>206.780000</length>
+    <popularity>0.37439</popularity>
+  </track>
+  <track href="spotify:track:086vPaXx81ZhwuatjTQXOi">
+    <name>Fuel</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800078</id>
+    <album href="spotify:album:3yzDzLXFh12fqvp2Lx7Pg5">
+      <name>The Chase</name>
+      <released>2008</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>124.188000</length>
+    <popularity>0.37312</popularity>
+  </track>
+  <track href="spotify:track:5GCNx2mSrXWFcsml0DgZwW">
+    <name>Out Of My Hands - Bonustrack</name>
+    <artist href="spotify:artist:6mo0UbyIvIePdXNyLwQlk5">
+      <name>Milow</name>
+    </artist>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">BEA891000001</id>
+    <album href="spotify:album:2kiQDFI1Bc3P6Tw4P1lbXZ">
+      <name>Milow</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE ES PT</territories>
+      </availability>
+    </album>
+    <track-number>19</track-number>
+    <length>209.708000</length>
+    <popularity>0.38508</popularity>
+  </track>
+  <track href="spotify:track:3bs9rgKfrQfJuO87v6P3wa">
+    <name>Only A Fool</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601030</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>246.938000</length>
+    <popularity>0.36805</popularity>
+  </track>
+  <track href="spotify:track:04BaZAlCKgPTJ0SyS0X7KN">
+    <name>That Day</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100596</id>
+    <album href="spotify:album:31D0Z1Gr1oCgPftNtwKpYm">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>285.790000</length>
+    <popularity>0.36650</popularity>
+  </track>
+  <track href="spotify:track:1wghzKOptqw9r8DGLZl1E9">
+    <name>This Is Me, This Is You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800074</id>
+    <album href="spotify:album:3yzDzLXFh12fqvp2Lx7Pg5">
+      <name>The Chase</name>
+      <released>2008</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>245.343000</length>
+    <popularity>0.35034</popularity>
+  </track>
+  <track href="spotify:track:7e1UPO8NcoTYQED9a4W0d6">
+    <name>If A Song Could Get Me You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800073</id>
+    <album href="spotify:album:6fF1V7DB0CzSM8AVrLyxW8">
+      <name>Under The Surface</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ DE DZ ES FR GR HU IE IT KZ LB LU MA MT NA NG NL PL PT RO RU SK TN TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>205.525000</length>
+    <popularity>0.34835</popularity>
+  </track>
+  <track href="spotify:track:4FzkkOM9tq7zfQ2OYlpB0z">
+    <name>Is It Love</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800077</id>
+    <album href="spotify:album:3yzDzLXFh12fqvp2Lx7Pg5">
+      <name>The Chase</name>
+      <released>2008</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>287.332000</length>
+    <popularity>0.33294</popularity>
+  </track>
+  <track href="spotify:track:0kYKlTBEF6xAyRv3hb1JYz">
+    <name>Addicted</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800079</id>
+    <album href="spotify:album:3yzDzLXFh12fqvp2Lx7Pg5">
+      <name>The Chase</name>
+      <released>2008</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>221.499000</length>
+    <popularity>0.33273</popularity>
+  </track>
+  <track href="spotify:track:2rDKy7h3cj4TtMyGjPCGU3">
+    <name>Ten Steps</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800075</id>
+    <album href="spotify:album:3yzDzLXFh12fqvp2Lx7Pg5">
+      <name>The Chase</name>
+      <released>2008</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>206.623000</length>
+    <popularity>0.33213</popularity>
+  </track>
+  <track href="spotify:track:4abKZc7NGHMBoyXWeOksVF">
+    <name>If A Song Could Get Me You - US Radio Mix</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">DEE860901868</id>
+    <album href="spotify:album:0joSHLbPUUWJaWdUxQBxZB">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>207.564000</length>
+    <popularity>0.32806</popularity>
+  </track>
+  <track href="spotify:track:3TiV9ogrUEhLJwSYnKIQAT">
+    <name>I've Heard Your Love Songs</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800080</id>
+    <album href="spotify:album:3yzDzLXFh12fqvp2Lx7Pg5">
+      <name>The Chase</name>
+      <released>2008</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>223.225000</length>
+    <popularity>0.32682</popularity>
+  </track>
+  <track href="spotify:track:0aH4uDG9rGHQrlqg7ZxMzo">
+    <name>Steal My Heart</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800076</id>
+    <album href="spotify:album:3yzDzLXFh12fqvp2Lx7Pg5">
+      <name>The Chase</name>
+      <released>2008</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>224.454000</length>
+    <popularity>0.32208</popularity>
+  </track>
+  <track href="spotify:track:7M0LlqPlNcEGwdwBcfC4rp">
+    <name>Under The Surface</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601020</id>
+    <album href="spotify:album:6fF1V7DB0CzSM8AVrLyxW8">
+      <name>Under The Surface</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ DE DZ ES FR GR HU IE IT KZ LB LU MA MT NA NG NL PL PT RO RU SK TN TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>252.403000</length>
+    <popularity>0.31984</popularity>
+  </track>
+  <track href="spotify:track:2qssaaC02CM128sQYPOSd0">
+    <name>Fences</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800081</id>
+    <album href="spotify:album:3yzDzLXFh12fqvp2Lx7Pg5">
+      <name>The Chase</name>
+      <released>2008</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>292.718000</length>
+    <popularity>0.31023</popularity>
+  </track>
+  <track href="spotify:track:29BtTqlOqpMbYufQGhez8G">
+    <name>To An End</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601080</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>225.159000</length>
+    <popularity>0.30449</popularity>
+  </track>
+  <track href="spotify:track:1GhxrMsfAIG3b7AkGSdknK">
+    <name>Don't Move</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100589</id>
+    <album href="spotify:album:5LDqoBlmwwWdJT1GH4Reli">
+      <name>Don't Move</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>226.807000</length>
+    <popularity>0.30503</popularity>
+  </track>
+  <track href="spotify:track:1izh4BweDIjmfvFDU8vRv0">
+    <name>In Came The Light</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601010</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>72.212000</length>
+    <popularity>0.29471</popularity>
+  </track>
+  <track href="spotify:track:5bmfl9Zngi6RZ39EpvIcM2">
+    <name>Come Closer</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601090</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>248.612000</length>
+    <popularity>0.29471</popularity>
+  </track>
+  <track href="spotify:track:694HTkG5RTPmGVPDgOZv3s">
+    <name>This Time Tomorrow</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601050</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>201.054000</length>
+    <popularity>0.29351</popularity>
+  </track>
+  <track href="spotify:track:1u9JDTaLw3VOwufscuQgYc">
+    <name>The Sinking Game</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601070</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>232.925000</length>
+    <popularity>0.29099</popularity>
+  </track>
+  <track href="spotify:track:7D0uBUDxyAUajSdjhYJX74">
+    <name>Recent Illusion</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601060</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>126.096000</length>
+    <popularity>0.27906</popularity>
+  </track>
+  <track href="spotify:track:6UnYMfm4ejQcUklXPsjHbr">
+    <name>Don't Save Me</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0510010</id>
+    <album href="spotify:album:5dzqojkKjofBfWEr00Agws">
+      <name>Don't Save Me</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ DE DZ ES FR GR HU IE IT KZ LB LU MA MT NA NG NL PL PT RO RU SK TN TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>227.068000</length>
+    <popularity>0.27880</popularity>
+  </track>
+  <track href="spotify:track:1acN7nqVAluWPaUpG7c199">
+    <name>Only A Fool</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601030</id>
+    <album href="spotify:album:08j02HOH7RQlURRBqkS34u">
+      <name>Only A Fool</name>
+      <released>2006</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>234.258000</length>
+    <popularity>0.27769</popularity>
+  </track>
+  <track href="spotify:track:1nS5Uj75CJr3eCLpUYGVg8">
+    <name>Poison Passion</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601100</id>
+    <album href="spotify:album:7pHSdajr1DZKpsGKTKgVvr">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>AX BV DK FI FO IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>181.131000</length>
+    <popularity>0.27658</popularity>
+  </track>
+  <track href="spotify:track:0TBxCf9znO6vJzTJ48ngSw">
+    <name>Her kommer dine arme små</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <artist href="spotify:artist:74DRrSL5EVyC6TWefBxAAm">
+      <name>Garness</name>
+    </artist>
+    <id type="isrc">NOUM71101941</id>
+    <album href="spotify:album:0iMoDebY5JHyw1EZ5IYwBI">
+      <name>Vi tenner våre lykter</name>
+      <released>2011</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>282.025000</length>
+    <popularity>0.29160</popularity>
+  </track>
+  <track href="spotify:track:6JWDObi04MTlN1QcmMzem6">
+    <name>Vår beste dag</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100003</id>
+    <album href="spotify:album:7D5DQK9dssudHXEKNDui7K">
+      <name>NOW - That's What I Call Music ! Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>202.466000</length>
+    <popularity>0.26789</popularity>
+  </track>
+  <track href="spotify:track:2UOme0YgvMjdywNlFkgT0p">
+    <name>Out Of My Hands</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <artist href="spotify:artist:6mo0UbyIvIePdXNyLwQlk5">
+      <name>Milow</name>
+    </artist>
+    <id type="isrc">BEA891000001</id>
+    <album href="spotify:album:6VuWqt2m0bY38oEIgbhs3u">
+      <name>Out Of My Hands</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>210.518000</length>
+    <popularity>0.28109</popularity>
+  </track>
+  <track href="spotify:track:0AEqaeulNmDcBKG4gTx7wT">
+    <name>If A Song Could Get Me You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800073</id>
+    <album href="spotify:album:5qzsuAdmrpVMDz2tQmKyWT">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AL AM AO AZ BA BB BD BG BH BI BJ BN BS BY BZ CD CF CG CI CM CU CV DJ DO EG ER ET FJ FM GA GB GD GE GF GH GI GM GN GP GQ GW GY HR HT IE IL IQ IR IS JM JO KE KG KH KM KW LA LC LI LK LR LS LY MC MD MG MH MK ML MM MN MQ MR MU MW MZ NC NE NR OM PF PG PK PM PS PW QA RE RW SA SB SC SD SI SL SM SN SO ST SY SZ TD TG TJ TM TT TZ UA UG UZ VN WF WS YT ZM ZW</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>205.917000</length>
+    <popularity>0.26142</popularity>
+  </track>
+  <track href="spotify:track:6US2BB3rSOYeORYlshAkia">
+    <name>Under The Surface</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601020</id>
+    <album href="spotify:album:6PcQcu9iIXjjzHgXDTkpQK">
+      <name>Under The Surface</name>
+      <released>2006</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>254.756000</length>
+    <popularity>0.25877</popularity>
+  </track>
+  <track href="spotify:track:2nkwHBXDbt7YJZPKOeYDOy">
+    <name>Keeper Of The Keys</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100588</id>
+    <album href="spotify:album:7Cmf3IKxakTYMJU0LnhrNA">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>241.840000</length>
+    <popularity>0.25522</popularity>
+  </track>
+  <track href="spotify:track:3XhQ2J7G7WkOHLGm3YZLBv">
+    <name>Don't Save Me</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0510010</id>
+    <album href="spotify:album:6Nmqz2TbD58gis98dqDCAO">
+      <name>Don't Save Me</name>
+      <released>2006</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>225.343000</length>
+    <popularity>0.24673</popularity>
+  </track>
+  <track href="spotify:track:6xnMV4skdQjP65YlurbZmN">
+    <name>Solid Ground</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601040</id>
+    <album href="spotify:album:0qEN9pNyhZyXGKBed36Dfp">
+      <name>Solid Ground</name>
+      <released>2007</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>206.780000</length>
+    <popularity>0.24672</popularity>
+  </track>
+  <track href="spotify:track:1BnwiM2jCSy1xwKNgqdJPp">
+    <name>Don't Move</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100589</id>
+    <album href="spotify:album:7Cmf3IKxakTYMJU0LnhrNA">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>225.709000</length>
+    <popularity>0.24728</popularity>
+  </track>
+  <track href="spotify:track:3hdvae6G4GWg6o0O0jvUbA">
+    <name>Fuel</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800078</id>
+    <album href="spotify:album:5yKyntZCEkHmlrv5KraaTx">
+      <name>Fuel</name>
+      <released>2009</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>124.188000</length>
+    <popularity>0.24164</popularity>
+  </track>
+  <track href="spotify:track:36qZAmAmqUa2OHsTiPvGVC">
+    <name>What If</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100590</id>
+    <album href="spotify:album:7Cmf3IKxakTYMJU0LnhrNA">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>297.999000</length>
+    <popularity>0.23917</popularity>
+  </track>
+  <track href="spotify:track:5f7FZi4hMfHIYEyM2FZZxT">
+    <name>This Is Me, This Is You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800074</id>
+    <album href="spotify:album:57ly6qRxWvUs0LcGSz8EJ9">
+      <name>Tea Time 2</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AL AM AN AO AR AT AU AZ BA BB BD BE BG BH BI BJ BN BO BR BS BW BY BZ CA CD CF CG CH CI CL CM CN CO CR CU CV CY CZ DE DJ DO DZ EC EE EG ER ES ET FJ FM FR GA GB GD GE GF GH GI GM GN GP GQ GR GT GW GY HK HN HR HT HU ID IE IL IN IQ IR IS IT JM JO KE KG KH KM KR KW KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MQ MR MT MU MW MX MY MZ NA NC NE NG NI NL NR NZ OM PA PE PF PG PH PK PL PM PS PT PW PY QA RE RO RU RW SA SB SC SD SG SI SK SL SM SN SO ST SV SY SZ TD TG TH TJ TM TN TR TT TW TZ UA UG UY UZ VA VE VN WF WS YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>241.892000</length>
+    <popularity>0.23489</popularity>
+  </track>
+  <track href="spotify:track:4rOPDe3ox8jjAuhUmHXXAI">
+    <name>Coming Home</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100586</id>
+    <album href="spotify:album:7Cmf3IKxakTYMJU0LnhrNA">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>239.199000</length>
+    <popularity>0.22880</popularity>
+  </track>
+  <track href="spotify:track:5XnvM99qmxyUAMcKAYeMzg">
+    <name>Her kommer dine arme små</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <artist href="spotify:artist:74DRrSL5EVyC6TWefBxAAm">
+      <name>Garness</name>
+    </artist>
+    <id type="isrc">NOUM71101941</id>
+    <album href="spotify:album:2GHTFT4O0Udcs7BnHz8GG4">
+      <name>Vi tenner våre lykter</name>
+      <released>2011</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>282.025000</length>
+    <popularity>0.23848</popularity>
+  </track>
+  <track href="spotify:track:3IriMOTKpeHljsIqgOIk41">
+    <name>I Can't Love You Anymore</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100591</id>
+    <album href="spotify:album:7Cmf3IKxakTYMJU0LnhrNA">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>261.553000</length>
+    <popularity>0.21851</popularity>
+  </track>
+  <track href="spotify:track:6VkL8mkv0GQ6uhvKmJrvIm">
+    <name>Have You Ever</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100594</id>
+    <album href="spotify:album:7Cmf3IKxakTYMJU0LnhrNA">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>245.422000</length>
+    <popularity>0.21390</popularity>
+  </track>
+  <track href="spotify:track:42D2GnKKpzyH6j55PzCZqc">
+    <name>Addicted</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800079</id>
+    <album href="spotify:album:1HO4ChVDi4jvpAK2xGR3SN">
+      <name>Addicted</name>
+      <released>2009</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>221.499000</length>
+    <popularity>0.21147</popularity>
+  </track>
+  <track href="spotify:track:2sbRLTIWFXB9ppUThWWaIO">
+    <name>Don't Save Me</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0510010</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>226.414000</length>
+    <popularity>0.21168</popularity>
+  </track>
+  <track href="spotify:track:5EVf4dL4uLC12h9n4CRCjs">
+    <name>Only A Fool</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601030</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>244.193000</length>
+    <popularity>0.21194</popularity>
+  </track>
+  <track href="spotify:track:7fY5FgG2SYBaHj677PGiuD">
+    <name>Coming Home</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100586</id>
+    <album href="spotify:album:0wHPHlWqUTvHrvK3UakCLF">
+      <name>Frisch Gepresst (OST)</name>
+      <released>2012</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>238.310000</length>
+    <popularity>0.21292</popularity>
+  </track>
+  <track href="spotify:track:2IFfUx2rLDxdZZg77l1YXR">
+    <name>Me And The Highway</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100592</id>
+    <album href="spotify:album:7Cmf3IKxakTYMJU0LnhrNA">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>301.947000</length>
+    <popularity>0.20862</popularity>
+  </track>
+  <track href="spotify:track:0ZMtjTlAEvRp0fsukQebj5">
+    <name>Addicted</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800079</id>
+    <album href="spotify:album:7HMUpIjoCzaWj6PF9WaFwC">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AR AT BE BO BR BW CH CL CO CR CY CZ DE EC ES GR GT HN HU IE IT KZ LU MT MX NA NG NI NL PA PE PL PT PY RO RU SK SV TR UY VE ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>217.107000</length>
+    <popularity>0.20289</popularity>
+  </track>
+  <track href="spotify:track:6CzmGoxF1VvXhYyu9bgxVp">
+    <name>Addicted</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800079</id>
+    <album href="spotify:album:3flwN1MuDEZXZlpKJ6MvMj">
+      <name>I've Heard Your Love Songs</name>
+      <released>2008</released>
+      <availability>
+        <territories>DK FI IS NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>223.225000</length>
+    <popularity>0.19927</popularity>
+  </track>
+  <track href="spotify:track:0JiWclptZzZEJmGmrSd3kk">
+    <name>Ten Steps</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800075</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>202.544000</length>
+    <popularity>0.19866</popularity>
+  </track>
+  <track href="spotify:track:1yHmAg47xTTM8bI6wxpqjH">
+    <name>Last Night</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100593</id>
+    <album href="spotify:album:7Cmf3IKxakTYMJU0LnhrNA">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>260.926000</length>
+    <popularity>0.20014</popularity>
+  </track>
+  <track href="spotify:track:5IkNRSiBTh0bX4c2kktZYr">
+    <name>Fine Line</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100595</id>
+    <album href="spotify:album:7Cmf3IKxakTYMJU0LnhrNA">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>265.318000</length>
+    <popularity>0.19737</popularity>
+  </track>
+  <track href="spotify:track:3defQaO5Ga3s4n0gB9mdtU">
+    <name>Out Of My Hands</name>
+    <artist href="spotify:artist:0u1oTlgwehwWjd5f8ckosJ">
+      <name>Milow &amp; Marit Larsen</name>
+    </artist>
+    <id type="isrc">BEA891000001</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>209.263000</length>
+    <popularity>0.25721</popularity>
+  </track>
+  <track href="spotify:track:0BEeBsh0bVDms5ys1zAYJ1">
+    <name>Under The Surface</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601020</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>251.749000</length>
+    <popularity>0.19500</popularity>
+  </track>
+  <track href="spotify:track:7DBXfKuZtOgGilyIVkwQdN">
+    <name>Solid Ground</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601040</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>203.224000</length>
+    <popularity>0.19246</popularity>
+  </track>
+  <track href="spotify:track:18cJ0DGD81RvwKNLx11LLE">
+    <name>Fuel</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800078</id>
+    <album href="spotify:album:5dzqojkKjofBfWEr00Agws">
+      <name>Don't Save Me</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ DE DZ ES FR GR HU IE IT KZ LB LU MA MT NA NG NL PL PT RO RU SK TN TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>122.175000</length>
+    <popularity>0.19268</popularity>
+  </track>
+  <track href="spotify:track:1j54cegPvIl9LS0GMWQsNF">
+    <name>If A Song Could Get Me You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800073</id>
+    <album href="spotify:album:4hqLhJjyfZf8PcWUa1gnoc">
+      <name>Popstars Hits</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>206.048000</length>
+    <popularity>0.18933</popularity>
+  </track>
+  <track href="spotify:track:3xeKuXNYl6k2GSvdhAxz4Z">
+    <name>That Day</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC1100596</id>
+    <album href="spotify:album:7Cmf3IKxakTYMJU0LnhrNA">
+      <name>Spark</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>284.692000</length>
+    <popularity>0.18798</popularity>
+  </track>
+  <track href="spotify:track:1z7XUJ7beC0gVkwINd1jRc">
+    <name>Out Of My Hands</name>
+    <artist href="spotify:artist:6mo0UbyIvIePdXNyLwQlk5">
+      <name>Milow</name>
+    </artist>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">BEA891000001</id>
+    <album href="spotify:album:255UBt4Ck6mnzDnJPsHgEQ">
+      <name>Ohne Dich ist alles doof</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>209.943000</length>
+    <popularity>0.19608</popularity>
+  </track>
+  <track href="spotify:track:1CU2SzcNVW7eX0GzMhpws3">
+    <name>This Is Me, This Is You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800074</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>241.082000</length>
+    <popularity>0.18482</popularity>
+  </track>
+  <track href="spotify:track:4nModpKjPWJt4jKFqHZ0EC">
+    <name>If A Song Could Get Me You</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800073</id>
+    <album href="spotify:album:0r7kx5gBWKdzwi3LD6GgUu">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ ES GR HU IE IT KZ LU MT NA NG NL PL PT RO RU SK TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>205.917000</length>
+    <popularity>0.17657</popularity>
+  </track>
+  <track href="spotify:track:0X6vlYSAT3gPAYvrspfw6b">
+    <name>Only A Fool</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601030</id>
+    <album href="spotify:album:0r7kx5gBWKdzwi3LD6GgUu">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ ES GR HU IE IT KZ LU MT NA NG NL PL PT RO RU SK TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>244.376000</length>
+    <popularity>0.17531</popularity>
+  </track>
+  <track href="spotify:track:7qxjMND5B09Ytfb92uNfbQ">
+    <name>Solid Ground</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601040</id>
+    <album href="spotify:album:0r7kx5gBWKdzwi3LD6GgUu">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ ES GR HU IE IT KZ LU MT NA NG NL PL PT RO RU SK TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>203.198000</length>
+    <popularity>0.17702</popularity>
+  </track>
+  <track href="spotify:track:3Bo5Iu5H48OuZBsdAjPEi1">
+    <name>Fences</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800081</id>
+    <album href="spotify:album:7HMUpIjoCzaWj6PF9WaFwC">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AR AT BE BO BR BW CH CL CO CR CY CZ DE EC ES GR GT HN HU IE IT KZ LU MT MX NA NG NI NL PA PE PL PT PY RO RU SK SV TR UY VE ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>291.123000</length>
+    <popularity>0.17724</popularity>
+  </track>
+  <track href="spotify:track:61Mw998cS5dqBP6efnjW7D">
+    <name>Is It Love</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800077</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>283.646000</length>
+    <popularity>0.17482</popularity>
+  </track>
+  <track href="spotify:track:5oGBCknF7jLrVGjieY855E">
+    <name>Fuel</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800078</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>121.260000</length>
+    <popularity>0.17331</popularity>
+  </track>
+  <track href="spotify:track:2cdkCT58NEhRoQB7WaXUnV">
+    <name>I've Heard Your Love Songs</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800080</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>214.126000</length>
+    <popularity>0.17204</popularity>
+  </track>
+  <track href="spotify:track:7nvy6ZB2HQLC0SKEeW7U5Z">
+    <name>The Chase</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800072</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>209.185000</length>
+    <popularity>0.16760</popularity>
+  </track>
+  <track href="spotify:track:0QIGHpOvpzVEHkTe90W6mf">
+    <name>Ten Steps</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800075</id>
+    <album href="spotify:album:0r7kx5gBWKdzwi3LD6GgUu">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ ES GR HU IE IT KZ LU MT NA NG NL PL PT RO RU SK TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>202.570000</length>
+    <popularity>0.16004</popularity>
+  </track>
+  <track href="spotify:track:6DpGHtozRBrJ7zQoKGfky7">
+    <name>The Chase</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800072</id>
+    <album href="spotify:album:0r7kx5gBWKdzwi3LD6GgUu">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ ES GR HU IE IT KZ LU MT NA NG NL PL PT RO RU SK TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>209.185000</length>
+    <popularity>0.16091</popularity>
+  </track>
+  <track href="spotify:track:1TpJguXvahrkoZqo1w9h31">
+    <name>If A Song Could Get Me You - Instrumental</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0900079</id>
+    <album href="spotify:album:7HMUpIjoCzaWj6PF9WaFwC">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AR AT BE BO BR BW CH CL CO CR CY CZ DE EC ES GR GT HN HU IE IT KZ LU MT MX NA NG NI NL PA PE PL PT PY RO RU SK SV TR UY VE ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>210.440000</length>
+    <popularity>0.16355</popularity>
+  </track>
+  <track href="spotify:track:6kVqv9hnhAveoAnByhTdp2">
+    <name>This Time Tomorrow</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0601050</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>198.649000</length>
+    <popularity>0.16164</popularity>
+  </track>
+  <track href="spotify:track:3ovdpUBhL8YcrKf5EW97N8">
+    <name>Addicted</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800079</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>217.028000</length>
+    <popularity>0.16180</popularity>
+  </track>
+  <track href="spotify:track:3EzkuUviOtYwQs3h4jnq2G">
+    <name>Don't Save Me</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAHV0510010</id>
+    <album href="spotify:album:0r7kx5gBWKdzwi3LD6GgUu">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ ES GR HU IE IT KZ LU MT NA NG NL PL PT RO RU SK TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>226.388000</length>
+    <popularity>0.15404</popularity>
+  </track>
+  <track href="spotify:track:3K0lIjKIIv8eN10xo1OQPL">
+    <name>Is It Love</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800077</id>
+    <album href="spotify:album:0r7kx5gBWKdzwi3LD6GgUu">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ ES GR HU IE IT KZ LU MT NA NG NL PL PT RO RU SK TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>283.646000</length>
+    <popularity>0.15200</popularity>
+  </track>
+  <track href="spotify:track:2Xkz8ZLjIBpiMnf4zm8PVJ">
+    <name>Steal My Heart</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800076</id>
+    <album href="spotify:album:0r7kx5gBWKdzwi3LD6GgUu">
+      <name>If A Song Could Get Me You</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE BW CH CY CZ ES GR HU IE IT KZ LU MT NA NG NL PL PT RO RU SK TR ZA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>223.277000</length>
+    <popularity>0.15061</popularity>
+  </track>
+  <track href="spotify:track:70nWdYfhvVHnVFJINYHKFS">
+    <name>Steal My Heart</name>
+    <artist href="spotify:artist:0SGEunj6EBwdWMNCdWSrPg">
+      <name>Marit Larsen</name>
+    </artist>
+    <id type="isrc">NOAFC0800076</id>
+    <album href="spotify:album:2L9AtDUwYzboFDW94SfjRe">
+      <name>If A Song Could Get Me You</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH DE</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>223.277000</length>
+    <popularity>0.15857</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Mon, 12 Nov 2012 11:06:25 GMT -->

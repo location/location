@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Ephemera"/>
+  <opensearch:totalResults>212</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:4KSFloB6mBJKHADZCD6OIR">
+    <name>Air</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106090</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>222.328000</length>
+    <popularity>0.42447</popularity>
+  </track>
+  <track href="spotify:track:0C5KCOC77pIYxX0OCHI3KL">
+    <name>Girls Keep Secrets In The Strangest Ways</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0301001</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>187.272000</length>
+    <popularity>0.40548</popularity>
+  </track>
+  <track href="spotify:track:00HOXKpRUaSfljTWWRwZhh">
+    <name>Ephemera</name>
+    <artist href="spotify:artist:4UTHeJ0TdH6zAEt5MoV02I">
+      <name>Delphic</name>
+    </artist>
+    <id type="isrc">GBUM70912921</id>
+    <album href="spotify:album:3ubVoUBM2gUBbZgzoUqgtX">
+      <name>Acolyte</name>
+      <released>2009</released>
+      <availability>
+        <territories>AU GB IE</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>116.400000</length>
+    <popularity>0.27775</popularity>
+  </track>
+  <track href="spotify:track:6CAVaIThqVoyLC8gSwejkE">
+    <name>Countrysong</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302003</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>172.382000</length>
+    <popularity>0.29197</popularity>
+  </track>
+  <track href="spotify:track:4QAeS71WlLdRxlXkoGWBnk">
+    <name>Balloons And Champagne</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106020</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>246.753000</length>
+    <popularity>0.28999</popularity>
+  </track>
+  <track href="spotify:track:5MnWlEt7Jgp33KJ78o2Oj6">
+    <name>On The Surface</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0402001</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>230.818000</length>
+    <popularity>0.27007</popularity>
+  </track>
+  <track href="spotify:track:7KtmaNJ2rchNGUUnBYR9Jv">
+    <name>Capsize</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302002</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>188.421000</length>
+    <popularity>0.23905</popularity>
+  </track>
+  <track href="spotify:track:6JCZ1TE67CbScEZguD5iqf">
+    <name>Ephemera</name>
+    <artist href="spotify:artist:4UTHeJ0TdH6zAEt5MoV02I">
+      <name>Delphic</name>
+    </artist>
+    <id type="isrc">GBUM70912921</id>
+    <album href="spotify:album:6zZQ6cfofoTrQ0PZ2Rzw1Z">
+      <name>Acolyte</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CH CN CZ DE DK EE ES FI FR HK HR HU IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>116.400000</length>
+    <popularity>0.21895</popularity>
+  </track>
+  <track href="spotify:track:4yQcHe5QYo1DdWpoOv2JYb">
+    <name>Ephemera</name>
+    <artist href="spotify:artist:4UTHeJ0TdH6zAEt5MoV02I">
+      <name>Delphic</name>
+    </artist>
+    <id type="isrc">US3R21000709</id>
+    <album href="spotify:album:10y7q2WmgO4pxlqlg848Qp">
+      <name>Acolyte</name>
+      <released>2010</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>116.347000</length>
+    <popularity>0.21716</popularity>
+  </track>
+  <track href="spotify:track:2rkuH8CvNq1kPoTBsA1D8O">
+    <name>Act</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106050</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>194.743000</length>
+    <popularity>0.20393</popularity>
+  </track>
+  <track href="spotify:track:3H7BPSNfoj7fRKbxVKrp9A">
+    <name>Come Around</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106030</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>179.409000</length>
+    <popularity>0.18958</popularity>
+  </track>
+  <track href="spotify:track:5vANn9bdiSKzMiBcfKcrI4">
+    <name>The Hardest Thing To Do</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302005</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>213.185000</length>
+    <popularity>0.18196</popularity>
+  </track>
+  <track href="spotify:track:1xIy6sr6zc4d3VhKRWCvJb">
+    <name>Keep Me Up</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302009</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>162.664000</length>
+    <popularity>0.18201</popularity>
+  </track>
+  <track href="spotify:track:1NwEITqqXMNtV8x312PYxw">
+    <name>One Minute</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302004</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>177.816000</length>
+    <popularity>0.17376</popularity>
+  </track>
+  <track href="spotify:track:0PX5vdgTtcFIcY5rxLL7on">
+    <name>Diamonds In The Sand</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302006</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>247.275000</length>
+    <popularity>0.17950</popularity>
+  </track>
+  <track href="spotify:track:7qMSwyiD1cieIh9EsIUdcw">
+    <name>On My Feet Again</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302008</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>220.970000</length>
+    <popularity>0.17501</popularity>
+  </track>
+  <track href="spotify:track:3WPriXl5bSqb828nxAf0vb">
+    <name>Maple Tree</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302010</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>201.665000</length>
+    <popularity>0.17690</popularity>
+  </track>
+  <track href="spotify:track:0dnRi6EztviF9g2GtaUkmX">
+    <name>If I'm Still Your Girl</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106120</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>169.117000</length>
+    <popularity>0.16815</popularity>
+  </track>
+  <track href="spotify:track:321JPcx79Raig1vWuLtXjh">
+    <name>One Of A Kind</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302012</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>192.967000</length>
+    <popularity>0.16726</popularity>
+  </track>
+  <track href="spotify:track:6bfBPc6XnLbraIRwNcOovu">
+    <name>Last Thing</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0105010</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>226.351000</length>
+    <popularity>0.16353</popularity>
+  </track>
+  <track href="spotify:track:7949sKLVbIVYqMzMX6apJm">
+    <name>Blown</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302007</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>199.001000</length>
+    <popularity>0.15873</popularity>
+  </track>
+  <track href="spotify:track:1DzPw33FIekYTEYT98Dcn1">
+    <name>Hey - Nanana</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106060</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>326.008000</length>
+    <popularity>0.14763</popularity>
+  </track>
+  <track href="spotify:track:76yjfa4sDlZSoQouZ349R4">
+    <name>Chaos</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403001</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>257.332000</length>
+    <popularity>0.14326</popularity>
+  </track>
+  <track href="spotify:track:2Fp33VGN2QefETf6pyfsON">
+    <name>The Roswell Incident</name>
+    <artist href="spotify:artist:4hUYUdVDw757DtwJ1SeNhk">
+      <name>Suzanne McDermott</name>
+    </artist>
+    <id type="isrc">ushm20350615</id>
+    <album href="spotify:album:2GKfqik7R2ecvYPHzdmgHh">
+      <name>Ephemera</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>397.600000</length>
+    <popularity>0.14266</popularity>
+  </track>
+  <track href="spotify:track:0ausFqaR1kzWH4vnVdHhsK">
+    <name>Temporarily Happy</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500117</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>156.160000</length>
+    <popularity>0.13717</popularity>
+  </track>
+  <track href="spotify:track:5h3iSLP8Qg1CQG5JNlnr3T">
+    <name>Happy, Grateful, Aware</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001010</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>212.611000</length>
+    <popularity>0.13004</popularity>
+  </track>
+  <track href="spotify:track:58QKtmHyjkG814WNmP7egO">
+    <name>Blame</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106070</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>227.736000</length>
+    <popularity>0.13133</popularity>
+  </track>
+  <track href="spotify:track:5nchcpSOLV2ewvbz61d9bp">
+    <name>City Lights</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403003</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>249.443000</length>
+    <popularity>0.13841</popularity>
+  </track>
+  <track href="spotify:track:5nu0GICTR6pOusqnoZPnYU">
+    <name>Leave It At That</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403004</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>201.404000</length>
+    <popularity>0.14032</popularity>
+  </track>
+  <track href="spotify:track:5uTtiUhwahMLwsHb6zbM9z">
+    <name>Thank You</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403005</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>243.122000</length>
+    <popularity>0.13445</popularity>
+  </track>
+  <track href="spotify:track:0GgcP5iNnWJAzrGzKxx0Ch">
+    <name>Bye</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106100</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>240.509000</length>
+    <popularity>0.13404</popularity>
+  </track>
+  <track href="spotify:track:6nb4Bd9hyRuDYmacQ6CHRi">
+    <name>I Think He's Dead</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0302011</id>
+    <album href="spotify:album:0YftLDfbiSiotjjkQOP2MB">
+      <name>Air</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>173.505000</length>
+    <popularity>0.13966</popularity>
+  </track>
+  <track href="spotify:track:25SHvckjdXSm2tfQPfCOdR">
+    <name>Monolove</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403010</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>242.469000</length>
+    <popularity>0.13754</popularity>
+  </track>
+  <track href="spotify:track:0co9o2qNZcT9h7feTefwWV">
+    <name>Glue</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500118</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>148.400000</length>
+    <popularity>0.12023</popularity>
+  </track>
+  <track href="spotify:track:6ErTIf4HTOOtP6PMvmqzgg">
+    <name>Perfect</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001040</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>166.139000</length>
+    <popularity>0.11929</popularity>
+  </track>
+  <track href="spotify:track:5xpf4S0nrEQTKYBTrMh9zY">
+    <name>Oh Yeah</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106040</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>157.231000</length>
+    <popularity>0.12667</popularity>
+  </track>
+  <track href="spotify:track:4QRE7NrERDgdGohkBKDUbv">
+    <name>Do's And Don'ts</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403007</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>267.964000</length>
+    <popularity>0.11789</popularity>
+  </track>
+  <track href="spotify:track:5f8UDzfCBjR9lVTlcz0eYv">
+    <name>Ephemera</name>
+    <artist href="spotify:artist:0DuHQPF3vijiN2raRXwx2c">
+      <name>Joan Chamorro</name>
+    </artist>
+    <artist href="spotify:artist:7fSCq6nVoFiyBqFD8fQFWR">
+      <name>Pepper Adams</name>
+    </artist>
+    <id type="isrc">ES7711138502</id>
+    <album href="spotify:album:3JyhYIZ2AZtlw6HjlWgIm8">
+      <name>Baritone Rhapsody</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>289.507000</length>
+    <popularity>0.10648</popularity>
+  </track>
+  <track href="spotify:track:1XHIPGgcsrd3NpPDwACo2M">
+    <name>If</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500119</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>199.666000</length>
+    <popularity>0.10883</popularity>
+  </track>
+  <track href="spotify:track:5lMr25WP4lak3E6f84Fd3r">
+    <name>Hypothetically, If</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500120</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>178.000000</length>
+    <popularity>0.10209</popularity>
+  </track>
+  <track href="spotify:track:2a7oN5uTPn3aNPxzA4C7B7">
+    <name>Everytime</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500121</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>335.373000</length>
+    <popularity>0.11173</popularity>
+  </track>
+  <track href="spotify:track:0lxN6vXchS2bXnPMLhZTEr">
+    <name>Tale</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500122</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>208.893000</length>
+    <popularity>0.11015</popularity>
+  </track>
+  <track href="spotify:track:38m86HK84zpWIvDOL78UO3">
+    <name>Two Sides of Myself Part One</name>
+    <artist href="spotify:artist:1Lqqtkuf3lzDlSJ1AGK3vg">
+      <name>Tarentel</name>
+    </artist>
+    <id type="isrc">USA560552998</id>
+    <album href="spotify:album:2tZp3oE8zLOQEHHJN1k6Rt">
+      <name>Ephemera</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>384.200000</length>
+    <popularity>0.10434</popularity>
+  </track>
+  <track href="spotify:track:747WmfNKtcjFuzV6bYTLLI">
+    <name>Kite</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106080</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>192.784000</length>
+    <popularity>0.10930</popularity>
+  </track>
+  <track href="spotify:track:3TrLQCu5h7HR28cFKkG6V0">
+    <name>Put-on-sivile</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403006</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>256.026000</length>
+    <popularity>0.11385</popularity>
+  </track>
+  <track href="spotify:track:5q67HvMDt984H0cApZDbHj">
+    <name>Helicopter</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0106110</id>
+    <album href="spotify:album:39jBzPAhX0effWGpDgFhyP">
+      <name>Balloons And Champagne</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>178.312000</length>
+    <popularity>0.11313</popularity>
+  </track>
+  <track href="spotify:track:2EzvvLChz6qd2INxfgqkhF">
+    <name>Paint Your Sky</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403008</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>230.766000</length>
+    <popularity>0.11096</popularity>
+  </track>
+  <track href="spotify:track:3t7hsIgUqouu4bH7yWpS3O">
+    <name>Dead Against The Plan</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403009</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>231.027000</length>
+    <popularity>0.11545</popularity>
+  </track>
+  <track href="spotify:track:2ZfEcAilRQBBGYmKzkjz9V">
+    <name>Call Me Home</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403011</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>206.263000</length>
+    <popularity>0.10785</popularity>
+  </track>
+  <track href="spotify:track:22j6rnLMXwukgXMb61eyGe">
+    <name>End</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0403012</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>248.660000</length>
+    <popularity>0.10520</popularity>
+  </track>
+  <track href="spotify:track:2d7HVylsGLI617oOM5w9ms">
+    <name>Ephemera</name>
+    <artist href="spotify:artist:4UTHeJ0TdH6zAEt5MoV02I">
+      <name>Delphic</name>
+    </artist>
+    <id type="isrc">GBUM70912921</id>
+    <album href="spotify:album:5Mr07J8rX51ljlNbf2UyMI">
+      <name>Acolyte</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DK EE FI FR HR HU IE IT LT LV NL NO PL PT RU SE SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>116.400000</length>
+    <popularity>0.10011</popularity>
+  </track>
+  <track href="spotify:track:1zi6vQjPOkevvVwlibpYMJ">
+    <name>Ephemera</name>
+    <artist href="spotify:artist:51g4lI41g4dtt4IU5vMbdR">
+      <name>This Is Me Smiling</name>
+    </artist>
+    <id type="isrc">USSM10607584</id>
+    <album href="spotify:album:0f9D6UvVrFOeYIzvLttKhP">
+      <name>This Is Me Smiling</name>
+      <released>2007</released>
+      <availability>
+        <territories>AR BO BR CL CN CO CR EC GT HK HN ID IN KR MX MY NI PA PE PH PY SG SV TH TW US UY VE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>129.346000</length>
+    <popularity>0.08925</popularity>
+  </track>
+  <track href="spotify:track:77x9HgtD4pKXab9oEPNr3b">
+    <name>Out of Tune</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500123</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>137.200000</length>
+    <popularity>0.08585</popularity>
+  </track>
+  <track href="spotify:track:11vsZhjV7Q9ux9I1jKcTxy">
+    <name>Dew</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500124</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>166.400000</length>
+    <popularity>0.09173</popularity>
+  </track>
+  <track href="spotify:track:2azGrVVkdLDUAPDlFIVrcj">
+    <name>Merry-Go-Round</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500125</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>195.200000</length>
+    <popularity>0.08573</popularity>
+  </track>
+  <track href="spotify:track:1vEtMmJwYCCZwIDNPGBfrs">
+    <name>Back In Time</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500126</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>232.040000</length>
+    <popularity>0.09225</popularity>
+  </track>
+  <track href="spotify:track:1UcZzZnP4T7ijvyHtk6hIy">
+    <name>Under My Eiderdown</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500127</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>219.826000</length>
+    <popularity>0.08177</popularity>
+  </track>
+  <track href="spotify:track:11SCmrH9lNS3WZb3pSFKGL">
+    <name>Again</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001020</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>178.051000</length>
+    <popularity>0.09376</popularity>
+  </track>
+  <track href="spotify:track:6IfnZITWoctEDnnilcaIfz">
+    <name>Saddest Day</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001070</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>205.714000</length>
+    <popularity>0.09280</popularity>
+  </track>
+  <track href="spotify:track:7FO3qV7PcsJEfKxxKxJVaw">
+    <name>Morning Sun</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001080</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>198.374000</length>
+    <popularity>0.09836</popularity>
+  </track>
+  <track href="spotify:track:6R97YZfkeytVxajOliKstE">
+    <name>Little Lion</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001090</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>189.492000</length>
+    <popularity>0.08277</popularity>
+  </track>
+  <track href="spotify:track:2Kxdvzqe6XtKNd1sFwvgmi">
+    <name>Tornado</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001100</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>177.424000</length>
+    <popularity>0.08172</popularity>
+  </track>
+  <track href="spotify:track:1QBl7NGRehWQU6CXIgRLmf">
+    <name>Close</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001110</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>182.491000</length>
+    <popularity>0.08575</popularity>
+  </track>
+  <track href="spotify:track:25OQ3emsbzR5g1k1mQsoVp">
+    <name>Long</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0402002</id>
+    <album href="spotify:album:2o1Enb7c3BG9HXvWXiSVqw">
+      <name>Monolove</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>151.301000</length>
+    <popularity>0.09730</popularity>
+  </track>
+  <track href="spotify:track:2jICeV9tZxJY7yOKSMCFh7">
+    <name>Without You</name>
+    <artist href="spotify:artist:2mVoAGALkIviYCkBDNDKcn">
+      <name>Ginny Owens</name>
+    </artist>
+    <id type="isrc">USX970602006</id>
+    <album href="spotify:album:18qWo1teIEjRY1enfLp1Da">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>190.507000</length>
+    <popularity>0.08026</popularity>
+  </track>
+  <track href="spotify:track:70MqYBx62XqjjfUmlhZLGp">
+    <name>Ephemera</name>
+    <artist href="spotify:artist:4UTHeJ0TdH6zAEt5MoV02I">
+      <name>Delphic</name>
+    </artist>
+    <id type="isrc">GBUM70912921</id>
+    <album href="spotify:album:640YJD3j8jlent511ml60F">
+      <name>Acolyte</name>
+      <released>2009</released>
+      <availability>
+        <territories>BE CZ ES HU NO PL RU SE SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>116.386000</length>
+    <popularity>0.07672</popularity>
+  </track>
+  <track href="spotify:track:4zWURIZa8gXRZcYII3PSMJ">
+    <name>Ephemera</name>
+    <artist href="spotify:artist:3RiT70YmaPcXykAhLTdiu8">
+      <name>Eden Maine</name>
+    </artist>
+    <id type="isrc">GBMPC0600139</id>
+    <album href="spotify:album:1PDW5F5DSkraO44U1v85Ty">
+      <name>The Treachery Pact</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>262.907000</length>
+    <popularity>0.06887</popularity>
+  </track>
+  <track href="spotify:track:2wHRmEHczBQYq4wGwNQfF4">
+    <name>Ephemera</name>
+    <artist href="spotify:artist:0DWnwHYJsWFHU9KXPVk0se">
+      <name>Ashent</name>
+    </artist>
+    <id type="isrc">uscgh0996227</id>
+    <album href="spotify:album:0Ri2rOZbC8EpSDiF0PyWVw">
+      <name>Deconstructive</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>256.933000</length>
+    <popularity>0.06021</popularity>
+  </track>
+  <track href="spotify:track:3AMf7L58gLBUn5eU6fQqWm">
+    <name>Did I Fulfil Your Wishes?</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOAJR0500128</id>
+    <album href="spotify:album:1oSgjEiAig0i4QXQ5uoRs3">
+      <name>Glue</name>
+      <released>2008</released>
+      <availability>
+        <territories>AR AT AU BO BR CA CH CL CN CO CR DE EC GT HK HN ID IN KR MX MY NI NO NZ PA PE PH PY SG SV TH TW UY VE</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>155.600000</length>
+    <popularity>0.07349</popularity>
+  </track>
+  <track href="spotify:track:3AejX6rQcRGtoCGJyB1lDY">
+    <name>Lang Zal Jij Leven</name>
+    <artist href="spotify:artist:5yAtVvdaWrTxW4GPC18643">
+      <name>Attrition</name>
+    </artist>
+    <id type="isrc">USA370680626</id>
+    <album href="spotify:album:6dYqdoxCOfHslOJPdLIygi">
+      <name>Ephemera</name>
+      <released>1995</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>592.493000</length>
+    <popularity>0.06820</popularity>
+  </track>
+  <track href="spotify:track:4meSGAtWu9SiXdMIvnf6oi">
+    <name>Happy, Greatful, Aware</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">USZXT0907988</id>
+    <album href="spotify:album:4XE233YYDl9q3anP04UIjB">
+      <name>Getting There</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY CC CD CF CG CH CI CK CL CM CN CO CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GU GW GY HK HM HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NL NO NP NR NU NZ OM PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>213.986000</length>
+    <popularity>0.07524</popularity>
+  </track>
+  <track href="spotify:track:0aGVGcoUoximL3pbb46MZC">
+    <name>The Greatest Betrayal (feat. Ephemera)</name>
+    <artist href="spotify:artist:7tfSbDQLq3hH15sjfwDVHl">
+      <name>Jeroan Drive</name>
+    </artist>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOFYD1025060</id>
+    <album href="spotify:album:6L9u7bbc37BAa9hUEtK730">
+      <name>The Stones Remain in Silence</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>221.213000</length>
+    <popularity>0.07813</popularity>
+  </track>
+  <track href="spotify:track:0HJnZC0rKoWoPzq5OCV267">
+    <name>Mrs. T</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001030</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>156.134000</length>
+    <popularity>0.07579</popularity>
+  </track>
+  <track href="spotify:track:12urd0uUinao2wUMgAW0uv">
+    <name>Play</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001050</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>198.374000</length>
+    <popularity>0.07352</popularity>
+  </track>
+  <track href="spotify:track:6gevqaRXGZnHn9HhJwXeSe">
+    <name>Bad Deal</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001060</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>231.993000</length>
+    <popularity>0.07739</popularity>
+  </track>
+  <track href="spotify:track:0ebBFRv90jdYbReyq5PNm0">
+    <name>Find Your Way</name>
+    <artist href="spotify:artist:64xAHfAOo1FcDxFDrnBgmr">
+      <name>Ephemera</name>
+    </artist>
+    <id type="isrc">NOBMC0001120</id>
+    <album href="spotify:album:7La8ikMnYweI3UxPztvOC4">
+      <name>Sun</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>227.291000</length>
+    <popularity>0.06548</popularity>
+  </track>
+  <track href="spotify:track:0NnxBQLWV7A56TJg4QD29c">
+    <name>The Song</name>
+    <artist href="spotify:artist:2mVoAGALkIviYCkBDNDKcn">
+      <name>Ginny Owens</name>
+    </artist>
+    <id type="isrc">USX970602001</id>
+    <album href="spotify:album:18qWo1teIEjRY1enfLp1Da">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>277.907000</length>
+    <popularity>0.07177</popularity>
+  </track>
+  <track href="spotify:track:2B5MYsvMMJlEqRMuRjWbz9">
+    <name>Daughter Of Destiny</name>
+    <artist href="spotify:artist:2mVoAGALkIviYCkBDNDKcn">
+      <name>Ginny Owens</name>
+    </artist>
+    <id type="isrc">USX970602002</id>
+    <album href="spotify:album:18qWo1teIEjRY1enfLp1Da">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>231.573000</length>
+    <popularity>0.07352</popularity>
+  </track>
+  <track href="spotify:track:4PGmlHut4acbhENOtCbmHP">
+    <name>Rain</name>
+    <artist href="spotify:artist:2mVoAGALkIviYCkBDNDKcn">
+      <name>Ginny Owens</name>
+    </artist>
+    <id type="isrc">USX970602003</id>
+    <album href="spotify:album:18qWo1teIEjRY1enfLp1Da">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>215.600000</length>
+    <popularity>0.06413</popularity>
+  </track>
+  <track href="spotify:track:1vNq2e7s7Oemdv3Fc94bPO">
+    <name>Mystery Of Grace</name>
+    <artist href="spotify:artist:2mVoAGALkIviYCkBDNDKcn">
+      <name>Ginny Owens</name>
+    </artist>
+    <id type="isrc">USX970602004</id>
+    <album href="spotify:album:18qWo1teIEjRY1enfLp1Da">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>197.573000</length>
+    <popularity>0.07533</popularity>
+  </track>
+  <track href="spotify:track:5lFtwlD3B7DtL1pc3Xyqd4">
+    <name>Higher Ground</name>
+    <artist href="spotify:artist:2mVoAGALkIviYCkBDNDKcn">
+      <name>Ginny Owens</name>
+    </artist>
+    <id type="isrc">USX970602005</id>
+    <album href="spotify:album:18qWo1teIEjRY1enfLp1Da">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>257.013000</length>
+    <popularity>0.05779</popularity>
+  </track>
+  <track href="spotify:track:3BRdvH4dCDG1FNlQBQ3t9y">
+    <name>Small Penis Compensation Vehicle</name>
+    <artist href="spotify:artist:7ni3mhTkSO3yH3G4Q1RZYu">
+      <name>Born Again Floozies</name>
+    </artist>
+    <id type="isrc">ushm80661345</id>
+    <album href="spotify:album:5B0AaB73r4UIzFOCHRAHpM">
+      <name>Novelties, Addenda, and Ephemera</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>183.093000</length>
+    <popularity>0.06901</popularity>
+  </track>
+  <track href="spotify:track:4qRB4WJQZUNXB9zKY9EHyZ">
+    <name>Gimme Back My Mullet</name>
+    <artist href="spotify:artist:7ni3mhTkSO3yH3G4Q1RZYu">
+      <name>Born Again Floozies</name>
+    </artist>
+    <id type="isrc">ushm80661346</id>
+    <album href="spotify:album:5B0AaB73r4UIzFOCHRAHpM">
+      <name>Novelties, Addenda, and Ephemera</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>157.867000</length>
+    <popularity>0.07801</popularity>
+  </track>
+  <track href="spotify:track:78uF3BF5XCwCm0AJlT77us">
+    <name>I Used to Play the Euphonium</name>
+    <artist href="spotify:artist:7ni3mhTkSO3yH3G4Q1RZYu">
+      <name>Born Again Floozies</name>
+    </artist>
+    <id type="isrc">ushm80661348</id>
+    <album href="spotify:album:5B0AaB73r4UIzFOCHRAHpM">
+      <name>Novelties, Addenda, and Ephemera</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>210.880000</length>
+    <popularity>0.06791</popularity>
+  </track>
+  <track href="spotify:track:1gQVLF2nghpsL4cSfwVhnG">
+    <name>Ephemera</name>
+    <artist href="spotify:artist:51g4lI41g4dtt4IU5vMbdR">
+      <name>This Is Me Smiling</name>
+    </artist>
+    <id type="isrc">USSM10607584</id>
+    <album href="spotify:album:4cz3Op0cSkOXRyXSCG0Vrf">
+      <name>This Is Me Smiling</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>129.346000</length>
+    <popularity>0.00000</popularity>
+  </track>
+  <track href="spotify:track:3cT0OrtwOZxyNzDAXJ1fqY">
+    <name>The Waltz</name>
+    <artist href="spotify:artist:1Lqqtkuf3lzDlSJ1AGK3vg">
+      <name>Tarentel</name>
+    </artist>
+    <id type="isrc">USA560552996</id>
+    <album href="spotify:album:2tZp3oE8zLOQEHHJN1k6Rt">
+      <name>Ephemera</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>913.160000</length>
+    <popularity>0.03636</popularity>
+  </track>
+  <track href="spotify:track:47iLrYFzx2ietf23bizgyS">
+    <name>Looking For Things</name>
+    <artist href="spotify:artist:1Lqqtkuf3lzDlSJ1AGK3vg">
+      <name>Tarentel</name>
+    </artist>
+    <id type="isrc">USA560552997</id>
+    <album href="spotify:album:2tZp3oE8zLOQEHHJN1k6Rt">
+      <name>Ephemera</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>908.987000</length>
+    <popularity>0.04372</popularity>
+  </track>
+  <track href="spotify:track:0u7GKjiDtOk3JqS8LH1Fbi">
+    <name>Two Sides of Myself Part Two</name>
+    <artist href="spotify:artist:1Lqqtkuf3lzDlSJ1AGK3vg">
+      <name>Tarentel</name>
+    </artist>
+    <id type="isrc">USA560552999</id>
+    <album href="spotify:album:2tZp3oE8zLOQEHHJN1k6Rt">
+      <name>Ephemera</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>378.973000</length>
+    <popularity>0.04981</popularity>
+  </track>
+  <track href="spotify:track:5VshOsyFFZFCZDGKCVEFiH">
+    <name>Searching For Things</name>
+    <artist href="spotify:artist:1Lqqtkuf3lzDlSJ1AGK3vg">
+      <name>Tarentel</name>
+    </artist>
+    <id type="isrc">USA560553000</id>
+    <album href="spotify:album:2tZp3oE8zLOQEHHJN1k6Rt">
+      <name>Ephemera</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>1462.667000</length>
+    <popularity>0.02273</popularity>
+  </track>
+  <track href="spotify:track:7fga30xfNssAKNxQuYV7kP">
+    <name>The Long Wait</name>
+    <artist href="spotify:artist:5yAtVvdaWrTxW4GPC18643">
+      <name>Attrition</name>
+    </artist>
+    <id type="isrc">USA370680622</id>
+    <album href="spotify:album:6dYqdoxCOfHslOJPdLIygi">
+      <name>Ephemera</name>
+      <released>1995</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>588.133000</length>
+    <popularity>0.01398</popularity>
+  </track>
+  <track href="spotify:track:46q8l943SVwfO7YgZ3rZip">
+    <name>A Great Desire</name>
+    <artist href="spotify:artist:5yAtVvdaWrTxW4GPC18643">
+      <name>Attrition</name>
+    </artist>
+    <id type="isrc">USA370680623</id>
+    <album href="spotify:album:6dYqdoxCOfHslOJPdLIygi">
+      <name>Ephemera</name>
+      <released>1995</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>597.453000</length>
+    <popularity>0.01838</popularity>
+  </track>
+  <track href="spotify:track:6IIh3xGsqY4c0L2J3hQ82x">
+    <name>The Big Lie</name>
+    <artist href="spotify:artist:5yAtVvdaWrTxW4GPC18643">
+      <name>Attrition</name>
+    </artist>
+    <id type="isrc">USA370680624</id>
+    <album href="spotify:album:6dYqdoxCOfHslOJPdLIygi">
+      <name>Ephemera</name>
+      <released>1995</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>602.253000</length>
+    <popularity>0.01103</popularity>
+  </track>
+  <track href="spotify:track:5Nkklf19wEMTbhF3WMPPSU">
+    <name>Wetenscap (Dream #9)</name>
+    <artist href="spotify:artist:5yAtVvdaWrTxW4GPC18643">
+      <name>Attrition</name>
+    </artist>
+    <id type="isrc">USA370680625</id>
+    <album href="spotify:album:6dYqdoxCOfHslOJPdLIygi">
+      <name>Ephemera</name>
+      <released>1995</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>588.587000</length>
+    <popularity>0.01918</popularity>
+  </track>
+  <track href="spotify:track:5Nf7fpoi7gHo67mtP7BiSW">
+    <name>The Long Wait</name>
+    <artist href="spotify:artist:5yAtVvdaWrTxW4GPC18643">
+      <name>Attrition</name>
+    </artist>
+    <id type="isrc">GBBEL1079501</id>
+    <album href="spotify:album:2roYtgZ6P9aTucjNVG5k7b">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>584.573000</length>
+    <popularity>0.00100</popularity>
+  </track>
+  <track href="spotify:track:5stYcz4hrIc1IGXI5ILbq8">
+    <name>A Great Desire</name>
+    <artist href="spotify:artist:5yAtVvdaWrTxW4GPC18643">
+      <name>Attrition</name>
+    </artist>
+    <id type="isrc">GBBEL1079502</id>
+    <album href="spotify:album:2roYtgZ6P9aTucjNVG5k7b">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>591.747000</length>
+    <popularity>0.00095</popularity>
+  </track>
+  <track href="spotify:track:3bRQBbhMX2qlAbd54mYeAx">
+    <name>The Big Lie</name>
+    <artist href="spotify:artist:5yAtVvdaWrTxW4GPC18643">
+      <name>Attrition</name>
+    </artist>
+    <id type="isrc">GBBEL1079503</id>
+    <album href="spotify:album:2roYtgZ6P9aTucjNVG5k7b">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>597.933000</length>
+    <popularity>0.00065</popularity>
+  </track>
+  <track href="spotify:track:46M5X8cRpMfqCMMDPaagIB">
+    <name>Wetenschap (Dream#9)</name>
+    <artist href="spotify:artist:5yAtVvdaWrTxW4GPC18643">
+      <name>Attrition</name>
+    </artist>
+    <id type="isrc">GBBEL1079504</id>
+    <album href="spotify:album:2roYtgZ6P9aTucjNVG5k7b">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>581.800000</length>
+    <popularity>0.00322</popularity>
+  </track>
+  <track href="spotify:track:3Fcec1LF4Kx8XsgW6zbiHF">
+    <name>Lang Zal Jij Leven</name>
+    <artist href="spotify:artist:5yAtVvdaWrTxW4GPC18643">
+      <name>Attrition</name>
+    </artist>
+    <id type="isrc">GBBEL1079505</id>
+    <album href="spotify:album:2roYtgZ6P9aTucjNVG5k7b">
+      <name>Ephemera</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>593.920000</length>
+    <popularity>0.03431</popularity>
+  </track>
+  <track href="spotify:track:6nCtjWeH81Oz5q0CbDRjiK">
+    <name>Ephemera Trilogy</name>
+    <artist href="spotify:artist:1MOyWSaKxSkBtcAbR9vsoZ">
+      <name>String Trio Of New York</name>
+    </artist>
+    <artist href="spotify:artist:3lWP7nrnwtWJFOANMDz0GJ">
+      <name>Regina Carter</name>
+    </artist>
+    <id type="isrc">USA220610143</id>
+    <album href="spotify:album:5pPgbHat5b4HL6jLSL2FpF">
+      <name>Intermobility</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>419.533000</length>
+    <popularity>0.02895</popularity>
+  </track>
+  <track href="spotify:track:2glvccnzfoumyTJNkN3VQu">
+    <name>Douceur</name>
+    <artist href="spotify:artist:0fTHLHPypXMSLY7bIq4Y3q">
+      <name>DJ Yanix</name>
+    </artist>
+    <id type="isrc">USQWC0239929</id>
+    <album href="spotify:album:52LPdfiKvLo0LeYR7AzvBk">
+      <name>Ephemera</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>388.000000</length>
+    <popularity>0.00761</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Fri, 20 Apr 2012 09:24:11 GMT -->

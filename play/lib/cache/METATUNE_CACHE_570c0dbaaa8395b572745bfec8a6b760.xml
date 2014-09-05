@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Enigma"/>
+  <opensearch:totalResults>5002</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:2UKkLqST2xWpK8n1b0Xr5Z">
+    <name>Return To Innocence</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129300013</id>
+    <album href="spotify:album:1t4hf9yHMQBoTz2CxTBJKj">
+      <name>The Cross Of Changes</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>255.466000</length>
+    <popularity>0.63390</popularity>
+  </track>
+  <track href="spotify:track:3n2dV8PXv1bs8KP31UhbVj">
+    <name>Sadeness - Part I (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000013</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>260.400000</length>
+    <popularity>0.56473</popularity>
+  </track>
+  <track href="spotify:track:6YyqULhTNU7AKaKJKChluQ">
+    <name>Principles Of Lust: Sadeness/Find Love/Sadeness (Reprise) (Medley)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000052</id>
+    <album href="spotify:album:2PkstTUo2zJbgatbT2JkTU">
+      <name>McMxc A.D.</name>
+      <released>1990</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>703.133000</length>
+    <popularity>0.54080</popularity>
+  </track>
+  <track href="spotify:track:20VDb9XVoOyWOzH1MUun1o">
+    <name>Gravity Of Love..</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129904403</id>
+    <album href="spotify:album:2C8eKjd8ZPp7KI0Zh24OfI">
+      <name>The Screen Behind The Mirror</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>238.760000</length>
+    <popularity>0.52916</popularity>
+  </track>
+  <track href="spotify:track:2SX4uYkohuUMZsak6b8vlA">
+    <name>Mea Culpa Part II (Orthodox Mix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129100012</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>241.373000</length>
+    <popularity>0.52266</popularity>
+  </track>
+  <track href="spotify:track:4gPuYeIEZRutUTkLCpOrdP">
+    <name>The Voice Of Enigma</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000051</id>
+    <album href="spotify:album:2PkstTUo2zJbgatbT2JkTU">
+      <name>McMxc A.D.</name>
+      <released>1990</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>141.493000</length>
+    <popularity>0.46013</popularity>
+  </track>
+  <track href="spotify:track:4XyoiTQcT7PF32U9YkBZcO">
+    <name>Enigma Variations: Nimrod</name>
+    <artist href="spotify:artist:0kH3qHYdrKMy2LWAYSZOtz">
+      <name>Bournemouth Symphony Orchestra</name>
+    </artist>
+    <artist href="spotify:artist:430byzy0c5bPn5opiu0SRd">
+      <name>Edward Elgar</name>
+    </artist>
+    <id type="isrc">HKI199246910</id>
+    <album href="spotify:album:72pORW53zGUDlon2HE8CkO">
+      <name>Elgar: Enigma Variations</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>208.173000</length>
+    <popularity>0.46833</popularity>
+  </track>
+  <track href="spotify:track:5Q1WrsTDRJQXKlqLUo8YkG">
+    <name>Mea Culpa</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000054</id>
+    <album href="spotify:album:2PkstTUo2zJbgatbT2JkTU">
+      <name>McMxc A.D.</name>
+      <released>1990</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>301.333000</length>
+    <popularity>0.47981</popularity>
+  </track>
+  <track href="spotify:track:15zUyQPa91SOSeBf3w4ofr">
+    <name>The Eyes Of Truth</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129300012</id>
+    <album href="spotify:album:1t4hf9yHMQBoTz2CxTBJKj">
+      <name>The Cross Of Changes</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>434.506000</length>
+    <popularity>0.46911</popularity>
+  </track>
+  <track href="spotify:track:5k4CkBwvnK64XeEBCCOjxe">
+    <name>Return To Innocence (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC649300014</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>251.426000</length>
+    <popularity>0.46254</popularity>
+  </track>
+  <track href="spotify:track:3E61ra5VUF6eu3tpfsXfou">
+    <name>I Love You...I'Ll Kill You</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129300014</id>
+    <album href="spotify:album:1t4hf9yHMQBoTz2CxTBJKj">
+      <name>The Cross Of Changes</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>532.560000</length>
+    <popularity>0.46210</popularity>
+  </track>
+  <track href="spotify:track:5V418gaWn4pX0Z0IcS7JVm">
+    <name>Rivers Of Belief</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEA340900712</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>263.760000</length>
+    <popularity>0.45687</popularity>
+  </track>
+  <track href="spotify:track:04puSglTQUaP4J9PdEPREb">
+    <name>Boum Boum (Enigma Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120400016</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>223.960000</length>
+    <popularity>0.42643</popularity>
+  </track>
+  <track href="spotify:track:3UKgVcvauozaLi5DabAlBm">
+    <name>Principles Of Lust (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEA340900391</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>206.866000</length>
+    <popularity>0.45528</popularity>
+  </track>
+  <track href="spotify:track:5gPdjsmYkLm5FWT2PXIhnF">
+    <name>Beyond The Invisible (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129600721</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>275.200000</length>
+    <popularity>0.45354</popularity>
+  </track>
+  <track href="spotify:track:18idgoIaAc0W9e2u5bTYhY">
+    <name>Age Of Loneliness (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC649400025</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>256.960000</length>
+    <popularity>0.44851</popularity>
+  </track>
+  <track href="spotify:track:7x97HGHJQwvgDkYOLbpsVF">
+    <name>Age Of Loneliness (Carly's Song)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129300017</id>
+    <album href="spotify:album:1t4hf9yHMQBoTz2CxTBJKj">
+      <name>The Cross Of Changes</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>321.493000</length>
+    <popularity>0.44335</popularity>
+  </track>
+  <track href="spotify:track:7i7fKQUvU2sVKtW9kwRrF7">
+    <name>The Child In Us</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129602807</id>
+    <album href="spotify:album:5dCFV6pMXCCd77Ng8MAGrL">
+      <name>Le Roi Est Mort, Vive Le Roi! (International Version)</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>306.066000</length>
+    <popularity>0.44316</popularity>
+  </track>
+  <track href="spotify:track:4dXuG4aEdyEXNTT8Sqe0hM">
+    <name>Gravity Of Love</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129903981</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>240.440000</length>
+    <popularity>0.44278</popularity>
+  </track>
+  <track href="spotify:track:16TCkSUoUGkbnH7m04KeaV">
+    <name>Enigma Variations: Enigma</name>
+    <artist href="spotify:artist:0kH3qHYdrKMy2LWAYSZOtz">
+      <name>Bournemouth Symphony Orchestra</name>
+    </artist>
+    <artist href="spotify:artist:430byzy0c5bPn5opiu0SRd">
+      <name>Edward Elgar</name>
+    </artist>
+    <id type="isrc">HKI199246901</id>
+    <album href="spotify:album:72pORW53zGUDlon2HE8CkO">
+      <name>Elgar: Enigma Variations</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>94.200000</length>
+    <popularity>0.40470</popularity>
+  </track>
+  <track href="spotify:track:1BK4P5U99RBR0Vlvueshtp">
+    <name>The Dream Of The Dolphin</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129300016</id>
+    <album href="spotify:album:1t4hf9yHMQBoTz2CxTBJKj">
+      <name>The Cross Of Changes</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>167.400000</length>
+    <popularity>0.43922</popularity>
+  </track>
+  <track href="spotify:track:4aqm3AXpo7MI7qET8ZURxD">
+    <name>Silent Warrior</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129300015</id>
+    <album href="spotify:album:1t4hf9yHMQBoTz2CxTBJKj">
+      <name>The Cross Of Changes</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>369.773000</length>
+    <popularity>0.43788</popularity>
+  </track>
+  <track href="spotify:track:3DTBV95Asn4QvFAId13M0t">
+    <name>T.N.T. For The Brain (112 Bpm) (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129700061</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>243.906000</length>
+    <popularity>0.43479</popularity>
+  </track>
+  <track href="spotify:track:3WnZ8OXaIyg6Sw5MPxAWqY">
+    <name>Seven Lives</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800305</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>265.280000</length>
+    <popularity>0.43441</popularity>
+  </track>
+  <track href="spotify:track:3HFI471OS9soDWA3lGh0Qd">
+    <name>Voyageur (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120300471</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>235.066000</length>
+    <popularity>0.43159</popularity>
+  </track>
+  <track href="spotify:track:1mITvds7JRzV7WJhsnGGpn">
+    <name>Second Chapter</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129300011</id>
+    <album href="spotify:album:1t4hf9yHMQBoTz2CxTBJKj">
+      <name>The Cross Of Changes</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>135.293000</length>
+    <popularity>0.42830</popularity>
+  </track>
+  <track href="spotify:track:0BU330hJD4niBWT3eE7Y5t">
+    <name>Why!...</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129602805</id>
+    <album href="spotify:album:5dCFV6pMXCCd77Ng8MAGrL">
+      <name>Le Roi Est Mort, Vive Le Roi! (International Version)</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>299.373000</length>
+    <popularity>0.42688</popularity>
+  </track>
+  <track href="spotify:track:5p6BgGmew8ZbyNlW6zVEMw">
+    <name>Out From The Deep (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC649400030</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>272.200000</length>
+    <popularity>0.42534</popularity>
+  </track>
+  <track href="spotify:track:3El6i4LszkLB5YwnhEhp6Y">
+    <name>Beyond The Invisible</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129600723</id>
+    <album href="spotify:album:5dCFV6pMXCCd77Ng8MAGrL">
+      <name>Le Roi Est Mort, Vive Le Roi! (International Version)</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>300.026000</length>
+    <popularity>0.42288</popularity>
+  </track>
+  <track href="spotify:track:5ElRWj8iZJbZKQbqCGSiQU">
+    <name>Push The Limits (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120001141</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>234.160000</length>
+    <popularity>0.41961</popularity>
+  </track>
+  <track href="spotify:track:36wyNzxDe6Tp8f8KTttc90">
+    <name>Shadows In Silence</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129602806</id>
+    <album href="spotify:album:5dCFV6pMXCCd77Ng8MAGrL">
+      <name>Le Roi Est Mort, Vive Le Roi! (International Version)</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>261.200000</length>
+    <popularity>0.41943</popularity>
+  </track>
+  <track href="spotify:track:06XPZNjnPt90Y4cAIqPN19">
+    <name>La Puerta Del Cielo (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800415</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>213.173000</length>
+    <popularity>0.41755</popularity>
+  </track>
+  <track href="spotify:track:5qtDWcU11RlmfwNWRsomW9">
+    <name>Goodbye Milky Way</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120600185</id>
+    <album href="spotify:album:1gtJUgOvHNK0Mnhe9LuWBs">
+      <name>A Posteriori</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>358.026000</length>
+    <popularity>0.41718</popularity>
+  </track>
+  <track href="spotify:track:57h06SZNL6LJ3YKZ1UGCeu">
+    <name>Sadness Part 1</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120102010</id>
+    <album href="spotify:album:3idlo0DqoL0k5xP8X9gAAa">
+      <name>Lsd - Love Sensuality Devotion</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>255.533000</length>
+    <popularity>0.41475</popularity>
+  </track>
+  <track href="spotify:track:6jNHcc5Ap4uNil96KnoEu2">
+    <name>The Voice Of Enigma</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000051</id>
+    <album href="spotify:album:7sIgNBpB6lYDOvCRQXZAJH">
+      <name>McMxc A.D. (More Music Version)</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>141.493000</length>
+    <popularity>0.37802</popularity>
+  </track>
+  <track href="spotify:track:5QPP9bMGcGtuzls5JycEwE">
+    <name>Return To Innocence (Long &amp; Alive Version)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129300022</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>427.773000</length>
+    <popularity>0.41264</popularity>
+  </track>
+  <track href="spotify:track:6R4ZuCmV4gjeLyEnbHzscV">
+    <name>Smell Of Desire</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129904404</id>
+    <album href="spotify:album:2C8eKjd8ZPp7KI0Zh24OfI">
+      <name>The Screen Behind The Mirror</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>297.333000</length>
+    <popularity>0.41197</popularity>
+  </track>
+  <track href="spotify:track:5OFBzAsPoKvEeNRu67AzUD">
+    <name>Turn Around (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120100621</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>237.066000</length>
+    <popularity>0.41094</popularity>
+  </track>
+  <track href="spotify:track:4KeRXhil6blpGuroDZ2ot7">
+    <name>Callas Went Away</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000053</id>
+    <album href="spotify:album:7sIgNBpB6lYDOvCRQXZAJH">
+      <name>McMxc A.D. (More Music Version)</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>269.373000</length>
+    <popularity>0.40949</popularity>
+  </track>
+  <track href="spotify:track:2oHhE19LtMRcwH6SWrUdAo">
+    <name>Following The Sun (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120300672</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>258.800000</length>
+    <popularity>0.40891</popularity>
+  </track>
+  <track href="spotify:track:6E59ljVX0peiUOd3yvNAxC">
+    <name>Back To The Rivers Of Belief: Way To Eternity/Hallelujah/The Rivers Of Belief (Medley)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000057</id>
+    <album href="spotify:album:2PkstTUo2zJbgatbT2JkTU">
+      <name>McMxc A.D.</name>
+      <released>1990</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>636.266000</length>
+    <popularity>0.40750</popularity>
+  </track>
+  <track href="spotify:track:7lDOFAKyxVXTPSNVt8fhYH">
+    <name>Out From The Deep</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129300018</id>
+    <album href="spotify:album:1t4hf9yHMQBoTz2CxTBJKj">
+      <name>The Cross Of Changes</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>293.106000</length>
+    <popularity>0.40750</popularity>
+  </track>
+  <track href="spotify:track:5vvROSEexdMrxIKUGXvqWr">
+    <name>Sadeness - Part I (Extended Trance Mix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000014</id>
+    <album href="spotify:album:7sIgNBpB6lYDOvCRQXZAJH">
+      <name>McMxc A.D. (More Music Version)</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>303.360000</length>
+    <popularity>0.40487</popularity>
+  </track>
+  <track href="spotify:track:0l1Pp67JljnHBeNYzffPkf">
+    <name>The Cross Of Changes.</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129300019</id>
+    <album href="spotify:album:1t4hf9yHMQBoTz2CxTBJKj">
+      <name>The Cross Of Changes</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>144.400000</length>
+    <popularity>0.40436</popularity>
+  </track>
+  <track href="spotify:track:58BI5Iw9BIBBK3T3i6mNTJ">
+    <name>Je T'aime Till My Dying Day</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800312</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>258.920000</length>
+    <popularity>0.40291</popularity>
+  </track>
+  <track href="spotify:track:3VULsG4EYyGtH2KSR839wb">
+    <name>Touchness</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800306</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>215.840000</length>
+    <popularity>0.40228</popularity>
+  </track>
+  <track href="spotify:track:6An3uQtJqcY1S06PgwuDu6">
+    <name>Knocking On Forbidden Doors</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000056</id>
+    <album href="spotify:album:2PkstTUo2zJbgatbT2JkTU">
+      <name>McMxc A.D.</name>
+      <released>1990</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>262.666000</length>
+    <popularity>0.39851</popularity>
+  </track>
+  <track href="spotify:track:3Xpb0przH13ErV5DUrtKud">
+    <name>Enigma Machine - Part 2</name>
+    <artist href="spotify:artist:0Hw6VamqyIU1erqrs1JyUH">
+      <name>Timecode feat. Zak</name>
+    </artist>
+    <id type="isrc">DEAF75103310</id>
+    <album href="spotify:album:32jtiYBXeXcn1Fzka1P4mP">
+      <name>50 Chillout Lounge Classics</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>43</track-number>
+    <length>216.410000</length>
+    <popularity>0.43222</popularity>
+  </track>
+  <track href="spotify:track:7zVVB70NVYOQA9v6hLI72W">
+    <name>Enigma Variations: Nimrod</name>
+    <artist href="spotify:artist:3PfJE6ebCbCHeuqO4BfNeA">
+      <name>London Philharmonic Orchestra</name>
+    </artist>
+    <id type="isrc">GBARU9800716</id>
+    <album href="spotify:album:4oR3JwcqgGVczULlZHynxD">
+      <name>Elgar: Enigma Variations</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>204.133000</length>
+    <popularity>0.37527</popularity>
+  </track>
+  <track href="spotify:track:7oradvnbSujiCyc7FbAeXC">
+    <name>Encounters</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800304</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>192.813000</length>
+    <popularity>0.39599</popularity>
+  </track>
+  <track href="spotify:track:0c0X4p4fER8ldFSHBLRkWQ">
+    <name>Morphing Thru Time</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129602802</id>
+    <album href="spotify:album:5dCFV6pMXCCd77Ng8MAGrL">
+      <name>Le Roi Est Mort, Vive Le Roi! (International Version)</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>347.826000</length>
+    <popularity>0.39561</popularity>
+  </track>
+  <track href="spotify:track:5cZp1zR5irB7m08xkw1664">
+    <name>Seven Lives (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800414</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>227.866000</length>
+    <popularity>0.39506</popularity>
+  </track>
+  <track href="spotify:track:1rrf1VxFXd0DlSRbhgBzcY">
+    <name>Invisible Love</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120600180</id>
+    <album href="spotify:album:1gtJUgOvHNK0Mnhe9LuWBs">
+      <name>A Posteriori</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>300.493000</length>
+    <popularity>0.39314</popularity>
+  </track>
+  <track href="spotify:track:5RHcBbi9TvOKvU5TUpeFa9">
+    <name>The Same Parents</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800307</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>319.733000</length>
+    <popularity>0.39223</popularity>
+  </track>
+  <track href="spotify:track:7dbDf1c8CPG61elIUtm4Uf">
+    <name>The Voice And The Snake</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000055</id>
+    <album href="spotify:album:2PkstTUo2zJbgatbT2JkTU">
+      <name>McMxc A.D.</name>
+      <released>1990</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>101.066000</length>
+    <popularity>0.39150</popularity>
+  </track>
+  <track href="spotify:track:6TBhIzjK8HiSct7nDBvS1q">
+    <name>Callas Went Away</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000053</id>
+    <album href="spotify:album:2PkstTUo2zJbgatbT2JkTU">
+      <name>McMxc A.D.</name>
+      <released>1990</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>269.373000</length>
+    <popularity>0.39145</popularity>
+  </track>
+  <track href="spotify:track:0Qr3Mrf6ysmEuY06DTzO1p">
+    <name>T.N.T. For The Brain</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129602808</id>
+    <album href="spotify:album:5dCFV6pMXCCd77Ng8MAGrL">
+      <name>Le Roi Est Mort, Vive Le Roi! (International Version)</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>266.066000</length>
+    <popularity>0.39122</popularity>
+  </track>
+  <track href="spotify:track:6kgKw11wmhn9LhN1veBDfp">
+    <name>Mea Culpa Part II (Fading Shades Mix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129100011</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>376.960000</length>
+    <popularity>0.38995</popularity>
+  </track>
+  <track href="spotify:track:5aLmNHoANEqTeW05QIzaZp">
+    <name>La Puerta Del Cielo</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800310</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>208.266000</length>
+    <popularity>0.38871</popularity>
+  </track>
+  <track href="spotify:track:0U44nxhcMGaSHY1u82UoG3">
+    <name>20.000 Miles Over The Sea</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120600182</id>
+    <album href="spotify:album:1gtJUgOvHNK0Mnhe9LuWBs">
+      <name>A Posteriori</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>263.080000</length>
+    <popularity>0.38720</popularity>
+  </track>
+  <track href="spotify:track:2KdoZ7Zgvle6uX0SWwkT7D">
+    <name>Principles Of Lust (Everlasting Lust Mix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120100647</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>309.333000</length>
+    <popularity>0.38685</popularity>
+  </track>
+  <track href="spotify:track:1o0ixPgBmT2O6g8tAl1aAc">
+    <name>Sadeness - Part I (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000013</id>
+    <album href="spotify:album:2sNh4JpC3VxeCJdoKSSDWH">
+      <name>The Platinum Collection</name>
+      <released>2010</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>260.400000</length>
+    <popularity>0.38523</popularity>
+  </track>
+  <track href="spotify:track:3MUp5aA0EhJn2F3kCDyByb">
+    <name>Almost Full Moon</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129600722</id>
+    <album href="spotify:album:5dCFV6pMXCCd77Ng8MAGrL">
+      <name>Le Roi Est Mort, Vive Le Roi! (International Version)</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>206.226000</length>
+    <popularity>0.38485</popularity>
+  </track>
+  <track href="spotify:track:7d4wjR5qQ3H66UCFEnQGZg">
+    <name>Silence Must Be Heard</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129904410</id>
+    <album href="spotify:album:2C8eKjd8ZPp7KI0Zh24OfI">
+      <name>The Screen Behind The Mirror</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>319.466000</length>
+    <popularity>0.38448</popularity>
+  </track>
+  <track href="spotify:track:4JkiZCMPlPsonRBlO4IoD8">
+    <name>The Enigma Gate - In Nomine Mix</name>
+    <artist href="spotify:artist:0gOyC8nacss5BDr1Bfn9N5">
+      <name>Odysee Of Voices</name>
+    </artist>
+    <id type="isrc">DEAF70937131</id>
+    <album href="spotify:album:27eO4l7eB6a8f3TK4NXIx6">
+      <name>Buddha Chill Sessions - The Bar Lounge Edition</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>447.494000</length>
+    <popularity>0.43439</popularity>
+  </track>
+  <track href="spotify:track:01ZcGaInwbGQ851SwRKnNE">
+    <name>Sadeness - Part I (Violent Us Remix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000012</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>305.693000</length>
+    <popularity>0.38411</popularity>
+  </track>
+  <track href="spotify:track:2ErMFZxYKqERXBy72K1RX4">
+    <name>Principles Of Lust: Sadeness/Find Love/Sadeness (Reprise) (Medley)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000052</id>
+    <album href="spotify:album:2p8V503fULdh7LVHYbJ01T">
+      <name>MCMXC, A.D.</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>703.933000</length>
+    <popularity>0.38318</popularity>
+  </track>
+  <track href="spotify:track:5aeT0ug8aEM2UZYUUKG14e">
+    <name>Déjà Vu (Instrumental)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800313</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>176.253000</length>
+    <popularity>0.38249</popularity>
+  </track>
+  <track href="spotify:track:0sZr7imTdpxdIqhyMY4RtF">
+    <name>Mea Culpa</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000054</id>
+    <album href="spotify:album:7sIgNBpB6lYDOvCRQXZAJH">
+      <name>McMxc A.D. (More Music Version)</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>301.333000</length>
+    <popularity>0.38142</popularity>
+  </track>
+  <track href="spotify:track:1IdrO91xnczc9vv8h6XWbZ">
+    <name>Fresh (Original Mix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">GBM8L1100001</id>
+    <album href="spotify:album:5Xa3RMCHfzs1NjhAGX8HF9">
+      <name>Fresh EP</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>324.000000</length>
+    <popularity>0.38037</popularity>
+  </track>
+  <track href="spotify:track:60uAvxdoSL6xRP1Ayse1LG">
+    <name>Enigma Variations: Theme</name>
+    <artist href="spotify:artist:3PfJE6ebCbCHeuqO4BfNeA">
+      <name>London Philharmonic Orchestra</name>
+    </artist>
+    <id type="isrc">GBARU9800707</id>
+    <album href="spotify:album:4oR3JwcqgGVczULlZHynxD">
+      <name>Elgar: Enigma Variations</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>105.600000</length>
+    <popularity>0.35744</popularity>
+  </track>
+  <track href="spotify:track:0InzOjzXX8VQUh79pB65fR">
+    <name>Push The Limits (Album Version)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129904402</id>
+    <album href="spotify:album:2C8eKjd8ZPp7KI0Zh24OfI">
+      <name>The Screen Behind The Mirror</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>386.906000</length>
+    <popularity>0.37975</popularity>
+  </track>
+  <track href="spotify:track:797LriZS5m0vq1q7MDrhON">
+    <name>Age Of Loneliness (Enigmatic Club Mix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC649400027</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>383.000000</length>
+    <popularity>0.37891</popularity>
+  </track>
+  <track href="spotify:track:7MwAap6P3l7LVQMC1iGtnj">
+    <name>Sadeness - Part I (Meditation Mix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000011</id>
+    <album href="spotify:album:7sIgNBpB6lYDOvCRQXZAJH">
+      <name>McMxc A.D. (More Music Version)</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>183.373000</length>
+    <popularity>0.37775</popularity>
+  </track>
+  <track href="spotify:track:2wpF0yLaUvgHrjkFrCM9fP">
+    <name>Le Roi Est Mort, Vive Le Roi!</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129602801</id>
+    <album href="spotify:album:5dCFV6pMXCCd77Ng8MAGrL">
+      <name>Le Roi Est Mort, Vive Le Roi! (International Version)</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>117.973000</length>
+    <popularity>0.37713</popularity>
+  </track>
+  <track href="spotify:track:5xJXp4jA4T8nJMMyGPonuO">
+    <name>The Roundabout</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129602810</id>
+    <album href="spotify:album:5dCFV6pMXCCd77Ng8MAGrL">
+      <name>Le Roi Est Mort, Vive Le Roi! (International Version)</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>218.506000</length>
+    <popularity>0.37702</popularity>
+  </track>
+  <track href="spotify:track:0ePVRtBoq3qQ115eWJO4Ov">
+    <name>Sitting On The Moon</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120600183</id>
+    <album href="spotify:album:1gtJUgOvHNK0Mnhe9LuWBs">
+      <name>A Posteriori</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>261.440000</length>
+    <popularity>0.37586</popularity>
+  </track>
+  <track href="spotify:track:0dRUhgeTLMjYs8ZbvTQOaC">
+    <name>Eppur Si Muove</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120600175</id>
+    <album href="spotify:album:1gtJUgOvHNK0Mnhe9LuWBs">
+      <name>A Posteriori</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>221.160000</length>
+    <popularity>0.37556</popularity>
+  </track>
+  <track href="spotify:track:6QeT87fCLEH017O49bMFSU">
+    <name>Prism Of Life</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129602811</id>
+    <album href="spotify:album:5dCFV6pMXCCd77Ng8MAGrL">
+      <name>Le Roi Est Mort, Vive Le Roi! (International Version)</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>295.160000</length>
+    <popularity>0.37535</popularity>
+  </track>
+  <track href="spotify:track:2bmOc8K8rilxdij1X8TKe9">
+    <name>Fata Morgana (Instrumental)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800308</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>203.586000</length>
+    <popularity>0.37253</popularity>
+  </track>
+  <track href="spotify:track:0I1Xx29bluOyeUbPXDt2XW">
+    <name>Dreaming Of Andromeda</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120600177</id>
+    <album href="spotify:album:1gtJUgOvHNK0Mnhe9LuWBs">
+      <name>A Posteriori</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>266.053000</length>
+    <popularity>0.37119</popularity>
+  </track>
+  <track href="spotify:track:2A0eqy7Buks3bB9qtwSbhl">
+    <name>Feel Me Heaven</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120600176</id>
+    <album href="spotify:album:1gtJUgOvHNK0Mnhe9LuWBs">
+      <name>A Posteriori</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>290.146000</length>
+    <popularity>0.37049</popularity>
+  </track>
+  <track href="spotify:track:4nELRhv5rw9GxagqFmqZLN">
+    <name>Between Generations</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800314</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>271.453000</length>
+    <popularity>0.37040</popularity>
+  </track>
+  <track href="spotify:track:7KiXDRO0QO8PvsoRQQF6t3">
+    <name>Push The Limits (133 Bpm) (ATB Remix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120001142</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>511.186000</length>
+    <popularity>0.37005</popularity>
+  </track>
+  <track href="spotify:track:0Ydy2nNYsoRWtP8Rd17l6c">
+    <name>Enigma</name>
+    <artist href="spotify:artist:2UOVgpgiNTC6KK0vSC77aD">
+      <name>Amorphis</name>
+    </artist>
+    <id type="isrc">DED830798907</id>
+    <album href="spotify:album:2fixsugsdu3bHhJ5Abkjv4">
+      <name>Silent Waters</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT CH DE DK FI GR IS IT NO SE</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>214.893000</length>
+    <popularity>0.35227</popularity>
+  </track>
+  <track href="spotify:track:4GnTMpN6tBJr2kityCdVT3">
+    <name>The Screen Behind The Mirror</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129904409</id>
+    <album href="spotify:album:2C8eKjd8ZPp7KI0Zh24OfI">
+      <name>The Screen Behind The Mirror</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>238.760000</length>
+    <popularity>0.36787</popularity>
+  </track>
+  <track href="spotify:track:7ufxK0nSP8hPXcQK59o8fR">
+    <name>Enigma Variations: C.a.e.</name>
+    <artist href="spotify:artist:0kH3qHYdrKMy2LWAYSZOtz">
+      <name>Bournemouth Symphony Orchestra</name>
+    </artist>
+    <artist href="spotify:artist:430byzy0c5bPn5opiu0SRd">
+      <name>Edward Elgar</name>
+    </artist>
+    <id type="isrc">HKI199246902</id>
+    <album href="spotify:album:72pORW53zGUDlon2HE8CkO">
+      <name>Elgar: Enigma Variations</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>95.693000</length>
+    <popularity>0.34423</popularity>
+  </track>
+  <track href="spotify:track:5ErZ5yOZI7HEjCIPa9XxMB">
+    <name>The Gate</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129904401</id>
+    <album href="spotify:album:2C8eKjd8ZPp7KI0Zh24OfI">
+      <name>The Screen Behind The Mirror</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>124.400000</length>
+    <popularity>0.36488</popularity>
+  </track>
+  <track href="spotify:track:7IzJNSjx501jXtv3n0YFdu">
+    <name>Dancing With Mephisto</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG120600178</id>
+    <album href="spotify:album:1gtJUgOvHNK0Mnhe9LuWBs">
+      <name>A Posteriori</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>265.320000</length>
+    <popularity>0.36451</popularity>
+  </track>
+  <track href="spotify:track:2uQzUskc9daPKXf2bcGBqt">
+    <name>Distorted Love</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800311</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>251.506000</length>
+    <popularity>0.36433</popularity>
+  </track>
+  <track href="spotify:track:75E3X6R6qFJ6MwjXqHpXN4">
+    <name>Modern Crusaders</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129904405</id>
+    <album href="spotify:album:2C8eKjd8ZPp7KI0Zh24OfI">
+      <name>The Screen Behind The Mirror</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>230.600000</length>
+    <popularity>0.36412</popularity>
+  </track>
+  <track href="spotify:track:5lkZM1BjJcMLxu9zJtmhxq">
+    <name>T.N.T. For The Brain (Midnight Man Remix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129700062</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>357.826000</length>
+    <popularity>0.36359</popularity>
+  </track>
+  <track href="spotify:track:5ONdwczyHS3EoERcnrf1xj">
+    <name>Enigma</name>
+    <artist href="spotify:artist:2vH7B6YvHO3AHVb9R8bYi8">
+      <name>Corroded</name>
+    </artist>
+    <id type="isrc">SEWLR0900311</id>
+    <album href="spotify:album:5Lzr2VSvc4n2YuyQ1VE80X">
+      <name>Eleven Shades Of Black</name>
+      <released>2009</released>
+      <availability>
+        <territories>SE</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>269.213000</length>
+    <popularity>0.34728</popularity>
+  </track>
+  <track href="spotify:track:4vLCOUtdyLi4WRu9MATILX">
+    <name>Sadeness - Part I (Radio Edit)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000013</id>
+    <album href="spotify:album:5DCgv7hYRGJB81vFRW3bbs">
+      <name>The Platinum Collection (2CD)</name>
+      <released>2010</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>260.400000</length>
+    <popularity>0.36279</popularity>
+  </track>
+  <track href="spotify:track:7DCncVwvE3hRtjApPi0wTD">
+    <name>Out From The Deep (168 Bpm) (Trance Mix)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC649400032</id>
+    <album href="spotify:album:4yUhIQBLe1WL10bVKP7kRx">
+      <name>The Platinum Collection</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>350.066000</length>
+    <popularity>0.36251</popularity>
+  </track>
+  <track href="spotify:track:4F7GWcqSY3tOWISVnZST0I">
+    <name>Variations on an Original Theme 'Enigma' Op. 36: IX.    Nimrod (A. J. Jaeger)</name>
+    <artist href="spotify:artist:0ii7SHgFe1ktIHDQpfjSbg">
+      <name>London Philharmonic Orchestra (LPO)</name>
+    </artist>
+    <artist href="spotify:artist:29BEmD7wvKp6F5GTCcejY3">
+      <name>David Bell</name>
+    </artist>
+    <artist href="spotify:artist:2lfhRHLz3kC17tcVKJqJ4Y">
+      <name>Vernon Handley</name>
+    </artist>
+    <id type="isrc">GBAYD8300055</id>
+    <album href="spotify:album:6at8ksyXcJ40hawgGTYrps">
+      <name>Elgar Enigma Variations, Vaughan Williams The Lark Ascending</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>214.680000</length>
+    <popularity>0.38929</popularity>
+  </track>
+  <track href="spotify:track:06IqbKR3z5pKWJrPHv1qZ0">
+    <name>Hell's Heaven (Instrumental)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800309</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>231.520000</length>
+    <popularity>0.36190</popularity>
+  </track>
+  <track href="spotify:track:2PCI9ItzQp3zKYtuLCg0Sa">
+    <name>Variations on an Original Theme, Op.36 'Enigma' (1991 Digital Remaster): I. C.A.E. (the composer's wife) (L'istesso tempo)</name>
+    <artist href="spotify:artist:0ii7SHgFe1ktIHDQpfjSbg">
+      <name>London Philharmonic Orchestra (LPO)</name>
+    </artist>
+    <artist href="spotify:artist:3YjLvhwK5zw7N5S5oX0DVl">
+      <name>Sir Adrian Boult</name>
+    </artist>
+    <id type="isrc">GBAYD9101003</id>
+    <album href="spotify:album:55NvkUZBLcrSZejwGVjXaD">
+      <name>Elgar: Enigma Variations, In the South etc</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>104.960000</length>
+    <popularity>0.38883</popularity>
+  </track>
+  <track href="spotify:track:5ztBDezNT4FHmFXztJHuDX">
+    <name>Knocking On Forbidden Doors</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEG129000056</id>
+    <album href="spotify:album:7sIgNBpB6lYDOvCRQXZAJH">
+      <name>McMxc A.D. (More Music Version)</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>262.666000</length>
+    <popularity>0.36073</popularity>
+  </track>
+  <track href="spotify:track:5XdbGKJQUxV7yzrfmasyyX">
+    <name>The Language Of Sound (Instrumental)</name>
+    <artist href="spotify:artist:3DmG65yHQsMms7WAvrZOdt">
+      <name>Enigma</name>
+    </artist>
+    <id type="isrc">DEC610800315</id>
+    <album href="spotify:album:0Sos6FpjnB2cgvB6ftTmOh">
+      <name>Seven Lives Many Faces</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>260.800000</length>
+    <popularity>0.36013</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Fri, 24 Feb 2012 11:26:37 GMT -->

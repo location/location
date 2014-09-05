@@ -1,0 +1,1795 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Bel Canto"/>
+  <opensearch:totalResults>672</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:0THa6vU38FvQfnQYudJD6E">
+    <name>Images</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701010</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>217.147000</length>
+    <popularity>0.34723</popularity>
+  </track>
+  <track href="spotify:track:18J6NfbWamNcKRXhoVGaTj">
+    <name>You Rock My World Tonight</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0201040</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>278.747000</length>
+    <popularity>0.32921</popularity>
+  </track>
+  <track href="spotify:track:0icoKdy9EKinIwIQIJHAxC">
+    <name>Shimmering,Warm &amp; Bright</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201050</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>195.133000</length>
+    <popularity>0.32188</popularity>
+  </track>
+  <track href="spotify:track:1LZVxImTFciYCw1OBbNz7M">
+    <name>Rumour</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100574</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>325.040000</length>
+    <popularity>0.31868</popularity>
+  </track>
+  <track href="spotify:track:63yUIadeBVgNvyHCeQNSZk">
+    <name>Unicorn</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201010</id>
+    <album href="spotify:album:7emH84tjtK20K8qunsSdhY">
+      <name>Shimmering, Warm And Bright</name>
+      <released>1992</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>320.013000</length>
+    <popularity>0.30138</popularity>
+  </track>
+  <track href="spotify:track:0PInkJ6JLQDUrUbPP6pl1v">
+    <name>Shimmering, Warm &amp; Bright</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201050</id>
+    <album href="spotify:album:7emH84tjtK20K8qunsSdhY">
+      <name>Shimmering, Warm And Bright</name>
+      <released>1992</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>197.960000</length>
+    <popularity>0.28850</popularity>
+  </track>
+  <track href="spotify:track:0FGz40fn5DV4eo82gMb2eW">
+    <name>Night Lady</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0201050</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>395.947000</length>
+    <popularity>0.28102</popularity>
+  </track>
+  <track href="spotify:track:33wJl102TdiHma5UVjc55W">
+    <name>Dorothy's Victory</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0201060</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>265.253000</length>
+    <popularity>0.26232</popularity>
+  </track>
+  <track href="spotify:track:3N1A1bAM8VxsxRH3q16f5l">
+    <name>Paradise</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100578</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>313.293000</length>
+    <popularity>0.25557</popularity>
+  </track>
+  <track href="spotify:track:1sN8ZryB50tKP1gYSCdY5F">
+    <name>Feels Like I'm Already Flying</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0201010</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>241.307000</length>
+    <popularity>0.25411</popularity>
+  </track>
+  <track href="spotify:track:6PgF0YokqhD4Y43aaIXB7y">
+    <name>Summer</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201020</id>
+    <album href="spotify:album:7emH84tjtK20K8qunsSdhY">
+      <name>Shimmering, Warm And Bright</name>
+      <released>1992</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>286.960000</length>
+    <popularity>0.25363</popularity>
+  </track>
+  <track href="spotify:track:4RNpX7uWrHednA7pVAFpru">
+    <name>Idly I de-ice</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701050</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>295.347000</length>
+    <popularity>0.25210</popularity>
+  </track>
+  <track href="spotify:track:1j740e74zLo3YEpXyBl09l">
+    <name>Die Geschichte einer Mutter</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201030</id>
+    <album href="spotify:album:7emH84tjtK20K8qunsSdhY">
+      <name>Shimmering, Warm And Bright</name>
+      <released>1992</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>413.787000</length>
+    <popularity>0.24400</popularity>
+  </track>
+  <track href="spotify:track:5jFv2xN5FeKayxTJ4SG4Pt">
+    <name>Waking Will</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201040</id>
+    <album href="spotify:album:7emH84tjtK20K8qunsSdhY">
+      <name>Shimmering, Warm And Bright</name>
+      <released>1992</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>316.280000</length>
+    <popularity>0.24306</popularity>
+  </track>
+  <track href="spotify:track:5GPpnietVI0TPGFyzDbJEj">
+    <name>Spiderdust</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201090</id>
+    <album href="spotify:album:7emH84tjtK20K8qunsSdhY">
+      <name>Shimmering, Warm And Bright</name>
+      <released>1992</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>239.320000</length>
+    <popularity>0.24199</popularity>
+  </track>
+  <track href="spotify:track:5PRGiqVeHKbxWP7CoR05gi">
+    <name>Det Snør, Det Snør</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">FRZ089700039</id>
+    <album href="spotify:album:7BBB1ppnLh9Z4zNmHpoHz2">
+      <name>Kvirrevirrevitt</name>
+      <released>1997</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>188.333000</length>
+    <popularity>0.23945</popularity>
+  </track>
+  <track href="spotify:track:31PJ7hgKAdi3TLSJ68urnH">
+    <name>Look3</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001010</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>274.587000</length>
+    <popularity>0.23758</popularity>
+  </track>
+  <track href="spotify:track:2pTJXHhlRWyC6Cl7kxxRrv">
+    <name>Sleep In Deep</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201060</id>
+    <album href="spotify:album:7emH84tjtK20K8qunsSdhY">
+      <name>Shimmering, Warm And Bright</name>
+      <released>1992</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>165.653000</length>
+    <popularity>0.23749</popularity>
+  </track>
+  <track href="spotify:track:3A0WpQdQ6kqHkFGTmIAPCM">
+    <name>Har Du Enn Din Barnetro</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOAFE0016010</id>
+    <album href="spotify:album:1VQH2pHx3fEYAS9ayfgWnY">
+      <name>Perleporten</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>232.173000</length>
+    <popularity>0.23164</popularity>
+  </track>
+  <track href="spotify:track:23V1TPceruZW230ibc1k44">
+    <name>Disappear Club 5</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0101011</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>257.773000</length>
+    <popularity>0.22909</popularity>
+  </track>
+  <track href="spotify:track:6YYtJhMJJr7eJg7P6bZDWb">
+    <name>Birds of Passage</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001090</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>326.227000</length>
+    <popularity>0.22140</popularity>
+  </track>
+  <track href="spotify:track:2CnTUWpM6fp86HP0Fa10cl">
+    <name>A Shoulder to the Wheel</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001100</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>258.080000</length>
+    <popularity>0.22014</popularity>
+  </track>
+  <track href="spotify:track:33F4TjT41aTxzmPvLzIIAC">
+    <name>Dewy Fields</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001020</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>243.480000</length>
+    <popularity>0.21866</popularity>
+  </track>
+  <track href="spotify:track:4O6jCZpnt11xIN97ctauR9">
+    <name>Verena</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701040</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>191.293000</length>
+    <popularity>0.21820</popularity>
+  </track>
+  <track href="spotify:track:7vkhCfj2foJ2doUuNpJ2m5">
+    <name>Blank Sheets</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA8701010</id>
+    <album href="spotify:album:27ShKtMUmG1kGq2WiOY7ZV">
+      <name>White-out conditions</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>253.080000</length>
+    <popularity>0.21764</popularity>
+  </track>
+  <track href="spotify:track:6PkISzOFBeDfMWBHUzkEXU">
+    <name>Bombay</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100576</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>232.200000</length>
+    <popularity>0.21339</popularity>
+  </track>
+  <track href="spotify:track:587cfw5LHuQM2dxta4WbOn">
+    <name>Tree</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0201070</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>343.320000</length>
+    <popularity>0.21145</popularity>
+  </track>
+  <track href="spotify:track:3vTOYKF7CC3Qg8h0t61AhX">
+    <name>Le temps dégagé</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201080</id>
+    <album href="spotify:album:7emH84tjtK20K8qunsSdhY">
+      <name>Shimmering, Warm And Bright</name>
+      <released>1992</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>282.493000</length>
+    <popularity>0.20867</popularity>
+  </track>
+  <track href="spotify:track:2cfRcaNsQVtstZCYd9mUHw">
+    <name>Ladonia</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0201100</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>319.013000</length>
+    <popularity>0.20834</popularity>
+  </track>
+  <track href="spotify:track:0OqiRjUlPlGmWtb4vjdTt7">
+    <name>Paradise</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9601070</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>298.146000</length>
+    <popularity>0.20821</popularity>
+  </track>
+  <track href="spotify:track:16zfGpTdVRV0bAsabU4rS4">
+    <name>Im Best'n Beihs</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0201020</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>319.627000</length>
+    <popularity>0.20711</popularity>
+  </track>
+  <track href="spotify:track:0SXz0Zn8C3UyNmfjKecXYg">
+    <name>Buthania</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201070</id>
+    <album href="spotify:album:7emH84tjtK20K8qunsSdhY">
+      <name>Shimmering, Warm And Bright</name>
+      <released>1992</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>171.747000</length>
+    <popularity>0.20577</popularity>
+  </track>
+  <track href="spotify:track:4P7Y9jZg78KfkL3VBaley5">
+    <name>Foolish Ship</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0201030</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>273.520000</length>
+    <popularity>0.20563</popularity>
+  </track>
+  <track href="spotify:track:7pb9tfNiC2pNoBU216JCr7">
+    <name>The Magic Box I</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100571</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>80.533000</length>
+    <popularity>0.20561</popularity>
+  </track>
+  <track href="spotify:track:7ctWotVKqcFnUmymVBLX83">
+    <name>Mornixuur</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201100</id>
+    <album href="spotify:album:7emH84tjtK20K8qunsSdhY">
+      <name>Shimmering, Warm And Bright</name>
+      <released>1992</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>469.853000</length>
+    <popularity>0.20526</popularity>
+  </track>
+  <track href="spotify:track:7fyabr8IN0tRhufXZZQEuH">
+    <name>Maaligaabidaa (Inedit)</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0401020</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>175.093000</length>
+    <popularity>0.20404</popularity>
+  </track>
+  <track href="spotify:track:2AoTWMO8PyX6kyUHVcIxxH">
+    <name>Bel Canto</name>
+    <artist href="spotify:artist:6E7hjfR2Qy6392SnUqCnzr">
+      <name>Suzanne Ciani</name>
+    </artist>
+    <id type="isrc">ushm90466041</id>
+    <album href="spotify:album:2Rw6DPIFaaTHuLcpjzCT9h">
+      <name>Pianissimo II</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>123.667000</length>
+    <popularity>0.18097</popularity>
+  </track>
+  <track href="spotify:track:26MUqTe4jVyQVDy6ODpLMZ">
+    <name>The Suffering</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001040</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>246.627000</length>
+    <popularity>0.20185</popularity>
+  </track>
+  <track href="spotify:track:0H1HGCmgo7yGmI7IdNm5zT">
+    <name>Intravenous</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001070</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>198.227000</length>
+    <popularity>0.19950</popularity>
+  </track>
+  <track href="spotify:track:3Smz0cHLgQxIpLEL8BjD70">
+    <name>Didn't You Know It</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100579</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>261.640000</length>
+    <popularity>0.19632</popularity>
+  </track>
+  <track href="spotify:track:6cQvBDoRMxM4YwFzTFJwNc">
+    <name>Kiss Of Spring</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100580</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>263.306000</length>
+    <popularity>0.19547</popularity>
+  </track>
+  <track href="spotify:track:6FTj08KkvQ4OslbfwnugvW">
+    <name>Rush</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701070</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>272.253000</length>
+    <popularity>0.19025</popularity>
+  </track>
+  <track href="spotify:track:4pPbHosggIiSnkt1NkWJs3">
+    <name>Picnic on the Moon</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001060</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>280.813000</length>
+    <popularity>0.18851</popularity>
+  </track>
+  <track href="spotify:track:6snYpiEXHguJlXDBuY5UOQ">
+    <name>Sun</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701110</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>347.120000</length>
+    <popularity>0.18644</popularity>
+  </track>
+  <track href="spotify:track:1YlQMjqztLvRNBPAerQND9">
+    <name>All I want to do</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701020</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>292.027000</length>
+    <popularity>0.18473</popularity>
+  </track>
+  <track href="spotify:track:7zSqrQDRJLeoOmt53qERsn">
+    <name>Spacejunk</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701030</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>235.947000</length>
+    <popularity>0.18422</popularity>
+  </track>
+  <track href="spotify:track:19OprsUjnjmx0aPa2xKKVb">
+    <name>Nornagest</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701060</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>42.093000</length>
+    <popularity>0.18221</popularity>
+  </track>
+  <track href="spotify:track:2jsdaYQGYvBrYPBXt2Zoo4">
+    <name>Happy Times Fly Fast!</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0201080</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>237.120000</length>
+    <popularity>0.18205</popularity>
+  </track>
+  <track href="spotify:track:13cD2zsq19t9HBFgf8hEbM">
+    <name>Sleepwalker</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100575</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>290.933000</length>
+    <popularity>0.18154</popularity>
+  </track>
+  <track href="spotify:track:1MoAvyCaKQOBVYB5mE09iy">
+    <name>Corals, Jade and Pearls</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0201090</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>240.907000</length>
+    <popularity>0.18068</popularity>
+  </track>
+  <track href="spotify:track:5t4DhJVU1PS26G6SlcW6oi">
+    <name>White-Out Conditions</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA8701070</id>
+    <album href="spotify:album:27ShKtMUmG1kGq2WiOY7ZV">
+      <name>White-out conditions</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>247.960000</length>
+    <popularity>0.17994</popularity>
+  </track>
+  <track href="spotify:track:1xgES0Smz0ws4OszxZn8h8">
+    <name>Continuum</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001030</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>275.453000</length>
+    <popularity>0.17970</popularity>
+  </track>
+  <track href="spotify:track:5mOPJiZ1a99i0DCjS6acel">
+    <name>Oyster</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001080</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>186.280000</length>
+    <popularity>0.17961</popularity>
+  </track>
+  <track href="spotify:track:5HiHVa1RmICHSX554kkpqw">
+    <name>Big Belly Butterfly</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100570</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>291.426000</length>
+    <popularity>0.17832</popularity>
+  </track>
+  <track href="spotify:track:3DZKwZ38fii6kqBZ5CwzTF">
+    <name>The Glassmaker</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001050</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>268.653000</length>
+    <popularity>0.17691</popularity>
+  </track>
+  <track href="spotify:track:4nkXv6OL2JjiN51vr2UFxK">
+    <name>Dreaming Girl</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA8701020</id>
+    <album href="spotify:album:27ShKtMUmG1kGq2WiOY7ZV">
+      <name>White-out conditions</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>184.627000</length>
+    <popularity>0.17638</popularity>
+  </track>
+  <track href="spotify:track:2dSyej8y2yCeR84Sqer61q">
+    <name>Time Without End</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001110</id>
+    <album href="spotify:album:0rvkMaQB1tkIRkYkZgjrrW">
+      <name>Birds of Passage</name>
+      <released>1989</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>300.960000</length>
+    <popularity>0.17445</popularity>
+  </track>
+  <track href="spotify:track:1TEUuAkUiNWrJUP7qOtKXC">
+    <name>Freelunch In The Jungle</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100573</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>255.360000</length>
+    <popularity>0.17073</popularity>
+  </track>
+  <track href="spotify:track:7CKqcrnnvp0EidnXzOTwcw">
+    <name>Without You</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA8701030</id>
+    <album href="spotify:album:27ShKtMUmG1kGq2WiOY7ZV">
+      <name>White-out conditions</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>242.613000</length>
+    <popularity>0.16783</popularity>
+  </track>
+  <track href="spotify:track:4CyUuNZJeY7vSsyP35K5zd">
+    <name>Donizetti: L'assedio di Calais / Act 1 - Al mio core</name>
+    <artist href="spotify:artist:4Ygv1MZP4S8MbkDdbbdf1X">
+      <name>Roberto Abbado</name>
+    </artist>
+    <artist href="spotify:artist:58QCnSrGJD5DhqH4hTgjT3">
+      <name>Filarmonica del Teatro Comunale di Bologna</name>
+    </artist>
+    <artist href="spotify:artist:74qCFeNvjcO4R0cRXik17C">
+      <name>Elina Garanca</name>
+    </artist>
+    <id type="isrc">DEN960802210</id>
+    <album href="spotify:album:6rhiDCdfcongIrL5kxEZuL">
+      <name>Bel Canto</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CN DE DK EE ES FI FR GB HK HU IE IT LT LV NL NO NZ PT RU SE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>210.826000</length>
+    <popularity>0.15604</popularity>
+  </track>
+  <track href="spotify:track:5FjxbB50KkqXCIjrf7QwDW">
+    <name>Spiderdust (Live)</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0401010</id>
+    <album href="spotify:album:1kF4msVvRV4T8zNOxWfxXV">
+      <name>Dorothy's Victory</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>174.760000</length>
+    <popularity>0.16768</popularity>
+  </track>
+  <track href="spotify:track:6jeO9avXS6oRUopV60fQ00">
+    <name>Unicorn</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201011</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>253.946000</length>
+    <popularity>0.16761</popularity>
+  </track>
+  <track href="spotify:track:6bPx7EbtHGgaY3n79xpfOi">
+    <name>Bel Canto Suite</name>
+    <artist href="spotify:artist:3hJv5p2HwekJysNB2NDnEC">
+      <name>André Rieu</name>
+    </artist>
+    <artist href="spotify:artist:5BDgiZbjYgFi0MyU0HH13w">
+      <name>The Vienna Strauss Orchestra</name>
+    </artist>
+    <id type="isrc">USA371098146</id>
+    <album href="spotify:album:5wYUwITm1NCbPJfUnSbout">
+      <name>100 André Rieu &amp; The Classical Masters</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>535.173000</length>
+    <popularity>0.15525</popularity>
+  </track>
+  <track href="spotify:track:63v3cyO5WqJGirmcqe3fBV">
+    <name>In Zenith</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100572</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>332.306000</length>
+    <popularity>0.16587</popularity>
+  </track>
+  <track href="spotify:track:2weicJfvHByvFe8RfTTiqB">
+    <name>Baltic Ice- Breaker</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA8701080</id>
+    <album href="spotify:album:27ShKtMUmG1kGq2WiOY7ZV">
+      <name>White-out conditions</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>283.413000</length>
+    <popularity>0.16541</popularity>
+  </track>
+  <track href="spotify:track:4IFabkf2aAlwDdThYQ3nmY">
+    <name>Heaven</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701130</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>341.787000</length>
+    <popularity>0.16337</popularity>
+  </track>
+  <track href="spotify:track:0LX361HrseXR1CHCv2QRoj">
+    <name>Didn't you know it</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9601080</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>253.293000</length>
+    <popularity>0.16198</popularity>
+  </track>
+  <track href="spotify:track:5Hcck8pyZsXNZfrHOOFkCF">
+    <name>The dinosaur-slipper-man</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701090</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>207.253000</length>
+    <popularity>0.16035</popularity>
+  </track>
+  <track href="spotify:track:4wl6VN3w7zOu6U0s0N5IF3">
+    <name>Summer</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201021</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>277.413000</length>
+    <popularity>0.15338</popularity>
+  </track>
+  <track href="spotify:track:7eaDPaevKEcxFv4kT4gNVh">
+    <name>Donizetti: Lucrezia Borgia / Act 2 - Il segreto per esser felici</name>
+    <artist href="spotify:artist:2LOFWrLLNUfp8ChPQD9rrd">
+      <name>Paolo Vero</name>
+    </artist>
+    <artist href="spotify:artist:3NBbsGQbuX0Vx15B0gPpj4">
+      <name>Coro del Teatro Comunale di Bologna</name>
+    </artist>
+    <artist href="spotify:artist:4Ygv1MZP4S8MbkDdbbdf1X">
+      <name>Roberto Abbado</name>
+    </artist>
+    <artist href="spotify:artist:58QCnSrGJD5DhqH4hTgjT3">
+      <name>Filarmonica del Teatro Comunale di Bologna</name>
+    </artist>
+    <artist href="spotify:artist:74qCFeNvjcO4R0cRXik17C">
+      <name>Elina Garanca</name>
+    </artist>
+    <id type="isrc">DEN960802200</id>
+    <album href="spotify:album:6rhiDCdfcongIrL5kxEZuL">
+      <name>Bel Canto</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CN DE DK EE ES FI FR GB HK HU IE IT LT LV NL NO NZ PT RU SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>165.120000</length>
+    <popularity>0.14108</popularity>
+  </track>
+  <track href="spotify:track:4Q78Ja6FLHIQC7KSBnsQGT">
+    <name>Images</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701011</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>216.560000</length>
+    <popularity>0.15235</popularity>
+  </track>
+  <track href="spotify:track:73rFeniwil2gWjSS0PZrWQ">
+    <name>Idly I de-Ice</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701050</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>292.386000</length>
+    <popularity>0.15077</popularity>
+  </track>
+  <track href="spotify:track:5tRt6MVWTL4WN8OD3JXlg4">
+    <name>99% of me</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701080</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>182.280000</length>
+    <popularity>0.15063</popularity>
+  </track>
+  <track href="spotify:track:6YQTQcY0TeOxAvcUx5eNrC">
+    <name>Here, in shadow</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701120</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>159.853000</length>
+    <popularity>0.15060</popularity>
+  </track>
+  <track href="spotify:track:6p2UKkhPDjump2sXnZvGtt">
+    <name>Hearts unite</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9701100</id>
+    <album href="spotify:album:3R8VNdxoDDzuYwV4cgxVg0">
+      <name>Rush</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>278.893000</length>
+    <popularity>0.15057</popularity>
+  </track>
+  <track href="spotify:track:3bVYeD2ZS8TnZ93z6thQZK">
+    <name>Donizetti: La fille du régiment / Act 1 - Cavatina: "Amici miei"</name>
+    <artist href="spotify:artist:0VFGWXJcFNVrcceGpxItM4">
+      <name>Fernando Piqueras</name>
+    </artist>
+    <artist href="spotify:artist:3XAv09eczjHpjjuvFzjz1K">
+      <name>Orquestra de la Comunitat Valenciana</name>
+    </artist>
+    <artist href="spotify:artist:5nx7Iz06ModKt1weonyCoE">
+      <name>Daniel Oren</name>
+    </artist>
+    <artist href="spotify:artist:6h0XoIUJPFcDnrEFMXi3GG">
+      <name>Cor de la Generalitat Valenciana</name>
+    </artist>
+    <artist href="spotify:artist:6Yxfl63ymAk7MkN8TP10iT">
+      <name>Juan Diego Flórez</name>
+    </artist>
+    <id type="isrc">GBBBA0743410</id>
+    <album href="spotify:album:0mdewDfUBmEOOhEOMGHUkX">
+      <name>Bel Canto Spectacular</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HU IE IN IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>441.500000</length>
+    <popularity>0.15005</popularity>
+  </track>
+  <track href="spotify:track:0NPMygURaFk4NICAvhPxF0">
+    <name>Bellini: Adelson e Salvini / Act 1 - Dopo l'oscuro nembo</name>
+    <artist href="spotify:artist:4Ygv1MZP4S8MbkDdbbdf1X">
+      <name>Roberto Abbado</name>
+    </artist>
+    <artist href="spotify:artist:58QCnSrGJD5DhqH4hTgjT3">
+      <name>Filarmonica del Teatro Comunale di Bologna</name>
+    </artist>
+    <artist href="spotify:artist:74qCFeNvjcO4R0cRXik17C">
+      <name>Elina Garanca</name>
+    </artist>
+    <id type="isrc">DEN960802240</id>
+    <album href="spotify:album:6rhiDCdfcongIrL5kxEZuL">
+      <name>Bel Canto</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CN DE DK EE ES FI FR GB HK HU IE IT LT LV NL NO NZ PT RU SE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>393.880000</length>
+    <popularity>0.13742</popularity>
+  </track>
+  <track href="spotify:track:75b4uzM668S68U8ufSnGK2">
+    <name>Bellini: I Puritani / Act 3 - Fini...me lassa!...Vieni, fra queste braccia!</name>
+    <artist href="spotify:artist:3XAv09eczjHpjjuvFzjz1K">
+      <name>Orquestra de la Comunitat Valenciana</name>
+    </artist>
+    <artist href="spotify:artist:5moBlpk9BYtujdRW6VLepL">
+      <name>Anna Netrebko</name>
+    </artist>
+    <artist href="spotify:artist:5nx7Iz06ModKt1weonyCoE">
+      <name>Daniel Oren</name>
+    </artist>
+    <artist href="spotify:artist:6Yxfl63ymAk7MkN8TP10iT">
+      <name>Juan Diego Flórez</name>
+    </artist>
+    <id type="isrc">GBBBA0743420</id>
+    <album href="spotify:album:0mdewDfUBmEOOhEOMGHUkX">
+      <name>Bel Canto Spectacular</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HU IE IN IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>696.500000</length>
+    <popularity>0.14682</popularity>
+  </track>
+  <track href="spotify:track:3FXgpcQVpbUS4XaHsqI3Iu">
+    <name>Agassis</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA8701050</id>
+    <album href="spotify:album:27ShKtMUmG1kGq2WiOY7ZV">
+      <name>White-out conditions</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>235.453000</length>
+    <popularity>0.14504</popularity>
+  </track>
+  <track href="spotify:track:5NQzteFpUFq6zhtO47YJ2M">
+    <name>Bombay</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9601060</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>232.413000</length>
+    <popularity>0.14458</popularity>
+  </track>
+  <track href="spotify:track:4MjYEADLLUfCognQhoBXIR">
+    <name>A Shoulder To The Wheel</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001101</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>237.213000</length>
+    <popularity>0.14420</popularity>
+  </track>
+  <track href="spotify:track:3Ka8dgFw4yEqSszdtSto7j">
+    <name>Waking Will</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201040</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>312.773000</length>
+    <popularity>0.14411</popularity>
+  </track>
+  <track href="spotify:track:6FB255sKkEgMkHXovtiyZg">
+    <name>Donizetti: Linda di Chamounix / Act 1 - Linda! Linda!...Da quel dì che t'incontrai</name>
+    <artist href="spotify:artist:2wRkMplPRcV7zBBF8mlCAE">
+      <name>Patrizia Ciofi</name>
+    </artist>
+    <artist href="spotify:artist:3XAv09eczjHpjjuvFzjz1K">
+      <name>Orquestra de la Comunitat Valenciana</name>
+    </artist>
+    <artist href="spotify:artist:5nx7Iz06ModKt1weonyCoE">
+      <name>Daniel Oren</name>
+    </artist>
+    <artist href="spotify:artist:6Yxfl63ymAk7MkN8TP10iT">
+      <name>Juan Diego Flórez</name>
+    </artist>
+    <id type="isrc">GBBBA0743460</id>
+    <album href="spotify:album:0mdewDfUBmEOOhEOMGHUkX">
+      <name>Bel Canto Spectacular</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HU IE IN IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>541.250000</length>
+    <popularity>0.14389</popularity>
+  </track>
+  <track href="spotify:track:6nWyTYmUi52ygCXtdCFCHt">
+    <name>Capio</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA8701040</id>
+    <album href="spotify:album:27ShKtMUmG1kGq2WiOY7ZV">
+      <name>White-out conditions</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>140.520000</length>
+    <popularity>0.14346</popularity>
+  </track>
+  <track href="spotify:track:5gfw8GQi21bdublYoixUlD">
+    <name>The Magic Box II</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20705067</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>234.000000</length>
+    <popularity>0.13811</popularity>
+  </track>
+  <track href="spotify:track:3YixBrDIAqnB5nE2p9Rrkn">
+    <name>Donizetti: L'elisir d'amore / Act 2 - "Una furtiva lagrima"</name>
+    <artist href="spotify:artist:3XAv09eczjHpjjuvFzjz1K">
+      <name>Orquestra de la Comunitat Valenciana</name>
+    </artist>
+    <artist href="spotify:artist:5nx7Iz06ModKt1weonyCoE">
+      <name>Daniel Oren</name>
+    </artist>
+    <artist href="spotify:artist:6Yxfl63ymAk7MkN8TP10iT">
+      <name>Juan Diego Flórez</name>
+    </artist>
+    <id type="isrc">GBBBA0743450</id>
+    <album href="spotify:album:0mdewDfUBmEOOhEOMGHUkX">
+      <name>Bel Canto Spectacular</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HU IE IN IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>312.280000</length>
+    <popularity>0.13793</popularity>
+  </track>
+  <track href="spotify:track:4kwNe0u1JVL66oAOVBTcKL">
+    <name>Rossini: Tancredi / Act 1 - Di tanti palpiti</name>
+    <artist href="spotify:artist:4Ygv1MZP4S8MbkDdbbdf1X">
+      <name>Roberto Abbado</name>
+    </artist>
+    <artist href="spotify:artist:58QCnSrGJD5DhqH4hTgjT3">
+      <name>Filarmonica del Teatro Comunale di Bologna</name>
+    </artist>
+    <artist href="spotify:artist:74qCFeNvjcO4R0cRXik17C">
+      <name>Elina Garanca</name>
+    </artist>
+    <id type="isrc">DEN960802263</id>
+    <album href="spotify:album:6rhiDCdfcongIrL5kxEZuL">
+      <name>Bel Canto</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CN DE DK EE ES FI FR GB HK HU IE IT LT LV NL NO NZ PT RU SE</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>183.520000</length>
+    <popularity>0.12618</popularity>
+  </track>
+  <track href="spotify:track:2rPTRno1QeTnU67cDgdRD4">
+    <name>Foolish Ship</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">US89R1112520</id>
+    <album href="spotify:album:5Eles7LknmKm6dWGJG44kV">
+      <name>Hotel Chill 2</name>
+      <released>2011</released>
+      <availability>
+        <territories>AG AI AR AW BB BM BO BR BS BZ CA CL CO CR CU DM DO EC FK GD GF GL GP GT GY HN HT JM KN KY LC MQ MS MX NI PA PE PM PR PY SR SV TC TT US UY VC VE VG VI</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>274.333000</length>
+    <popularity>0.13596</popularity>
+  </track>
+  <track href="spotify:track:4sQHxpaaj8B8oHrOSo4BtE">
+    <name>Bel Canto</name>
+    <artist href="spotify:artist:6E7hjfR2Qy6392SnUqCnzr">
+      <name>Suzanne Ciani</name>
+    </artist>
+    <id type="isrc">ushm90465980</id>
+    <album href="spotify:album:6A4Xbylny9BB49hJVbXE0i">
+      <name>Meditations For Dreams, Relaxation, And Sleep</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>124.613000</length>
+    <popularity>0.11517</popularity>
+  </track>
+  <track href="spotify:track:54ANDHwyLvX3OsAj8HIkmP">
+    <name>Spiderdust</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9201090</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>236.986000</length>
+    <popularity>0.13442</popularity>
+  </track>
+  <track href="spotify:track:5kJnArj6kFKoDoW131DlcE">
+    <name>Donizetti: Roberto Devereux / Act 1 - All'afflitto è dolce il pianto (Sara)</name>
+    <artist href="spotify:artist:4Ygv1MZP4S8MbkDdbbdf1X">
+      <name>Roberto Abbado</name>
+    </artist>
+    <artist href="spotify:artist:58QCnSrGJD5DhqH4hTgjT3">
+      <name>Filarmonica del Teatro Comunale di Bologna</name>
+    </artist>
+    <artist href="spotify:artist:74qCFeNvjcO4R0cRXik17C">
+      <name>Elina Garanca</name>
+    </artist>
+    <id type="isrc">DEN960802220</id>
+    <album href="spotify:album:6rhiDCdfcongIrL5kxEZuL">
+      <name>Bel Canto</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CN DE DK EE ES FI FR GB HK HU IE IT LT LV NL NO NZ PT RU SE</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>215.160000</length>
+    <popularity>0.12193</popularity>
+  </track>
+  <track href="spotify:track:1ggmKWpjXRCAUtRQ0YZECw">
+    <name>Rumour - Abstract Hip Hop Mix</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">USAT20100583</id>
+    <album href="spotify:album:4aEG1sEQ5r4m7JNSZtDVZn">
+      <name>Magic Box</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>78.493000</length>
+    <popularity>0.13155</popularity>
+  </track>
+  <track href="spotify:track:53XmcugpynIYSUWOnMszz2">
+    <name>Blank Sheets</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA8701011</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>232.680000</length>
+    <popularity>0.13032</popularity>
+  </track>
+  <track href="spotify:track:1yayFBJCskKKvYZIWGCJ5h">
+    <name>Rumour</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9601040</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>303.106000</length>
+    <popularity>0.12934</popularity>
+  </track>
+  <track href="spotify:track:703Ep2T1ghRfAnGGPMsmQ7">
+    <name>Donizetti: Linda di Chamounix / Act 1 - Linda si ritiro</name>
+    <artist href="spotify:artist:3XAv09eczjHpjjuvFzjz1K">
+      <name>Orquestra de la Comunitat Valenciana</name>
+    </artist>
+    <artist href="spotify:artist:5nx7Iz06ModKt1weonyCoE">
+      <name>Daniel Oren</name>
+    </artist>
+    <artist href="spotify:artist:6Yxfl63ymAk7MkN8TP10iT">
+      <name>Juan Diego Flórez</name>
+    </artist>
+    <id type="isrc">GBBBA0743470</id>
+    <album href="spotify:album:0mdewDfUBmEOOhEOMGHUkX">
+      <name>Bel Canto Spectacular</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HU IE IN IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>432.320000</length>
+    <popularity>0.12745</popularity>
+  </track>
+  <track href="spotify:track:7pXpN1hZoakBFgwD9U9Gx4">
+    <name>Dewy Fields</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA9001021</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>228.933000</length>
+    <popularity>0.12736</popularity>
+  </track>
+  <track href="spotify:track:7mqovqdRrJnHu6fLyC98Uw">
+    <name>Capio</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA8701041</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>130.973000</length>
+    <popularity>0.12653</popularity>
+  </track>
+  <track href="spotify:track:1tYbd0aqOuWphTpzrWxtwL">
+    <name>Kloeberdanz</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA8701060</id>
+    <album href="spotify:album:27ShKtMUmG1kGq2WiOY7ZV">
+      <name>White-out conditions</name>
+      <released>1987</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>179.653000</length>
+    <popularity>0.12650</popularity>
+  </track>
+  <track href="spotify:track:5DR08tesQcdGKXPAG9BqAi">
+    <name>Disappear Club 5</name>
+    <artist href="spotify:artist:5Bz8k8phXRsAtBB6xrIR83">
+      <name>bel canto</name>
+    </artist>
+    <id type="isrc">NOYCA0101010</id>
+    <album href="spotify:album:1u8Y3MQEgtECmNl5qUhKJC">
+      <name>Retrospect</name>
+      <released>2001</released>
+      <availability>
+        <territories>BV DK FI FO GL IS NO SE SJ</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>279.813000</length>
+    <popularity>0.12649</popularity>
+  </track>
+  <track href="spotify:track:4AkaR6s6z7pc0rOm26k7Xx">
+    <name>Donizetti: Dom Sébastien, Roi de Portugal / Act 2 - Que faire - Sol adoré de la patrie</name>
+    <artist href="spotify:artist:4Ygv1MZP4S8MbkDdbbdf1X">
+      <name>Roberto Abbado</name>
+    </artist>
+    <artist href="spotify:artist:58QCnSrGJD5DhqH4hTgjT3">
+      <name>Filarmonica del Teatro Comunale di Bologna</name>
+    </artist>
+    <artist href="spotify:artist:74qCFeNvjcO4R0cRXik17C">
+      <name>Elina Garanca</name>
+    </artist>
+    <id type="isrc">DEN960802230</id>
+    <album href="spotify:album:6rhiDCdfcongIrL5kxEZuL">
+      <name>Bel Canto</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CN DE DK EE ES FI FR GB HK HU IE IT LT LV NL NO NZ PT RU SE</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>354.773000</length>
+    <popularity>0.11514</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:52:59 GMT -->

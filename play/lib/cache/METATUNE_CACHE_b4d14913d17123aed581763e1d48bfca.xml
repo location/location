@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Barry Adamson"/>
+  <opensearch:totalResults>132</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:0IgbInIzaPMlnjZ6TD0Shf">
+    <name>Something Wicked This Way Comes</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9900015</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>273.333000</length>
+    <popularity>0.37073</popularity>
+  </track>
+  <track href="spotify:track:1DPsNPbnlEq4KZpDclzWXe">
+    <name>Jazz Devil</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800009</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>306.200000</length>
+    <popularity>0.27079</popularity>
+  </track>
+  <track href="spotify:track:1Pgeh1HR1aJpDQ1FU2yBS4">
+    <name>The Man With The Golden Arm</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9900006</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>315.493000</length>
+    <popularity>0.24443</popularity>
+  </track>
+  <track href="spotify:track:0GZDxYUkBPcUASCxDnL4Ae">
+    <name>The Sweetest Embrace</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400857</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>289.773000</length>
+    <popularity>0.27794</popularity>
+  </track>
+  <track href="spotify:track:3xcIS0cijTTV80EzaB0uxO">
+    <name>Something Wicked This Way Comes</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9900015</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>274.666000</length>
+    <popularity>0.21903</popularity>
+  </track>
+  <track href="spotify:track:1EYBUDy0GZTtw1f9Hf9L5r">
+    <name>The Big Bamboozle</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400855</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>216.733000</length>
+    <popularity>0.21541</popularity>
+  </track>
+  <track href="spotify:track:63TtlmEWK2h6wP4lg3GR3k">
+    <name>007, A Fantasy Bond Theme</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400793</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>239.533000</length>
+    <popularity>0.20993</popularity>
+  </track>
+  <track href="spotify:track:4NtFSMbYxdTzkNSdrMIa9K">
+    <name>Set The Controls For The Heart Of The Pelvis</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400846</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>339.893000</length>
+    <popularity>0.24336</popularity>
+  </track>
+  <track href="spotify:track:6ixl8oJnNCDW8Z3MpMPMNs">
+    <name>The Vibes Ain't Nothin' But The Vibes</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400848</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>289.866000</length>
+    <popularity>0.19922</popularity>
+  </track>
+  <track href="spotify:track:4riCBBL7WlVWh7QydNOobL">
+    <name>Parade</name>
+    <artist href="spotify:artist:4h7NLIlg1oYdEtfQJfyto0">
+      <name>Nouvelle Vague</name>
+    </artist>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">FRT900900124</id>
+    <album href="spotify:album:4Z5rIDwH9eHE4Z683ihlNN">
+      <name>3 (USA Tour Edition)</name>
+      <released>2010</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>243.786000</length>
+    <popularity>0.24886</popularity>
+  </track>
+  <track href="spotify:track:5mXZZzC3uskvMml7RsYTyI">
+    <name>What It Means</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800006</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>239.600000</length>
+    <popularity>0.18902</popularity>
+  </track>
+  <track href="spotify:track:7BEgElCs056Hh8ODx4MvWR">
+    <name>The Beaten Side of Town</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ0800001</id>
+    <album href="spotify:album:5uT0FQjTF36zUpufq2m2AS">
+      <name>Back to the Cat</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>289.107000</length>
+    <popularity>0.22310</popularity>
+  </track>
+  <track href="spotify:track:1r3dyWSNAIazDxSuiHCcoW">
+    <name>The Vibes Ain't Nothin' But The Vibes</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400848</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>288.333000</length>
+    <popularity>0.22121</popularity>
+  </track>
+  <track href="spotify:track:2VhSYqm8JXPLZulu6ZJ36Y">
+    <name>Strait ‘Til Sunrise - Radio Edition</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">USI4R1058522</id>
+    <album href="spotify:album:4838QMHhOSJPP6MMmgfyzd">
+      <name>Sunday in Bed Vol. 4</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>237.000000</length>
+    <popularity>0.21821</popularity>
+  </track>
+  <track href="spotify:track:6segPPofxz8IZYGJZA1PcY">
+    <name>Hungry Ants - Soundtrack Version (Explicit)</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">USIR19400643</id>
+    <album href="spotify:album:3xMz73a6wKzu4pmF1mYRtU">
+      <name>Natural Born Killers</name>
+      <released>1994</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>192.200000</length>
+    <popularity>0.21689</popularity>
+  </track>
+  <track href="spotify:track:4ahYZKFP0ybMAD7S95Phhk">
+    <name>Mitch And Andy</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9900011</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>265.600000</length>
+    <popularity>0.17788</popularity>
+  </track>
+  <track href="spotify:track:3xdyWPc1vphcSSYG99Ep9T">
+    <name>On The Wrong Side Of Relaxation</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400613</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>326.680000</length>
+    <popularity>0.21264</popularity>
+  </track>
+  <track href="spotify:track:7f2DSU2fGTa0R8wzNxTqub">
+    <name>Can't Get Loose</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800005</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>331.600000</length>
+    <popularity>0.17498</popularity>
+  </track>
+  <track href="spotify:track:0a9H4lsxPrA3oLklM8hBmP">
+    <name>Palaces of Montezuma (Barry Adamson Remix)</name>
+    <artist href="spotify:artist:0IpDaO9A1OW1h0YChKzVaX">
+      <name>Grinderman</name>
+    </artist>
+    <id type="isrc">GBR8R1000018</id>
+    <album href="spotify:album:5SNiTDVqTviQIJsfa6AZVC">
+      <name>Palaces Of Montezuma</name>
+      <released>2011</released>
+      <availability>
+        <territories>CY CZ GB HR HU IE PL RO SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>298.805000</length>
+    <popularity>0.22487</popularity>
+  </track>
+  <track href="spotify:track:2x23nN21SK4LAWeiZwiGcB">
+    <name>Saturn In The Summertime</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9900017</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>255.240000</length>
+    <popularity>0.16949</popularity>
+  </track>
+  <track href="spotify:track:0efuRVHIT3Vz9Ww3A8fOfd">
+    <name>Dirty Barry</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400851</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>450.293000</length>
+    <popularity>0.16541</popularity>
+  </track>
+  <track href="spotify:track:0TINnnY7bqUDnJwsuQ26fX">
+    <name>Walk The Last Mile</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9900016</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>301.760000</length>
+    <popularity>0.16462</popularity>
+  </track>
+  <track href="spotify:track:0JRXKyXslKCeXqwceu5Luk">
+    <name>It's Business As Usual</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400849</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>269.640000</length>
+    <popularity>0.19824</popularity>
+  </track>
+  <track href="spotify:track:45lH4k2lFJCWACIeVWN7C9">
+    <name>Straight 'til Sunrise</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ0800002</id>
+    <album href="spotify:album:5uT0FQjTF36zUpufq2m2AS">
+      <name>Back to the Cat</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>298.893000</length>
+    <popularity>0.19497</popularity>
+  </track>
+  <track href="spotify:track:1bl4010Fx0yWB9SddktEPX">
+    <name>Under Wraps</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400614</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>267.760000</length>
+    <popularity>0.19449</popularity>
+  </track>
+  <track href="spotify:track:1kFgMPlIt4AJ9IisC7RBhG">
+    <name>The Snowball Effect</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400840</id>
+    <album href="spotify:album:4mEjB1HrWqmhB4y7MIg4tA">
+      <name>The Murky World Of Barry Adamson</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>265.106000</length>
+    <popularity>0.15301</popularity>
+  </track>
+  <track href="spotify:track:47jjzL1dShzY5gpNIWf2Vq">
+    <name>Miles</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400850</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>330.666000</length>
+    <popularity>0.18307</popularity>
+  </track>
+  <track href="spotify:track:2xhMZOo2O4qAYXgO0vOVGd">
+    <name>Parade</name>
+    <artist href="spotify:artist:4h7NLIlg1oYdEtfQJfyto0">
+      <name>Nouvelle Vague</name>
+    </artist>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">FRT900900124</id>
+    <album href="spotify:album:0TKuBAz8Of6YbQsPE1F8mY">
+      <name>3</name>
+      <released>2009</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>243.786000</length>
+    <popularity>0.19576</popularity>
+  </track>
+  <track href="spotify:track:5fwZs8wyHPjQFGY02m7OY1">
+    <name>Spend A Little Time</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ0800003</id>
+    <album href="spotify:album:5uT0FQjTF36zUpufq2m2AS">
+      <name>Back to the Cat</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>268.893000</length>
+    <popularity>0.18060</popularity>
+  </track>
+  <track href="spotify:track:192OrsiX8Hj85y9gJroJcp">
+    <name>In A Moment Of Clarity</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400852</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>254.266000</length>
+    <popularity>0.17774</popularity>
+  </track>
+  <track href="spotify:track:7ffne9VO7XRRTrv7Oc2GCe">
+    <name>Achieved In The Valley In The Dolls (Original Version)</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400853</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>267.933000</length>
+    <popularity>0.17346</popularity>
+  </track>
+  <track href="spotify:track:6wYrsasxPSjDpZQerVjry5">
+    <name>Central Control</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400615</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>136.146000</length>
+    <popularity>0.17145</popularity>
+  </track>
+  <track href="spotify:track:52Mqdwwaak0RxUcQu4vSwm">
+    <name>Shadow Of Death Hotel</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ0800004</id>
+    <album href="spotify:album:5uT0FQjTF36zUpufq2m2AS">
+      <name>Back to the Cat</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>261.387000</length>
+    <popularity>0.17137</popularity>
+  </track>
+  <track href="spotify:track:0e5IEfm7bMq4ZOwqqSIbjJ">
+    <name>The Big Bamboozle</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400855</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>217.906000</length>
+    <popularity>0.17112</popularity>
+  </track>
+  <track href="spotify:track:742womtHrnlt5Mtv9pLDP9">
+    <name>Can't Get Loose</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800005</id>
+    <album href="spotify:album:2TgwNvtE4QLk5uLhxEJZBc">
+      <name>As Above So Below</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>326.173000</length>
+    <popularity>0.16902</popularity>
+  </track>
+  <track href="spotify:track:30RvbYQXhnmOKLABtoZvPE">
+    <name>Jazz Devil</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800009</id>
+    <album href="spotify:album:2TgwNvtE4QLk5uLhxEJZBc">
+      <name>As Above So Below</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>306.773000</length>
+    <popularity>0.16326</popularity>
+  </track>
+  <track href="spotify:track:41yAfDKTvqGmTLQKx0V8Cx">
+    <name>Come Hell Or High Water</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800008</id>
+    <album href="spotify:album:2TgwNvtE4QLk5uLhxEJZBc">
+      <name>As Above So Below</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>329.093000</length>
+    <popularity>0.16276</popularity>
+  </track>
+  <track href="spotify:track:2sWmcvSaWa0bdzF9BnxydG">
+    <name>I Could Love You</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ0800005</id>
+    <album href="spotify:album:5uT0FQjTF36zUpufq2m2AS">
+      <name>Back to the Cat</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>212.680000</length>
+    <popularity>0.16118</popularity>
+  </track>
+  <track href="spotify:track:2o3DZ3hNTxH8qKSonrNrf9">
+    <name>Walk On Fire</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ0800006</id>
+    <album href="spotify:album:5uT0FQjTF36zUpufq2m2AS">
+      <name>Back to the Cat</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>272.160000</length>
+    <popularity>0.16003</popularity>
+  </track>
+  <track href="spotify:track:3fZoYNwJd96GH9PwHUz112">
+    <name>The Swinging Detective</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400620</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>346.280000</length>
+    <popularity>0.15956</popularity>
+  </track>
+  <track href="spotify:track:7aEfyViqCTdCq84FKeEu3M">
+    <name>State Of Contraction</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400856</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>98.626000</length>
+    <popularity>0.15796</popularity>
+  </track>
+  <track href="spotify:track:3oLROVGcJFqi6WKnvSjHCV">
+    <name>Sounds From The Big House</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400617</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>384.853000</length>
+    <popularity>0.15665</popularity>
+  </track>
+  <track href="spotify:track:6gLCqA1zd0SKpsCO3plnID">
+    <name>Cinematic Soul</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0100466</id>
+    <album href="spotify:album:0A2U5TEEEvzF2LJjEiVyHl">
+      <name>King Of Nothing Hill</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>327.640000</length>
+    <popularity>0.15651</popularity>
+  </track>
+  <track href="spotify:track:5xiWb3GH01PIykKY6Za1vg">
+    <name>Suck On The Honey Of Love</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400618</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>133.013000</length>
+    <popularity>0.15636</popularity>
+  </track>
+  <track href="spotify:track:0cXHfbd6x3HytptFxYOWF5">
+    <name>Round Up The Usual Suspects</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400616</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>37.893000</length>
+    <popularity>0.15633</popularity>
+  </track>
+  <track href="spotify:track:2A1Pk6rzfiQqEmzHIGo7w0">
+    <name>Vermillion Kisses</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400854</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>182.666000</length>
+    <popularity>0.15443</popularity>
+  </track>
+  <track href="spotify:track:7cIy43qtgU1fYvUIxKsSWp">
+    <name>Whispering Streets</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0100467</id>
+    <album href="spotify:album:0A2U5TEEEvzF2LJjEiVyHl">
+      <name>King Of Nothing Hill</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>300.600000</length>
+    <popularity>0.15328</popularity>
+  </track>
+  <track href="spotify:track:4lRuS9kmVJZ0XGtyiueCOZ">
+    <name>Set The Controls Again</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400858</id>
+    <album href="spotify:album:4WoTkbpby1GTx3VvDMhDui">
+      <name>Oedipus Schmoedipus</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>94.333000</length>
+    <popularity>0.14973</popularity>
+  </track>
+  <track href="spotify:track:47fPdNzOowdw4eXd6CofB8">
+    <name>Civilization</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ0800008</id>
+    <album href="spotify:album:5uT0FQjTF36zUpufq2m2AS">
+      <name>Back to the Cat</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>258.347000</length>
+    <popularity>0.14970</popularity>
+  </track>
+  <track href="spotify:track:6FL2eYnCkZPQP9kpq3iaks">
+    <name>Everything Happens To Me</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400619</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>162.426000</length>
+    <popularity>0.14958</popularity>
+  </track>
+  <track href="spotify:track:2IJUb3gZS377udPZoiRaaf">
+    <name>Psycho_Sexual</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ0800010</id>
+    <album href="spotify:album:5uT0FQjTF36zUpufq2m2AS">
+      <name>Back to the Cat</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>352.893000</length>
+    <popularity>0.14888</popularity>
+  </track>
+  <track href="spotify:track:3MkXGS4Ft2XWE0HynvMGJE">
+    <name>Flight</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ0800007</id>
+    <album href="spotify:album:5uT0FQjTF36zUpufq2m2AS">
+      <name>Back to the Cat</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>293.853000</length>
+    <popularity>0.14865</popularity>
+  </track>
+  <track href="spotify:track:4LvBSkb7GBcmBCjk0tVspF">
+    <name>Je T'Aime ... Moi Non Plus</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400844</id>
+    <album href="spotify:album:3qtbasArUAlEZQfTDE0sVq">
+      <name>The Negro Inside Me</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>330.573000</length>
+    <popularity>0.14840</popularity>
+  </track>
+  <track href="spotify:track:4S77ya5on7G3yTk9RuF1sD">
+    <name>Black Amour</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0100468</id>
+    <album href="spotify:album:0A2U5TEEEvzF2LJjEiVyHl">
+      <name>King Of Nothing Hill</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>305.400000</length>
+    <popularity>0.14736</popularity>
+  </track>
+  <track href="spotify:track:2RIT61rVgRtCLKJnKLmlNZ">
+    <name>Still I Rise</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800010</id>
+    <album href="spotify:album:2TgwNvtE4QLk5uLhxEJZBc">
+      <name>As Above So Below</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>137.133000</length>
+    <popularity>0.14481</popularity>
+  </track>
+  <track href="spotify:track:6cM6M2A7BLIOL0J38NZE08">
+    <name>Here In The Hole</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600001</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>209.733000</length>
+    <popularity>0.14459</popularity>
+  </track>
+  <track href="spotify:track:6hlsn4GcYUQ3NOaVyavWxb">
+    <name>What It Means</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800006</id>
+    <album href="spotify:album:2TgwNvtE4QLk5uLhxEJZBc">
+      <name>As Above So Below</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>239.866000</length>
+    <popularity>0.14456</popularity>
+  </track>
+  <track href="spotify:track:348a4NVwgQQjFvJTP3CWzf">
+    <name>Rag and Bone</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ1000007</id>
+    <album href="spotify:album:6wqFSxTG31G9rhZPPXJx9h">
+      <name>Rag and Bone</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>236.840000</length>
+    <popularity>0.14274</popularity>
+  </track>
+  <track href="spotify:track:1YbWV3eBtaQRapLgcwQoat">
+    <name>Deja Voodoo</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800007</id>
+    <album href="spotify:album:2TgwNvtE4QLk5uLhxEJZBc">
+      <name>As Above So Below</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>264.000000</length>
+    <popularity>0.14265</popularity>
+  </track>
+  <track href="spotify:track:2XGa1LgKc8lckzdoMgqq2E">
+    <name>Split</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400785</id>
+    <album href="spotify:album:5r8PvefJQOSZBzrkhk6tHX">
+      <name>Soul Murder</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>238.866000</length>
+    <popularity>0.14159</popularity>
+  </track>
+  <track href="spotify:track:0FspsVaAwYSWxtBGglsT5L">
+    <name>The Long Way Back Again</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600002</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>292.787000</length>
+    <popularity>0.13874</popularity>
+  </track>
+  <track href="spotify:track:61Qy8KLoDRA0C5IxG2nxkC">
+    <name>Girl</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800011</id>
+    <album href="spotify:album:2TgwNvtE4QLk5uLhxEJZBc">
+      <name>As Above So Below</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>286.000000</length>
+    <popularity>0.13814</popularity>
+  </track>
+  <track href="spotify:track:4XSsC8VddFUiKNHCMRgxAW">
+    <name>Officer Bentley's Fairly Serious Dilemma</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600003</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>497.387000</length>
+    <popularity>0.13699</popularity>
+  </track>
+  <track href="spotify:track:0PTkAgkgJ7YkjTMHnf0fqi">
+    <name>Delusion</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0500838</id>
+    <album href="spotify:album:6yCTx7c4Tnc9DMZ0cA9BqI">
+      <name>Delusion</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>103.880000</length>
+    <popularity>0.13603</popularity>
+  </track>
+  <track href="spotify:track:0QmFodQa2z6jjyUui2Lme7">
+    <name>Suspicion</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400787</id>
+    <album href="spotify:album:5r8PvefJQOSZBzrkhk6tHX">
+      <name>Soul Murder</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>245.266000</length>
+    <popularity>0.13358</popularity>
+  </track>
+  <track href="spotify:track:3clePQug6yPYJCii6docgD">
+    <name>People</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBQZZ0800009</id>
+    <album href="spotify:album:5uT0FQjTF36zUpufq2m2AS">
+      <name>Back to the Cat</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>203.040000</length>
+    <popularity>0.13325</popularity>
+  </track>
+  <track href="spotify:track:0GL8Gso2EhwQJ6iDSeWEdf">
+    <name>Adamson Family, The</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400794</id>
+    <album href="spotify:album:5r8PvefJQOSZBzrkhk6tHX">
+      <name>Soul Murder</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>225.133000</length>
+    <popularity>0.10459</popularity>
+  </track>
+  <track href="spotify:track:2FbjTHF6vW2uuoteiMWM9z">
+    <name>Dead Heat</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400841</id>
+    <album href="spotify:album:3qtbasArUAlEZQfTDE0sVq">
+      <name>The Negro Inside Me</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>292.360000</length>
+    <popularity>0.13178</popularity>
+  </track>
+  <track href="spotify:track:79mbw0jKpelTOFPi3WecGC">
+    <name>Checkpoint Charlie</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400790</id>
+    <album href="spotify:album:5r8PvefJQOSZBzrkhk6tHX">
+      <name>Soul Murder</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>392.266000</length>
+    <popularity>0.13153</popularity>
+  </track>
+  <track href="spotify:track:32WmEI0MWsi0R9MxyPWhkf">
+    <name>007, A Fantasy Bond Theme</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400793</id>
+    <album href="spotify:album:5r8PvefJQOSZBzrkhk6tHX">
+      <name>Soul Murder</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>237.026000</length>
+    <popularity>0.12805</popularity>
+  </track>
+  <track href="spotify:track:59XvZvTVYfOQcQCdYfywfA">
+    <name>The Snowball Effect</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400840</id>
+    <album href="spotify:album:3qtbasArUAlEZQfTDE0sVq">
+      <name>The Negro Inside Me</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>262.773000</length>
+    <popularity>0.12744</popularity>
+  </track>
+  <track href="spotify:track:44CfvOoMXae1QpX0trkh2O">
+    <name>The Man With The Golden Arm</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9900006</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>313.186000</length>
+    <popularity>0.12729</popularity>
+  </track>
+  <track href="spotify:track:7DeSETW5OHujoCFcYc03s6">
+    <name>You Sold Your Dreams</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600009</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>240.987000</length>
+    <popularity>0.12728</popularity>
+  </track>
+  <track href="spotify:track:6x1EOtzslrxXAAxuKXdg8z">
+    <name>Auto Destruction</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400621</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>229.760000</length>
+    <popularity>0.12688</popularity>
+  </track>
+  <track href="spotify:track:0XmIk3zvEXE04RJooNVCrA">
+    <name>Theresa Green</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600005</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>322.880000</length>
+    <popularity>0.12574</popularity>
+  </track>
+  <track href="spotify:track:4wzmTj3hklaqPisRYgRoEA">
+    <name>Intensive Care</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400622</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>162.080000</length>
+    <popularity>0.12337</popularity>
+  </track>
+  <track href="spotify:track:1r0CPJOz98pI4iY2XJJcZb">
+    <name>Busted (Michelangelo Version)</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400842</id>
+    <album href="spotify:album:3qtbasArUAlEZQfTDE0sVq">
+      <name>The Negro Inside Me</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>344.173000</length>
+    <popularity>0.12293</popularity>
+  </track>
+  <track href="spotify:track:0l4JQcyeiqKxfkQ2EnlvUW">
+    <name>These Boots Are Made For Walking</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0500826</id>
+    <album href="spotify:album:6yCTx7c4Tnc9DMZ0cA9BqI">
+      <name>Delusion</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>171.413000</length>
+    <popularity>0.12278</popularity>
+  </track>
+  <track href="spotify:track:3pGtOzTxcXc7mpplVKqo9t">
+    <name>The Most Beautiful Girl In The World</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400623</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>247.920000</length>
+    <popularity>0.12228</popularity>
+  </track>
+  <track href="spotify:track:3z4BHvEmR1XJbX4Mu4JIbM">
+    <name>Alfred Hitchcock Presents</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400625</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>144.480000</length>
+    <popularity>0.12212</popularity>
+  </track>
+  <track href="spotify:track:1vWY1CgsUgMZQ9hjMftlAf">
+    <name>Who Killed Big Bird?</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600004</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>259.147000</length>
+    <popularity>0.12200</popularity>
+  </track>
+  <track href="spotify:track:1Xk3w8clJ9W9o9OYVDpyPu">
+    <name>Le Matin Des Noires</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0100472</id>
+    <album href="spotify:album:0A2U5TEEEvzF2LJjEiVyHl">
+      <name>King Of Nothing Hill</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>626.093000</length>
+    <popularity>0.12068</popularity>
+  </track>
+  <track href="spotify:track:1WRVw9VYahJbngR483AQQD">
+    <name>Preface</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400784</id>
+    <album href="spotify:album:5r8PvefJQOSZBzrkhk6tHX">
+      <name>Soul Murder</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>74.040000</length>
+    <popularity>0.12031</popularity>
+  </track>
+  <track href="spotify:track:3Tuu4BFIZo5TNOluWtgGnF">
+    <name>Deja Morte</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600010</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>211.680000</length>
+    <popularity>0.11982</popularity>
+  </track>
+  <track href="spotify:track:7b6ZAKnB1cxuiyPGNqF6w0">
+    <name>When Darkness Calls</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0100469</id>
+    <album href="spotify:album:0A2U5TEEEvzF2LJjEiVyHl">
+      <name>King Of Nothing Hill</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>354.666000</length>
+    <popularity>0.11945</popularity>
+  </track>
+  <track href="spotify:track:6hBXxale0sdgXfiZ6Z4CWx">
+    <name>Goddess Of Love</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800013</id>
+    <album href="spotify:album:2TgwNvtE4QLk5uLhxEJZBc">
+      <name>As Above So Below</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>189.826000</length>
+    <popularity>0.11909</popularity>
+  </track>
+  <track href="spotify:track:5MIAHwyL3se0Ol8tfnAhNp">
+    <name>Monkey Speaks His Mind, The</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH9800012</id>
+    <album href="spotify:album:2TgwNvtE4QLk5uLhxEJZBc">
+      <name>As Above So Below</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>331.533000</length>
+    <popularity>0.11890</popularity>
+  </track>
+  <track href="spotify:track:5kkhUSglYx5IvISYRXWPIp">
+    <name>Chocolate Milkshake</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400626</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>264.453000</length>
+    <popularity>0.11717</popularity>
+  </track>
+  <track href="spotify:track:32IpcOm4ZCblIvX2s42ipz">
+    <name>Violation Of Expectation, The</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400786</id>
+    <album href="spotify:album:5r8PvefJQOSZBzrkhk6tHX">
+      <name>Soul Murder</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>184.493000</length>
+    <popularity>0.11654</popularity>
+  </track>
+  <track href="spotify:track:64pa6zJUj6ZugNv6wSm5KM">
+    <name>Perfectly Natural Union, a</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400845</id>
+    <album href="spotify:album:3qtbasArUAlEZQfTDE0sVq">
+      <name>The Negro Inside Me</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>247.093000</length>
+    <popularity>0.11492</popularity>
+  </track>
+  <track href="spotify:track:3PmKgwCL9PjhhoE6alSuSB">
+    <name>Gentle Man Of Colour, A</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400788</id>
+    <album href="spotify:album:5r8PvefJQOSZBzrkhk6tHX">
+      <name>Soul Murder</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>230.440000</length>
+    <popularity>0.11465</popularity>
+  </track>
+  <track href="spotify:track:0hCK7mEfFyUDww9q3su8ZA">
+    <name>Il Solitario</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0500839</id>
+    <album href="spotify:album:6yCTx7c4Tnc9DMZ0cA9BqI">
+      <name>Delusion</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>232.720000</length>
+    <popularity>0.11454</popularity>
+  </track>
+  <track href="spotify:track:2JSJjVKaWrqFvT7TjfdOCn">
+    <name>Inside Of Your Head</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600008</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>308.747000</length>
+    <popularity>0.11303</popularity>
+  </track>
+  <track href="spotify:track:0V3xHVUKhi6KbQh6jOOoka">
+    <name>Crossin The Line</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0500840</id>
+    <album href="spotify:album:6yCTx7c4Tnc9DMZ0cA9BqI">
+      <name>Delusion</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>150.693000</length>
+    <popularity>0.11288</popularity>
+  </track>
+  <track href="spotify:track:3ckmYSpOapI6FInL4bvuBk">
+    <name>My Friend The Fly</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600007</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>278.867000</length>
+    <popularity>0.11283</popularity>
+  </track>
+  <track href="spotify:track:3WuwVvrQ3aW6alUrbccWrq">
+    <name>Twisted Smile</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0100471</id>
+    <album href="spotify:album:0A2U5TEEEvzF2LJjEiVyHl">
+      <name>King Of Nothing Hill</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>352.306000</length>
+    <popularity>0.11228</popularity>
+  </track>
+  <track href="spotify:track:1C5Jsfk6nxOofeJftSCDq6">
+    <name>The Sorrow And The Pity</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600006</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>184.853000</length>
+    <popularity>0.11167</popularity>
+  </track>
+  <track href="spotify:track:0mt7bp0M0GHmAfNCMBfN0G">
+    <name>Free At Last</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400624</id>
+    <album href="spotify:album:7L8N57mhe7FomeWQ94b3ud">
+      <name>Moss Side Story</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>83.160000</length>
+    <popularity>0.10963</popularity>
+  </track>
+  <track href="spotify:track:4rsWz8oLrWMtBVmVBZsWcH">
+    <name>Dissemble</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBMCJ0600011</id>
+    <album href="spotify:album:1fB7QOBucgVWDYBAShB597">
+      <name>Stranger On The Sofa</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>331.173000</length>
+    <popularity>0.10931</popularity>
+  </track>
+  <track href="spotify:track:70sAs8Mmf5DU5lRhhMIO3T">
+    <name>Cold Black Preach</name>
+    <artist href="spotify:artist:4xoV3kh3rwrWaPc17zyDyY">
+      <name>Barry Adamson</name>
+    </artist>
+    <id type="isrc">GBAJH0400843</id>
+    <album href="spotify:album:3qtbasArUAlEZQfTDE0sVq">
+      <name>The Negro Inside Me</name>
+      <released>1993</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>385.760000</length>
+    <popularity>0.10747</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Wed, 29 Feb 2012 08:33:23 GMT -->

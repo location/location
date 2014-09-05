@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Bebel Gilberto"/>
+  <opensearch:totalResults>400</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:6FR2Rh8tqSaHMTuAa3iML7">
+    <name>Samba Da Bencao</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001600</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>287.000000</length>
+    <popularity>0.47598</popularity>
+  </track>
+  <track href="spotify:track:58ZRR9iLSx6RrspaeEdojS">
+    <name>Aganju</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401500</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>284.000000</length>
+    <popularity>0.41022</popularity>
+  </track>
+  <track href="spotify:track:1AzdtqjIVvaGd8c8kKk9ia">
+    <name>Aganjú - Latin Project Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BEF050500640</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>324.533000</length>
+    <popularity>0.41488</popularity>
+  </track>
+  <track href="spotify:track:1sS1wWP2izrNTLeoNL39sR">
+    <name>Samba De Orly</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USFM91100011</id>
+    <album href="spotify:album:2Zkkm1vPSty9P8FMmTamMu">
+      <name>Rio: Music From The Motion Picture</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT AU BE CH CN DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>169.720000</length>
+    <popularity>0.44984</popularity>
+  </track>
+  <track href="spotify:track:6Adt3iJdzmnBTM2FrW34ZF">
+    <name>Samba da Benção</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001600</id>
+    <album href="spotify:album:38MdIy5KU171YIy0NQ5ga1">
+      <name>Eat, Pray, Love</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>286.693000</length>
+    <popularity>0.40584</popularity>
+  </track>
+  <track href="spotify:track:7AHa87GBNEzzXgSEmvTiQC">
+    <name>Céu Distante - DJ Spinna Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500610</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>261.146000</length>
+    <popularity>0.34968</popularity>
+  </track>
+  <track href="spotify:track:0rFRj1ELcrRzrLdm6HPRdJ">
+    <name>Samba De Orly</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USFM91100011</id>
+    <album href="spotify:album:08a2YQK74YrxNclLmOrZF4">
+      <name>Rio: Music From The Motion Picture</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>169.720000</length>
+    <popularity>0.39866</popularity>
+  </track>
+  <track href="spotify:track:6al8es2Vsx2IqyQYIkmwu0">
+    <name>Simplesmente</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401400</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>289.000000</length>
+    <popularity>0.33491</popularity>
+  </track>
+  <track href="spotify:track:4rNyoDhH9acw6nyhukfrpP">
+    <name>Aganjú (Latin Project Mix)</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500640</id>
+    <album href="spotify:album:65tpwFeRGB1YtCSGo3FLXR">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>324.533000</length>
+    <popularity>0.34137</popularity>
+  </track>
+  <track href="spotify:track:7fnFmtEpfKLnJRkayFeeZ5">
+    <name>August Day Song</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001610</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>277.000000</length>
+    <popularity>0.38994</popularity>
+  </track>
+  <track href="spotify:track:1IhgoLBzJudXgkOupySA7u">
+    <name>Sun Is Shining</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981330</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>236.293000</length>
+    <popularity>0.38790</popularity>
+  </track>
+  <track href="spotify:track:15CkdMUm0V9UgeBs2WvTqH">
+    <name>Baby</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401300</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>230.000000</length>
+    <popularity>0.33094</popularity>
+  </track>
+  <track href="spotify:track:4LK5OYPeKDjUXrcGEsLCsn">
+    <name>So Nice (Summer Samba)</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001660</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>212.000000</length>
+    <popularity>0.38306</popularity>
+  </track>
+  <track href="spotify:track:4z2n0ORHzxMdW9lu7mrdMy">
+    <name>Aganjú</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401500</id>
+    <album href="spotify:album:4hzhIQ2U82qlISMbdijmJr">
+      <name>Bebel Gilberto</name>
+      <released>2007</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>284.733000</length>
+    <popularity>0.32125</popularity>
+  </track>
+  <track href="spotify:track:50a0XeJUJDDVJREWVqlkJt">
+    <name>Cancao de Amor</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981334</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>265.893000</length>
+    <popularity>0.37360</popularity>
+  </track>
+  <track href="spotify:track:13yO8hTHBlHNqPbkTD5Hqk">
+    <name>All Around</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401600</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>284.000000</length>
+    <popularity>0.31696</popularity>
+  </track>
+  <track href="spotify:track:0VfIYq1gqAKKpEvDR4MILc">
+    <name>Simplesmente - Tom Middleton Cosmos Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500680</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>365.586000</length>
+    <popularity>0.31717</popularity>
+  </track>
+  <track href="spotify:track:5D5xLPO7xo40VGacIjGpAH">
+    <name>River Song</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401700</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>297.000000</length>
+    <popularity>0.30972</popularity>
+  </track>
+  <track href="spotify:track:3MGTBCkMY0zIIk5lAl7A4O">
+    <name>Cada Beijo - Thievery Corporation Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500660</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>260.226000</length>
+    <popularity>0.31512</popularity>
+  </track>
+  <track href="spotify:track:4g5owRO2njEREYIlyb5XUl">
+    <name>Tanto Tempo</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001620</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>181.000000</length>
+    <popularity>0.36345</popularity>
+  </track>
+  <track href="spotify:track:4Z3Se0zUZWmwJObTsbSHdk">
+    <name>Cada Beijo</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401900</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>266.000000</length>
+    <popularity>0.30323</popularity>
+  </track>
+  <track href="spotify:track:2rzTGIebnePqX27re3iQt3">
+    <name>O Caminho - Guy Sigsworth Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BEF050500600</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>184.360000</length>
+    <popularity>0.30288</popularity>
+  </track>
+  <track href="spotify:track:68lSlqLb0L9HX5osX2wmc0">
+    <name>Nossa Senhora</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981355</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>204.973000</length>
+    <popularity>0.35117</popularity>
+  </track>
+  <track href="spotify:track:6nPovg9roUyNbizRyyFm2v">
+    <name>Chica Chica Boom Chic</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <artist href="spotify:artist:5jvQoouPSDvUEwynz5KPpv">
+      <name>Carlinhos Brown</name>
+    </artist>
+    <id type="isrc">USUM70979340</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>184.653000</length>
+    <popularity>0.36465</popularity>
+  </track>
+  <track href="spotify:track:4LKdel5yiO2NhbaNUvIVFZ">
+    <name>Every Day You've Been Away</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401800</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>245.000000</length>
+    <popularity>0.29038</popularity>
+  </track>
+  <track href="spotify:track:60JfhTzgqlc6MUGloyVQLA">
+    <name>O Caminho</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50402000</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>179.000000</length>
+    <popularity>0.28964</popularity>
+  </track>
+  <track href="spotify:track:3LbLLiK90fReYYfmUQY52N">
+    <name>Winter - Nuspirit Helsinki Reinterpretation</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500620</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>478.760000</length>
+    <popularity>0.29634</popularity>
+  </track>
+  <track href="spotify:track:5K27f9hknTz1ixcRMVBxFr">
+    <name>Winter</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50402100</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>259.000000</length>
+    <popularity>0.28655</popularity>
+  </track>
+  <track href="spotify:track:79chc31XE9V73Fa5x073nO">
+    <name>Sun Is Shining</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981330</id>
+    <album href="spotify:album:3AsYWD9dam70RGg00LCC3o">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>236.293000</length>
+    <popularity>0.34162</popularity>
+  </track>
+  <track href="spotify:track:7MNcdcenlkZQVsR6EHGbpb">
+    <name>Sun Is Shining</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981330</id>
+    <album href="spotify:album:6KrzCEhnvpSE3qbDBFGOLd">
+      <name>Nuevas Divas del Jazz</name>
+      <released>2010</released>
+      <availability>
+        <territories>BE CZ DE EE ES FI LT LV NL PT SE SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>235.573000</length>
+    <popularity>0.33978</popularity>
+  </track>
+  <track href="spotify:track:1anBb9LjwB5xwWfDNaDUOX">
+    <name>Ceu Distante</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50402200</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>178.000000</length>
+    <popularity>0.27994</popularity>
+  </track>
+  <track href="spotify:track:1I9877mmR3Peev5BYuejFT">
+    <name>Next To You</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50402400</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>175.000000</length>
+    <popularity>0.27984</popularity>
+  </track>
+  <track href="spotify:track:4wArxW8doGFXkT05zOsZGw">
+    <name>Jabuticaba</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50402300</id>
+    <album href="spotify:album:6PVjQRNp4r4NxDqXOXJEKv">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>182.000000</length>
+    <popularity>0.27951</popularity>
+  </track>
+  <track href="spotify:track:2NrPLnByzEXIUtBEeXeLv2">
+    <name>Bim Bom</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <artist href="spotify:artist:2oldyqaqfci57x6W3WBTr8">
+      <name>Daniel Jobim</name>
+    </artist>
+    <id type="isrc">USUM70981329</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>163.133000</length>
+    <popularity>0.34984</popularity>
+  </track>
+  <track href="spotify:track:1crK47GnU4E50xJcnmStmO">
+    <name>Mais Feliz</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001640</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>257.000000</length>
+    <popularity>0.33358</popularity>
+  </track>
+  <track href="spotify:track:3R552jdIuE7a3g4zLrtqZM">
+    <name>Baby - Uptown Safari Jazz Mix by Yam Who?</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BEF050500650</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>361.173000</length>
+    <popularity>0.28395</popularity>
+  </track>
+  <track href="spotify:track:7BVSXZywf59WHKr8qcQ4P3">
+    <name>Cada Beijo</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USESL0609517</id>
+    <album href="spotify:album:4zdK8ROO5TGCVrW94hwb6j">
+      <name>Versions</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>259.343000</length>
+    <popularity>0.33153</popularity>
+  </track>
+  <track href="spotify:track:3tolRmfIX9owFzQmdKFyUZ">
+    <name>The Real Thing</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981331</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>273.213000</length>
+    <popularity>0.32982</popularity>
+  </track>
+  <track href="spotify:track:3R9ozZsvPM5hrdS60VnXQt">
+    <name>Sem Contençao</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001630</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>190.000000</length>
+    <popularity>0.32847</popularity>
+  </track>
+  <track href="spotify:track:6p1JIcrVpd6TYxBcL5TgHB">
+    <name>Lonely</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001670</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>144.000000</length>
+    <popularity>0.32811</popularity>
+  </track>
+  <track href="spotify:track:3uAGrrYTsBRu4ZvqnwJaXK">
+    <name>Samba E Amor</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001690</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>208.000000</length>
+    <popularity>0.32808</popularity>
+  </track>
+  <track href="spotify:track:5zwJj77BQtA571FHejX8BT">
+    <name>Samba Da Bencao</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">GBAHS0200117</id>
+    <album href="spotify:album:3Qo9KlPDgzPGjnZPpxBJS9">
+      <name>Tanto Tempo</name>
+      <released>2005</released>
+      <availability>
+        <territories>GB IE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>280.986000</length>
+    <popularity>0.32782</popularity>
+  </track>
+  <track href="spotify:track:2Fc8AJAclz1NeTFtnOAJqM">
+    <name>Bananeira</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001680</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>206.000000</length>
+    <popularity>0.32589</popularity>
+  </track>
+  <track href="spotify:track:2PLIqOvcmGlHGEkwBtAzoL">
+    <name>Far From The Sea</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981357</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>202.106000</length>
+    <popularity>0.32473</popularity>
+  </track>
+  <track href="spotify:track:4WYCwtqBcVNKt1Hr4CDmlp">
+    <name>Ela (On My Way)</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981356</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>199.373000</length>
+    <popularity>0.32466</popularity>
+  </track>
+  <track href="spotify:track:5m2smSXCahHGkbkIZLHWCh">
+    <name>All Around - Telefon Tel Aviv Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50402780</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>269.653000</length>
+    <popularity>0.27426</popularity>
+  </track>
+  <track href="spotify:track:6jRdMYUOAloidVNxxuPMbQ">
+    <name>So Nice (Summer Samba)</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001660</id>
+    <album href="spotify:album:2HruWYb2GbMZAWaM9qhFrz">
+      <name>Six Degrees 100</name>
+      <released>2007</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>210.453000</length>
+    <popularity>0.32338</popularity>
+  </track>
+  <track href="spotify:track:4pNDnTrhqDpy5SNsJd0kaq">
+    <name>Aganju - Latin Project Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500640</id>
+    <album href="spotify:album:0tm6MyZhdP42n1jhCqaZKy">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>325.000000</length>
+    <popularity>0.27201</popularity>
+  </track>
+  <track href="spotify:track:3lk11oFYtSChsTym2JEbF0">
+    <name>Simplesmente</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401400</id>
+    <album href="spotify:album:4hzhIQ2U82qlISMbdijmJr">
+      <name>Bebel Gilberto</name>
+      <released>2007</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>289.160000</length>
+    <popularity>0.26413</popularity>
+  </track>
+  <track href="spotify:track:27zuFZMxhSp5vsMwlFDmQm">
+    <name>All In One</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981332</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>263.946000</length>
+    <popularity>0.31861</popularity>
+  </track>
+  <track href="spotify:track:5NHuTRDZIU8pQnKoK3grxP">
+    <name>Forever</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981367</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>149.160000</length>
+    <popularity>0.31805</popularity>
+  </track>
+  <track href="spotify:track:1ShicBij4oj11N4eu1LGY8">
+    <name>Baby</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401300</id>
+    <album href="spotify:album:4hzhIQ2U82qlISMbdijmJr">
+      <name>Bebel Gilberto</name>
+      <released>2007</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>229.933000</length>
+    <popularity>0.26178</popularity>
+  </track>
+  <track href="spotify:track:4wnqQtfoAOMF3Mzzrc1tXW">
+    <name>Aganjú</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401500</id>
+    <album href="spotify:album:5ObqIYfoKdPVbTJLEvFOzP">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>284.733000</length>
+    <popularity>0.25875</popularity>
+  </track>
+  <track href="spotify:track:2nQKBdNjztNyyJRRKS4KCY">
+    <name>Simplesmente - Tom Middleton Cosmos Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500680</id>
+    <album href="spotify:album:65tpwFeRGB1YtCSGo3FLXR">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>365.587000</length>
+    <popularity>0.26545</popularity>
+  </track>
+  <track href="spotify:track:5b4N8E8pNnQUW3zEIiHubG">
+    <name>Secret (Segredo)</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981368</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>224.413000</length>
+    <popularity>0.31333</popularity>
+  </track>
+  <track href="spotify:track:1rundCBCrbT8CNdBRrETGd">
+    <name>Alguem</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001650</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>244.000000</length>
+    <popularity>0.31301</popularity>
+  </track>
+  <track href="spotify:track:4z3KfWcsmioGDs06WVHlPU">
+    <name>Momento</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602100</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>315.000000</length>
+    <popularity>0.31127</popularity>
+  </track>
+  <track href="spotify:track:6GBrOncplSO9ZDUFgzQeDk">
+    <name>Close Your Eyes</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50001700</id>
+    <album href="spotify:album:5atdzbc0d7OcHTrU2WBJRN">
+      <name>Tanto Tempo</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>254.000000</length>
+    <popularity>0.31095</popularity>
+  </track>
+  <track href="spotify:track:6ahvlEwVstGftApFW4sPJR">
+    <name>Aganjú - Spiritual South Sub Rub</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50403300</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>333.853000</length>
+    <popularity>0.26026</popularity>
+  </track>
+  <track href="spotify:track:2uSgUMg3GbmLS5IgfrZ39S">
+    <name>Port Antonio</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981369</id>
+    <album href="spotify:album:0fPnfexw65Q0YytZbEFHPX">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>229.026000</length>
+    <popularity>0.30681</popularity>
+  </track>
+  <track href="spotify:track:57notVmdAwlwxGKVlNaZHt">
+    <name>Samba Da Benção - Sound-a-like Cover</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USFB20636354</id>
+    <album href="spotify:album:7jMeGw5qdPhyB1Iu2SwjkX">
+      <name>Best Of Bossa Nova Part 3</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>218.000000</length>
+    <popularity>0.30499</popularity>
+  </track>
+  <track href="spotify:track:0Kl5zgItaWKjnS3IC0447J">
+    <name>Caipirinha (feat. Bebel Gilberto)</name>
+    <artist href="spotify:artist:3R0asV2e7pWetezwXtpDLG">
+      <name>Peeping Tom</name>
+    </artist>
+    <id type="isrc">US4N80503523</id>
+    <album href="spotify:album:1z7CapZqNxMyNlv0bAFHpS">
+      <name>Peeping Tom</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>166.867000</length>
+    <popularity>0.30471</popularity>
+  </track>
+  <track href="spotify:track:0s801fe65qEOC7Y9nYHrsW">
+    <name>Céu Distante - DJ Spinna Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500610</id>
+    <album href="spotify:album:65tpwFeRGB1YtCSGo3FLXR">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>261.147000</length>
+    <popularity>0.25536</popularity>
+  </track>
+  <track href="spotify:track:3AjKSTfrcDwRnBh7o5PYPQ">
+    <name>Brazilian Love Song (Produced by Michaelangelo L'Acqua) (Feat. Bebel Gilberto)</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USCA20806736</id>
+    <album href="spotify:album:0VOh8ir4zPehizofnZog9V">
+      <name>Re:Generations</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>287.477000</length>
+    <popularity>0.28427</popularity>
+  </track>
+  <track href="spotify:track:2Ih0Hl7YtAKwYBjCDp53fl">
+    <name>Cancao de Amor</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981334</id>
+    <album href="spotify:album:3AsYWD9dam70RGg00LCC3o">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>265.893000</length>
+    <popularity>0.30237</popularity>
+  </track>
+  <track href="spotify:track:7HddMeQde3DEKEHsLtCFPf">
+    <name>Cada beijo (Thievery Corporation Mix)</name>
+    <artist href="spotify:artist:25KNo5GDS6ZpLkjasaecA3">
+      <name>Thievery Corporation</name>
+    </artist>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">US89R1111858</id>
+    <album href="spotify:album:3n5D0DSfZJXMftyDuCL8dZ">
+      <name>The Ultra Lounge</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>256.947000</length>
+    <popularity>0.31760</popularity>
+  </track>
+  <track href="spotify:track:7uT4U9K4aBxsSN8kbe9h4F">
+    <name>Cada Beijo - Thievery Corporation Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500660</id>
+    <album href="spotify:album:65tpwFeRGB1YtCSGo3FLXR">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>260.227000</length>
+    <popularity>0.24943</popularity>
+  </track>
+  <track href="spotify:track:46Tl5sYpFjSRucVRvwi3q1">
+    <name>Next to You - Steve Hillier Version</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500690</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>273.080000</length>
+    <popularity>0.24627</popularity>
+  </track>
+  <track href="spotify:track:2xS0KZ4IDnWW4D5mX1Wd0H">
+    <name>Night And Day</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602160</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>295.000000</length>
+    <popularity>0.29491</popularity>
+  </track>
+  <track href="spotify:track:2E8JpNBi7fUBxiMPgpFnxc">
+    <name>Bring Back The Love - Original Version</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602110</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>268.000000</length>
+    <popularity>0.29450</popularity>
+  </track>
+  <track href="spotify:track:0Sj0cs0yAbVWtVcMuIo6AV">
+    <name>River Song - Grant Nelson Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500710</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>389.533000</length>
+    <popularity>0.24383</popularity>
+  </track>
+  <track href="spotify:track:4D36AUI6wxtBBMvNpGhS8f">
+    <name>Jabuticaba - Stuhr Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500670</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>265.893000</length>
+    <popularity>0.24274</popularity>
+  </track>
+  <track href="spotify:track:4nvHixliSqnlcptEJozIts">
+    <name>Every Day You've Been Away - Monoaural Mix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500700</id>
+    <album href="spotify:album:3yZndjoV1bgLxeLiMWwZtU">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CZ DE DK EE ES FI FR GB HU IE IT LT LV NL NO NZ PL PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>248.613000</length>
+    <popularity>0.24155</popularity>
+  </track>
+  <track href="spotify:track:4iewBVAPoa1D9moFY9Dnyf">
+    <name>Baby</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401300</id>
+    <album href="spotify:album:5ObqIYfoKdPVbTJLEvFOzP">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>229.933000</length>
+    <popularity>0.23468</popularity>
+  </track>
+  <track href="spotify:track:5cvwMWUo6WcRxCr9ZZbM3G">
+    <name>Close To You</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602120</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>199.000000</length>
+    <popularity>0.28960</popularity>
+  </track>
+  <track href="spotify:track:1OiwRLsDd0s5tNObBVhFb3">
+    <name>Acabou Chorare</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USKO11100496</id>
+    <album href="spotify:album:1e1mHCsuq0GannDY2UeVkL">
+      <name>Red Hot &amp; Rio 2</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GG GR GS HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SK SM UA US VA</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>282.413000</length>
+    <popularity>0.28693</popularity>
+  </track>
+  <track href="spotify:track:7Gge1F2JIMQKTt49ecclYY">
+    <name>Azul</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602140</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>192.000000</length>
+    <popularity>0.28622</popularity>
+  </track>
+  <track href="spotify:track:5q3n3dZDsWNG4aXwGJaW2t">
+    <name>O Caminho</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50402000</id>
+    <album href="spotify:album:5ObqIYfoKdPVbTJLEvFOzP">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>179.040000</length>
+    <popularity>0.23011</popularity>
+  </track>
+  <track href="spotify:track:0oGcafxNVuVGhSMQMYbUk0">
+    <name>All Around</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401600</id>
+    <album href="spotify:album:4hzhIQ2U82qlISMbdijmJr">
+      <name>Bebel Gilberto</name>
+      <released>2007</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>284.040000</length>
+    <popularity>0.22923</popularity>
+  </track>
+  <track href="spotify:track:3plSVRd9gDNbRqUXYTQvC1">
+    <name>Os Novos Yorkinos</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602130</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>220.000000</length>
+    <popularity>0.28412</popularity>
+  </track>
+  <track href="spotify:track:2Hf0UPjEYnVM01SiuJkKSl">
+    <name>Tranquilo</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602210</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>244.000000</length>
+    <popularity>0.28275</popularity>
+  </track>
+  <track href="spotify:track:4vyvBHTPeoaI07e1TxuDRs">
+    <name>Cade Você</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602190</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>211.000000</length>
+    <popularity>0.28169</popularity>
+  </track>
+  <track href="spotify:track:7uMZC2j6mGUlmZqR4IzhZ1">
+    <name>Nossa Senhora</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981355</id>
+    <album href="spotify:album:3AsYWD9dam70RGg00LCC3o">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>204.973000</length>
+    <popularity>0.28163</popularity>
+  </track>
+  <track href="spotify:track:6KTNdMfLcOcp6Vh9QjiRuw">
+    <name>Aganju</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401500</id>
+    <album href="spotify:album:2S3wrPQYOlJthW3FWfVhM5">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>GB IE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>284.560000</length>
+    <popularity>0.22524</popularity>
+  </track>
+  <track href="spotify:track:5IQNplizkGBI8FhNTalqqF">
+    <name>Bim Bom</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <artist href="spotify:artist:2oldyqaqfci57x6W3WBTr8">
+      <name>Daniel Jobim</name>
+    </artist>
+    <id type="isrc">USUM70981329</id>
+    <album href="spotify:album:3AsYWD9dam70RGg00LCC3o">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>163.133000</length>
+    <popularity>0.29577</popularity>
+  </track>
+  <track href="spotify:track:0s74C1khZSAzyrOgLGnP2T">
+    <name>Tanto Tempo</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">GBAHS0200116</id>
+    <album href="spotify:album:2u1s2S2bDBtoqhdeJTyM2J">
+      <name>Chill Brazil</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BV BY CH CZ DE DK EE ES FI FO FR GB GI GL GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>179.600000</length>
+    <popularity>0.27952</popularity>
+  </track>
+  <track href="spotify:track:2e72c3DtmyFUbQQ6ZMTNyN">
+    <name>Caçada</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602150</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>273.000000</length>
+    <popularity>0.27933</popularity>
+  </track>
+  <track href="spotify:track:34Blni2JYODCoxtfJskoxK">
+    <name>Words</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602200</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>147.000000</length>
+    <popularity>0.27819</popularity>
+  </track>
+  <track href="spotify:track:1DJrjZe42Gop2eaeiblp4C">
+    <name>Tanto Tempo - Sound-a-like Cover</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USFB20636369</id>
+    <album href="spotify:album:6s9BJ4gLE8Nyi6VLQfmDwD">
+      <name>Best Of Bossa Nova Part 2</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>179.500000</length>
+    <popularity>0.27817</popularity>
+  </track>
+  <track href="spotify:track:7Fg2IkcDuHxNmUKS1iqcgK">
+    <name>Simplesmente</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401400</id>
+    <album href="spotify:album:5ObqIYfoKdPVbTJLEvFOzP">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>289.160000</length>
+    <popularity>0.22283</popularity>
+  </track>
+  <track href="spotify:track:0vjY6T8b0ofXKKxvIHRGGK">
+    <name>Um Segundo</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50602180</id>
+    <album href="spotify:album:5t4Ng20kpMWlmcFEJ6fDlW">
+      <name>Momento</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>191.000000</length>
+    <popularity>0.27773</popularity>
+  </track>
+  <track href="spotify:track:6UFjiG6XTa8mdAbr80iZOT">
+    <name>Ceu Distante</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50402200</id>
+    <album href="spotify:album:5ObqIYfoKdPVbTJLEvFOzP">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>178.867000</length>
+    <popularity>0.22182</popularity>
+  </track>
+  <track href="spotify:track:1VcHwUdGCBiCvDb7tU7lTr">
+    <name>River Song</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401700</id>
+    <album href="spotify:album:4hzhIQ2U82qlISMbdijmJr">
+      <name>Bebel Gilberto</name>
+      <released>2007</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>297.093000</length>
+    <popularity>0.21869</popularity>
+  </track>
+  <track href="spotify:track:3j1WZIEJfOEXkAYfbT1k9K">
+    <name>The Girl From Ipanema featuring Bebel Gilberto</name>
+    <artist href="spotify:artist:6I3M904Y9IwgDjrQ9pANiB">
+      <name>Kenny G</name>
+    </artist>
+    <id type="isrc">USAR10300583</id>
+    <album href="spotify:album:6lVaVyy7ehMXdT2sAJek0P">
+      <name>Ultimate Kenny G</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NC NE NI NL NO NP NR NU OM PA PE PF PG PH PK PM PN PR PS PT PW PY QA RE RO RS RW SA SB SC SD SE SG SH SI SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>240.240000</length>
+    <popularity>0.29583</popularity>
+  </track>
+  <track href="spotify:track:0c9vK8STlyH8vqZCRD2BCn">
+    <name>Bananeira - Rae &amp; Christian Remix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50100290</id>
+    <album href="spotify:album:2QQ6qEabT7AFj0aAM2DE23">
+      <name>Tanto Tempo Remixes</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>289.000000</length>
+    <popularity>0.27035</popularity>
+  </track>
+  <track href="spotify:track:4FZAcyOv7UorCve6NvHjmi">
+    <name>Céu Distante - DJ Spinna Remix</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50500610</id>
+    <album href="spotify:album:0tm6MyZhdP42n1jhCqaZKy">
+      <name>Bebel Gilberto Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>261.000000</length>
+    <popularity>0.22048</popularity>
+  </track>
+  <track href="spotify:track:3Ql5gAACwGaSpZshJM5ePe">
+    <name>The Real Thing</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUM70981331</id>
+    <album href="spotify:album:3AsYWD9dam70RGg00LCC3o">
+      <name>All In One</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>273.213000</length>
+    <popularity>0.26846</popularity>
+  </track>
+  <track href="spotify:track:1iNN5WCli2WYpctpEruWig">
+    <name>All Around</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401600</id>
+    <album href="spotify:album:5ObqIYfoKdPVbTJLEvFOzP">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>284.040000</length>
+    <popularity>0.21291</popularity>
+  </track>
+  <track href="spotify:track:4g36aCWG5GCXF3qI9gvj1U">
+    <name>Preciso Dizer Que Te Amo</name>
+    <artist href="spotify:artist:1PwOU6fFbmaGkK3wkbb8fU">
+      <name>Cazuza</name>
+    </artist>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">USUG10701096</id>
+    <album href="spotify:album:4VJRC3hImSrG69Kwj7IeZz">
+      <name>Red Hot &amp; Rio</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IN IT LT LV NL NO PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>21</track-number>
+    <length>276.410000</length>
+    <popularity>0.28244</popularity>
+  </track>
+  <track href="spotify:track:32CfsSiDS3Qg1iBwKDm12w">
+    <name>River Song</name>
+    <artist href="spotify:artist:6gk4ierjjSVPoZep27VfZz">
+      <name>Bebel Gilberto</name>
+    </artist>
+    <id type="isrc">BE6F50401700</id>
+    <album href="spotify:album:5ObqIYfoKdPVbTJLEvFOzP">
+      <name>Bebel Gilberto</name>
+      <released>2004</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>297.093000</length>
+    <popularity>0.21144</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Thu, 23 Feb 2012 15:56:45 GMT -->

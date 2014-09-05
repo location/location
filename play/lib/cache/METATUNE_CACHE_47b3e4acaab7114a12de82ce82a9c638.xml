@@ -1,0 +1,1720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Pleasure"/>
+  <opensearch:totalResults>10024</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:2IpGdrWvIZipmaxo1YRxw5">
+    <name>Bottoms Up - feat. Nicki Minaj</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001515</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>242.013000</length>
+    <popularity>0.67028</popularity>
+  </track>
+  <track href="spotify:track:0H6fDB7YaMZe1rXCmATx9l">
+    <name>Can't Be Friends</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001518</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>220.373000</length>
+    <popularity>0.62459</popularity>
+  </track>
+  <track href="spotify:track:2Ox3SUdMyJLI7r0AR8isZy">
+    <name>What a Pleasure</name>
+    <artist href="spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC">
+      <name>Beach Fossils</name>
+    </artist>
+    <id type="isrc">US8YA1110032</id>
+    <album href="spotify:album:5DZLGEcnEHt9lJyVHkDbau">
+      <name>What a Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>152.685000</length>
+    <popularity>0.56057</popularity>
+  </track>
+  <track href="spotify:track:51q0vXgCI2CW9x4K8SdfXS">
+    <name>Unusual - feat. Drake</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001523</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>212.346000</length>
+    <popularity>0.61645</popularity>
+  </track>
+  <track href="spotify:track:698NMvfHMXdv82fTGBjWh4">
+    <name>Ding dong song - Radio edit</name>
+    <artist href="spotify:artist:4QcU8BgmugFcHa4SxTOyhl">
+      <name>Gunther &amp; the Sunshine Girls</name>
+    </artist>
+    <id type="isrc">SEPQA0402010</id>
+    <album href="spotify:album:4sbyz0lFLpT2n1YrnRuDIT">
+      <name>Pleasure Man</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AI AL AM AW AX AZ BA BE BG BM BV BY CY CZ DK EE ES FI FK FO GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>245.159000</length>
+    <popularity>0.59570</popularity>
+  </track>
+  <track href="spotify:track:5rX60GiR64Epgri9Ubjzg9">
+    <name>Love Faces</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001513</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>242.560000</length>
+    <popularity>0.60728</popularity>
+  </track>
+  <track href="spotify:track:7qRBcOIveKlDMiiQqmJUGH">
+    <name>Bottoms Up - Feat. Nicki Minaj</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001515</id>
+    <album href="spotify:album:2dx4Xf5dqnDCQx8rqdltyC">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AM AW AX AZ BE BM BV BY CY DK EE ES FI FK FO GE GF GG GI GL GP GR GS IM IO IS IT JE KY LT LU LV MC MD MQ MS MT NC NL NO PF PM PN PT RE RU SE SH SJ SM TC TF TR UA VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>242.013000</length>
+    <popularity>0.58637</popularity>
+  </track>
+  <track href="spotify:track:7tUBrjcebo5oNe7vDxdPYq">
+    <name>Cruel Intentions</name>
+    <artist href="spotify:artist:31DXlldabwPHwu6dYevuzK">
+      <name>Simian Mobile Disco</name>
+    </artist>
+    <id type="isrc">GBDNH0900091</id>
+    <album href="spotify:album:0cLZaahA8kJdfQHwD21hME">
+      <name>Temporary Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>181.973000</length>
+    <popularity>0.57189</popularity>
+  </track>
+  <track href="spotify:track:2Yjv7MOdst5y6fFsq4cKOL">
+    <name>The Heart Asks Pleasure First/The Promise (Edit)</name>
+    <artist href="spotify:artist:2LvhyFvUCDJ7gFuEBOcrM8">
+      <name>Michael Nyman</name>
+    </artist>
+    <id type="isrc">GBDVE9300041</id>
+    <album href="spotify:album:2QxIR22Sj9xGc4mOTN550A">
+      <name>The Piano: Music From The Motion Picture</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>20</track-number>
+    <length>191.866000</length>
+    <popularity>0.60727</popularity>
+  </track>
+  <track href="spotify:track:01W5V5ldcR16YA7ZVHFLSH">
+    <name>Pleasure And Pain</name>
+    <artist href="spotify:artist:7iWiAD5LLKyiox2grgfmUT">
+      <name>Bullet For My Valentine</name>
+    </artist>
+    <id type="isrc">USJI11000041</id>
+    <album href="spotify:album:3q3DB4fElKDIDE2bXTLFlb">
+      <name>Fever</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>233.426000</length>
+    <popularity>0.54453</popularity>
+  </track>
+  <track href="spotify:track:6ciyGNiBlZGpm4fiTZ6eWt">
+    <name>Guess Who's Gonna Get Some Tonight</name>
+    <artist href="spotify:artist:6O6kWwVAL4xK4G8SBcsNJR">
+      <name>Moneybrother</name>
+    </artist>
+    <id type="isrc">SEVHC0700027</id>
+    <album href="spotify:album:417K3g0wBWA6VHV1eEHS7A">
+      <name>Mount Pleasure</name>
+      <released>2007</released>
+      <availability>
+        <territories>DK NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>205.788000</length>
+    <popularity>0.53968</popularity>
+  </track>
+  <track href="spotify:track:25OepUvtgQo4L7XKLKh5FM">
+    <name>Sho-Time (Pleasure Thang)</name>
+    <artist href="spotify:artist:3aQeKQSyrW4qWr35idm0cy">
+      <name>T-Pain</name>
+    </artist>
+    <id type="isrc">USRC11101030</id>
+    <album href="spotify:album:49FwsZq64UotAHB0CXGR1N">
+      <name>rEVOLVEr (Deluxe Version)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>228.706000</length>
+    <popularity>0.53921</popularity>
+  </track>
+  <track href="spotify:track:27MXMzSq7oQxi99XGGcRiH">
+    <name>Touch Me</name>
+    <artist href="spotify:artist:4QcU8BgmugFcHa4SxTOyhl">
+      <name>Gunther &amp; the Sunshine Girls</name>
+    </artist>
+    <id type="isrc">SEPQA0402100</id>
+    <album href="spotify:album:4sbyz0lFLpT2n1YrnRuDIT">
+      <name>Pleasure Man</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AI AL AM AW AX AZ BA BE BG BM BV BY CY CZ DK EE ES FI FK FO GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>219.253000</length>
+    <popularity>0.52065</popularity>
+  </track>
+  <track href="spotify:track:6OeglDMxrFvhmHxegrNLz2">
+    <name>Guilty Pleasure</name>
+    <artist href="spotify:artist:2aYJ5LAta2ScCdfLhKgZOY">
+      <name>Cobra Starship</name>
+    </artist>
+    <id type="isrc">USAT20705231</id>
+    <album href="spotify:album:5hJuFOrpXDXHtBmAHnAvua">
+      <name>¡Viva La Cobra!</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>202.733000</length>
+    <popularity>0.50760</popularity>
+  </track>
+  <track href="spotify:track:3XUknsM7dHjrIdPIbVi4Nf">
+    <name>Out in the Way (feat. Wild Nothing)</name>
+    <artist href="spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC">
+      <name>Beach Fossils</name>
+    </artist>
+    <artist href="spotify:artist:6NrkINd80slV25wkBu9mEB">
+      <name>Wild Nothing</name>
+    </artist>
+    <id type="isrc">US8YA1110034</id>
+    <album href="spotify:album:5DZLGEcnEHt9lJyVHkDbau">
+      <name>What a Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>232.008000</length>
+    <popularity>0.52470</popularity>
+  </track>
+  <track href="spotify:track:4RW7EZi7SHSLRwvn1Q8Mqj">
+    <name>The Heart Asks Pleasure First</name>
+    <artist href="spotify:artist:2LvhyFvUCDJ7gFuEBOcrM8">
+      <name>Michael Nyman</name>
+    </artist>
+    <id type="isrc">GBDVE9300007</id>
+    <album href="spotify:album:2QxIR22Sj9xGc4mOTN550A">
+      <name>The Piano: Music From The Motion Picture</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>96.560000</length>
+    <popularity>0.53999</popularity>
+  </track>
+  <track href="spotify:track:5TU5SgsqMCUGBpCqW1WmmM">
+    <name>10000 Horses Can't Be Wrong</name>
+    <artist href="spotify:artist:31DXlldabwPHwu6dYevuzK">
+      <name>Simian Mobile Disco</name>
+    </artist>
+    <id type="isrc">GBDNH0900081</id>
+    <album href="spotify:album:0cLZaahA8kJdfQHwD21hME">
+      <name>Temporary Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>251.253000</length>
+    <popularity>0.50551</popularity>
+  </track>
+  <track href="spotify:track:0RNTGiRLxa1eryJNJLUqJY">
+    <name>Cream Dream</name>
+    <artist href="spotify:artist:31DXlldabwPHwu6dYevuzK">
+      <name>Simian Mobile Disco</name>
+    </artist>
+    <id type="isrc">GBDNH0900061</id>
+    <album href="spotify:album:3Utmuuw9ni2zqiBuuB2ZAR">
+      <name>Temporary Pleasure</name>
+      <released>2012</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>240.000000</length>
+    <popularity>0.49917</popularity>
+  </track>
+  <track href="spotify:track:1fHizGHdNrLMcEuAPQ2aJe">
+    <name>Pleasure Palaces</name>
+    <artist href="spotify:artist:3L72kawpHGE2QnSl3a95Ya">
+      <name>Errors</name>
+    </artist>
+    <id type="isrc">GBGDZ1200004</id>
+    <album href="spotify:album:0jIVhNqSrSx7lZ26gKvKg0">
+      <name>Pleasure Palaces</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AM AT AU AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT NL NO PL PT RO RU SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>381.000000</length>
+    <popularity>0.43888</popularity>
+  </track>
+  <track href="spotify:track:6wb5p58qYw3t1pFPelbR6i">
+    <name>Pleasure - Interlude</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001521</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>89.533000</length>
+    <popularity>0.44058</popularity>
+  </track>
+  <track href="spotify:track:3WhMn81j8ZK0dcNE1PnaRu">
+    <name>Massage</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001514</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>257.706000</length>
+    <popularity>0.50255</popularity>
+  </track>
+  <track href="spotify:track:1Sh2H31qJpjfNRu3eimPVC">
+    <name>Fall Right In</name>
+    <artist href="spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC">
+      <name>Beach Fossils</name>
+    </artist>
+    <id type="isrc">US8YA1110033</id>
+    <album href="spotify:album:5DZLGEcnEHt9lJyVHkDbau">
+      <name>What a Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>153.486000</length>
+    <popularity>0.49953</popularity>
+  </track>
+  <track href="spotify:track:3taIcgVjePRzkdz0ZmJbOi">
+    <name>Boyfriend #2 - Explicit Album Version</name>
+    <artist href="spotify:artist:6dROiL44pIQZVNZ6Bc0OJO">
+      <name>Pleasure P</name>
+    </artist>
+    <id type="isrc">USAT20804577</id>
+    <album href="spotify:album:0jIA4y3EGDkw8QB5HlLWwK">
+      <name>The Introduction of Marcus Cooper</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GE GF GG GI GL GP GR GS HR HU IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>207.400000</length>
+    <popularity>0.49852</popularity>
+  </track>
+  <track href="spotify:track:7JGpXcYbNMfq8n08321Rm5">
+    <name>Made To Be Together</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001520</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>268.026000</length>
+    <popularity>0.49841</popularity>
+  </track>
+  <track href="spotify:track:4U2BAsTsb5tXzzxb0a80au">
+    <name>Unfortunate</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001559</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>229.906000</length>
+    <popularity>0.49744</popularity>
+  </track>
+  <track href="spotify:track:5tddifIKpIPiYYQhmseDx8">
+    <name>Face It</name>
+    <artist href="spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC">
+      <name>Beach Fossils</name>
+    </artist>
+    <id type="isrc">US8YA1110035</id>
+    <album href="spotify:album:5DZLGEcnEHt9lJyVHkDbau">
+      <name>What a Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>214.097000</length>
+    <popularity>0.49546</popularity>
+  </track>
+  <track href="spotify:track:0rryP03liPNhiTLrCwG5dA">
+    <name>Alone</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001516</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>211.520000</length>
+    <popularity>0.48791</popularity>
+  </track>
+  <track href="spotify:track:5bOZr0SyuWi53Ud4bKd8Ku">
+    <name>Pleasure</name>
+    <artist href="spotify:artist:0gOsZcHl7H3ewXVIEnWFZX">
+      <name>Camille</name>
+    </artist>
+    <id type="isrc">FRZ111100553</id>
+    <album href="spotify:album:029IbnpJXBnaS9A3uJ686w">
+      <name>Ilo Veyou</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>130.466000</length>
+    <popularity>0.43756</popularity>
+  </track>
+  <track href="spotify:track:1cUOvC3Z2LxIdylG1NRonH">
+    <name>Can't Be Friends</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001518</id>
+    <album href="spotify:album:2dx4Xf5dqnDCQx8rqdltyC">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AM AW AX AZ BE BM BV BY CY DK EE ES FI FK FO GE GF GG GI GL GP GR GS IM IO IS IT JE KY LT LU LV MC MD MQ MS MT NC NL NO PF PM PN PT RE RU SE SH SJ SM TC TF TR UA VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>220.373000</length>
+    <popularity>0.48763</popularity>
+  </track>
+  <track href="spotify:track:2VMXG8rkbWow4zDRo08FP4">
+    <name>Pleasure Sighs</name>
+    <artist href="spotify:artist:5UqjSHztpMyc0liXncNbGD">
+      <name>The Morning Benders</name>
+    </artist>
+    <id type="isrc">GBCVZ0902757</id>
+    <album href="spotify:album:4GGwYDNw2tNHbmK93bygqm">
+      <name>Big Echo</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>268.000000</length>
+    <popularity>0.46226</popularity>
+  </track>
+  <track href="spotify:track:5uaDSyUIBlhN9cqowFcci1">
+    <name>Calyer</name>
+    <artist href="spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC">
+      <name>Beach Fossils</name>
+    </artist>
+    <id type="isrc">US8YA1110037</id>
+    <album href="spotify:album:5DZLGEcnEHt9lJyVHkDbau">
+      <name>What a Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>189.416000</length>
+    <popularity>0.48625</popularity>
+  </track>
+  <track href="spotify:track:26sTHxMMYPxWL1GHHQg0Ho">
+    <name>Please Return My Call</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001519</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>237.293000</length>
+    <popularity>0.48320</popularity>
+  </track>
+  <track href="spotify:track:3Min2Z3ZLkjYGlSAwxCtMh">
+    <name>Crank It Up</name>
+    <artist href="spotify:artist:2ddxtfC0oS8LoktXUHE7YL">
+      <name>Ashley Tisdale</name>
+    </artist>
+    <id type="isrc">USWB10901626</id>
+    <album href="spotify:album:4iKfmBKXuzPROAXBuZKAVM">
+      <name>Guilty Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>181.666000</length>
+    <popularity>0.46929</popularity>
+  </track>
+  <track href="spotify:track:0aS0DlWVjNF7bsaFRJ2nIH">
+    <name>Red Lipstick</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001522</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>240.573000</length>
+    <popularity>0.48172</popularity>
+  </track>
+  <track href="spotify:track:4I8cISLT4JPvkTZY1h9Gs1">
+    <name>Struggle For Pleasure - version 2007</name>
+    <artist href="spotify:artist:7zW6wPmVLv4JDJM271gbFc">
+      <name>Wim Mertens</name>
+    </artist>
+    <id type="isrc">BEZ769981304</id>
+    <album href="spotify:album:0XkgChoXTbZeJfuIqZNgme">
+      <name>The Belly Of An Architect</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>250.093000</length>
+    <popularity>0.49608</popularity>
+  </track>
+  <track href="spotify:track:4fKIDJKdQBJ4SpvaBqyXMw">
+    <name>Linger With Pleasure</name>
+    <artist href="spotify:artist:2L3kwZFd16zjHz9a5kEPAm">
+      <name>Ane Brun</name>
+    </artist>
+    <id type="isrc">SEVVQ0700108</id>
+    <album href="spotify:album:4WgEkddbRPOB69MW1B90iX">
+      <name>Changing Of The Seasons</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>172.320000</length>
+    <popularity>0.46661</popularity>
+  </track>
+  <track href="spotify:track:7bGkwTJItCVo0aapkPR16n">
+    <name>The Heart Asks Pleasure First/The Promise (Edit)</name>
+    <artist href="spotify:artist:2LvhyFvUCDJ7gFuEBOcrM8">
+      <name>Michael Nyman</name>
+    </artist>
+    <id type="isrc">GBDVE9300041</id>
+    <album href="spotify:album:5gGoL7HQZvclBKLMGPrByW">
+      <name>Classical Chillout</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>192.973000</length>
+    <popularity>0.50215</popularity>
+  </track>
+  <track href="spotify:track:5WI3NfiGXRN30M7KgXoGTn">
+    <name>Pleasure Palaces</name>
+    <artist href="spotify:artist:3L72kawpHGE2QnSl3a95Ya">
+      <name>Errors</name>
+    </artist>
+    <id type="isrc">GBGDZ1200004</id>
+    <album href="spotify:album:0kDxXqy9PWfOTJ0QbIea97">
+      <name>Have Some Faith In Magic</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AM AT AU AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT NL NO PL PT RO RU SE SI SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>375.000000</length>
+    <popularity>0.45123</popularity>
+  </track>
+  <track href="spotify:track:72qZ4kJgisLOcyCZtiw2Dv">
+    <name>You Just Need Me</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001561</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>212.400000</length>
+    <popularity>0.47227</popularity>
+  </track>
+  <track href="spotify:track:0OlLJMjLCvZBb7XxC1bWE6">
+    <name>Moments</name>
+    <artist href="spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC">
+      <name>Beach Fossils</name>
+    </artist>
+    <id type="isrc">US8YA1110031</id>
+    <album href="spotify:album:5DZLGEcnEHt9lJyVHkDbau">
+      <name>What a Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>64.798000</length>
+    <popularity>0.47214</popularity>
+  </track>
+  <track href="spotify:track:39TWBxt4wH6YuCVMpkd2vv">
+    <name>Pleasure</name>
+    <artist href="spotify:artist:6lyYDuLxgcxPLH5RjUPH5p">
+      <name>Benga</name>
+    </artist>
+    <id type="isrc">GBQGW0801023</id>
+    <album href="spotify:album:7I4kcsR8y9Sl1obo7tcOPM">
+      <name>Benga</name>
+      <released>2008</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>321.000000</length>
+    <popularity>0.42107</popularity>
+  </track>
+  <track href="spotify:track:5klW2KKu4GaHWfTR01ywrj">
+    <name>Did You Wrong - Explicit Album Version</name>
+    <artist href="spotify:artist:6dROiL44pIQZVNZ6Bc0OJO">
+      <name>Pleasure P</name>
+    </artist>
+    <id type="isrc">USAT20802988</id>
+    <album href="spotify:album:0jIA4y3EGDkw8QB5HlLWwK">
+      <name>The Introduction of Marcus Cooper</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GE GF GG GI GL GP GR GS HR HU IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>259.000000</length>
+    <popularity>0.46954</popularity>
+  </track>
+  <track href="spotify:track:2TTQ1sxhkzJQXcqaidXHSs">
+    <name>Doorbell</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001524</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>236.506000</length>
+    <popularity>0.46954</popularity>
+  </track>
+  <track href="spotify:track:7DkKjwADhuwK3QMH8DeNbJ">
+    <name>Adversity</name>
+    <artist href="spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC">
+      <name>Beach Fossils</name>
+    </artist>
+    <id type="isrc">US8YA1110038</id>
+    <album href="spotify:album:5DZLGEcnEHt9lJyVHkDbau">
+      <name>What a Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>243.297000</length>
+    <popularity>0.46888</popularity>
+  </track>
+  <track href="spotify:track:38K9Ec8K4V89HjZA7lchoE">
+    <name>Distance</name>
+    <artist href="spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC">
+      <name>Beach Fossils</name>
+    </artist>
+    <id type="isrc">US8YA1110036</id>
+    <album href="spotify:album:5DZLGEcnEHt9lJyVHkDbau">
+      <name>What a Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>140.761000</length>
+    <popularity>0.46752</popularity>
+  </track>
+  <track href="spotify:track:4vlqAujCgPRY6hFxUa3pjg">
+    <name>What If</name>
+    <artist href="spotify:artist:2ddxtfC0oS8LoktXUHE7YL">
+      <name>Ashley Tisdale</name>
+    </artist>
+    <id type="isrc">USWB10901621</id>
+    <album href="spotify:album:4iKfmBKXuzPROAXBuZKAVM">
+      <name>Guilty Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>263.853000</length>
+    <popularity>0.45406</popularity>
+  </track>
+  <track href="spotify:track:6YyPA4dxemw23eGon3CjFX">
+    <name>Si No Le Contesto</name>
+    <artist href="spotify:artist:7qlh1IM1XMeQXA9ukp59au">
+      <name>Plan B</name>
+    </artist>
+    <id type="isrc">USB271000100</id>
+    <album href="spotify:album:5uja4ElM6i6neeFTAa4Itw">
+      <name>House of Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR BO CL PY US UY</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>220.133000</length>
+    <popularity>0.46343</popularity>
+  </track>
+  <track href="spotify:track:0xwWgANkivEPqyPBiYXbzi">
+    <name>Shone - feat. Pleasure P</name>
+    <artist href="spotify:artist:0jnsk9HBra6NMjO2oANoPY">
+      <name>Flo Rida</name>
+    </artist>
+    <id type="isrc">USAT20900241</id>
+    <album href="spotify:album:2vBLKFrI1rZqB7VtGxcsR5">
+      <name>R.O.O.T.S.</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>253.253000</length>
+    <popularity>0.45913</popularity>
+  </track>
+  <track href="spotify:track:3VGjCE8GSmmw20PDAIk43b">
+    <name>Cruel Intentions</name>
+    <artist href="spotify:artist:31DXlldabwPHwu6dYevuzK">
+      <name>Simian Mobile Disco</name>
+    </artist>
+    <artist href="spotify:artist:7y8lzaGqtadGmtAtg2SGv4">
+      <name>Beth Ditto</name>
+    </artist>
+    <id type="isrc">GBDNH0900091</id>
+    <album href="spotify:album:3C1Lar0SrEheD2AuIyeNfK">
+      <name>Temporary Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>181.973000</length>
+    <popularity>0.44527</popularity>
+  </track>
+  <track href="spotify:track:3GxqpUqWLV2LuF3ZTkCFQf">
+    <name>Love Faces</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001513</id>
+    <album href="spotify:album:2dx4Xf5dqnDCQx8rqdltyC">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AM AW AX AZ BE BM BV BY CY DK EE ES FI FK FO GE GF GG GI GL GP GR GS IM IO IS IT JE KY LT LU LV MC MD MQ MS MT NC NL NO PF PM PN PT RE RU SE SH SJ SM TC TF TR UA VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>242.560000</length>
+    <popularity>0.45449</popularity>
+  </track>
+  <track href="spotify:track:48TPQWN8wy8vgJ0rKWM0z3">
+    <name>Under</name>
+    <artist href="spotify:artist:6dROiL44pIQZVNZ6Bc0OJO">
+      <name>Pleasure P</name>
+    </artist>
+    <id type="isrc">USAT20901356</id>
+    <album href="spotify:album:0jIA4y3EGDkw8QB5HlLWwK">
+      <name>The Introduction of Marcus Cooper</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GE GF GG GI GL GP GR GS HR HU IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>231.160000</length>
+    <popularity>0.45424</popularity>
+  </track>
+  <track href="spotify:track:2qM1Uus4I6Yx2BGlIzXaI0">
+    <name>Es Un Secreto</name>
+    <artist href="spotify:artist:7qlh1IM1XMeQXA9ukp59au">
+      <name>Plan B</name>
+    </artist>
+    <id type="isrc">USB271000113</id>
+    <album href="spotify:album:5uja4ElM6i6neeFTAa4Itw">
+      <name>House of Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR BO CL PY US UY</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>190.560000</length>
+    <popularity>0.45399</popularity>
+  </track>
+  <track href="spotify:track:0iUDV5DFz0jz7D9aT8kTzz">
+    <name>Audacity Of Huge</name>
+    <artist href="spotify:artist:31DXlldabwPHwu6dYevuzK">
+      <name>Simian Mobile Disco</name>
+    </artist>
+    <artist href="spotify:artist:4XVLBZMeVlYkbsXdjwOFy4">
+      <name>Chris Keating</name>
+    </artist>
+    <id type="isrc">GBDNH0900071</id>
+    <album href="spotify:album:3C1Lar0SrEheD2AuIyeNfK">
+      <name>Temporary Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>227.973000</length>
+    <popularity>0.44068</popularity>
+  </track>
+  <track href="spotify:track:6vj4CTmu2UlFCTGqE1F7oB">
+    <name>Darts Of Pleasure</name>
+    <artist href="spotify:artist:0XNa1vTidXlvJ2gHSsRi4A">
+      <name>Franz Ferdinand</name>
+    </artist>
+    <id type="isrc">GBCEL0300197</id>
+    <album href="spotify:album:33gUUxzd5kOjRTraCSbws2">
+      <name>Franz Ferdinand</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>181.000000</length>
+    <popularity>0.43964</popularity>
+  </track>
+  <track href="spotify:track:2bxYoM28RZQXAw4iTwBZLO">
+    <name>It Might As Well Be Now</name>
+    <artist href="spotify:artist:6O6kWwVAL4xK4G8SBcsNJR">
+      <name>Moneybrother</name>
+    </artist>
+    <id type="isrc">SEVHC0700030</id>
+    <album href="spotify:album:417K3g0wBWA6VHV1eEHS7A">
+      <name>Mount Pleasure</name>
+      <released>2007</released>
+      <availability>
+        <territories>DK NO SE</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>284.448000</length>
+    <popularity>0.43915</popularity>
+  </track>
+  <track href="spotify:track:5w0uns1B7wiM7QQ6U4MCms">
+    <name>Cream Dream</name>
+    <artist href="spotify:artist:31DXlldabwPHwu6dYevuzK">
+      <name>Simian Mobile Disco</name>
+    </artist>
+    <id type="isrc">GBDNH0900061</id>
+    <album href="spotify:album:0cLZaahA8kJdfQHwD21hME">
+      <name>Temporary Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>238.866000</length>
+    <popularity>0.43648</popularity>
+  </track>
+  <track href="spotify:track:29UbvMUPxyBY9Ion8WRENo">
+    <name>Me Without You</name>
+    <artist href="spotify:artist:2ddxtfC0oS8LoktXUHE7YL">
+      <name>Ashley Tisdale</name>
+    </artist>
+    <id type="isrc">USWB10901625</id>
+    <album href="spotify:album:4iKfmBKXuzPROAXBuZKAVM">
+      <name>Guilty Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>249.240000</length>
+    <popularity>0.43621</popularity>
+  </track>
+  <track href="spotify:track:54Y3ThTJ4b5YcBnZvAR0I6">
+    <name>Masquerade</name>
+    <artist href="spotify:artist:2ddxtfC0oS8LoktXUHE7YL">
+      <name>Ashley Tisdale</name>
+    </artist>
+    <id type="isrc">USWB10901616</id>
+    <album href="spotify:album:4iKfmBKXuzPROAXBuZKAVM">
+      <name>Guilty Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>176.520000</length>
+    <popularity>0.43555</popularity>
+  </track>
+  <track href="spotify:track:3VckVBStLYbTBy6pIoZBtP">
+    <name>Pain For Pleasure</name>
+    <artist href="spotify:artist:0qT79UgT5tY4yudH9VfsdT">
+      <name>Sum 41</name>
+    </artist>
+    <id type="isrc">USIR20110119</id>
+    <album href="spotify:album:47wh50aG3MIgDpsMe5B7n7">
+      <name>All Killer No Filler</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>103.280000</length>
+    <popularity>0.43542</popularity>
+  </track>
+  <track href="spotify:track:1mMIIaZMPKzfI7ZIeseLfH">
+    <name>How Do You Love Someone</name>
+    <artist href="spotify:artist:2ddxtfC0oS8LoktXUHE7YL">
+      <name>Ashley Tisdale</name>
+    </artist>
+    <id type="isrc">USWB10901619</id>
+    <album href="spotify:album:4iKfmBKXuzPROAXBuZKAVM">
+      <name>Guilty Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>208.226000</length>
+    <popularity>0.43465</popularity>
+  </track>
+  <track href="spotify:track:0FSFJXymjxySabOXaaOmOh">
+    <name>My Ex-Girl</name>
+    <artist href="spotify:artist:0LQoZQIV0mIs0y0XQb0Sw2">
+      <name>Chris Martin</name>
+    </artist>
+    <id type="isrc">USA2P1117682</id>
+    <album href="spotify:album:3DsYYdFKGl9myAgB1rSHra">
+      <name>Pleasure Riddim</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>189.199000</length>
+    <popularity>0.42878</popularity>
+  </track>
+  <track href="spotify:track:2GSjUBWOB9lvJvyN5fQDPO">
+    <name>What Do You Want From Me?</name>
+    <artist href="spotify:artist:0N3oP3Si8ihzFUrU6kITZ8">
+      <name>Monaco</name>
+    </artist>
+    <id type="isrc">GBAKW9601313</id>
+    <album href="spotify:album:1kgsIGCIC82AAEfFVg9rja">
+      <name>Music For Pleasure</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK ES FI FR GB HK HU IE IT MY NL NO NZ PL PT SE SG SK TH TW</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>248.360000</length>
+    <popularity>0.43934</popularity>
+  </track>
+  <track href="spotify:track:79lttD4HbYDN7Pg5TzN6T7">
+    <name>Pain - Interlude</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001517</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>85.240000</length>
+    <popularity>0.43930</popularity>
+  </track>
+  <track href="spotify:track:3QnZmeLY9KiUxtAMmpHN16">
+    <name>Just Another Summer</name>
+    <artist href="spotify:artist:6O6kWwVAL4xK4G8SBcsNJR">
+      <name>Moneybrother</name>
+    </artist>
+    <id type="isrc">SEVHC0700025</id>
+    <album href="spotify:album:417K3g0wBWA6VHV1eEHS7A">
+      <name>Mount Pleasure</name>
+      <released>2007</released>
+      <availability>
+        <territories>DK NO SE</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>176.325000</length>
+    <popularity>0.42490</popularity>
+  </track>
+  <track href="spotify:track:2QcmQWufM3fbHeH8gV5bSy">
+    <name>Pure Pleasure Seeker</name>
+    <artist href="spotify:artist:4aaBjq7VqqQvpSF69GglvO">
+      <name>Moloko</name>
+    </artist>
+    <id type="isrc">GBBND0601586</id>
+    <album href="spotify:album:6V2R94jpJBxSyFpL5UiBTs">
+      <name>Catalogue</name>
+      <released>2006</released>
+      <availability>
+        <territories>AL AT BA BE BG CH CZ DE DK EE ES FI FR GR HR HU IS IT LT LU LV MK NL NO PL PT RO RU SE SI SK TR</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>391.000000</length>
+    <popularity>0.42477</popularity>
+  </track>
+  <track href="spotify:track:4bVZZfOXvw03L6oETa5zJu">
+    <name>Pleasure And Pain</name>
+    <artist href="spotify:artist:7iWiAD5LLKyiox2grgfmUT">
+      <name>Bullet For My Valentine</name>
+    </artist>
+    <id type="isrc">USJI11000041</id>
+    <album href="spotify:album:5jx8tY8uKTYHYmhxkEmw7n">
+      <name>Fever (Tour Edition)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>233.426000</length>
+    <popularity>0.42325</popularity>
+  </track>
+  <track href="spotify:track:2vf4ikBiG8YBiSnfFAkuve">
+    <name>Teeny Weeny String Bikini</name>
+    <artist href="spotify:artist:4QcU8BgmugFcHa4SxTOyhl">
+      <name>Gunther &amp; the Sunshine Girls</name>
+    </artist>
+    <id type="isrc">SEPQA0402020</id>
+    <album href="spotify:album:4sbyz0lFLpT2n1YrnRuDIT">
+      <name>Pleasure Man</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AI AL AM AW AX AZ BA BE BG BM BV BY CY CZ DK EE ES FI FK FO GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>240.413000</length>
+    <popularity>0.42209</popularity>
+  </track>
+  <track href="spotify:track:3X9MydsGl2B8LbY8rpANJT">
+    <name>Funky Worm</name>
+    <artist href="spotify:artist:6m30rs1IQqnWqV5nKMpU7U">
+      <name>Ohio Players</name>
+    </artist>
+    <id type="isrc">US25X0702008</id>
+    <album href="spotify:album:0pjdMHnNImJLPweq4wzeND">
+      <name>Pleasure</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>160.987000</length>
+    <popularity>0.40105</popularity>
+  </track>
+  <track href="spotify:track:0SOkPB8GISCurtq3x0D2pO">
+    <name>Blind</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001560</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>246.026000</length>
+    <popularity>0.43452</popularity>
+  </track>
+  <track href="spotify:track:4M9wrhQNdGgEgunrRxTiGN">
+    <name>Down At The R</name>
+    <artist href="spotify:artist:6O6kWwVAL4xK4G8SBcsNJR">
+      <name>Moneybrother</name>
+    </artist>
+    <id type="isrc">SEVHC0700028</id>
+    <album href="spotify:album:417K3g0wBWA6VHV1eEHS7A">
+      <name>Mount Pleasure</name>
+      <released>2007</released>
+      <availability>
+        <territories>DK NO SE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>212.439000</length>
+    <popularity>0.42005</popularity>
+  </track>
+  <track href="spotify:track:1mRLO6tznMsdNpHmHrOV88">
+    <name>Darts Of Pleasure</name>
+    <artist href="spotify:artist:0XNa1vTidXlvJ2gHSsRi4A">
+      <name>Franz Ferdinand</name>
+    </artist>
+    <id type="isrc">GBCEL0300197</id>
+    <album href="spotify:album:03akiuheNt5mJqltALnalP">
+      <name>Franz Ferdinand</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT LI LT LU LV MC MD MK MT NL NO PL PT RO RU SE SI SJ SK SM TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>179.000000</length>
+    <popularity>0.41896</popularity>
+  </track>
+  <track href="spotify:track:36gP5bCGVgf3cNdCIqCBel">
+    <name>The Heart Asks Pleasure First</name>
+    <artist href="spotify:artist:2LvhyFvUCDJ7gFuEBOcrM8">
+      <name>Michael Nyman</name>
+    </artist>
+    <id type="isrc">GBDVE0500025</id>
+    <album href="spotify:album:4pyam9flfBe3U2t8xlgaaj">
+      <name>The Piano</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>225.013000</length>
+    <popularity>0.44748</popularity>
+  </track>
+  <track href="spotify:track:2gsY0pB4cJOVX32K3qOZgB">
+    <name>Metal</name>
+    <artist href="spotify:artist:5KQMtyPE8DCQNUzoNqlEsE">
+      <name>Gary Numan</name>
+    </artist>
+    <id type="isrc">GBAZP9800113</id>
+    <album href="spotify:album:6wHjdKs7VVPVcqaHRzwqJt">
+      <name>The Pleasure Principle</name>
+      <released>1979</released>
+      <availability>
+        <territories>AD AE AF AG AL AM AN AO AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BO BR BS BT BW BY BZ CA CC CF CG CH CL CM CN CO CR CU CX CY CZ DE DJ DK DM DO DZ EC EE EG ER ES ET FI FJ FK FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GT GW GY HK HM HN HR HT HU ID IE IL IM IN IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MK ML MN MO MQ MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PR PT PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TM TR TV TW TZ UA UG US UY UZ VA VC VE VG VI VN VU WF WS YE ZA ZM ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>212.000000</length>
+    <popularity>0.43015</popularity>
+  </track>
+  <track href="spotify:track:7A4hUAE33LMKn7r8Lsuyeg">
+    <name>Audacity Of Huge</name>
+    <artist href="spotify:artist:31DXlldabwPHwu6dYevuzK">
+      <name>Simian Mobile Disco</name>
+    </artist>
+    <id type="isrc">GBDNH0900071</id>
+    <album href="spotify:album:3Utmuuw9ni2zqiBuuB2ZAR">
+      <name>Temporary Pleasure</name>
+      <released>2012</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>227.000000</length>
+    <popularity>0.41663</popularity>
+  </track>
+  <track href="spotify:track:36JSUTHxbCG872vN0NRWOp">
+    <name>Twisted Mirror</name>
+    <artist href="spotify:artist:1jofoMyHK5JjLIESpm991n">
+      <name>Pure X</name>
+    </artist>
+    <id type="isrc">CA47K1171703</id>
+    <album href="spotify:album:5qWKLFr6wbMTmvDiRoL4Ph">
+      <name>Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>277.000000</length>
+    <popularity>0.39577</popularity>
+  </track>
+  <track href="spotify:track:58Z3aBbmCvThtbgjGxrKNU">
+    <name>Here We Go Again - Intro</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001512</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>40.373000</length>
+    <popularity>0.42914</popularity>
+  </track>
+  <track href="spotify:track:68xHoEPqa2k5Y2Dbkgc4vJ">
+    <name>The Heart Asks Pleasure First/The Promise (Edit)</name>
+    <artist href="spotify:artist:2LvhyFvUCDJ7gFuEBOcrM8">
+      <name>Michael Nyman</name>
+    </artist>
+    <id type="isrc">GBDVE9300041</id>
+    <album href="spotify:album:1ZZONnIP7uyE9MkvFS5DHP">
+      <name>100 Best Film Classics</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>195.160000</length>
+    <popularity>0.45446</popularity>
+  </track>
+  <track href="spotify:track:6k8rqOu4ifvcM22PfLJZyr">
+    <name>The Guilty Pleasure No Hands</name>
+    <artist href="spotify:artist:67nwj3Y5sZQLl72VNUHEYE">
+      <name>Wale</name>
+    </artist>
+    <id type="isrc">USYBL1101112</id>
+    <album href="spotify:album:5nq9ioskYcYPa7CYULSQ8T">
+      <name>More About Nothing</name>
+      <released>2011</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>248.000000</length>
+    <popularity>0.44440</popularity>
+  </track>
+  <track href="spotify:track:6XoUa33XaaCZw56y3BNLP9">
+    <name>Pleasureman</name>
+    <artist href="spotify:artist:4QcU8BgmugFcHa4SxTOyhl">
+      <name>Gunther &amp; the Sunshine Girls</name>
+    </artist>
+    <id type="isrc">SEPQA0402090</id>
+    <album href="spotify:album:4sbyz0lFLpT2n1YrnRuDIT">
+      <name>Pleasure Man</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AI AL AM AW AX AZ BA BE BG BM BV BY CY CZ DK EE ES FI FK FO GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>204.026000</length>
+    <popularity>0.41496</popularity>
+  </track>
+  <track href="spotify:track:2ajYun4L3P1iTGA2aryIxF">
+    <name>Passion - Interlude</name>
+    <artist href="spotify:artist:2iojnBLj0qIMiKPvVhLnsH">
+      <name>Trey Songz</name>
+    </artist>
+    <id type="isrc">USAT21001558</id>
+    <album href="spotify:album:5Qex4ioxOJfHrnsWbt8Zlj">
+      <name>Passion, Pain &amp; Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>84.293000</length>
+    <popularity>0.42762</popularity>
+  </track>
+  <track href="spotify:track:2KwZpxCVZD0rYDavmA9CaF">
+    <name>Acting Out</name>
+    <artist href="spotify:artist:2ddxtfC0oS8LoktXUHE7YL">
+      <name>Ashley Tisdale</name>
+    </artist>
+    <id type="isrc">USWB10901615</id>
+    <album href="spotify:album:4iKfmBKXuzPROAXBuZKAVM">
+      <name>Guilty Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>226.133000</length>
+    <popularity>0.41355</popularity>
+  </track>
+  <track href="spotify:track:1bYtKF2sY2wLU6xdVaqIqD">
+    <name>It's Alright, It's OK</name>
+    <artist href="spotify:artist:2ddxtfC0oS8LoktXUHE7YL">
+      <name>Ashley Tisdale</name>
+    </artist>
+    <id type="isrc">USWB10900799</id>
+    <album href="spotify:album:4iKfmBKXuzPROAXBuZKAVM">
+      <name>Guilty Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>179.200000</length>
+    <popularity>0.41323</popularity>
+  </track>
+  <track href="spotify:track:5ZwJCwXdIrUQHFKAgamROZ">
+    <name>Moments Of Pleasure</name>
+    <artist href="spotify:artist:1aSxMhuvixZ8h9dK9jIDwL">
+      <name>Kate Bush</name>
+    </artist>
+    <id type="isrc">GBCNR1100019</id>
+    <album href="spotify:album:5jYdgzyT71V5j4MQm327gF">
+      <name>Director's Cut</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>391.733000</length>
+    <popularity>0.41291</popularity>
+  </track>
+  <track href="spotify:track:3OiBc6E43P6Y5LoqNbbMKf">
+    <name>M.e.</name>
+    <artist href="spotify:artist:5KQMtyPE8DCQNUzoNqlEsE">
+      <name>Gary Numan</name>
+    </artist>
+    <id type="isrc">GBAZP9800115</id>
+    <album href="spotify:album:6wHjdKs7VVPVcqaHRzwqJt">
+      <name>The Pleasure Principle</name>
+      <released>1979</released>
+      <availability>
+        <territories>AD AE AF AG AL AM AN AO AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BO BR BS BT BW BY BZ CA CC CF CG CH CL CM CN CO CR CU CX CY CZ DE DJ DK DM DO DZ EC EE EG ER ES ET FI FJ FK FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GT GW GY HK HM HN HR HT HU ID IE IL IM IN IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MK ML MN MO MQ MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PR PT PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TM TR TV TW TZ UA UG US UY UZ VA VC VE VG VI VN VU WF WS YE ZA ZM ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>337.000000</length>
+    <popularity>0.42571</popularity>
+  </track>
+  <track href="spotify:track:7FIPeBAYCgqpZDZFKDIOiw">
+    <name>Change Positions</name>
+    <artist href="spotify:artist:6dROiL44pIQZVNZ6Bc0OJO">
+      <name>Pleasure P</name>
+    </artist>
+    <id type="isrc">USAT21001185</id>
+    <album href="spotify:album:48yibbG4sXZFMIaETgLNpQ">
+      <name>Change Positions</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AL AT BA BE BG BV BY CH CZ DE DK EE ES FI FO FR GB GF GI GL GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM TR UA US VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>240.413000</length>
+    <popularity>0.42516</popularity>
+  </track>
+  <track href="spotify:track:0klZBp9qlyF3chkmTMzYx4">
+    <name>Bad Blood</name>
+    <artist href="spotify:artist:31DXlldabwPHwu6dYevuzK">
+      <name>Simian Mobile Disco</name>
+    </artist>
+    <id type="isrc">GBDNH0900121</id>
+    <album href="spotify:album:0cLZaahA8kJdfQHwD21hME">
+      <name>Temporary Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>238.786000</length>
+    <popularity>0.40952</popularity>
+  </track>
+  <track href="spotify:track:0ahRDzkKq0KEi7FRoHb0qk">
+    <name>U Already Know</name>
+    <artist href="spotify:artist:7urq0VfqxEYEEiZUkebXT4">
+      <name>112</name>
+    </artist>
+    <id type="isrc">USDJ20500129</id>
+    <album href="spotify:album:3gY1qUrGzKNQnorPC9Lu72">
+      <name>Pleasure &amp; Pain</name>
+      <released>2005</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>198.880000</length>
+    <popularity>0.40934</popularity>
+  </track>
+  <track href="spotify:track:3Wkho6tesTh4aF80T6evqH">
+    <name>In Every Dream Home A Heartache</name>
+    <artist href="spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo">
+      <name>Roxy Music</name>
+    </artist>
+    <id type="isrc">GBAAA9900169</id>
+    <album href="spotify:album:6gKMWnGptVs6yT2MgCxw29">
+      <name>For Your Pleasure</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>329.466000</length>
+    <popularity>0.42106</popularity>
+  </track>
+  <track href="spotify:track:4WOaqWNbVKI9zwbPulGSFV">
+    <name>For Your Pleasure</name>
+    <artist href="spotify:artist:3fhOTtm0LBJ3Ojn4hIljLo">
+      <name>Roxy Music</name>
+    </artist>
+    <id type="isrc">GBAAA9900172</id>
+    <album href="spotify:album:6gKMWnGptVs6yT2MgCxw29">
+      <name>For Your Pleasure</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>411.373000</length>
+    <popularity>0.36157</popularity>
+  </track>
+  <track href="spotify:track:4bcno5BsdNy5VvgnWf8E9r">
+    <name>It's Been A Pleasure (feat. Drake)</name>
+    <artist href="spotify:artist:3TVXtAsR1Inumwj472S9r4">
+      <name>Drake</name>
+    </artist>
+    <id type="isrc">USZXT1024248</id>
+    <album href="spotify:album:35qt6h9eCOExQAtTa7FxhD">
+      <name>Trill O.G.</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>345.930000</length>
+    <popularity>0.43150</popularity>
+  </track>
+  <track href="spotify:track:1skHxFSzOg9egezPtnzd0I">
+    <name>Pleasure</name>
+    <artist href="spotify:artist:1jofoMyHK5JjLIESpm991n">
+      <name>Pure X</name>
+    </artist>
+    <id type="isrc">CA47K1171709</id>
+    <album href="spotify:album:5qWKLFr6wbMTmvDiRoL4Ph">
+      <name>Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>92.280000</length>
+    <popularity>0.32174</popularity>
+  </track>
+  <track href="spotify:track:7DMVMXYEhzbyDWIBpDPzAy">
+    <name>Phenomenon (feat. Paul Wall)</name>
+    <artist href="spotify:artist:22WwE0lMmGx4AJeyUfT7rh">
+      <name>Brokencyde</name>
+    </artist>
+    <artist href="spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg">
+      <name>Paul Wall</name>
+    </artist>
+    <id type="isrc">USS1N1133203</id>
+    <album href="spotify:album:1sJr82KYcLNMbpNWlhWbdO">
+      <name>Guilty Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>242.773000</length>
+    <popularity>0.39922</popularity>
+  </track>
+  <track href="spotify:track:10IFJClpJATVLwjpiJoRQF">
+    <name>Sho-Time (Pleasure Thang)</name>
+    <artist href="spotify:artist:3aQeKQSyrW4qWr35idm0cy">
+      <name>T-Pain</name>
+    </artist>
+    <id type="isrc">USRC11101031</id>
+    <album href="spotify:album:6M6A2PSmFQUXSGoG5oKj50">
+      <name>rEVOLVEr</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>228.640000</length>
+    <popularity>0.41211</popularity>
+  </track>
+  <track href="spotify:track:6VQdsmvGbmLhZ20CGKsfMt">
+    <name>The Pleasure Principle</name>
+    <artist href="spotify:artist:4qwGe91Bz9K2T8jXTZ815W">
+      <name>Janet Jackson</name>
+    </artist>
+    <id type="isrc">USUM70732209</id>
+    <album href="spotify:album:72AKESbPVJH2P2lq7i1owF">
+      <name>Number Ones</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>254.000000</length>
+    <popularity>0.39870</popularity>
+  </track>
+  <track href="spotify:track:36x65X0ZMjfd3OGwOEnxLi">
+    <name>Heavy Air</name>
+    <artist href="spotify:artist:1jofoMyHK5JjLIESpm991n">
+      <name>Pure X</name>
+    </artist>
+    <id type="isrc">CA47K1171701</id>
+    <album href="spotify:album:5qWKLFr6wbMTmvDiRoL4Ph">
+      <name>Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>225.493000</length>
+    <popularity>0.37795</popularity>
+  </track>
+  <track href="spotify:track:5ljuFC6jKtsjse7QnTRFVG">
+    <name>Pleasure Slave</name>
+    <artist href="spotify:artist:4CzUzn54Cp9TQr6a7JIlMZ">
+      <name>Manowar</name>
+    </artist>
+    <id type="isrc">USAT20102850</id>
+    <album href="spotify:album:7lZkD6ntnGAhmWowltbOYB">
+      <name>Kings Of Metal</name>
+      <released>1988</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>338.000000</length>
+    <popularity>0.38739</popularity>
+  </track>
+  <track href="spotify:track:2YlVvP4h4Y0NhD2ZiRTypQ">
+    <name>¿Por Que Te Demoras?</name>
+    <artist href="spotify:artist:7qlh1IM1XMeQXA9ukp59au">
+      <name>Plan B</name>
+    </artist>
+    <id type="isrc">USB271000118</id>
+    <album href="spotify:album:5uja4ElM6i6neeFTAa4Itw">
+      <name>House of Pleasure</name>
+      <released>2010</released>
+      <availability>
+        <territories>AR BO CL PY US UY</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>190.493000</length>
+    <popularity>0.41162</popularity>
+  </track>
+  <track href="spotify:track:4JxPvh0XnW9nrVdVd41hqR">
+    <name>The Pleasure Victim</name>
+    <artist href="spotify:artist:67tgMwUfnmqzYsNAtnP6YJ">
+      <name>Groove Armada</name>
+    </artist>
+    <id type="isrc">GB62G1100002</id>
+    <album href="spotify:album:11qOVBDJHjCukLg5YtAbMV">
+      <name>Red Light Trax_Vol.1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>318.524000</length>
+    <popularity>0.39796</popularity>
+  </track>
+  <track href="spotify:track:7M3rAUNLKBl5RaUzmcMSXh">
+    <name>U Mad Bro?</name>
+    <artist href="spotify:artist:22WwE0lMmGx4AJeyUfT7rh">
+      <name>Brokencyde</name>
+    </artist>
+    <id type="isrc">USS1N1133212</id>
+    <album href="spotify:album:1sJr82KYcLNMbpNWlhWbdO">
+      <name>Guilty Pleasure</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>199.013000</length>
+    <popularity>0.39639</popularity>
+  </track>
+  <track href="spotify:track:6RNMDRea13Qtg7Kp8Qfjvi">
+    <name>Hair</name>
+    <artist href="spotify:artist:2ddxtfC0oS8LoktXUHE7YL">
+      <name>Ashley Tisdale</name>
+    </artist>
+    <id type="isrc">USWB10901623</id>
+    <album href="spotify:album:4iKfmBKXuzPROAXBuZKAVM">
+      <name>Guilty Pleasure</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>190.266000</length>
+    <popularity>0.39482</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:21:58 GMT -->

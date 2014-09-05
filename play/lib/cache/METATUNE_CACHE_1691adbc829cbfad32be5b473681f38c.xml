@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Hanne Hukkelberg"/>
+  <opensearch:totalResults>160</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:65DiOf0CDNbtFIDPM4XVJe">
+    <name>Tenke på en venn</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOUM70600523</id>
+    <album href="spotify:album:4CLy9bqcomutoGY0txQSa3">
+      <name>Jul i svingen</name>
+      <released>2006</released>
+      <availability>
+        <territories>AU BE CH DE DK EE ES FI FR GB HK IE IS LT LU LV MY NL NO NZ PT SE SG</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>197.106000</length>
+    <popularity>0.3</popularity>
+  </track>
+  <track href="spotify:track:21O6rSKYFkt3z7mNZn8y4g">
+    <name>Do Not As I Do</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401050</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>224.218000</length>
+    <popularity>0.3</popularity>
+  </track>
+  <track href="spotify:track:1IKh90M6LuhZNxihtF40Ek">
+    <name>Lucy - Soundtrack</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">USWD10834189</id>
+    <album href="spotify:album:1qssrxyRzUH12WqAiidiBC">
+      <name>The Chronicles of Narnia: Prince Caspian</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>271.410000</length>
+    <popularity>0.28</popularity>
+  </track>
+  <track href="spotify:track:7kuZIxpbDNEpqBRSOi3dRW">
+    <name>Break My Body</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602070</id>
+    <album href="spotify:album:4dMq7OvtFCuQGk4YLBrzJU">
+      <name>Rykestrasse 68</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>245.945000</length>
+    <popularity>0.28</popularity>
+  </track>
+  <track href="spotify:track:7chjiENndSmR28Bxq5QC5L">
+    <name>Cast Anchor</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0301011</id>
+    <album href="spotify:album:2tk008RE6FPitI7T72iSIy">
+      <name>Juke Joint II</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>245.892000</length>
+    <popularity>0.27</popularity>
+  </track>
+  <track href="spotify:track:7zTJRjCepIny0oj8H3C69k">
+    <name>Cheater's Armoury</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602010</id>
+    <album href="spotify:album:4dMq7OvtFCuQGk4YLBrzJU">
+      <name>Rykestrasse 68</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>219.826000</length>
+    <popularity>0.24</popularity>
+  </track>
+  <track href="spotify:track:77Pyn78NerdGAcfPqEU8Cc">
+    <name>Featherbrain</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104010</id>
+    <album href="spotify:album:5iCfqopM9YD1M9OkCcIXoE">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI HK IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>275.776000</length>
+    <popularity>0.22</popularity>
+  </track>
+  <track href="spotify:track:1DxWTgFxHhz5yJGUY4XZHn">
+    <name>Berlin</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602020</id>
+    <album href="spotify:album:4dMq7OvtFCuQGk4YLBrzJU">
+      <name>Rykestrasse 68</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>313.608000</length>
+    <popularity>0.22</popularity>
+  </track>
+  <track href="spotify:track:3ThI9W4YH2miwqeKpZ9BGC">
+    <name>The Pirate</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602030</id>
+    <album href="spotify:album:4dMq7OvtFCuQGk4YLBrzJU">
+      <name>Rykestrasse 68</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>276.404000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:5WFDiStOazGSzV0gvI9JPo">
+    <name>Do Not As I Do</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401050</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>225.238000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:3QtkqsfXSVL1gXpphArEK8">
+    <name>Noah</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104020</id>
+    <album href="spotify:album:5iCfqopM9YD1M9OkCcIXoE">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI HK IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>271.175000</length>
+    <popularity>0.18</popularity>
+  </track>
+  <track href="spotify:track:5nMRuX9NOlneMZyVTAzZMu">
+    <name>My Devils</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104050</id>
+    <album href="spotify:album:5iCfqopM9YD1M9OkCcIXoE">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI HK IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>242.415000</length>
+    <popularity>0.18</popularity>
+  </track>
+  <track href="spotify:track:5VHOcyOQI1u8GVFWQ8yjvL">
+    <name>The Northwind</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602050</id>
+    <album href="spotify:album:4dMq7OvtFCuQGk4YLBrzJU">
+      <name>Rykestrasse 68</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>240.663000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:7ImuyYr8LJak53nZ3jLFs5">
+    <name>Featherbrain</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104010</id>
+    <album href="spotify:album:4BDYrLFRWuwhlUEcrptbBY">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>275.776000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:5WsHkevbOSB0xU5XgwbOLS">
+    <name>Ticking Bomb</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602080</id>
+    <album href="spotify:album:4dMq7OvtFCuQGk4YLBrzJU">
+      <name>Rykestrasse 68</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>298.888000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:6KL6ItLfASKgGR9WMA3QOy">
+    <name>I Sing You</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104030</id>
+    <album href="spotify:album:5iCfqopM9YD1M9OkCcIXoE">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI HK IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>185.210000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:3UdccUqIucbrx7CH5ROq7w">
+    <name>My Devils</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104050</id>
+    <album href="spotify:album:4BDYrLFRWuwhlUEcrptbBY">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>242.415000</length>
+    <popularity>0.15</popularity>
+  </track>
+  <track href="spotify:track:3Y0WQNWiDtyafdYboJamDa">
+    <name>Blood From A Stone</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901020</id>
+    <album href="spotify:album:5AEgpRg1DpU95gdQu5SLJN">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>237.787000</length>
+    <popularity>0.15</popularity>
+  </track>
+  <track href="spotify:track:0x76DABPma1kinX5NwFoSS">
+    <name>Fourteen</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602040</id>
+    <album href="spotify:album:4dMq7OvtFCuQGk4YLBrzJU">
+      <name>Rykestrasse 68</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>250.572000</length>
+    <popularity>0.15</popularity>
+  </track>
+  <track href="spotify:track:07jJfvgRnJSQAvg1SUSowV">
+    <name>Blood From A Stone</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901020</id>
+    <album href="spotify:album:5IKjb2gofpchEHY2DOjtMM">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>236.376000</length>
+    <popularity>0.15</popularity>
+  </track>
+  <track href="spotify:track:5ZcMivEbLvMuGHf9dhmYuM">
+    <name>Obelix</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602060</id>
+    <album href="spotify:album:4dMq7OvtFCuQGk4YLBrzJU">
+      <name>Rykestrasse 68</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>189.864000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:13PBIYuimvzSViVNL81UvM">
+    <name>Pynt</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602090</id>
+    <album href="spotify:album:4dMq7OvtFCuQGk4YLBrzJU">
+      <name>Rykestrasse 68</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>318.052000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:1bSMCQn0EfEftL22hB6tm3">
+    <name>Searching</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401020</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>185.262000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:5k3Cm95DtMpUrs3bWPyoFM">
+    <name>Boble</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401130</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>260.168000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:38oIQorqOk2GKZori5zuiU">
+    <name>Erik</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104100</id>
+    <album href="spotify:album:4BDYrLFRWuwhlUEcrptbBY">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>257.841000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:464nOOCTuWb9UeAIZ2hHqe">
+    <name>The Time and I and What We Make</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104080</id>
+    <album href="spotify:album:5iCfqopM9YD1M9OkCcIXoE">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI HK IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>269.998000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:20ERBhamEo0GVAULwk8Rr2">
+    <name>Midnight Sun Dream</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901010</id>
+    <album href="spotify:album:5AEgpRg1DpU95gdQu5SLJN">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>244.899000</length>
+    <popularity>0.13</popularity>
+  </track>
+  <track href="spotify:track:5WgEPl7XILVBjlGjmOYfna">
+    <name>Hoist Anchor</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401010</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>41.831000</length>
+    <popularity>0.13</popularity>
+  </track>
+  <track href="spotify:track:73q1UYLZYg7D1svvCYtlOm">
+    <name>Little Girl</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401030</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>175.798000</length>
+    <popularity>0.13</popularity>
+  </track>
+  <track href="spotify:track:46L4VDmVgv39ZXZnHsWyoP">
+    <name>Cast Anchor</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0301011</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>256.194000</length>
+    <popularity>0.13</popularity>
+  </track>
+  <track href="spotify:track:0argE9OSNyNBaesGhEh1PW">
+    <name>Balloon</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401060</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>193.550000</length>
+    <popularity>0.13</popularity>
+  </track>
+  <track href="spotify:track:0sCSZ4KnFvjSLUslUonvtt">
+    <name>Noah</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104020</id>
+    <album href="spotify:album:4BDYrLFRWuwhlUEcrptbBY">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>271.175000</length>
+    <popularity>0.13</popularity>
+  </track>
+  <track href="spotify:track:1pjufpVsORVtrOASoxx8Hz">
+    <name>The Bigger Me</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104040</id>
+    <album href="spotify:album:5iCfqopM9YD1M9OkCcIXoE">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI HK IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>168.660000</length>
+    <popularity>0.13</popularity>
+  </track>
+  <track href="spotify:track:7bhSsFubRKnYZuyItOAF5F">
+    <name>Too Good to be Good</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104060</id>
+    <album href="spotify:album:5iCfqopM9YD1M9OkCcIXoE">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI HK IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>472.621000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:77Xd05zZ3geNxgWGWSgMMA">
+    <name>No Mascara Tears</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901040</id>
+    <album href="spotify:album:5AEgpRg1DpU95gdQu5SLJN">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>184.217000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:3lk4wudXIyjVFLcQpedFDn">
+    <name>Searching</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401020</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>185.262000</length>
+    <popularity>0.12</popularity>
+  </track>
+  <track href="spotify:track:5IPmybaGmxLCmJiUtpgytb">
+    <name>Midnight Sun Dream</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901010</id>
+    <album href="spotify:album:5IKjb2gofpchEHY2DOjtMM">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>246.468000</length>
+    <popularity>0.12</popularity>
+  </track>
+  <track href="spotify:track:0VShE3qMMAAGwGrt3F05hx">
+    <name>Displaced</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401070</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>125.600000</length>
+    <popularity>0.12</popularity>
+  </track>
+  <track href="spotify:track:1h6MF0JNsWyCGevU5rF9AD">
+    <name>Ease</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0301021</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>250.572000</length>
+    <popularity>0.12</popularity>
+  </track>
+  <track href="spotify:track:4uIxPE2stwLSZmO13tuEUp">
+    <name>I Sing You</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104030</id>
+    <album href="spotify:album:4BDYrLFRWuwhlUEcrptbBY">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>185.210000</length>
+    <popularity>0.12</popularity>
+  </track>
+  <track href="spotify:track:3hxq2CyqXLQkda80txE5QC">
+    <name>You Gonna</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104090</id>
+    <album href="spotify:album:5iCfqopM9YD1M9OkCcIXoE">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI HK IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>227.539000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:7k4R6aJ2jeOYtsiqzQbDYR">
+    <name>Erik</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104100</id>
+    <album href="spotify:album:5iCfqopM9YD1M9OkCcIXoE">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI HK IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>257.841000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:16v9LlcMaIx3JGfKg3jrts">
+    <name>Lucy</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">USWD10834189</id>
+    <album href="spotify:album:4CgnFtfTSfL8l7JMgz0tBk">
+      <name>Prince Caspian Flees</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU HK MY NZ SG</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>271.410000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:5Pt1THdlVuHkeMxjU930Ya">
+    <name>Bandy Riddles</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901030</id>
+    <album href="spotify:album:5AEgpRg1DpU95gdQu5SLJN">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>265.240000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:3QQo0QI5uIXGHHTBu4yvJx">
+    <name>Seventeen</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901050</id>
+    <album href="spotify:album:5AEgpRg1DpU95gdQu5SLJN">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>252.324000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:3Y909MRv8EvIlIeVdGyTYD">
+    <name>Boble</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401130</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>290.182000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:3f6bteScxq4k8kmjcbqC9W">
+    <name>Bandy Riddles</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901030</id>
+    <album href="spotify:album:5IKjb2gofpchEHY2DOjtMM">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>265.240000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:1q7ykSlzNWQ7JMVSzPnCY6">
+    <name>No Mascara Tears</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901040</id>
+    <album href="spotify:album:5IKjb2gofpchEHY2DOjtMM">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>184.112000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:54ViwDaZb3xEpfEngpef7G">
+    <name>A Cheater's Armoury</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602010</id>
+    <album href="spotify:album:1ueKSN9yVIs8CWuK6Nyp75">
+      <name>A Cheaters Armoury</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>216.662000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:6a8QMBzQk85DIpunQpFsgX">
+    <name>Ease</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0301021</id>
+    <album href="spotify:album:3tDMOJUJM9pavqkUdO2q9D">
+      <name>Check The Water</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>27</track-number>
+    <length>251.148000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:79XBrk2bRBIbWvhycH5HNR">
+    <name>Conversion</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401090</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>143.352000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:49dTZvrFUUJLilbhKukWf3">
+    <name>True Love</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401100</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>203.825000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:3LzmUY59itA1UfDkF7jCvi">
+    <name>Kæft</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401110</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>68.473000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:3fy80WryYUaM5Bs9OxCUt6">
+    <name>Words &amp; A Piece Of Paper</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401120</id>
+    <album href="spotify:album:7gZVpydI8WlcA8r17sdULc">
+      <name>Little Things</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>236.480000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:1JIzQPOLeurafKAMltszVl">
+    <name>A Cheater's Armoury</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602010</id>
+    <album href="spotify:album:0j5mvJHX8o5NwBMCxLoAfp">
+      <name>Rykestrasse 68</name>
+      <released>2007</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>219.826000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:3hnfAPFlMNaAyYfVTTOrGC">
+    <name>The Bigger Me</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104040</id>
+    <album href="spotify:album:4BDYrLFRWuwhlUEcrptbBY">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>168.660000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:5IugVlNCB0OgidhARwnpLN">
+    <name>Too Good to be Good</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104060</id>
+    <album href="spotify:album:4BDYrLFRWuwhlUEcrptbBY">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>472.621000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:0jPpWYqR6kGYrvNKJg9Iek">
+    <name>The Time and I and What We Make</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104080</id>
+    <album href="spotify:album:4BDYrLFRWuwhlUEcrptbBY">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>269.998000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:28jTf2C6tOWhbAuvG0LaLx">
+    <name>You Gonna</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104090</id>
+    <album href="spotify:album:4BDYrLFRWuwhlUEcrptbBY">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>227.539000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:03HJwS6HVhRuwHp7vO9QPL">
+    <name>SMS</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104070</id>
+    <album href="spotify:album:5iCfqopM9YD1M9OkCcIXoE">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI HK IS IT LI LT LU LV MC MX MY NL NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>73.650000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:085wxXnpwuoIA4XHQ4wi0x">
+    <name>Ease - In C mix</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">GBCKB0500601</id>
+    <album href="spotify:album:579GAJCCTHQkFk0HDCaDRm">
+      <name>Born Again: Collected Sutekh Remixes 1999-2005</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>275.122000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:77KtOWWuVvhPZ6x2TkEfBc">
+    <name>Salt Of The Earth</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901060</id>
+    <album href="spotify:album:5AEgpRg1DpU95gdQu5SLJN">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>274.443000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:2sUn6608nIlaM39DgN9uor">
+    <name>No One But Yourself</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901070</id>
+    <album href="spotify:album:5AEgpRg1DpU95gdQu5SLJN">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>247.069000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:2GGe5f1XUwwKQIU6Ygy20b">
+    <name>Do Not As I Do</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401050</id>
+    <album href="spotify:album:4rFZphqFIF6fbXvN441ydI">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>227.251000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:0xcbStXMlCHOH3nYqMOYjG">
+    <name>In Here/ Out There</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901080</id>
+    <album href="spotify:album:5AEgpRg1DpU95gdQu5SLJN">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>262.756000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:5gFznskrzhQCqMVY9KyQO2">
+    <name>Crack</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901090</id>
+    <album href="spotify:album:5AEgpRg1DpU95gdQu5SLJN">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>295.960000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:1OudW7yTRGLUqa2sdy0rWO">
+    <name>Bygd Til By</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901100</id>
+    <album href="spotify:album:5AEgpRg1DpU95gdQu5SLJN">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>425.403000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:46QBOA3VopPUuhUwGcH2iU">
+    <name>Hoist Anchor</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401010</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>41.831000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:6CcKw2cEPW0mdQvNSXRkVw">
+    <name>Little Girl</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401030</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>176.791000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:6BXFweERjNpfquppNG0N7h">
+    <name>Balloon</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401060</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>193.550000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:5LTVzeP2Sad1VEAMRbKbvl">
+    <name>Conversion</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401090</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>143.352000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:4xvxR9KSZzZi00h76sfHQY">
+    <name>Seventeen</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901050</id>
+    <album href="spotify:album:5IKjb2gofpchEHY2DOjtMM">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>251.984000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:1RnTSP76meW17iC7nYrTJR">
+    <name>Salt Of The Earth</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901060</id>
+    <album href="spotify:album:5IKjb2gofpchEHY2DOjtMM">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>274.756000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:43BmOOIlJX18p4TwmjBOxO">
+    <name>No One But Yours</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901070</id>
+    <album href="spotify:album:5IKjb2gofpchEHY2DOjtMM">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>246.991000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:6LlTb6Yqxa7yW7xyJC25Rh">
+    <name>In Here/Out There</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901080</id>
+    <album href="spotify:album:5IKjb2gofpchEHY2DOjtMM">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>262.521000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:1jKLpp9Sv6vX6tUekknBGl">
+    <name>Bygd Til By</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901100</id>
+    <album href="spotify:album:5IKjb2gofpchEHY2DOjtMM">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>443.548000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:78Kt7YwznSEsfgYbSXsxjF">
+    <name>Blood From A Stone</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901020</id>
+    <album href="spotify:album:1PT0TEBzlgaOaQsIUGUMYB">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>237.787000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:3xeeMBCFinoAyzYsIscEp0">
+    <name>SMS</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104070</id>
+    <album href="spotify:album:4BDYrLFRWuwhlUEcrptbBY">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>73.650000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:5OGVb4bxP0omANA3ssxcBR">
+    <name>Featherbrain</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104010</id>
+    <album href="spotify:album:0yeohRKMzTkGUnGiS6LBQA">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>GB IE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>275.776000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:6xnMvWrPRdDdJTlN5as1zQ">
+    <name>Noah</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104020</id>
+    <album href="spotify:album:0yeohRKMzTkGUnGiS6LBQA">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>GB IE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>271.175000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:2siVD9UNrtmncrl1itPQSB">
+    <name>My Devils</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR1104050</id>
+    <album href="spotify:album:0yeohRKMzTkGUnGiS6LBQA">
+      <name>Featherbrain</name>
+      <released>2012</released>
+      <availability>
+        <territories>GB IE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>242.415000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:7EzssrglzlczLPVZp5aiwa">
+    <name>Balloon</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">USI4R0608094</id>
+    <album href="spotify:album:2TKMkQVXa2YehfFbDextHN">
+      <name>Various Artists: Clubtransmediale.07</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>218.832000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:5nHNJcdSEQGUoFYyvsUFjh">
+    <name>Salt Of The Earth</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901060</id>
+    <album href="spotify:album:5fxdR3akTjgUm1OmZZ1g9t">
+      <name>Samleplate for et oljefritt Lofoten, Vesterålen og Senja</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>275.044000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:44AtpI86dRYd9F8bWHYbZw">
+    <name>Berlin</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602020</id>
+    <album href="spotify:album:0wJ3ShjlecZDKM1H1AwWcj">
+      <name>Rykestrasse 68</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>313.608000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:3MeHccnuImvqRBTCdfyA5y">
+    <name>A Cheater's Armoury - (Album Version)</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0602010</id>
+    <album href="spotify:album:0wJ3ShjlecZDKM1H1AwWcj">
+      <name>Rykestrasse 68</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>219.826000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:4P44pHcK6G7iRCNX1JPFe1">
+    <name>Searching</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401020</id>
+    <album href="spotify:album:4rFZphqFIF6fbXvN441ydI">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>187.276000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:1HSAAy7TCGC0mGpGjnpW0w">
+    <name>Little Girl</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401030</id>
+    <album href="spotify:album:4rFZphqFIF6fbXvN441ydI">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>178.805000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:60Nwf7KQSykkw2q8SbENXM">
+    <name>Cast Anchor</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0301011</id>
+    <album href="spotify:album:4rFZphqFIF6fbXvN441ydI">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>258.233000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:4CSu7gLIudwM5GHf5TUH7E">
+    <name>Ease</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0301021</id>
+    <album href="spotify:album:4rFZphqFIF6fbXvN441ydI">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>255.566000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:5kchQilo5Mq0a31o7gWTUR">
+    <name>Words &amp; A Piece Of Paper</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401120</id>
+    <album href="spotify:album:4rFZphqFIF6fbXvN441ydI">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE EE ES FR GB IE IT LI LT LU LV MC MX NL NZ PL PT</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>239.487000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:2qJKSJGLA2qZTNGV9cDvU7">
+    <name>Cast Anchor</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0301011</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>256.194000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:2VQzkxYVkVLPHqaD0mgek9">
+    <name>Displaced</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401070</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>125.600000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:22iAeLoZZJmSRsRTiSYfWA">
+    <name>Ease</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0301021</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>253.553000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:7fxhviL1xaowvenIipo3B6">
+    <name>True Love</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401100</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>203.825000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:4jVywCgMXMkYFzbyZft3o0">
+    <name>Kæft</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401110</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>68.473000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:7m0zdFSlYhI18ZWjO6pqrF">
+    <name>Words &amp; A Piece Of Paper</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0401040</id>
+    <album href="spotify:album:45B0nJISrYM2XDjqeOZ2SP">
+      <name>Little Things</name>
+      <released>2007</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>237.474000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:30bcqmOnT8uM1Y1oIWMr7B">
+    <name>Blood From A Stone</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901020</id>
+    <album href="spotify:album:6sclEj5m8ww78wQjJpBrd3">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>236.376000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:1JxnWdzVbk6Rz0hiDme9V3">
+    <name>Crack</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901090</id>
+    <album href="spotify:album:5IKjb2gofpchEHY2DOjtMM">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>295.594000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:28vFZfeb330yNcLZuZI7IS">
+    <name>Midnight Sun Dream</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901010</id>
+    <album href="spotify:album:1PT0TEBzlgaOaQsIUGUMYB">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>244.899000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:53yZdkjQKoJ6CNUdmzT6Rk">
+    <name>Bandy Riddles</name>
+    <artist href="spotify:artist:0pGsKU60aKi7MK8rQENGwZ">
+      <name>Hanne Hukkelberg</name>
+    </artist>
+    <id type="isrc">NOPRR0901030</id>
+    <album href="spotify:album:1PT0TEBzlgaOaQsIUGUMYB">
+      <name>Blood From A Stone</name>
+      <released>2009</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>265.240000</length>
+    <popularity>0.07</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Vary: Accept-Encoding -->

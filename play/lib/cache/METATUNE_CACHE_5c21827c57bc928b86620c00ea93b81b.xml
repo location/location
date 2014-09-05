@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Tom Waits"/>
+  <opensearch:totalResults>937</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:2QHpEv381Xb177J3dpNRF5">
+    <name>Hold On</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301103</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>333.626000</length>
+    <popularity>0.62463</popularity>
+  </track>
+  <track href="spotify:track:0XaOUPgRpgSQkDZwh6bnZR">
+    <name>Long Way Home</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620119</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>190.200000</length>
+    <popularity>0.58774</popularity>
+  </track>
+  <track href="spotify:track:1jbjqnT7KfQZkqmkZaw3CQ">
+    <name>Little Drop of Poison</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620121</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>189.293000</length>
+    <popularity>0.58185</popularity>
+  </track>
+  <track href="spotify:track:0oYo06FRCBtrE3kWrDcsDF">
+    <name>I Hope That I Don't Fall In Love With You</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801089</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>234.533000</length>
+    <popularity>0.57634</popularity>
+  </track>
+  <track href="spotify:track:0MYAOepwUOBfsToBdGiq6c">
+    <name>Alice</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50307101</id>
+    <album href="spotify:album:3aCcCV2rJYUZZoyht7VaES">
+      <name>Alice</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>268.600000</length>
+    <popularity>0.57248</popularity>
+  </track>
+  <track href="spotify:track:4wen2WPenYguBIcF5vSXEc">
+    <name>Bad As Me</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP41122008</id>
+    <album href="spotify:album:7EhpK2nODFm0LJy750vFQR">
+      <name>Bad As Me</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>190.280000</length>
+    <popularity>0.55424</popularity>
+  </track>
+  <track href="spotify:track:0G88Ve6aPyirSWjAw2hngC">
+    <name>Tom Traubert's Blues</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10170288</id>
+    <album href="spotify:album:4xrUp1M9XmKHFzRRyXIx71">
+      <name>Used Songs</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>395.066000</length>
+    <popularity>0.50045</popularity>
+  </track>
+  <track href="spotify:track:6YaCKTSSA6WuaSzyCSJVCg">
+    <name>Martha</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801094</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>270.733000</length>
+    <popularity>0.53388</popularity>
+  </track>
+  <track href="spotify:track:0nNdfyMVJbSX2DWko3mvcK">
+    <name>Ol' 55</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801088</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>237.466000</length>
+    <popularity>0.52853</popularity>
+  </track>
+  <track href="spotify:track:1ITYzkGMX6tIntGZCz8AVE">
+    <name>All The World Is Green</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50306104</id>
+    <album href="spotify:album:54f3YTneehnnG9d5DKXO9Q">
+      <name>Blood Money</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>276.533000</length>
+    <popularity>0.51358</popularity>
+  </track>
+  <track href="spotify:track:5iZJe5diT7P00lgmYOWQu7">
+    <name>Chocolate Jesus</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301112</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>235.040000</length>
+    <popularity>0.49972</popularity>
+  </track>
+  <track href="spotify:track:0ZKwuHVTC2My6lX48r912g">
+    <name>Downtown Train</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USIR28500398</id>
+    <album href="spotify:album:4PVqDVjitmZwRx8JIs3HJP">
+      <name>Rain Dogs</name>
+      <released>1985</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>230.000000</length>
+    <popularity>0.49334</popularity>
+  </track>
+  <track href="spotify:track:5wLD5Y8r8iWa1mCqmo7Lqs">
+    <name>Big In Japan</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301101</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>245.160000</length>
+    <popularity>0.49285</popularity>
+  </track>
+  <track href="spotify:track:5gJKXB6p4FtcxhRNG497AX">
+    <name>Ice Cream Man</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801097</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>185.640000</length>
+    <popularity>0.49274</popularity>
+  </track>
+  <track href="spotify:track:4qsylX982myq1oyePHxru0">
+    <name>God's Away On Business</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50306105</id>
+    <album href="spotify:album:54f3YTneehnnG9d5DKXO9Q">
+      <name>Blood Money</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>179.666000</length>
+    <popularity>0.49095</popularity>
+  </track>
+  <track href="spotify:track:6S6GKrZxlJJef04Qyege3w">
+    <name>Lie To Me</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620101</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>130.013000</length>
+    <popularity>0.48390</popularity>
+  </track>
+  <track href="spotify:track:0TEQtww0aAXaFdsICYD5GO">
+    <name>Hound Dog</name>
+    <artist href="spotify:artist:6bR0cgMtkCVpm0I5yrDNzO">
+      <name>Big Mama Thornton</name>
+    </artist>
+    <id type="isrc">USA560824515</id>
+    <album href="spotify:album:2ROgLzF6STv7OYRgkxUAHz">
+      <name>Tom Waits' Jukebox</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AL AM AN AO AQ AR AS AT AU AX AZ BA BD BE BF BG BH BI BJ BN BO BR BT BV BW BY CC CD CF CG CH CI CK CL CM CN CO CV CX CY CZ DE DJ DK DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GE GF GG GH GI GM GN GQ GR GS GU GW GY HK HM HR HU ID IE IL IM IN IO IQ IR IS IT JE JO JP KE KG KH KI KM KP KR KW KZ LA LB LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MR MT MU MV MW MY MZ NA NC NE NF NG NL NO NP NR NU NZ OM PE PF PG PH PK PL PN PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SY SZ TD TF TG TH TJ TK TL TM TN TO TR TV TW TZ UA UG UY UZ VA VE VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>170.573000</length>
+    <popularity>0.48131</popularity>
+  </track>
+  <track href="spotify:track:0NSqx9opttLYXVXsNvlC42">
+    <name>Emotional Weather Report (Live)</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USA371566880</id>
+    <album href="spotify:album:0uopZYSufHE185jq8xrNH2">
+      <name>'Round Midnight (Live)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AM AT AX BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GE GG GI GR HR HU IE IL IM IS IT JE KG KZ LI LT LU LV MC MD MK MT NL NO PL PT RE RO RU SE SH SI SJ SK SM TJ TM TR UA UZ VA YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>383.227000</length>
+    <popularity>0.47885</popularity>
+  </track>
+  <track href="spotify:track:1v1TYlmS69wzrK53Ww3u1v">
+    <name>Old Shoes [&amp; Picture Postcards]</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801091</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>220.733000</length>
+    <popularity>0.47881</popularity>
+  </track>
+  <track href="spotify:track:6GJTapmJmNA9bZLyow7XPh">
+    <name>Come On Up To The House</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301116</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>276.893000</length>
+    <popularity>0.47360</popularity>
+  </track>
+  <track href="spotify:track:4RjvJrkTa7gYOvk5tm94YW">
+    <name>Way Down in the Hole</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USNO10750890</id>
+    <album href="spotify:album:6BPxysOQGjfI9pwei72Njl">
+      <name>...and all the pieces matter, Five Years of Music from The Wire</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>33</track-number>
+    <length>104.480000</length>
+    <popularity>0.47142</popularity>
+  </track>
+  <track href="spotify:track:2pTgW5CF6wCla06se7AYlV">
+    <name>Virginia Avenue</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801090</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>190.333000</length>
+    <popularity>0.47134</popularity>
+  </track>
+  <track href="spotify:track:3drC9OSaAzKQWGx3hqoxJS">
+    <name>Hoist That Rag</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40412102</id>
+    <album href="spotify:album:4UjTXVetCzQO5ILcbQZL5c">
+      <name>Real Gone</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>260.440000</length>
+    <popularity>0.46938</popularity>
+  </track>
+  <track href="spotify:track:26aVIsCTdw0SFSGIs6IPgH">
+    <name>Back In The Crowd</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP41122007</id>
+    <album href="spotify:album:0EstHiaJwrEQrUOpCuuIbn">
+      <name>Back In The Crowd</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>169.346000</length>
+    <popularity>0.46723</popularity>
+  </track>
+  <track href="spotify:track:6CmPfPRU24u5cXyinbeDXI">
+    <name>Christmas Card From A Hooker In Minneapolis</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10170320</id>
+    <album href="spotify:album:4xrUp1M9XmKHFzRRyXIx71">
+      <name>Used Songs</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>271.200000</length>
+    <popularity>0.46689</popularity>
+  </track>
+  <track href="spotify:track:7bjFwBrDbaafJRwqYpodD7">
+    <name>Lucinda / Ain' Goin' Down To The Well No Mo'</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40909004</id>
+    <album href="spotify:album:1dsfWaagwrP9rzDt1sjkPD">
+      <name>Glitter And Doom Live</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>336.960000</length>
+    <popularity>0.46670</popularity>
+  </track>
+  <track href="spotify:track:6eA8tiQtLtov3Km1XtqQy2">
+    <name>Midnight Lullaby</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801092</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>206.866000</length>
+    <popularity>0.46494</popularity>
+  </track>
+  <track href="spotify:track:6yshtDWTn9ZP4m3ATFNJSi">
+    <name>Closing Time</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801100</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>260.640000</length>
+    <popularity>0.46475</popularity>
+  </track>
+  <track href="spotify:track:5W0EPGhSsZFAQS8YrzM7X1">
+    <name>Rosie</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801095</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>243.333000</length>
+    <popularity>0.46441</popularity>
+  </track>
+  <track href="spotify:track:2XEV84BJY8IIuyJRIhoDMJ">
+    <name>You Can Never Hold Back Spring</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620118</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>146.786000</length>
+    <popularity>0.46412</popularity>
+  </track>
+  <track href="spotify:track:1Zz0A3B4DON5XggbJm2Mjv">
+    <name>The Heart Of Saturday Night</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801184</id>
+    <album href="spotify:album:7MLzdbFViVmpQdnNmxQXoE">
+      <name>The Heart Of Saturday Night</name>
+      <released>1974</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>233.093000</length>
+    <popularity>0.46123</popularity>
+  </track>
+  <track href="spotify:track:6EMDXkOXTAmvRr2J7csamu">
+    <name>San Diego Serenade</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801180</id>
+    <album href="spotify:album:7MLzdbFViVmpQdnNmxQXoE">
+      <name>The Heart Of Saturday Night</name>
+      <released>1974</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>210.026000</length>
+    <popularity>0.46094</popularity>
+  </track>
+  <track href="spotify:track:5ivSHTEm3TQ4K5M1LPrhIj">
+    <name>Jersey Girl</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10170336</id>
+    <album href="spotify:album:4xrUp1M9XmKHFzRRyXIx71">
+      <name>Used Songs</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>310.506000</length>
+    <popularity>0.45888</popularity>
+  </track>
+  <track href="spotify:track:23X3UiWmkM09Ug2heM6z38">
+    <name>New Coat Of Paint</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801179</id>
+    <album href="spotify:album:7MLzdbFViVmpQdnNmxQXoE">
+      <name>The Heart Of Saturday Night</name>
+      <released>1974</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>202.973000</length>
+    <popularity>0.45861</popularity>
+  </track>
+  <track href="spotify:track:2RQzF4leVgCOw5lahAOd2N">
+    <name>Misery Is The River Of The World</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50306101</id>
+    <album href="spotify:album:54f3YTneehnnG9d5DKXO9Q">
+      <name>Blood Money</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>265.093000</length>
+    <popularity>0.45738</popularity>
+  </track>
+  <track href="spotify:track:7sN5Idj91hp1bEAU1jiRGD">
+    <name>Sea Of Love</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620114</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>223.266000</length>
+    <popularity>0.45699</popularity>
+  </track>
+  <track href="spotify:track:6xUQ7YN3cuDWWVeIolFlhb">
+    <name>Grapefruit Moon</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801099</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>290.400000</length>
+    <popularity>0.45390</popularity>
+  </track>
+  <track href="spotify:track:7jPTdhy82ipcWYVwCnIkiX">
+    <name>Lonely</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801096</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>192.800000</length>
+    <popularity>0.45300</popularity>
+  </track>
+  <track href="spotify:track:6EXAtmZIWDHx454pPsD2ZE">
+    <name>Take It With Me</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301115</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>264.933000</length>
+    <popularity>0.45149</popularity>
+  </track>
+  <track href="spotify:track:52ahnWFRB6TxmbqlwdBPXO">
+    <name>Little Trip To Heaven [On The Wings Of Your Love]</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801098</id>
+    <album href="spotify:album:4ENah6iWByAVrxQS7uiF87">
+      <name>Closing Time</name>
+      <released>1973</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>218.093000</length>
+    <popularity>0.44976</popularity>
+  </track>
+  <track href="spotify:track:0kdUKMdZzXzUxwpQyOdLCG">
+    <name>House Where Nobody Lives</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301105</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>254.266000</length>
+    <popularity>0.44602</popularity>
+  </track>
+  <track href="spotify:track:7MotTmyL8ZsFIxFt9MDtGv">
+    <name>Tom Traubert's Blues [Four Sheets To The Wind In Copenhagen]</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801137</id>
+    <album href="spotify:album:6w4iHE8FlMASJVepo3bAJW">
+      <name>Small Change</name>
+      <released>1976</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>399.066000</length>
+    <popularity>0.42629</popularity>
+  </track>
+  <track href="spotify:track:65x5fIP2WExgPjoKP7MaVI">
+    <name>LowDown</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620102</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>255.253000</length>
+    <popularity>0.44495</popularity>
+  </track>
+  <track href="spotify:track:5Y9cxflFglSZvAYywkmBHG">
+    <name>Walk Away</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620113</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>163.786000</length>
+    <popularity>0.44434</popularity>
+  </track>
+  <track href="spotify:track:2muwepeY2ECOoDaDPy6maN">
+    <name>Get Behind The Mule</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301104</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>412.440000</length>
+    <popularity>0.44408</popularity>
+  </track>
+  <track href="spotify:track:2ieunylttUdrVab4bZfXGi">
+    <name>Cold Water</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301106</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>323.026000</length>
+    <popularity>0.44166</popularity>
+  </track>
+  <track href="spotify:track:3NhRTjBpAxmS86Bfnhkcmy">
+    <name>No One Knows I'm Gone</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50307104</id>
+    <album href="spotify:album:3aCcCV2rJYUZZoyht7VaES">
+      <name>Alice</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>102.266000</length>
+    <popularity>0.44061</popularity>
+  </track>
+  <track href="spotify:track:5x855DoTwBCD1nEGvAbOMr">
+    <name>2:19</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620103</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>302.320000</length>
+    <popularity>0.44044</popularity>
+  </track>
+  <track href="spotify:track:41aAcaJvyqp3f4RZFm1e0s">
+    <name>Flowers Grave</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50307103</id>
+    <album href="spotify:album:3aCcCV2rJYUZZoyht7VaES">
+      <name>Alice</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>208.800000</length>
+    <popularity>0.43958</popularity>
+  </track>
+  <track href="spotify:track:6rSrUVSDB5765sSh8M1yOX">
+    <name>Bottom of the World</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620105</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>342.826000</length>
+    <popularity>0.43938</popularity>
+  </track>
+  <track href="spotify:track:7p08t7u47sAJRgq9VAzRDd">
+    <name>The Piano Has Been Drinking [Not Me]</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801141</id>
+    <album href="spotify:album:6w4iHE8FlMASJVepo3bAJW">
+      <name>Small Change</name>
+      <released>1976</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>220.026000</length>
+    <popularity>0.43759</popularity>
+  </track>
+  <track href="spotify:track:7G48JpUGZ4OlDufBnVOY1p">
+    <name>Road to Peace</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620110</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>437.426000</length>
+    <popularity>0.43573</popularity>
+  </track>
+  <track href="spotify:track:3eo72k87jxVY8zoRefxkpy">
+    <name>Jockey Full Of Bourbon</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USIR28500396</id>
+    <album href="spotify:album:4PVqDVjitmZwRx8JIs3HJP">
+      <name>Rain Dogs</name>
+      <released>1985</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>166.040000</length>
+    <popularity>0.43483</popularity>
+  </track>
+  <track href="spotify:track:5e9Yuclc1ntgDkcyEZvgYR">
+    <name>Dead And Lovely</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40412108</id>
+    <album href="spotify:album:4UjTXVetCzQO5ILcbQZL5c">
+      <name>Real Gone</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>340.706000</length>
+    <popularity>0.43469</popularity>
+  </track>
+  <track href="spotify:track:22PVozLrVWE1YKll6QFnZ1">
+    <name>What's He Building In There</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301108</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>200.266000</length>
+    <popularity>0.43443</popularity>
+  </track>
+  <track href="spotify:track:0PBlTLnjBIHfPv1auzZkss">
+    <name>Everything You Can Think</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50307102</id>
+    <album href="spotify:album:3aCcCV2rJYUZZoyht7VaES">
+      <name>Alice</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>190.200000</length>
+    <popularity>0.43362</popularity>
+  </track>
+  <track href="spotify:track:1OLcXIKhNetPaY2mVKy1Ww">
+    <name>Poor Edward</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50307106</id>
+    <album href="spotify:album:3aCcCV2rJYUZZoyht7VaES">
+      <name>Alice</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>222.600000</length>
+    <popularity>0.43211</popularity>
+  </track>
+  <track href="spotify:track:0XxelXFxUP8lgm8aq6bXHe">
+    <name>Fish in the Jailhouse</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620104</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>262.160000</length>
+    <popularity>0.43128</popularity>
+  </track>
+  <track href="spotify:track:1LTizCdapZotfz7kNYg81a">
+    <name>Singapore</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40909005</id>
+    <album href="spotify:album:1dsfWaagwrP9rzDt1sjkPD">
+      <name>Glitter And Doom Live</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>299.733000</length>
+    <popularity>0.43104</popularity>
+  </track>
+  <track href="spotify:track:2ym2jlgCtdb3z5r0HHsMFZ">
+    <name>Picture In A Frame</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301111</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>219.933000</length>
+    <popularity>0.43070</popularity>
+  </track>
+  <track href="spotify:track:1UQfMZ9AIW38YBrcgUpwkP">
+    <name>Heartattack And Vine</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10170332</id>
+    <album href="spotify:album:4xrUp1M9XmKHFzRRyXIx71">
+      <name>Used Songs</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>282.960000</length>
+    <popularity>0.43037</popularity>
+  </track>
+  <track href="spotify:track:69l2QqadhnCNtTafM3HAdZ">
+    <name>I'm Still Here</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50307112</id>
+    <album href="spotify:album:3aCcCV2rJYUZZoyht7VaES">
+      <name>Alice</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>109.466000</length>
+    <popularity>0.42936</popularity>
+  </track>
+  <track href="spotify:track:4OjmYo0VKbO7NlYSZd1QQo">
+    <name>Blue Valentines</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801087</id>
+    <album href="spotify:album:5INzei5Yo63AfuLU2P4lQj">
+      <name>Blue Valentine</name>
+      <released>1978</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>350.066000</length>
+    <popularity>0.42934</popularity>
+  </track>
+  <track href="spotify:track:50U1vziJX1xGyDOq2c69t5">
+    <name>In The Neighbourhood</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USIR20080234</id>
+    <album href="spotify:album:1JXGJdo7Go4D2fipqXwt4q">
+      <name>Swordfishtrombones</name>
+      <released>1983</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>187.333000</length>
+    <popularity>0.42869</popularity>
+  </track>
+  <track href="spotify:track:2ruGAw5TPQFZeVzVmKlkwA">
+    <name>Make It Rain</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40412114</id>
+    <album href="spotify:album:4UjTXVetCzQO5ILcbQZL5c">
+      <name>Real Gone</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>219.773000</length>
+    <popularity>0.42631</popularity>
+  </track>
+  <track href="spotify:track:5nBVGeL1sj4F1MdWx6cMVW">
+    <name>Lucinda</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620106</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>292.573000</length>
+    <popularity>0.42598</popularity>
+  </track>
+  <track href="spotify:track:4j6J4FK0fbAAnsUmKJFSTs">
+    <name>Clap Hands</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USIR28500395</id>
+    <album href="spotify:album:4PVqDVjitmZwRx8JIs3HJP">
+      <name>Rain Dogs</name>
+      <released>1985</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>226.666000</length>
+    <popularity>0.42506</popularity>
+  </track>
+  <track href="spotify:track:4km5ciw3tnpi3jRW6jMH0w">
+    <name>Green Grass</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40412111</id>
+    <album href="spotify:album:4UjTXVetCzQO5ILcbQZL5c">
+      <name>Real Gone</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>193.600000</length>
+    <popularity>0.42423</popularity>
+  </track>
+  <track href="spotify:track:0vLvZMjbIyO4HEL6XFOr5l">
+    <name>Lowside Of The Road</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301102</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>179.440000</length>
+    <popularity>0.42393</popularity>
+  </track>
+  <track href="spotify:track:1EQiHUjC8UN9bbTiHDbxLi">
+    <name>Christmas Card From A Hooker In Minneapolis</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801077</id>
+    <album href="spotify:album:5INzei5Yo63AfuLU2P4lQj">
+      <name>Blue Valentine</name>
+      <released>1978</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>273.200000</length>
+    <popularity>0.42382</popularity>
+  </track>
+  <track href="spotify:track:76U5Ivrp3qBPknIOx7kOOm">
+    <name>Goin' Out West</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USIR29200010</id>
+    <album href="spotify:album:7tFBY9TpRd91Z2mrcmwH4n">
+      <name>Bone Machine</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>200.240000</length>
+    <popularity>0.42339</popularity>
+  </track>
+  <track href="spotify:track:0blbae3tDqjWxjvYEKhg7K">
+    <name>Somewhere</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801070</id>
+    <album href="spotify:album:5INzei5Yo63AfuLU2P4lQj">
+      <name>Blue Valentine</name>
+      <released>1978</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>232.506000</length>
+    <popularity>0.42287</popularity>
+  </track>
+  <track href="spotify:track:7aIqtsFr9Z1vUOn2W0XhHj">
+    <name>Cold Cold Ground</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USWWW0127605</id>
+    <album href="spotify:album:7Lt8jR2hZ2VyY9UpOsXeo0">
+      <name>Frank's Wild Years</name>
+      <released>1987</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>247.826000</length>
+    <popularity>0.42253</popularity>
+  </track>
+  <track href="spotify:track:5g8Ghg54Eis3N0NhR38xKA">
+    <name>Kommienezuspadt</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50307105</id>
+    <album href="spotify:album:3aCcCV2rJYUZZoyht7VaES">
+      <name>Alice</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>190.866000</length>
+    <popularity>0.42204</popularity>
+  </track>
+  <track href="spotify:track:6vRlK7Rznln6ICBx0pi6uQ">
+    <name>Widow''s Grove</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620120</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>298.680000</length>
+    <popularity>0.42135</popularity>
+  </track>
+  <track href="spotify:track:0KgEFupF6s1XGKxUkf49Zn">
+    <name>Singapore</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USIR28500397</id>
+    <album href="spotify:album:4PVqDVjitmZwRx8JIs3HJP">
+      <name>Rain Dogs</name>
+      <released>1985</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>164.533000</length>
+    <popularity>0.41989</popularity>
+  </track>
+  <track href="spotify:track:1lQD9KX5hgdBu52nDNKNWN">
+    <name>Eggs and Sausage Intro (Live)</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USA371566881</id>
+    <album href="spotify:album:0uopZYSufHE185jq8xrNH2">
+      <name>'Round Midnight (Live)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AM AT AX BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GE GG GI GR HR HU IE IL IM IS IT JE KG KZ LI LT LU LV MC MD MK MT NL NO PL PT RE RO RU SE SH SI SJ SK SM TJ TM TR UA UZ VA YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>350.493000</length>
+    <popularity>0.41983</popularity>
+  </track>
+  <track href="spotify:track:2aIYfmuaK1oHgrYsoSq6T6">
+    <name>Lullaby</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50306108</id>
+    <album href="spotify:album:54f3YTneehnnG9d5DKXO9Q">
+      <name>Blood Money</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>129.360000</length>
+    <popularity>0.41978</popularity>
+  </track>
+  <track href="spotify:track:5o3B9mDoHYyA4mLTwA3JBv">
+    <name>Table Top Joe</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50307107</id>
+    <album href="spotify:album:3aCcCV2rJYUZZoyht7VaES">
+      <name>Alice</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>254.066000</length>
+    <popularity>0.41881</popularity>
+  </track>
+  <track href="spotify:track:4uiwsHNdTaEfc0XJs6ynll">
+    <name>Never Let Go</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620125</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>193.680000</length>
+    <popularity>0.41871</popularity>
+  </track>
+  <track href="spotify:track:73OQdYTA6f6eFvdQpmv9go">
+    <name>Shiver Me Timbers</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801182</id>
+    <album href="spotify:album:7MLzdbFViVmpQdnNmxQXoE">
+      <name>The Heart Of Saturday Night</name>
+      <released>1974</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>266.560000</length>
+    <popularity>0.41700</popularity>
+  </track>
+  <track href="spotify:track:6tRPi8oVkGZ6mdRw8fCu40">
+    <name>Fumblin' With The Blues</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801185</id>
+    <album href="spotify:album:7MLzdbFViVmpQdnNmxQXoE">
+      <name>The Heart Of Saturday Night</name>
+      <released>1974</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>182.800000</length>
+    <popularity>0.41679</popularity>
+  </track>
+  <track href="spotify:track:5B9aI9tGFVaqZUfPEkKDkM">
+    <name>Please Call Me, Baby</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801186</id>
+    <album href="spotify:album:7MLzdbFViVmpQdnNmxQXoE">
+      <name>The Heart Of Saturday Night</name>
+      <released>1974</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>265.733000</length>
+    <popularity>0.41553</popularity>
+  </track>
+  <track href="spotify:track:7M9BT26DAgCpbNmn9V28MS">
+    <name>Rain Dogs</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USIR20080214</id>
+    <album href="spotify:album:4PVqDVjitmZwRx8JIs3HJP">
+      <name>Rain Dogs</name>
+      <released>1985</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>175.933000</length>
+    <popularity>0.41529</popularity>
+  </track>
+  <track href="spotify:track:5XnX29lDdQFg5yMBdyxwS1">
+    <name>Pony</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301107</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>272.600000</length>
+    <popularity>0.41514</popularity>
+  </track>
+  <track href="spotify:track:0mHYjGxsS3g5rg71K8Lva1">
+    <name>Tango Till They're Sore</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USIR20080210</id>
+    <album href="spotify:album:4PVqDVjitmZwRx8JIs3HJP">
+      <name>Rain Dogs</name>
+      <released>1985</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>171.409000</length>
+    <popularity>0.41423</popularity>
+  </track>
+  <track href="spotify:track:2dsA1Zsb08jHJwe78yBIEE">
+    <name>Starving In The Belly Of The Whale</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50306109</id>
+    <album href="spotify:album:54f3YTneehnnG9d5DKXO9Q">
+      <name>Blood Money</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>221.973000</length>
+    <popularity>0.41262</popularity>
+  </track>
+  <track href="spotify:track:05cpatXYctFtnugaORfwM9">
+    <name>Time</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USIR28500399</id>
+    <album href="spotify:album:4PVqDVjitmZwRx8JIs3HJP">
+      <name>Rain Dogs</name>
+      <released>1985</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>234.800000</length>
+    <popularity>0.41254</popularity>
+  </track>
+  <track href="spotify:track:0ZOId8JogVvgjBMOlKpyiA">
+    <name>Heartattack And Vine</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801110</id>
+    <album href="spotify:album:2sSoLLxo3rLSirqUnlyalo">
+      <name>Heartattack And Vine</name>
+      <released>1980</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>290.000000</length>
+    <popularity>0.41245</popularity>
+  </track>
+  <track href="spotify:track:1SreJUUazHljmvra5AW3JH">
+    <name>Georgia Lee</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50301113</id>
+    <album href="spotify:album:3HbiZpp2QwPU1Y4eweEStW">
+      <name>Mule Variations</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>264.360000</length>
+    <popularity>0.41170</popularity>
+  </track>
+  <track href="spotify:track:0Lyv6vbouGM91ADUnALkST">
+    <name>Coney Island Baby</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50306103</id>
+    <album href="spotify:album:54f3YTneehnnG9d5DKXO9Q">
+      <name>Blood Money</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>242.866000</length>
+    <popularity>0.41004</popularity>
+  </track>
+  <track href="spotify:track:1CXj27BClhzxnD06iFcHb9">
+    <name>Drunk On The Moon</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801188</id>
+    <album href="spotify:album:7MLzdbFViVmpQdnNmxQXoE">
+      <name>The Heart Of Saturday Night</name>
+      <released>1974</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>306.866000</length>
+    <popularity>0.40964</popularity>
+  </track>
+  <track href="spotify:track:1a8XSOokgFRORZtoLs7oJU">
+    <name>Everything Goes To Hell</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50306102</id>
+    <album href="spotify:album:54f3YTneehnnG9d5DKXO9Q">
+      <name>Blood Money</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>225.906000</length>
+    <popularity>0.40741</popularity>
+  </track>
+  <track href="spotify:track:6kKNRg1wqPDmI8VKqaqjME">
+    <name>Ol' '55</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEA20100019</id>
+    <album href="spotify:album:4xrUp1M9XmKHFzRRyXIx71">
+      <name>Used Songs</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>237.000000</length>
+    <popularity>0.40735</popularity>
+  </track>
+  <track href="spotify:track:3FsZ4L0JOH0h7DN2e19xIc">
+    <name>Semi Suite</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801181</id>
+    <album href="spotify:album:7MLzdbFViVmpQdnNmxQXoE">
+      <name>The Heart Of Saturday Night</name>
+      <released>1974</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>209.306000</length>
+    <popularity>0.40717</popularity>
+  </track>
+  <track href="spotify:track:3MEAwpDzHT3DoGdm8PRgop">
+    <name>Lost In The Harbour</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USAI50307108</id>
+    <album href="spotify:album:3aCcCV2rJYUZZoyht7VaES">
+      <name>Alice</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>225.266000</length>
+    <popularity>0.40696</popularity>
+  </track>
+  <track href="spotify:track:59pCogpFuIt1KH7MSqkujM">
+    <name>Ain''t Goin Down To The Well</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620107</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>148.120000</length>
+    <popularity>0.40659</popularity>
+  </track>
+  <track href="spotify:track:6p1UOEV19rGC6nyav8BeCw">
+    <name>Shiny Things</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40620122</id>
+    <album href="spotify:album:0eJrLBHOQdQ6zDHCsDLOwm">
+      <name>Orphans</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>140.333000</length>
+    <popularity>0.40647</popularity>
+  </track>
+  <track href="spotify:track:2ZtSiIkM5TTD6RzQieueae">
+    <name>Jersey Girl</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEE10801114</id>
+    <album href="spotify:album:2sSoLLxo3rLSirqUnlyalo">
+      <name>Heartattack And Vine</name>
+      <released>1980</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>311.733000</length>
+    <popularity>0.40618</popularity>
+  </track>
+  <track href="spotify:track:2Drf1xACftGxLEmKu0SckP">
+    <name>Get Behind The Mule</name>
+    <artist href="spotify:artist:7x83XhcMbOTl1UdYsPTuZM">
+      <name>Tom Waits</name>
+    </artist>
+    <id type="isrc">USEP40909006</id>
+    <album href="spotify:album:1dsfWaagwrP9rzDt1sjkPD">
+      <name>Glitter And Doom Live</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>385.680000</length>
+    <popularity>0.40614</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Thu, 23 Feb 2012 15:45:34 GMT -->

@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Fjorden Baby"/>
+  <opensearch:totalResults>40</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:6jQVX74lgy0wbOeZcwLRP8">
+    <name>Flyplass</name>
+    <artist href="spotify:artist:2eJz0fbC9ZqBL3mGWPBvI5">
+      <name>A-Laget</name>
+    </artist>
+    <artist href="spotify:artist:5ubaSU5WtlODcAlmtzgTX2">
+      <name>Fjorden Baby</name>
+    </artist>
+    <id type="isrc">NOMXY1201050</id>
+    <album href="spotify:album:6dPTXU0NlCRkVIyqLmVioW">
+      <name>Flyplass (feat. Fjorden Baby)</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>214.388000</length>
+    <popularity>0.43</popularity>
+  </track>
+  <track href="spotify:track:0fSyWSv7rIkZ0ZSJDcgBSk">
+    <name>Kagjørdunodåeh - Single Version</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOAAC1300224</id>
+    <album href="spotify:album:0R4wth1UHx2Xx9JjA4Acjw">
+      <name>Kagjørdunodåeh</name>
+      <released>2013</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>196.609000</length>
+    <popularity>0.45</popularity>
+  </track>
+  <track href="spotify:track:7GneckpIWbBDwgjLhTRYMn">
+    <name>Himmelen</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101120</id>
+    <album href="spotify:album:7jKrYijzfj40251lYpjuil">
+      <name>Himmelen</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>275.593000</length>
+    <popularity>0.41</popularity>
+  </track>
+  <track href="spotify:track:70yR85z9du9zEB5kazo3To">
+    <name>Karoline</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0803030</id>
+    <album href="spotify:album:7m98nNl3v0YpnZPETsoz5G">
+      <name>Fjorden Baby!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>155.797000</length>
+    <popularity>0.34</popularity>
+  </track>
+  <track href="spotify:track:5L0JmbdKqkWOCet4A4BGKe">
+    <name>Tingene</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOAAC1300048</id>
+    <album href="spotify:album:4xBxNEUZmh9j9Xc0yGKSAA">
+      <name>Tingene</name>
+      <released>2013</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>167.693000</length>
+    <popularity>0.38</popularity>
+  </track>
+  <track href="spotify:track:0rOZriTaUlPniCwaUMyQiF">
+    <name>Rasputin</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1203010</id>
+    <album href="spotify:album:5WWjKkS7gU5rOKcUukBH2i">
+      <name>Rasputin</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>239.173000</length>
+    <popularity>0.37</popularity>
+  </track>
+  <track href="spotify:track:5kB2LYIMg1cLxzFFIyTyYh">
+    <name>Rendezvous</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101040</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>162.673000</length>
+    <popularity>0.33</popularity>
+  </track>
+  <track href="spotify:track:6zU9ikAGUbGq9rt2JX5KFe">
+    <name>Nike Äir</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0803020</id>
+    <album href="spotify:album:7m98nNl3v0YpnZPETsoz5G">
+      <name>Fjorden Baby!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>258.154000</length>
+    <popularity>0.27</popularity>
+  </track>
+  <track href="spotify:track:02c2pbjCnaKwrEwhYdnPMu">
+    <name>Anorektisk Utopi</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0803060</id>
+    <album href="spotify:album:7m98nNl3v0YpnZPETsoz5G">
+      <name>Fjorden Baby!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>180.426000</length>
+    <popularity>0.25</popularity>
+  </track>
+  <track href="spotify:track:6tb4MuBCyMT96SlvSgxdB0">
+    <name>Hundre sanger (m/Wang fra Fjorden Baby)</name>
+    <artist href="spotify:artist:3f8ujTspJT6Voq6HYEv3i2">
+      <name>Lars Vaular</name>
+    </artist>
+    <artist href="spotify:artist:0HqNIZwtUtRM5FEuXrdZWf">
+      <name>Wang</name>
+    </artist>
+    <id type="isrc">NO2F00100404</id>
+    <album href="spotify:album:5NkXktckidLQzvCjSvvDiR">
+      <name>Du betyr meg</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>242.232000</length>
+    <popularity>0.33</popularity>
+  </track>
+  <track href="spotify:track:6XQXvbEGuLQjbOOyp04yBW">
+    <name>På Taket (feat. Fjorden Baby! &amp; Lars Vaular)</name>
+    <artist href="spotify:artist:13VwGEitoK8J0qjNjbgeTN">
+      <name>Flex</name>
+    </artist>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <artist href="spotify:artist:3f8ujTspJT6Voq6HYEv3i2">
+      <name>Lars Vaular</name>
+    </artist>
+    <id type="isrc">TCABM1381291</id>
+    <album href="spotify:album:6ZSFAVZ6NSehTiaWKBz9QU">
+      <name>På Taket EP</name>
+      <released>2013</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>232.271000</length>
+    <popularity>0.26</popularity>
+  </track>
+  <track href="spotify:track:5bw2QmJanDnaSzt9jc9QuD">
+    <name>Animalsk</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0803050</id>
+    <album href="spotify:album:7m98nNl3v0YpnZPETsoz5G">
+      <name>Fjorden Baby!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>307.281000</length>
+    <popularity>0.2</popularity>
+  </track>
+  <track href="spotify:track:1RONHM433xyHuRocKNX9Pf">
+    <name>Stepp Ut</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0803040</id>
+    <album href="spotify:album:7m98nNl3v0YpnZPETsoz5G">
+      <name>Fjorden Baby!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>149.104000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:3ecWwwxrs4AkxVqJdMjPgz">
+    <name>Himmelen</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101120</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>274.600000</length>
+    <popularity>0.24</popularity>
+  </track>
+  <track href="spotify:track:0iHicUTmNE3XE0tb16ttFg">
+    <name>Maskinen</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101020</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>175.641000</length>
+    <popularity>0.24</popularity>
+  </track>
+  <track href="spotify:track:5yRzOP5CQgjiHpYvgsvQIo">
+    <name>Som På TV</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101060</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>180.922000</length>
+    <popularity>0.24</popularity>
+  </track>
+  <track href="spotify:track:3FOQI1QedDhe5jkqtbuws2">
+    <name>Hüsker Dü</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0803070</id>
+    <album href="spotify:album:7m98nNl3v0YpnZPETsoz5G">
+      <name>Fjorden Baby!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>189.707000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:2gWE23JnR9LFY9XdoYYEBG">
+    <name>Intro</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0803010</id>
+    <album href="spotify:album:7m98nNl3v0YpnZPETsoz5G">
+      <name>Fjorden Baby!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>76.395000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:4ZzQ2aYCzGLuyzLTC04aGG">
+    <name>Pes</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0803080</id>
+    <album href="spotify:album:7m98nNl3v0YpnZPETsoz5G">
+      <name>Fjorden Baby!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>296.404000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:3AF3aEs90vewcjxUiTBw0n">
+    <name>Balladen om Mary Jane</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0803100</id>
+    <album href="spotify:album:7m98nNl3v0YpnZPETsoz5G">
+      <name>Fjorden Baby!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>371.806000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:676MZ1TJ1JtWmOvcsJ3bN3">
+    <name>Anarki &amp; Virvar</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101050</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>144.921000</length>
+    <popularity>0.21</popularity>
+  </track>
+  <track href="spotify:track:5DmcWykr1QZx10TRvpf6aP">
+    <name>Tunnelene</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101030</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>212.819000</length>
+    <popularity>0.21</popularity>
+  </track>
+  <track href="spotify:track:3QtfPSfsaxrNngRgMFKiRS">
+    <name>Radio</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0803090</id>
+    <album href="spotify:album:7m98nNl3v0YpnZPETsoz5G">
+      <name>Fjorden Baby!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>228.454000</length>
+    <popularity>0.15</popularity>
+  </track>
+  <track href="spotify:track:2y0S1dq4nirPm55Q7CIcIl">
+    <name>Du Spør For Mye</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101100</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>201.498000</length>
+    <popularity>0.2</popularity>
+  </track>
+  <track href="spotify:track:6MoRbSc9jylM1vNDogm4Mh">
+    <name>I Løp Av En By</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101070</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>258.233000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:22h1hmVV3cfD7LdaK7xmHi">
+    <name>Deigen</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101110</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>321.085000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:6xJMY3S5NSqspyBiYjCcfB">
+    <name>Linoleum (Intro)</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101010</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>106.880000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:2oMdNmTl9rLOjpqZLEdVdk">
+    <name>Nice Time City High</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101130</id>
+    <album href="spotify:album:5WWjKkS7gU5rOKcUukBH2i">
+      <name>Rasputin</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>177.419000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:6XGkfdot6Arzutm2AjWswG">
+    <name>Alarmer</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101080</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>134.777000</length>
+    <popularity>0.18</popularity>
+  </track>
+  <track href="spotify:track:1qa9r4QoOGE3Lwy8LW1dya">
+    <name>Montevideo</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101090</id>
+    <album href="spotify:album:6s31K4nQj1gnhJTWtFAu0v">
+      <name>Se Deg Rundt I Rommet</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>203.956000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:5I9WAJ9ZpmGXUo9evdzBg4">
+    <name>Karoline</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOMEG0801010</id>
+    <album href="spotify:album:564M7OFGrOmq9MXfDx8S5C">
+      <name>Opplett</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>156.712000</length>
+    <popularity>0.15</popularity>
+  </track>
+  <track href="spotify:track:346L83lMfXrxvvdFwaL8bP">
+    <name>Kommunikasjon</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOCDE0906030</id>
+    <album href="spotify:album:7GC9NngdMV12M4WgLDrX8Z">
+      <name>Bergensbølgene - Et Dykk I Bergens Pop Og Rockhistorie</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>224.872000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:3KusiQdlcSMbYx4oV4MlN6">
+    <name>Deigen</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101110</id>
+    <album href="spotify:album:73iRbELph6ZG1Mupasszd7">
+      <name>Deigen 12"</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>316.745000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:2kgjh2fu05IhtXiEYqa3Nj">
+    <name>Rendevouz RMX (Joddski)</name>
+    <artist href="spotify:artist:7GFSXnekQ5n6Z5ydtIXIkr">
+      <name>Joddski vs Fjorden Baby! vs Pop I</name>
+    </artist>
+    <id type="isrc">NO29A1104010</id>
+    <album href="spotify:album:2ChxuxVAsIrjgQD6sfb7OU">
+      <name>Rendevouz RMX</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>178.595000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:6U60ZmGy53TGzXaosjREiP">
+    <name>Deigen - Telephones Surdeig Mix</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101111</id>
+    <album href="spotify:album:73iRbELph6ZG1Mupasszd7">
+      <name>Deigen 12"</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>409.664000</length>
+    <popularity>0.1</popularity>
+  </track>
+  <track href="spotify:track:1hOwyNZHzIuX2FSvGJNDNm">
+    <name>Deigen - Telephones Surdeig Mix</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101111</id>
+    <album href="spotify:album:1U5LChJPHpmoQPvWzbiONo">
+      <name>Deigen (Telephones Surdeig Mix)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>410.161000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:4ZkqzUrTuJw487iWTUE7g0">
+    <name>Deigen - Thomas Eriksen remix</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101112</id>
+    <album href="spotify:album:73iRbELph6ZG1Mupasszd7">
+      <name>Deigen 12"</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>244.951000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:7HFD1A7fqKbzpo3DEiJtaf">
+    <name>Deigen - DD&amp;D Remix</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101113</id>
+    <album href="spotify:album:73iRbELph6ZG1Mupasszd7">
+      <name>Deigen 12"</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>292.744000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:6wtfRO2UJTeIhljPmFBDHG">
+    <name>Deigen - Skytebass Remix</name>
+    <artist href="spotify:artist:4cPf4ZBjuNF4fnfdlfy8hr">
+      <name>Fjorden Baby!</name>
+    </artist>
+    <id type="isrc">NOTUB1101114</id>
+    <album href="spotify:album:73iRbELph6ZG1Mupasszd7">
+      <name>Deigen 12"</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MY NL NO NZ PL PT SE SG</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>230.153000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:798LVyXwK2JvCoQyITCgrm">
+    <name>Rendevouz RMX (Dizzet)</name>
+    <artist href="spotify:artist:1c1gFdSD0jQ8DV2hKGd8oI">
+      <name>Dizzet vs Fjorden Baby! vs Pop I</name>
+    </artist>
+    <id type="isrc">NO29A1102160</id>
+    <album href="spotify:album:2ChxuxVAsIrjgQD6sfb7OU">
+      <name>Rendevouz RMX</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AT AU BE CA CH DE DK EE ES FI FR GB HK IE IS IT LI LT LU LV MC MX MY NL NO NZ PL PT SE SG US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>167.562000</length>
+    <popularity>0.02</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Vary: Accept-Encoding -->

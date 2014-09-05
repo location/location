@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Bolling &amp; Yo-Yo Ma"/>
+  <opensearch:totalResults>7</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:5318LdRm6mBZiWVcbVGKlB">
+    <name>Suite for Cello and Jazz Piano Trio: Baroque in Rhythm</name>
+    <artist href="spotify:artist:5ZmfqhY85r4AJQzy6YM8Dp">
+      <name>Claude Bolling;Yo-Yo Ma</name>
+    </artist>
+    <id type="isrc">USSM10019884</id>
+    <album href="spotify:album:0dXur3OpKCed4QA6lKzmMv">
+      <name>Bolling: Suite for Cello and Jazz Piano Trio (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>261.813000</length>
+    <popularity>0.34036</popularity>
+  </track>
+  <track href="spotify:track:6hLVaODH30oB90ItaQV0QM">
+    <name>Suite for Cello and Jazz Piano Trio: Concertante</name>
+    <artist href="spotify:artist:5ZmfqhY85r4AJQzy6YM8Dp">
+      <name>Claude Bolling;Yo-Yo Ma</name>
+    </artist>
+    <id type="isrc">USSM10019885</id>
+    <album href="spotify:album:0dXur3OpKCed4QA6lKzmMv">
+      <name>Bolling: Suite for Cello and Jazz Piano Trio (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>711.720000</length>
+    <popularity>0.31800</popularity>
+  </track>
+  <track href="spotify:track:4VjayHNTbVODyBgpEW6WnV">
+    <name>Suite for Cello and Jazz Piano Trio: Galop</name>
+    <artist href="spotify:artist:5ZmfqhY85r4AJQzy6YM8Dp">
+      <name>Claude Bolling;Yo-Yo Ma</name>
+    </artist>
+    <id type="isrc">USSM10019886</id>
+    <album href="spotify:album:0dXur3OpKCed4QA6lKzmMv">
+      <name>Bolling: Suite for Cello and Jazz Piano Trio (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>403.053000</length>
+    <popularity>0.30091</popularity>
+  </track>
+  <track href="spotify:track:7fddQ1T3TuNsnohEONa3LJ">
+    <name>Suite for Cello and Jazz Piano Trio: Ballade</name>
+    <artist href="spotify:artist:5ZmfqhY85r4AJQzy6YM8Dp">
+      <name>Claude Bolling;Yo-Yo Ma</name>
+    </artist>
+    <id type="isrc">USSM10019887</id>
+    <album href="spotify:album:0dXur3OpKCed4QA6lKzmMv">
+      <name>Bolling: Suite for Cello and Jazz Piano Trio (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>590.600000</length>
+    <popularity>0.29404</popularity>
+  </track>
+  <track href="spotify:track:3ZoxFe2Dby2U6k3bmV2xhm">
+    <name>Suite for Cello and Jazz Piano Trio: Romantique</name>
+    <artist href="spotify:artist:5ZmfqhY85r4AJQzy6YM8Dp">
+      <name>Claude Bolling;Yo-Yo Ma</name>
+    </artist>
+    <id type="isrc">USSM10019888</id>
+    <album href="spotify:album:0dXur3OpKCed4QA6lKzmMv">
+      <name>Bolling: Suite for Cello and Jazz Piano Trio (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>509.773000</length>
+    <popularity>0.28770</popularity>
+  </track>
+  <track href="spotify:track:2hFNOmS2pchhYRq0QrkIKr">
+    <name>Suite for Cello and Jazz Piano Trio: Cello Fan</name>
+    <artist href="spotify:artist:5ZmfqhY85r4AJQzy6YM8Dp">
+      <name>Claude Bolling;Yo-Yo Ma</name>
+    </artist>
+    <id type="isrc">USSM10019889</id>
+    <album href="spotify:album:0dXur3OpKCed4QA6lKzmMv">
+      <name>Bolling: Suite for Cello and Jazz Piano Trio (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>405.800000</length>
+    <popularity>0.27524</popularity>
+  </track>
+  <track href="spotify:track:4nXrGPqhLKyAy1BoIx7nQ2">
+    <name>Baroque in Rhythmn from Suite for Cello and Jazz Piano Trio - Instrumental</name>
+    <artist href="spotify:artist:5ZmfqhY85r4AJQzy6YM8Dp">
+      <name>Claude Bolling;Yo-Yo Ma</name>
+    </artist>
+    <id type="isrc">USSM10011420</id>
+    <album href="spotify:album:39g5RMWqtdGu786FdFtBAi">
+      <name>A Cocktail Party</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>261.760000</length>
+    <popularity>0.17221</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:25:28 GMT -->

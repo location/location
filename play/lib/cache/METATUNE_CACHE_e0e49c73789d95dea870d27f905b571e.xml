@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Yello"/>
+  <opensearch:totalResults>728</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:06jDGEBUuTpdJdEuColEE4">
+    <name>Oh Yeah</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078402050</id>
+    <album href="spotify:album:3EVfvNf6eB7IkBu1TWlcDi">
+      <name>Stella Delete</name>
+      <released>1985</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK EE FI FR GB HK HR HU IE IN IT LT LV NL NO NZ PL PT RU SE SG SK TH UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>184.933000</length>
+    <popularity>0.55508</popularity>
+  </track>
+  <track href="spotify:track:3WqVQlxFUJjw9qGNgg68n5">
+    <name>The Race</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500295</id>
+    <album href="spotify:album:3hGhEfH71xzn3VvCa4MiYx">
+      <name>Flag</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE EE ES FI FR HK HR HU IL IT LT LV MY NO PL PT RU SE SG SK TH TR TW UA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>489.693000</length>
+    <popularity>0.52456</popularity>
+  </track>
+  <track href="spotify:track:60wiIM2ZpYc4a3PV2rPm4a">
+    <name>The Expert</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70904512</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>174.666000</length>
+    <popularity>0.45266</popularity>
+  </track>
+  <track href="spotify:track:47ymIp6128XvJy8bViBjrp">
+    <name>Out Of Dawn</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70904514</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>190.893000</length>
+    <popularity>0.42660</popularity>
+  </track>
+  <track href="spotify:track:5b6NjLhTEqJqKzHmhmLOE1">
+    <name>The Race</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078805540</id>
+    <album href="spotify:album:7HURNK4MS4d2CxqouGgP5Z">
+      <name>Essential</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>201.293000</length>
+    <popularity>0.46535</popularity>
+  </track>
+  <track href="spotify:track:6OxpbulwDYVyGW7jYt1YMv">
+    <name>You Better Hide</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:4AQNXsZoonikabPFTWPnxF">
+      <name>Heidi Happy</name>
+    </artist>
+    <id type="isrc">DEUM70904513</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>248.000000</length>
+    <popularity>0.43978</popularity>
+  </track>
+  <track href="spotify:track:42SYMWISn7xUpTNPLw9V5E">
+    <name>Oh Yeah</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500258</id>
+    <album href="spotify:album:6FkITDf23iOvE8DRhrhWM0">
+      <name>Stella</name>
+      <released>2005</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>185.240000</length>
+    <popularity>0.43820</popularity>
+  </track>
+  <track href="spotify:track:3isHy4s9xHjaE6D5CdSH2p">
+    <name>Friday Smile</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70904518</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>210.933000</length>
+    <popularity>0.38434</popularity>
+  </track>
+  <track href="spotify:track:22IDvciNQWwaccK7l8G3OS">
+    <name>Blender</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102910</id>
+    <album href="spotify:album:7gV7u6G3xhy6xARS9SGy5A">
+      <name>Baby</name>
+      <released>1991</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IN IT LT LV NL NO NZ PL PT RU SE SG SK TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>278.066000</length>
+    <popularity>0.41978</popularity>
+  </track>
+  <track href="spotify:track:4iBh5Be6597AUoTiP1kek6">
+    <name>Bostich (Reflected)</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70904515</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>237.200000</length>
+    <popularity>0.37520</popularity>
+  </track>
+  <track href="spotify:track:0kcUsRDm7AiP3s9YA4dTT9">
+    <name>Part Love</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70904470</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>223.026000</length>
+    <popularity>0.36658</popularity>
+  </track>
+  <track href="spotify:track:1JW8IMkLpQ1OHUM4SLNjKb">
+    <name>Jungle Bill</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102850</id>
+    <album href="spotify:album:7gV7u6G3xhy6xARS9SGy5A">
+      <name>Baby</name>
+      <released>1991</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IN IT LT LV NL NO NZ PL PT RU SE SG SK TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>369.533000</length>
+    <popularity>0.40273</popularity>
+  </track>
+  <track href="spotify:track:24bK8PEMH8Kk5ipzpXGVES">
+    <name>Drive / Driven</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102890</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>256.506000</length>
+    <popularity>0.36209</popularity>
+  </track>
+  <track href="spotify:track:0KwRUK0Msyy6TbheL3LUee">
+    <name>Till Tomorrow</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:3Q4xYZ2ZuFaAsZZyjPIfc8">
+      <name>Till Brönner</name>
+    </artist>
+    <id type="isrc">DEUM70904516</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>256.400000</length>
+    <popularity>0.38334</popularity>
+  </track>
+  <track href="spotify:track:3hcyxNuS7Ppe7OmqLmToAG">
+    <name>Oh Yeah</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078402050</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>190.106000</length>
+    <popularity>0.35894</popularity>
+  </track>
+  <track href="spotify:track:3SPYCV8Nn7S8pnsGup9qsz">
+    <name>The Race</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078805540</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>201.293000</length>
+    <popularity>0.35116</popularity>
+  </track>
+  <track href="spotify:track:58Qm8jfrkaoygSgSECLg4j">
+    <name>Stay</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:4AQNXsZoonikabPFTWPnxF">
+      <name>Heidi Happy</name>
+    </artist>
+    <id type="isrc">DEUM70904522</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>182.800000</length>
+    <popularity>0.37486</popularity>
+  </track>
+  <track href="spotify:track:3xn1Ggm0X3EufcrKG5opJ3">
+    <name>Dialectical Kid</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM71017035</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>183.626000</length>
+    <popularity>0.34899</popularity>
+  </track>
+  <track href="spotify:track:46c7EIo8JUdK4orhAfSlil">
+    <name>Tangier Blue</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70904517</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>159.640000</length>
+    <popularity>0.34648</popularity>
+  </track>
+  <track href="spotify:track:1VRY88QXyZfAFt0dXxgtuA">
+    <name>Rubberbandman</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102840</id>
+    <album href="spotify:album:7gV7u6G3xhy6xARS9SGy5A">
+      <name>Baby</name>
+      <released>1991</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IN IT LT LV NL NO NZ PL PT RU SE SG SK TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>217.026000</length>
+    <popularity>0.38534</popularity>
+  </track>
+  <track href="spotify:track:0L0adB29zqDlyhXiBqovAH">
+    <name>Kiss In Blue</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:4AQNXsZoonikabPFTWPnxF">
+      <name>Heidi Happy</name>
+    </artist>
+    <id type="isrc">DEUM70904519</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>213.866000</length>
+    <popularity>0.36829</popularity>
+  </track>
+  <track href="spotify:track:2eaQ91SUn1dJA02UdVDLis">
+    <name>Distant Solution</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM71017077</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>230.706000</length>
+    <popularity>0.32938</popularity>
+  </track>
+  <track href="spotify:track:0mmp6NPinA7peasR0Cbu7m">
+    <name>Oh Yeah - 2009</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70905602</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>145.240000</length>
+    <popularity>0.32887</popularity>
+  </track>
+  <track href="spotify:track:2sg8M3D8e4mKilau3MgrDS">
+    <name>Fat Cry</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079404410</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>246.600000</length>
+    <popularity>0.32842</popularity>
+  </track>
+  <track href="spotify:track:7sE8LPfd3uPC9c7ebENrh0">
+    <name>Vicious Games</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078502040</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>262.466000</length>
+    <popularity>0.32766</popularity>
+  </track>
+  <track href="spotify:track:0CjDhDOrPJFKY89ZBYltCq">
+    <name>Oh Yeah</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078402050</id>
+    <album href="spotify:album:7HURNK4MS4d2CxqouGgP5Z">
+      <name>Essential</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>190.106000</length>
+    <popularity>0.36563</popularity>
+  </track>
+  <track href="spotify:track:0IuX8EM3E3VOolKahT4hC5">
+    <name>Trackless Deep</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70904521</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>199.400000</length>
+    <popularity>0.32536</popularity>
+  </track>
+  <track href="spotify:track:0BervgdFNj6MoAvT7TuYBS">
+    <name>Tears Run Dry</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:4VwvmwL98S8ab0iH74O4zP">
+      <name>Malia</name>
+    </artist>
+    <id type="isrc">DEUM71017036</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>219.240000</length>
+    <popularity>0.33571</popularity>
+  </track>
+  <track href="spotify:track:79QHShqvPctf0ZSDhSrXoS">
+    <name>Out Of Dawn</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70904514</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>191.093000</length>
+    <popularity>0.31748</popularity>
+  </track>
+  <track href="spotify:track:6Utj4yHG4fBHNVSex4ijP0">
+    <name>Liquid Lies - 2010</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:4AQNXsZoonikabPFTWPnxF">
+      <name>Heidi Happy</name>
+    </artist>
+    <id type="isrc">DEUM71017037</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>217.800000</length>
+    <popularity>0.33730</popularity>
+  </track>
+  <track href="spotify:track:1frkZtLEnq6llwZX1oZsf3">
+    <name>Soul On Ice</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEN120303318</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>190.426000</length>
+    <popularity>0.31108</popularity>
+  </track>
+  <track href="spotify:track:3UivZNpEc7TS9qnXEqi0wz">
+    <name>Junior B</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEN120303319</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>236.533000</length>
+    <popularity>0.30598</popularity>
+  </track>
+  <track href="spotify:track:0YWw50WPrH0Pj92xTGQuYc">
+    <name>Rubberbandman</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102840</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>220.493000</length>
+    <popularity>0.30439</popularity>
+  </track>
+  <track href="spotify:track:0QytGyb4SRx46nnmn2comt">
+    <name>Desire</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500256</id>
+    <album href="spotify:album:1Cd3Eq16PhCrTy8oqISRZR">
+      <name>Stella</name>
+      <released>1985</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>222.106000</length>
+    <popularity>0.34297</popularity>
+  </track>
+  <track href="spotify:track:5UQOBlrHEx9l5bRMGPCZR8">
+    <name>Vertical Vision</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:3Q4xYZ2ZuFaAsZZyjPIfc8">
+      <name>Till Brönner</name>
+    </artist>
+    <id type="isrc">DEUM70904520</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>259.640000</length>
+    <popularity>0.32054</popularity>
+  </track>
+  <track href="spotify:track:5gtb0jj3QuNjhkjMJH8iCf">
+    <name>Stay</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:4AQNXsZoonikabPFTWPnxF">
+      <name>Heidi Happy</name>
+    </artist>
+    <id type="isrc">DEUM70904522</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>181.773000</length>
+    <popularity>0.31987</popularity>
+  </track>
+  <track href="spotify:track:0LNAj1SovrW7KIgDh1aFKu">
+    <name>S.A.X.</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079404400</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>188.066000</length>
+    <popularity>0.29530</popularity>
+  </track>
+  <track href="spotify:track:2pdERBqF2x18ocBgrvneGl">
+    <name>Takla Makan</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:4tNu4aa5uCnB7nNN81jpYl">
+      <name>Dorothee Oberlinger</name>
+    </artist>
+    <id type="isrc">DEUM70904524</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>515.800000</length>
+    <popularity>0.31750</popularity>
+  </track>
+  <track href="spotify:track:4ZuI2z16IHl9AKqTxlyZWW">
+    <name>Divine</name>
+    <artist href="spotify:artist:2CKaDZ1Yo8YnWega9IeUzB">
+      <name>Booka Shade</name>
+    </artist>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">GBUM71001167</id>
+    <album href="spotify:album:5AiRMuBEv78ONs99EjFDwv">
+      <name>More!</name>
+      <released>2010</released>
+      <availability>
+        <territories>BE CZ DK EE ES FI FR GB HR HU IE IT LT LV NL NO PL PT RU SE SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>232.853000</length>
+    <popularity>0.38165</popularity>
+  </track>
+  <track href="spotify:track:0bDdAahtmk76ewpkOf4sTm">
+    <name>Of Course I'm Lying - Single Version</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078805760</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>233.266000</length>
+    <popularity>0.29128</popularity>
+  </track>
+  <track href="spotify:track:78YO0mYjenGQOX2gptQ3ns">
+    <name>Electric Frame</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:3Q4xYZ2ZuFaAsZZyjPIfc8">
+      <name>Till Brönner</name>
+    </artist>
+    <id type="isrc">DEUM70904523</id>
+    <album href="spotify:album:5AyRnijylUVJ88KUnsaaQj">
+      <name>Touch Yello</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CZ DE DK EE FI HR HU LT LV NL NO PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>215.866000</length>
+    <popularity>0.31138</popularity>
+  </track>
+  <track href="spotify:track:6xXlJTTw8LF0yEuOS9quiQ">
+    <name>Time Palace</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM71017078</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>221.026000</length>
+    <popularity>0.28369</popularity>
+  </track>
+  <track href="spotify:track:0iLwLI2t4G3bhnkWNSvxD0">
+    <name>Jingle Bells - Single Version</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079503260</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>178.506000</length>
+    <popularity>0.28284</popularity>
+  </track>
+  <track href="spotify:track:0qREFVxMiMqwtNzTN8mgBl">
+    <name>Junior B</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEN120303319</id>
+    <album href="spotify:album:7c3qHJpupg6CW1RC3ikk4G">
+      <name>The Eye</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>245.026000</length>
+    <popularity>0.32219</popularity>
+  </track>
+  <track href="spotify:track:006oZXt7hjGFfwJqWtN5X8">
+    <name>Tied Up - 7" Version</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078805210</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>213.600000</length>
+    <popularity>0.28104</popularity>
+  </track>
+  <track href="spotify:track:3kfwqSf6NO615M3V4n1MRr">
+    <name>Tangier Blue</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70904517</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>159.733000</length>
+    <popularity>0.28075</popularity>
+  </track>
+  <track href="spotify:track:3OeLheg8LXfjvUqX5t8Z99">
+    <name>Jungle Bill - Single Version</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEN120303644</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>221.266000</length>
+    <popularity>0.28047</popularity>
+  </track>
+  <track href="spotify:track:1xIarzqc97K3h9OxnWanwo">
+    <name>Lost Again</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078302090</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>260.866000</length>
+    <popularity>0.27939</popularity>
+  </track>
+  <track href="spotify:track:1cV5gMMjER3OBesRzjs9x8">
+    <name>Get On</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM71017080</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>202.000000</length>
+    <popularity>0.27795</popularity>
+  </track>
+  <track href="spotify:track:5xGBQvSLP4gPN1edPziiJu">
+    <name>Drive / Driven</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102890</id>
+    <album href="spotify:album:7HURNK4MS4d2CxqouGgP5Z">
+      <name>Essential</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>256.506000</length>
+    <popularity>0.31777</popularity>
+  </track>
+  <track href="spotify:track:4vPvQiA3GzAOVUwo3ivL1W">
+    <name>The Race</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078805540</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>198.533000</length>
+    <popularity>0.27422</popularity>
+  </track>
+  <track href="spotify:track:4HvpD8iyJHQR5E8IHWf9pV">
+    <name>Tiger Dust - The Virtual Concert</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM71017067</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>180.026000</length>
+    <popularity>0.27261</popularity>
+  </track>
+  <track href="spotify:track:5kkJ2SPotVyQYWAJPnHQxT">
+    <name>Of Course I 'm Lying</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500292</id>
+    <album href="spotify:album:3hGhEfH71xzn3VvCa4MiYx">
+      <name>Flag</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE EE ES FI FR HK HR HU IL IT LT LV MY NO PL PT RU SE SG SK TH TR TW UA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>357.786000</length>
+    <popularity>0.31142</popularity>
+  </track>
+  <track href="spotify:track:3FMK5A3IC2Evr6qBck5cyE">
+    <name>The Rhythm Divine</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:090VebphoycdEyH165iMqc">
+      <name>Shirley Bassey</name>
+    </artist>
+    <id type="isrc">DEF078702100</id>
+    <album href="spotify:album:7HURNK4MS4d2CxqouGgP5Z">
+      <name>Essential</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>263.733000</length>
+    <popularity>0.36103</popularity>
+  </track>
+  <track href="spotify:track:5titCb5GJK8kMLa0Le9BFC">
+    <name>Oh Yeah (Made Famous by Yello) (as heard in Ferris Bueller's Day Off)</name>
+    <artist href="spotify:artist:2UMje7avDl64RNUQQIkD5e">
+      <name>Ferris Bueller</name>
+    </artist>
+    <id type="isrc">USA371027290</id>
+    <album href="spotify:album:0s4Q3jf5bBFfEbSBVCKKkn">
+      <name>Oh Yeah (as heard in Ferris Bueller's Day Off)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>184.092000</length>
+    <popularity>0.39448</popularity>
+  </track>
+  <track href="spotify:track:0dfMZr3R0FdlcYR3UizWud">
+    <name>Star Breath</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM71017079</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>294.333000</length>
+    <popularity>0.26834</popularity>
+  </track>
+  <track href="spotify:track:6Ei3h0CUsBYOArakE5KGtl">
+    <name>Move Dance Be Born</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079404430</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>358.893000</length>
+    <popularity>0.26519</popularity>
+  </track>
+  <track href="spotify:track:5syvHQR9qoMExQyH5zMFbZ">
+    <name>Swing</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500241</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>206.000000</length>
+    <popularity>0.26409</popularity>
+  </track>
+  <track href="spotify:track:4NhgITbniGo8I8Hb7dBgG7">
+    <name>Bostich</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078202030</id>
+    <album href="spotify:album:7HURNK4MS4d2CxqouGgP5Z">
+      <name>Essential</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>277.533000</length>
+    <popularity>0.30251</popularity>
+  </track>
+  <track href="spotify:track:2sYNFVfcn1a8LKsLCIt4Go">
+    <name>Pinball Cha Cha</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078102240</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>217.400000</length>
+    <popularity>0.26277</popularity>
+  </track>
+  <track href="spotify:track:1kHUNd2p2DgTx3hwBwP1us">
+    <name>Rubberbandman</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102840</id>
+    <album href="spotify:album:7HURNK4MS4d2CxqouGgP5Z">
+      <name>Essential</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>220.493000</length>
+    <popularity>0.30018</popularity>
+  </track>
+  <track href="spotify:track:0hmrKyGPf0zyoeAar6CIsb">
+    <name>Tremendous Pain</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM71017084</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>212.573000</length>
+    <popularity>0.25960</popularity>
+  </track>
+  <track href="spotify:track:6tcU64RGTerCVuJ09FtFD9">
+    <name>Desire</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078402030</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>223.800000</length>
+    <popularity>0.25950</popularity>
+  </track>
+  <track href="spotify:track:68iuNPMT298tR0uKMDDo8y">
+    <name>Time Freeze</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM71017081</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>231.066000</length>
+    <popularity>0.25790</popularity>
+  </track>
+  <track href="spotify:track:7m1pgkkHExE7GHYrmZL03t">
+    <name>Call It Love</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078702078</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>247.400000</length>
+    <popularity>0.25781</popularity>
+  </track>
+  <track href="spotify:track:5D5PbPRY1VL7IkFTZWzOCI">
+    <name>Poom Shanka</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079404440</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>19</track-number>
+    <length>206.200000</length>
+    <popularity>0.25736</popularity>
+  </track>
+  <track href="spotify:track:3S9Y94Jmwj7ij0M6nEmUu0">
+    <name>Otto Di Catania</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500297</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>201.600000</length>
+    <popularity>0.25678</popularity>
+  </track>
+  <track href="spotify:track:2HAtBVftTONliZxjIipFgd">
+    <name>Solar Driftwood</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079604030</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>111.933000</length>
+    <popularity>0.25660</popularity>
+  </track>
+  <track href="spotify:track:7tEme7zOavWG0MmVlcujFS">
+    <name>I Love You</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500235</id>
+    <album href="spotify:album:2ttlMXOcX2dmqTJ0k96H43">
+      <name>You Gotta Say Yes To Antother Excess</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>194.826000</length>
+    <popularity>0.29612</popularity>
+  </track>
+  <track href="spotify:track:2h1M8srTsNkp9AknlFhRXx">
+    <name>Jungle Bill - Single Version</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEN120303644</id>
+    <album href="spotify:album:7HURNK4MS4d2CxqouGgP5Z">
+      <name>Essential</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>221.266000</length>
+    <popularity>0.29562</popularity>
+  </track>
+  <track href="spotify:track:4Rw7Kwco3pdhzpIK2OMpon">
+    <name>Vicious Games 2010</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:4AQNXsZoonikabPFTWPnxF">
+      <name>Heidi Happy</name>
+    </artist>
+    <id type="isrc">DEUM71016951</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>187.760000</length>
+    <popularity>0.27839</popularity>
+  </track>
+  <track href="spotify:track:4GIz70vhlRwsDkD7qVwHpU">
+    <name>The Race</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500295</id>
+    <album href="spotify:album:5BbLtFj4don2RHqfHk40TP">
+      <name>Flag</name>
+      <released>2005</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>489.693000</length>
+    <popularity>0.29384</popularity>
+  </track>
+  <track href="spotify:track:5CM7rTB2ZNARI1RghqyYYq">
+    <name>Ocean Club</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102860</id>
+    <album href="spotify:album:7gV7u6G3xhy6xARS9SGy5A">
+      <name>Baby</name>
+      <released>1991</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IN IT LT LV NL NO NZ PL PT RU SE SG SK TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>212.000000</length>
+    <popularity>0.29350</popularity>
+  </track>
+  <track href="spotify:track:2a1Pjo3VuIBLC55wf9i1I8">
+    <name>To The Sea - Radio Version / Northern Mix</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:7gPBpCNPTXfU4B6GJ17CwL">
+      <name>Stina Nordenstam</name>
+    </artist>
+    <id type="isrc">DEF079600400</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>231.226000</length>
+    <popularity>0.27585</popularity>
+  </track>
+  <track href="spotify:track:0Wju3jBVa4h8pq7w7euynN">
+    <name>Tied Up</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500291</id>
+    <album href="spotify:album:3hGhEfH71xzn3VvCa4MiYx">
+      <name>Flag</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE EE ES FI FR HK HR HU IL IT LT LV MY NO PL PT RU SE SG SK TH TR TW UA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>370.613000</length>
+    <popularity>0.28966</popularity>
+  </track>
+  <track href="spotify:track:1ZJI1nOM4gnTyfDvIStVut">
+    <name>I Love You - Remix</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078602480</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>250.373000</length>
+    <popularity>0.25011</popularity>
+  </track>
+  <track href="spotify:track:2nXcCQw05PYuymYoa9WIuQ">
+    <name>Who's Gone?</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102870</id>
+    <album href="spotify:album:7gV7u6G3xhy6xARS9SGy5A">
+      <name>Baby</name>
+      <released>1991</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IN IT LT LV NL NO NZ PL PT RU SE SG SK TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>221.733000</length>
+    <popularity>0.28908</popularity>
+  </track>
+  <track href="spotify:track:2ojefgB21HvKjluH8QwJMp">
+    <name>Bostich</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078202030</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>277.533000</length>
+    <popularity>0.24956</popularity>
+  </track>
+  <track href="spotify:track:1REc1lFQZcJqXS9aojXLCN">
+    <name>Planet Dada - Flamboyant</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEN120303328</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>20</track-number>
+    <length>281.773000</length>
+    <popularity>0.24940</popularity>
+  </track>
+  <track href="spotify:track:4xYqylZDGSJI8oP5JMYhit">
+    <name>Planet Dada - Original Version</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEN120303316</id>
+    <album href="spotify:album:7c3qHJpupg6CW1RC3ikk4G">
+      <name>The Eye</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>188.506000</length>
+    <popularity>0.28800</popularity>
+  </track>
+  <track href="spotify:track:1OhQeJyvrqcYq7xFbt9kmD">
+    <name>Drive / Driven</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102890</id>
+    <album href="spotify:album:7gV7u6G3xhy6xARS9SGy5A">
+      <name>Baby</name>
+      <released>1991</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IN IT LT LV NL NO NZ PL PT RU SE SG SK TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>254.040000</length>
+    <popularity>0.28766</popularity>
+  </track>
+  <track href="spotify:track:29ADmKawjMattR0gvwkqfB">
+    <name>Otto Di Catania</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500297</id>
+    <album href="spotify:album:3hGhEfH71xzn3VvCa4MiYx">
+      <name>Flag</name>
+      <released>2005</released>
+      <availability>
+        <territories>AU BE CH CN CZ DE EE ES FI FR HK HR HU IL IT LT LV MY NO PL PT RU SE SG SK TH TR TW UA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>202.106000</length>
+    <popularity>0.28740</popularity>
+  </track>
+  <track href="spotify:track:5bFXOxAK3l51A5yw1iocB5">
+    <name>Fat Cry</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079404410</id>
+    <album href="spotify:album:08VjTnwIwxGhy5oZR48s43">
+      <name>Zebra</name>
+      <released>1994</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>251.560000</length>
+    <popularity>0.28674</popularity>
+  </track>
+  <track href="spotify:track:0OQVLTY94Y0qCzUDajJLvp">
+    <name>Tiger Dust</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEN120303320</id>
+    <album href="spotify:album:7c3qHJpupg6CW1RC3ikk4G">
+      <name>The Eye</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>300.733000</length>
+    <popularity>0.28577</popularity>
+  </track>
+  <track href="spotify:track:4HJFZdMvIaL6CupfcRq2KQ">
+    <name>Kiss In Blue</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:4AQNXsZoonikabPFTWPnxF">
+      <name>Heidi Happy</name>
+    </artist>
+    <id type="isrc">DEUM70904519</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>213.973000</length>
+    <popularity>0.26991</popularity>
+  </track>
+  <track href="spotify:track:2Lj6ToNI8uSDMLwRapsWdA">
+    <name>Ciel Ouvert</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500265</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>320.066000</length>
+    <popularity>0.24620</popularity>
+  </track>
+  <track href="spotify:track:76xuRxRJdIWw0TdtqZtRYY">
+    <name>Sometimes (Dr. Hirsch)</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500263</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>212.800000</length>
+    <popularity>0.24595</popularity>
+  </track>
+  <track href="spotify:track:7nlQXa27MAvKpq5HgbssI9">
+    <name>Rubberbandman</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079102840</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>216.826000</length>
+    <popularity>0.24494</popularity>
+  </track>
+  <track href="spotify:track:0voKPC5o58s1OeXYOsNoYN">
+    <name>Nervous</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEN120303315</id>
+    <album href="spotify:album:7c3qHJpupg6CW1RC3ikk4G">
+      <name>The Eye</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>173.813000</length>
+    <popularity>0.28344</popularity>
+  </track>
+  <track href="spotify:track:4k20VPmJm8S97L1ycXUwQL">
+    <name>Goldrush</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078702120</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>262.893000</length>
+    <popularity>0.24128</popularity>
+  </track>
+  <track href="spotify:track:4WniJieLtmhyvoCF71SUEx">
+    <name>Tremendous Pain</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079404420</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>239.933000</length>
+    <popularity>0.24002</popularity>
+  </track>
+  <track href="spotify:track:0UYnUhf8vcgr0aqwxQgMzs">
+    <name>The Rhythm Divine</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:090VebphoycdEyH165iMqc">
+      <name>Shirley Bassey</name>
+    </artist>
+    <id type="isrc">DEF078702100</id>
+    <album href="spotify:album:1Vs9UuwwRcFf9GA0sMnoDT">
+      <name>Essential Yello</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>263.733000</length>
+    <popularity>0.26291</popularity>
+  </track>
+  <track href="spotify:track:7KLYeww0AKwJT4jDsU3I3l">
+    <name>La Habanera</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM71017082</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>219.173000</length>
+    <popularity>0.23926</popularity>
+  </track>
+  <track href="spotify:track:2cKbZRw6nH9rlQOSha0evV">
+    <name>Celsius</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079604040</id>
+    <album href="spotify:album:3i3ewRcXKmtFIIlVgZ6WX4">
+      <name>Pocket Universe</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK EE ES FI FR GB HK HU IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>359.000000</length>
+    <popularity>0.27833</popularity>
+  </track>
+  <track href="spotify:track:6OL5v9zcTLUjNGwA7s8XQt">
+    <name>Solar Driftwood</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF079604030</id>
+    <album href="spotify:album:3i3ewRcXKmtFIIlVgZ6WX4">
+      <name>Pocket Universe</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK EE ES FI FR GB HK HU IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>113.000000</length>
+    <popularity>0.27709</popularity>
+  </track>
+  <track href="spotify:track:6GT7UhGRc4y8Loq5GvwCvq">
+    <name>Vicious Games</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078502040</id>
+    <album href="spotify:album:7HURNK4MS4d2CxqouGgP5Z">
+      <name>Essential</name>
+      <released>1992</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>262.466000</length>
+    <popularity>0.27700</popularity>
+  </track>
+  <track href="spotify:track:7LLNKtAKHGqIPOwZpE743E">
+    <name>The Race</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEF078805540</id>
+    <album href="spotify:album:6fiGugOXXGpSW79JiPwwbd">
+      <name>Entre Los 80 y Los 90</name>
+      <released>2011</released>
+      <availability>
+        <territories>ES</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>200.229000</length>
+    <popularity>0.27695</popularity>
+  </track>
+  <track href="spotify:track:6wq2NsLIxMNwFHtdzm80Yt">
+    <name>Angel No</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500266</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>185.266000</length>
+    <popularity>0.23740</popularity>
+  </track>
+  <track href="spotify:track:6u12476zRViWzA17C7yi8C">
+    <name>Moon On Ice</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <artist href="spotify:artist:6DGm4gCBslJFLh9cxFvQTp">
+      <name>Billy Mackenzie</name>
+    </artist>
+    <id type="isrc">DEUM70500278</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>250.333000</length>
+    <popularity>0.25909</popularity>
+  </track>
+  <track href="spotify:track:3I1GUTzkS0AXyFVjNh2aZc">
+    <name>Oh Yeah</name>
+    <artist href="spotify:artist:3xgj17ZsWxxU86S4qlWvOi">
+      <name>Yello</name>
+    </artist>
+    <id type="isrc">DEUM70500258</id>
+    <album href="spotify:album:07MeBj5Q107F5eFKSyoOD2">
+      <name>By Yello</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT CH CZ DE DK EE FI HR LT LV NL PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>185.226000</length>
+    <popularity>0.23452</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:22:00 GMT -->

@@ -1,0 +1,1750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Nina Simone"/>
+  <opensearch:totalResults>6874</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:0nbOXVxcq4wSPamBPxAKGu">
+    <name>Feeling Good</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USPR36500094</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>172.653000</length>
+    <popularity>0.74543</popularity>
+  </track>
+  <track href="spotify:track:2n845ZaLOgpNJ3RinFwE1W">
+    <name>My Baby Just Cares For Me</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DKAAS9600613</id>
+    <album href="spotify:album:61NF7dNZGwBTumUCH91sA3">
+      <name>The Essential Nina Simone</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>217.000000</length>
+    <popularity>0.69997</popularity>
+  </track>
+  <track href="spotify:track:6puDH4jNRgeRpMhzgMbO53">
+    <name>Sinnerman</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USPR36500095</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>620.173000</length>
+    <popularity>0.70792</popularity>
+  </track>
+  <track href="spotify:track:58fxygPUPdfBIUm9BDv0f7">
+    <name>I Wish I Knew How It Would Feel To Be Free</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16707699</id>
+    <album href="spotify:album:6erfmbovMLCppgaLh8TesF">
+      <name>Nina Simone</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NC NE NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>186.506000</length>
+    <popularity>0.61825</popularity>
+  </track>
+  <track href="spotify:track:1VyHsvDWEYbzBZB7RwfW2f">
+    <name>Ain't Got No/I Got Life - 1993 Remastered</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305662</id>
+    <album href="spotify:album:27dIUiSxdZgJB9lcPpaVYL">
+      <name>The Essential Nina Simone</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>132.693000</length>
+    <popularity>0.61032</popularity>
+  </track>
+  <track href="spotify:track:21fwl40hc9je4kf2zEYTrP">
+    <name>I Put A Spell On You</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">UST7W0905280</id>
+    <album href="spotify:album:15mlxovjGm7k2ezzkyr4TY">
+      <name>The Very Best Of Yount Nina Simone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK ES FI FR GB GL GR HU IE IS IT LI LU MC MD MK NL NO PL PT RU SE</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>156.000000</length>
+    <popularity>0.56803</popularity>
+  </track>
+  <track href="spotify:track:7BGQNonPt5vGUniPVo4HUs">
+    <name>Mr. Bojangles - 1993 Remastered</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305661</id>
+    <album href="spotify:album:27dIUiSxdZgJB9lcPpaVYL">
+      <name>The Essential Nina Simone</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>301.466000</length>
+    <popularity>0.55889</popularity>
+  </track>
+  <track href="spotify:track:4Z02hhRcmU5HEqnlLFge7m">
+    <name>Don't Let Me Be Misunderstood - Album Version/Stereo</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USPR36400091</id>
+    <album href="spotify:album:2XkqMG1S92Mjf4VVmIJ5ir">
+      <name>The Best Of Nina Simone</name>
+      <released>1969</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK EE ES FI FR GB IE IL IN IT LT LV NL NO NZ PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>164.640000</length>
+    <popularity>0.55735</popularity>
+  </track>
+  <track href="spotify:track:4Yr5qe66FardIDoGVSy6dU">
+    <name>Sinnerman - Felix Da Housecat's Heavenly House Mix</name>
+    <artist href="spotify:artist:4rC8J4M4aOqsQSCP4yoyJI">
+      <name>Felix Da Housecat</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USGR10300552</id>
+    <album href="spotify:album:4PvjVHEBzEZOf00ldHpcDa">
+      <name>Lifestyle2 - Dance Grooves Vol 2</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CN CZ DE DK EE ES FI FR HK HR HU IL IN LT LV MY PL RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>275.293000</length>
+    <popularity>0.60560</popularity>
+  </track>
+  <track href="spotify:track:2A3cAEiQL28lNyLj6RDZdT">
+    <name>Love Me Or Leave Me</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBHVK0800761</id>
+    <album href="spotify:album:61NF7dNZGwBTumUCH91sA3">
+      <name>The Essential Nina Simone</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>201.000000</length>
+    <popularity>0.53443</popularity>
+  </track>
+  <track href="spotify:track:5rp8QpQXRb0Xc5zFHa58FH">
+    <name>Here Comes The Sun</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305866</id>
+    <album href="spotify:album:44q0H7JFNaCtQ9DfGjq5ey">
+      <name>Playlist: The Very Best Of Nina Simone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>213.613000</length>
+    <popularity>0.53572</popularity>
+  </track>
+  <track href="spotify:track:4JfYb8FBzp1denIZTsk8Rs">
+    <name>Ain't Got No - I Got Life (From "Hair") - Single Version</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16808109</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>135.893000</length>
+    <popularity>0.55042</popularity>
+  </track>
+  <track href="spotify:track:0soljgDApMS0hXBhe4rhjl">
+    <name>Feeling Good</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USPR36500094</id>
+    <album href="spotify:album:3hWr7ePFlWX19aOoyJ8f0F">
+      <name>The Soul Of Nina Simone</name>
+      <released>2005</released>
+      <availability>
+        <territories>AR AU BO CL CN HK ID IN KR MX NZ PH PY SG US UY</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>174.266000</length>
+    <popularity>0.50373</popularity>
+  </track>
+  <track href="spotify:track:00DYDK6hdIDbOWShCoY4z0">
+    <name>I Loves You Porgy</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBGVZ0720358</id>
+    <album href="spotify:album:5ysl5YEKvSqHU5zyg4KFZz">
+      <name>The Very Best of Nina Simone</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>252.000000</length>
+    <popularity>0.50622</popularity>
+  </track>
+  <track href="spotify:track:2DtVGbFQNCJHnQZinu2I0o">
+    <name>My Baby Just Cares for Me</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">FR6V80772218</id>
+    <album href="spotify:album:7jjymA4BLnlfkTSVlvY4Gr">
+      <name>The Very Best Of : Nina Simone</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>217.808000</length>
+    <popularity>0.49398</popularity>
+  </track>
+  <track href="spotify:track:0a7c4l9e0sTeuzVQgFwMDa">
+    <name>Ne Me Quitte Pas</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245259</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>216.973000</length>
+    <popularity>0.52868</popularity>
+  </track>
+  <track href="spotify:track:3H8LGuZGMAjLJnJFYifyAA">
+    <name>My Baby Just Cares For Me</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245255</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>217.973000</length>
+    <popularity>0.52813</popularity>
+  </track>
+  <track href="spotify:track:0Fo2NqxnmzwU0VJxpKkzTv">
+    <name>I Say a Little Prayer</name>
+    <artist href="spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok">
+      <name>Aretha Franklin</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL61059844</id>
+    <album href="spotify:album:7B3CXobOR2qUZxW3YIVVyN">
+      <name>Nina Simone &amp; Aretha Franklin</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>216.372000</length>
+    <popularity>0.48723</popularity>
+  </track>
+  <track href="spotify:track:1Q3qGb9e2sYstdh8cLvqeh">
+    <name>Don't Let Me Be Understood</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245260</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>168.080000</length>
+    <popularity>0.51848</popularity>
+  </track>
+  <track href="spotify:track:39CyGKIFqMzSuynOR8uilD">
+    <name>Baltimore</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USSM10024517</id>
+    <album href="spotify:album:4UjcMSiyv8QCiZ4O8gpzXS">
+      <name>Baltimore</name>
+      <released>1995</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>278.866000</length>
+    <popularity>0.51828</popularity>
+  </track>
+  <track href="spotify:track:6OFZDiHWh05oI6yqfIzv0u">
+    <name>I Shall Be Released</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16908447</id>
+    <album href="spotify:album:6erfmbovMLCppgaLh8TesF">
+      <name>Nina Simone</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NC NE NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>231.493000</length>
+    <popularity>0.45914</popularity>
+  </track>
+  <track href="spotify:track:5CAsdx2RoNXh6Z2szA9MM4">
+    <name>Suzanne</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16707696</id>
+    <album href="spotify:album:6erfmbovMLCppgaLh8TesF">
+      <name>Nina Simone</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NC NE NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>255.173000</length>
+    <popularity>0.45227</popularity>
+  </track>
+  <track href="spotify:track:3Vc7RNEDh40H2MEYa62ibz">
+    <name>I Put A Spell On You</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245265</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>156.133000</length>
+    <popularity>0.50607</popularity>
+  </track>
+  <track href="spotify:track:3uOSF1qDoK3f6VdIwQRFH6">
+    <name>To Love Somebody</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16707316</id>
+    <album href="spotify:album:44q0H7JFNaCtQ9DfGjq5ey">
+      <name>Playlist: The Very Best Of Nina Simone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>157.706000</length>
+    <popularity>0.46427</popularity>
+  </track>
+  <track href="spotify:track:4g2kBlgLmXQeCkDwKcQYbJ">
+    <name>I Want A Little Sugar In My Bowl - 1993 Remastered</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305656</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>152.093000</length>
+    <popularity>0.49622</popularity>
+  </track>
+  <track href="spotify:track:6OQQGlfFnHZG4dQTQeTguA">
+    <name>The Look Of Love</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16707315</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>142.653000</length>
+    <popularity>0.49611</popularity>
+  </track>
+  <track href="spotify:track:03LDuFrKIJr4Bb2PvPUI2q">
+    <name>Feeling Good</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USPR36500094</id>
+    <album href="spotify:album:0iwksSM18LzWXiSgm9E9jR">
+      <name>Nina Simone In Concert / I Put A Spell On You</name>
+      <released>1990</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>177.000000</length>
+    <popularity>0.46317</popularity>
+  </track>
+  <track href="spotify:track:7JTEDvF3PfDBPsjhkFgTNW">
+    <name>Forbidden Fruit</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245256</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>229.133000</length>
+    <popularity>0.48728</popularity>
+  </track>
+  <track href="spotify:track:3Ao9nOEOzkqkuXfNzKuM37">
+    <name>Work Song</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245257</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>187.640000</length>
+    <popularity>0.48618</popularity>
+  </track>
+  <track href="spotify:track:5xS3gHV1cjpCHrv5lPaNaR">
+    <name>Turn Me On - Digitally Remastered</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305664</id>
+    <album href="spotify:album:27dIUiSxdZgJB9lcPpaVYL">
+      <name>The Essential Nina Simone</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>150.266000</length>
+    <popularity>0.43917</popularity>
+  </track>
+  <track href="spotify:track:0CRoHgASKf05pICBWF3zj3">
+    <name>Here Comes The Sun - 1994 Remastered</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC17100681</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>19</track-number>
+    <length>213.466000</length>
+    <popularity>0.48046</popularity>
+  </track>
+  <track href="spotify:track:49TvV1BSP7VvNcVD1MDYXm">
+    <name>Gin House Blues</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245262</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>182.200000</length>
+    <popularity>0.47801</popularity>
+  </track>
+  <track href="spotify:track:0F4uVFLLDzkpJppPZT1bZt">
+    <name>Do I Move You?</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16607669</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>164.960000</length>
+    <popularity>0.47783</popularity>
+  </track>
+  <track href="spotify:track:1BViCDpGrEIaxkartTuEEV">
+    <name>I Wish I Knew How It Would Feel To Be Free</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19808489</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>187.360000</length>
+    <popularity>0.47677</popularity>
+  </track>
+  <track href="spotify:track:4ascrYarqEhQtGZSWefGKY">
+    <name>Don't Smoke In Bed</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245258</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>191.507000</length>
+    <popularity>0.47600</popularity>
+  </track>
+  <track href="spotify:track:6ElYQu9Rs3agwn7opCHIm3">
+    <name>I Put A Spell On You</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USPR36500079</id>
+    <album href="spotify:album:3UgnOTcOt4JlplBn3eL82v">
+      <name>100 Essential Love Songs</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK ES FI FR GB HK HR IE IL IT MY NL NO PL PT SE SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>154.066000</length>
+    <popularity>0.47315</popularity>
+  </track>
+  <track href="spotify:track:0p3YCXOwJZtinahxbnkK0X">
+    <name>Sinnerman - Felix Da Housecat's Heavenly House Mix</name>
+    <artist href="spotify:artist:4rC8J4M4aOqsQSCP4yoyJI">
+      <name>Felix Da Housecat</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USGR10300552</id>
+    <album href="spotify:album:29HNWYjmdv9JrxxjiQVZ3A">
+      <name>Lifestyle2 - Bar Jazz Vol 1</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CZ DE ES FI GB HR HU IE NO PL RU SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>274.733000</length>
+    <popularity>0.49782</popularity>
+  </track>
+  <track href="spotify:track:0kMFMFfaYqDIdqRMMfmbel">
+    <name>Ain't Got No - I Got Life - Remix - Radio Edit</name>
+    <artist href="spotify:artist:7oom2zOhVcsHlTWkAhvnAZ">
+      <name>Nina Simone v Groovefinder</name>
+    </artist>
+    <id type="isrc">USRC10502868</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>21</track-number>
+    <length>202.266000</length>
+    <popularity>0.48582</popularity>
+  </track>
+  <track href="spotify:track:5ZdqR25m8rnbOI6vNfEHX1">
+    <name>Mood Indigo</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBHVK0800758</id>
+    <album href="spotify:album:61NF7dNZGwBTumUCH91sA3">
+      <name>The Essential Nina Simone</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>241.000000</length>
+    <popularity>0.42637</popularity>
+  </track>
+  <track href="spotify:track:7sambyY1W30wkoLsYDbeOD">
+    <name>Don't Splain</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245261</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>260.893000</length>
+    <popularity>0.46777</popularity>
+  </track>
+  <track href="spotify:track:1XLS56hiQoMOKI6hiSCJ7U">
+    <name>Strange Fruit</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245271</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>211.360000</length>
+    <popularity>0.46734</popularity>
+  </track>
+  <track href="spotify:track:1ZOic3velengqna87J0zKT">
+    <name>Do What You Gotta Do</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16807319</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>214.933000</length>
+    <popularity>0.46628</popularity>
+  </track>
+  <track href="spotify:track:3pgVQ2L54P8rjcnS0pYl0y">
+    <name>Since I Fell For You</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16707305</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>169.640000</length>
+    <popularity>0.46447</popularity>
+  </track>
+  <track href="spotify:track:1fhcLOFLrEPUE60aLkq4HV">
+    <name>He Needs Me</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245263</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>150.133000</length>
+    <popularity>0.46407</popularity>
+  </track>
+  <track href="spotify:track:3lUGiYoiFRZ4dA6xogR6KN">
+    <name>Sinnerman - Felix Da Housecat's Heavenly House Mix</name>
+    <artist href="spotify:artist:4rC8J4M4aOqsQSCP4yoyJI">
+      <name>Felix Da Housecat</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USGR10300552</id>
+    <album href="spotify:album:6sHssbd2OeNYv6Xeq1VNL9">
+      <name>Verve Remixed 2</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IT LT LV MY NL NO NZ PL PT SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>275.480000</length>
+    <popularity>0.48973</popularity>
+  </track>
+  <track href="spotify:track:1iDSWdNz1hjHpMFxRst8kB">
+    <name>I Love You Porgy</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245264</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>246.293000</length>
+    <popularity>0.46295</popularity>
+  </track>
+  <track href="spotify:track:0kt7fIm93YxHIiTelBv419">
+    <name>Respect</name>
+    <artist href="spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok">
+      <name>Aretha Franklin</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL61059843</id>
+    <album href="spotify:album:7B3CXobOR2qUZxW3YIVVyN">
+      <name>Nina Simone &amp; Aretha Franklin</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>146.155000</length>
+    <popularity>0.42850</popularity>
+  </track>
+  <track href="spotify:track:5q0pHnzjmB7Mbb7Mo6WOiz">
+    <name>Wild Is The Wind</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245274</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>20</track-number>
+    <length>206.933000</length>
+    <popularity>0.46224</popularity>
+  </track>
+  <track href="spotify:track:6uvNvS2X9dX8ocMs1KjF1x">
+    <name>To Be Young, Gifted And  Black</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16907322</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>167.253000</length>
+    <popularity>0.46142</popularity>
+  </track>
+  <track href="spotify:track:7tdrhM4TCeARL1BnUDZdf5">
+    <name>It Don't Mean A Thing (If It Ain't Got That Swing)</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245267</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>147.067000</length>
+    <popularity>0.46094</popularity>
+  </track>
+  <track href="spotify:track:5re6mQVWTshoap5znWeh2t">
+    <name>Pirate Jenny - Live</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USPR36400089</id>
+    <album href="spotify:album:5643V0ojEFh2bULWiPhuhs">
+      <name>Music From The Motion Picture Watchmen</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>399.413000</length>
+    <popularity>0.45744</popularity>
+  </track>
+  <track href="spotify:track:5JqudmMiQTWJl465xUc7LZ">
+    <name>Nobody's Fault But Mine - Original Master/Mix</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC10503325</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>178.626000</length>
+    <popularity>0.45580</popularity>
+  </track>
+  <track href="spotify:track:1jdKvjqWnRiv6Ma3MiIsTJ">
+    <name>Rock Steady</name>
+    <artist href="spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok">
+      <name>Aretha Franklin</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL61059840</id>
+    <album href="spotify:album:7B3CXobOR2qUZxW3YIVVyN">
+      <name>Nina Simone &amp; Aretha Franklin</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>194.037000</length>
+    <popularity>0.42148</popularity>
+  </track>
+  <track href="spotify:track:7KJEzzstpW9S7QxSYSY4y5">
+    <name>Summertime</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEB790622008</id>
+    <album href="spotify:album:4llOEP6OjSwMo5Dq5dqvl8">
+      <name>Nina Simone - Reflections</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>338.000000</length>
+    <popularity>0.40526</popularity>
+  </track>
+  <track href="spotify:track:0YBaZMNoLvYtzs6swo56yA">
+    <name>I Want A Little Sugar In My Bowl - 1993 Remastered</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305656</id>
+    <album href="spotify:album:27dIUiSxdZgJB9lcPpaVYL">
+      <name>The Essential Nina Simone</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>151.226000</length>
+    <popularity>0.41270</popularity>
+  </track>
+  <track href="spotify:track:6mAVkFTf6PtI3IwiTDlvg9">
+    <name>The Times They Are A Changin'</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16908373</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>356.946000</length>
+    <popularity>0.45493</popularity>
+  </track>
+  <track href="spotify:track:5q4cX1ERMHpuKzi8WtMxd5">
+    <name>Chain of Fools</name>
+    <artist href="spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok">
+      <name>Aretha Franklin</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL61059842</id>
+    <album href="spotify:album:7B3CXobOR2qUZxW3YIVVyN">
+      <name>Nina Simone &amp; Aretha Franklin</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>170.044000</length>
+    <popularity>0.42082</popularity>
+  </track>
+  <track href="spotify:track:70oPqRzKUMVQCvxDkZLCqj">
+    <name>Love Me Or Leave Me</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245268</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>201.080000</length>
+    <popularity>0.45417</popularity>
+  </track>
+  <track href="spotify:track:4tQtjC8IUWnojkftegF1XI">
+    <name>To Love Somebody - Original Master/Mix</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC10503321</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>20</track-number>
+    <length>158.493000</length>
+    <popularity>0.45302</popularity>
+  </track>
+  <track href="spotify:track:4Lxv7nI6wiBe3H08TvADWi">
+    <name>I Think It's Going To Rain Today</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC10101330</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>200.013000</length>
+    <popularity>0.45132</popularity>
+  </track>
+  <track href="spotify:track:0JcA0rkQmS8icNoYgYqz1q">
+    <name>Feeling Good</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USPR36500094</id>
+    <album href="spotify:album:6X8Rrqvsfq4moMCJp9vu2W">
+      <name>Repo Men [Original Motion Picture Soundtrack]</name>
+      <released>2010</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>175.173000</length>
+    <popularity>0.45114</popularity>
+  </track>
+  <track href="spotify:track:3CLUI0saxviTARvjjgDzxN">
+    <name>Eleanor Rigby</name>
+    <artist href="spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok">
+      <name>Aretha Franklin</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL61059845</id>
+    <album href="spotify:album:7B3CXobOR2qUZxW3YIVVyN">
+      <name>Nina Simone &amp; Aretha Franklin</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>158.471000</length>
+    <popularity>0.41596</popularity>
+  </track>
+  <track href="spotify:track:7L6dVZR47Wa74LXIhk8aS8">
+    <name>Mr. Bojangles - 1993 Remastered</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305661</id>
+    <album href="spotify:album:3WVB8a1INWqY6TUieQzn9t">
+      <name>The Very Best Of</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BY BZ CD CF CG CH CI CK CM CN CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NC NE NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TT TV TW TZ UA UG UY UZ VA VC VG VN VU WF WS YE YT ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>299.893000</length>
+    <popularity>0.44913</popularity>
+  </track>
+  <track href="spotify:track:20omfTfGce30pjCIZEsRsB">
+    <name>House Of the Rising Sun (Live) - Live</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBHVK0800765</id>
+    <album href="spotify:album:61NF7dNZGwBTumUCH91sA3">
+      <name>The Essential Nina Simone</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>415.000000</length>
+    <popularity>0.40581</popularity>
+  </track>
+  <track href="spotify:track:18qreeUHx1yuMuwYvEKnoI">
+    <name>My Baby Just Cares for Me</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL60782665</id>
+    <album href="spotify:album:1k8YMG6nYn2ujsNdzYXQ6n">
+      <name>My Baby Just Cares for Me</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>219.853000</length>
+    <popularity>0.44555</popularity>
+  </track>
+  <track href="spotify:track:1gynTnzUMZfu2jm5nIzNno">
+    <name>Sinnerman</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA560829568</id>
+    <album href="spotify:album:15otAjWC6i3SPj8PMPzon7">
+      <name>Nina Simone - Gospel</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>186.920000</length>
+    <popularity>0.39525</popularity>
+  </track>
+  <track href="spotify:track:1HQtWfXS21n8yYJWw7Xf2x">
+    <name>Sinnerman - Felix Da Housecat's Heavenly House Mix</name>
+    <artist href="spotify:artist:4rC8J4M4aOqsQSCP4yoyJI">
+      <name>Felix Da Housecat</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USGR10300552</id>
+    <album href="spotify:album:0jZihpxJOMBTJ51wRN0Uje">
+      <name>Verve Remixed 2</name>
+      <released>2003</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>275.480000</length>
+    <popularity>0.47104</popularity>
+  </track>
+  <track href="spotify:track:7lvXA7u6JYRsocpb8i9lXj">
+    <name>Just In Time</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBJUT1015966</id>
+    <album href="spotify:album:4pYob5RdlNlS8NKHJ53ZqV">
+      <name>Nina Simone At The Village Gate</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CA CH CY CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>398.053000</length>
+    <popularity>0.40573</popularity>
+  </track>
+  <track href="spotify:track:4TKoXZjQeOvGYkKAJY5ZKZ">
+    <name>He Needs Me</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371529525</id>
+    <album href="spotify:album:6juVV9q2A6KwVJMtNX8f6x">
+      <name> Haughty and Aloof</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>149.505000</length>
+    <popularity>0.44390</popularity>
+  </track>
+  <track href="spotify:track:4fiiexZDPQAbmFLXDwpqCk">
+    <name>Think</name>
+    <artist href="spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok">
+      <name>Aretha Franklin</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL61059846</id>
+    <album href="spotify:album:7B3CXobOR2qUZxW3YIVVyN">
+      <name>Nina Simone &amp; Aretha Franklin</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>140.525000</length>
+    <popularity>0.40861</popularity>
+  </track>
+  <track href="spotify:track:2kCFjjZyUWbi5UMU9i4sv1">
+    <name>Mood Ingo</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245269</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>241.840000</length>
+    <popularity>0.44234</popularity>
+  </track>
+  <track href="spotify:track:63fWkBtr8OFBZI5OlTzdHo">
+    <name>If He Changed My Name</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245266</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>237.733000</length>
+    <popularity>0.44203</popularity>
+  </track>
+  <track href="spotify:track:4tZOM2dkjhuyiuO5endEph">
+    <name>He's Got The Whole World In His Hands</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBHVK0800759</id>
+    <album href="spotify:album:61NF7dNZGwBTumUCH91sA3">
+      <name>The Essential Nina Simone</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>188.000000</length>
+    <popularity>0.39908</popularity>
+  </track>
+  <track href="spotify:track:2EV4FdHys7UsSWKrTQeqhF">
+    <name>I Wish I Knew How It Would Feel To Be Free</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC16707699</id>
+    <album href="spotify:album:6qfcFXTutp4VUrDRbC0REl">
+      <name>The Best Of Nina Simone</name>
+      <released>1970</released>
+      <availability>
+        <territories>CA CN HK ID IN KR MX PH SG TH TW US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>186.533000</length>
+    <popularity>0.39659</popularity>
+  </track>
+  <track href="spotify:track:0KX1JhwrBoFRy7OOoI5NzW">
+    <name>You Make Me Feel Like a Natural Woman</name>
+    <artist href="spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok">
+      <name>Aretha Franklin</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL61059853</id>
+    <album href="spotify:album:7B3CXobOR2qUZxW3YIVVyN">
+      <name>Nina Simone &amp; Aretha Franklin</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>165.185000</length>
+    <popularity>0.40426</popularity>
+  </track>
+  <track href="spotify:track:2TEZKFG0yAHRuFUNVE9bS8">
+    <name>My Way</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC17108300</id>
+    <album href="spotify:album:2PNn9PYlm7ae26GSI7vYII">
+      <name>Here Comes The Sun</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU IE IL IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>311.986000</length>
+    <popularity>0.43495</popularity>
+  </track>
+  <track href="spotify:track:41xlGaxtaLoSdT28NJKRxd">
+    <name>Solitude</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371245270</id>
+    <album href="spotify:album:5bFJZ7BOtU24K1Im8eYDvH">
+      <name>All Jazz Woman</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>226.867000</length>
+    <popularity>0.43373</popularity>
+  </track>
+  <track href="spotify:track:3S00JiTNvKe9oiokTblHYf">
+    <name>Aint No Way</name>
+    <artist href="spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok">
+      <name>Aretha Franklin</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL61059847</id>
+    <album href="spotify:album:7B3CXobOR2qUZxW3YIVVyN">
+      <name>Nina Simone &amp; Aretha Franklin</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>254.445000</length>
+    <popularity>0.39837</popularity>
+  </track>
+  <track href="spotify:track:1xXb19HRlNV6ItHf2WQx1n">
+    <name>Ain't Got No/I Got Life (Live) - Live</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBHVK0800766</id>
+    <album href="spotify:album:61NF7dNZGwBTumUCH91sA3">
+      <name>The Essential Nina Simone</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>279.000000</length>
+    <popularity>0.38912</popularity>
+  </track>
+  <track href="spotify:track:23QTXC2Omxfa1dIStulfBO">
+    <name>Don't Smoke in Bed</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL60782666</id>
+    <album href="spotify:album:1k8YMG6nYn2ujsNdzYXQ6n">
+      <name>My Baby Just Cares for Me</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>194.240000</length>
+    <popularity>0.43096</popularity>
+  </track>
+  <track href="spotify:track:55i8l4AMTjkhWFNGzk6Jcw">
+    <name>Little Girl Blues</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBHVK0800763</id>
+    <album href="spotify:album:61NF7dNZGwBTumUCH91sA3">
+      <name>The Essential Nina Simone</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>257.000000</length>
+    <popularity>0.38853</popularity>
+  </track>
+  <track href="spotify:track:5FqnBBLF4fOSUA2auPJLLX">
+    <name>The Look Of Love - Madison Park vs Lenny B Remix</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC10601970</id>
+    <album href="spotify:album:570CQOQGUzyqKPyRD28vtg">
+      <name>Sex And The City - Original Motion Picture Soundtrack</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK ES FI FR GB HK HU IE IT MY NL NO NZ PT RU SE SG SK TH ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>222.680000</length>
+    <popularity>0.43035</popularity>
+  </track>
+  <track href="spotify:track:3o1SPUXDP9oGCt4kVCD14s">
+    <name>Here Comes The Sun</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC17102576</id>
+    <album href="spotify:album:1WzKyOIFW45U8ZSuLVHGLq">
+      <name>Sunday Morning</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AT AZ BA BB BD BE BF BG BH BI BJ BM BN BS BT BW BY BZ CD CF CG CH CI CK CM CU CV CY CZ DE DJ DK DM DO DZ EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GU GW GY HR HT HU IE IL IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MZ NA NC NE NG NL NO NP NR NU OM PF PG PK PL PM PN PR PS PT PW QA RE RO RU RW SA SB SC SD SE SH SI SK SL SM SN SO SR ST SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG UZ VA VC VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>214.666000</length>
+    <popularity>0.42979</popularity>
+  </track>
+  <track href="spotify:track:1AGml91BimvJ7Ysw251D5E">
+    <name>Pirate Jenny</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA371529526</id>
+    <album href="spotify:album:6juVV9q2A6KwVJMtNX8f6x">
+      <name> Haughty and Aloof</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>286.479000</length>
+    <popularity>0.42977</popularity>
+  </track>
+  <track href="spotify:track:72m4oqSo6Vu3AnUmASKPYf">
+    <name>Please Don't Let Me Be Misunderstood</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA560538556</id>
+    <album href="spotify:album:1kAE4IUx9DVfdmzzIXZBlB">
+      <name>Nina Simone: The Tomato Collection</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>230.733000</length>
+    <popularity>0.38686</popularity>
+  </track>
+  <track href="spotify:track:3Gs2cUs29aHPOakfHCetAp">
+    <name>He Needs Me</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBHVK0800762</id>
+    <album href="spotify:album:61NF7dNZGwBTumUCH91sA3">
+      <name>The Essential Nina Simone</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>148.000000</length>
+    <popularity>0.38674</popularity>
+  </track>
+  <track href="spotify:track:2naehBR5IgOoWINZeXLhv0">
+    <name>To Love Somebody</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305665</id>
+    <album href="spotify:album:27dIUiSxdZgJB9lcPpaVYL">
+      <name>The Essential Nina Simone</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>161.133000</length>
+    <popularity>0.38598</popularity>
+  </track>
+  <track href="spotify:track:3ZmASI6ZK6nxa0cuhGAhL7">
+    <name>Feeling Good</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USPR36500094</id>
+    <album href="spotify:album:65NHtfJ1XJ2yJTreeUDiEg">
+      <name>Colour Collection</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>174.226000</length>
+    <popularity>0.42727</popularity>
+  </track>
+  <track href="spotify:track:0d7K8lwxW0NwnqILK3cBzp">
+    <name>Just Like Tom Thumb's Blues - July 1993 Remastered</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305659</id>
+    <album href="spotify:album:27dIUiSxdZgJB9lcPpaVYL">
+      <name>The Essential Nina Simone</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>290.160000</length>
+    <popularity>0.38450</popularity>
+  </track>
+  <track href="spotify:track:23PnYpcRrKDIBM6dVhwJh0">
+    <name>I Shall Be Released</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305666</id>
+    <album href="spotify:album:27dIUiSxdZgJB9lcPpaVYL">
+      <name>The Essential Nina Simone</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>260.360000</length>
+    <popularity>0.38164</popularity>
+  </track>
+  <track href="spotify:track:62dm8HOPVv8u3LyUCnv6pu">
+    <name>Just in Time - Live</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">FR6V80399930</id>
+    <album href="spotify:album:50aXr9hoL1ojOwcq5T0mVm">
+      <name>At the Village Gate: Nina Sings Duke Ellington</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>394.453000</length>
+    <popularity>0.40440</popularity>
+  </track>
+  <track href="spotify:track:0AOslu6lhQ2EYtwEumkLiL">
+    <name>Plain Gold Ring</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBHVK0800764</id>
+    <album href="spotify:album:61NF7dNZGwBTumUCH91sA3">
+      <name>The Essential Nina Simone</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>229.000000</length>
+    <popularity>0.37917</popularity>
+  </track>
+  <track href="spotify:track:2NHffub61oze8B81vVWYZE">
+    <name>I Got It Bad And That Ain't Good</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USA560538533</id>
+    <album href="spotify:album:1kAE4IUx9DVfdmzzIXZBlB">
+      <name>Nina Simone: The Tomato Collection</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>242.933000</length>
+    <popularity>0.37843</popularity>
+  </track>
+  <track href="spotify:track:2dKhZB6xXpz52cWnaQuEKP">
+    <name>Ain't Got No / I Got Life - previously unreleased alternate version</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC10700469</id>
+    <album href="spotify:album:44q0H7JFNaCtQ9DfGjq5ey">
+      <name>Playlist: The Very Best Of Nina Simone</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>175.506000</length>
+    <popularity>0.38644</popularity>
+  </track>
+  <track href="spotify:track:0W5oyuEN1C2UohpX0jMGAg">
+    <name>Seems I'm Never Tired Lovin' You</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC19305657</id>
+    <album href="spotify:album:27dIUiSxdZgJB9lcPpaVYL">
+      <name>The Essential Nina Simone</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>182.200000</length>
+    <popularity>0.37767</popularity>
+  </track>
+  <track href="spotify:track:2eNmLEvO44kvAMEewWZohf">
+    <name>Don't Smoke In Bed</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">GBHVK0800760</id>
+    <album href="spotify:album:61NF7dNZGwBTumUCH91sA3">
+      <name>The Essential Nina Simone</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>190.000000</length>
+    <popularity>0.37747</popularity>
+  </track>
+  <track href="spotify:track:0yQQdhgFi7LeFpINSG4nhB">
+    <name>The Weight</name>
+    <artist href="spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok">
+      <name>Aretha Franklin</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL61059854</id>
+    <album href="spotify:album:7B3CXobOR2qUZxW3YIVVyN">
+      <name>Nina Simone &amp; Aretha Franklin</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>173.962000</length>
+    <popularity>0.38407</popularity>
+  </track>
+  <track href="spotify:track:1ZjHNGiogk3DFTAMFZ5iDN">
+    <name>Baby, I Love You</name>
+    <artist href="spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok">
+      <name>Aretha Franklin</name>
+    </artist>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL61059851</id>
+    <album href="spotify:album:7B3CXobOR2qUZxW3YIVVyN">
+      <name>Nina Simone &amp; Aretha Franklin</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>165.590000</length>
+    <popularity>0.38363</popularity>
+  </track>
+  <track href="spotify:track:24m7JtHNz1eLBKfjHOPPc2">
+    <name>Plain Gold Ring</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">DEBL60782667</id>
+    <album href="spotify:album:1k8YMG6nYn2ujsNdzYXQ6n">
+      <name>My Baby Just Cares for Me</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>236.266000</length>
+    <popularity>0.41732</popularity>
+  </track>
+  <track href="spotify:track:0Gxrouqe7pUzPHztQ48UKV">
+    <name>Here Comes The Sun</name>
+    <artist href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">
+      <name>Nina Simone</name>
+    </artist>
+    <id type="isrc">USRC17102576</id>
+    <album href="spotify:album:2PNn9PYlm7ae26GSI7vYII">
+      <name>Here Comes The Sun</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HN HR HT HU IE IL IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>214.666000</length>
+    <popularity>0.41710</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:22:38 GMT -->

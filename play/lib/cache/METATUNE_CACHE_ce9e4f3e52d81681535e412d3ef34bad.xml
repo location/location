@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Kruder &amp; Dorfmeister"/>
+  <opensearch:totalResults>53</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:2FtKuCNf6dVnDa4J044ATt">
+    <name>Black Baby</name>
+    <artist href="spotify:artist:39ywlwtGw8RTGobakgb11L">
+      <name>Kruder &amp; Dorfmeister</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">ATG240800301</id>
+    <album href="spotify:album:6LFr6LmXwLN8hOrVdj31SS">
+      <name>Shakatakadoodub</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>378.667000</length>
+    <popularity>0.45406</popularity>
+  </track>
+  <track href="spotify:track:38hAAJzvJPIDYm5pv7R0KO">
+    <name>Sleazy Rider</name>
+    <artist href="spotify:artist:39ywlwtGw8RTGobakgb11L">
+      <name>Kruder &amp; Dorfmeister</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">ATG240800302</id>
+    <album href="spotify:album:6LFr6LmXwLN8hOrVdj31SS">
+      <name>Shakatakadoodub</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>384.400000</length>
+    <popularity>0.41536</popularity>
+  </track>
+  <track href="spotify:track:7teX1q1o5N1O8ivfVCu0N0">
+    <name>Shakatakadoodub</name>
+    <artist href="spotify:artist:39ywlwtGw8RTGobakgb11L">
+      <name>Kruder &amp; Dorfmeister</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">ATG240800303</id>
+    <album href="spotify:album:6LFr6LmXwLN8hOrVdj31SS">
+      <name>Shakatakadoodub</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>421.067000</length>
+    <popularity>0.40947</popularity>
+  </track>
+  <track href="spotify:track:341EzgknZzyGLVcJXnw0Dd">
+    <name>High Noon</name>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <artist href="spotify:artist:39ywlwtGw8RTGobakgb11L">
+      <name>Kruder &amp; Dorfmeister</name>
+    </artist>
+    <id type="isrc">ATG249301103</id>
+    <album href="spotify:album:6NQb03Dkn80FmvGGKvIXPF">
+      <name>G-Stone Book</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>379.600000</length>
+    <popularity>0.40798</popularity>
+  </track>
+  <track href="spotify:track:2Dk5PNGZiT83jnXKQBLqTa">
+    <name>High Noon</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">ATG249301103</id>
+    <album href="spotify:album:282WlCtT1ZlmmLx4wUWXte">
+      <name>Das Jahr der Taube . A Richard Dorfmeister Selection (Continuous Mix)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>373.387000</length>
+    <popularity>0.37724</popularity>
+  </track>
+  <track href="spotify:track:4bxuv5C9kQQ0XkuTTXjKAA">
+    <name>Shakatakadoodub</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">GBCFB9701101</id>
+    <album href="spotify:album:0bp3A5rpd0aomRTUCuU9ZP">
+      <name>Ninja Cuts - Flexistentialism</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>434.440000</length>
+    <popularity>0.39045</popularity>
+  </track>
+  <track href="spotify:track:18T8qI2S6VA8c4QXPAVr6V">
+    <name>Black Baby (DJ-Kicks)</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">DEG939600003</id>
+    <album href="spotify:album:3Dp4KWyl2t8KppfFz5tE1E">
+      <name>DJ-Kicks The Exclusives</name>
+      <released>2006</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>380.000000</length>
+    <popularity>0.38939</popularity>
+  </track>
+  <track href="spotify:track:40AhpJ8J3c21wDMVVydrkw">
+    <name>Deep Shit Pt.1 &amp; Pt.2</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">GBCFB9501100</id>
+    <album href="spotify:album:1xzKOMFy3XggriU6kXyFV8">
+      <name>Ninja Cuts - Funkjazztical Tricknology</name>
+      <released>1995</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>379.000000</length>
+    <popularity>0.38693</popularity>
+  </track>
+  <track href="spotify:track:192DP5ktdkkvyrudsSZGIm">
+    <name>Original Bedroom Rockers</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">GBKTX0701405</id>
+    <album href="spotify:album:0g2RJcOGfqoH2RNleDG2t6">
+      <name>Winter / Summer Chillout Classics 43 Chilled Bar Grooves</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>362.867000</length>
+    <popularity>0.36572</popularity>
+  </track>
+  <track href="spotify:track:1Rx1luHyse77VYY2dAeFs1">
+    <name>Useless (The Kruder + Dorfmeister Session)</name>
+    <artist href="spotify:artist:762310PdDnwsDxAQxzQkfX">
+      <name>Depeche Mode</name>
+    </artist>
+    <id type="isrc">GBAJH0400146</id>
+    <album href="spotify:album:3HJcQI3ZZrxh95qo40oacp">
+      <name>Remixes 81&gt;04</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>545.960000</length>
+    <popularity>0.36650</popularity>
+  </track>
+  <track href="spotify:track:6Urv6koMdDyCILmh1qeUgs">
+    <name>Aikon</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <artist href="spotify:artist:7kVSO9W0cZoyKBEG5o3E9h">
+      <name>Richard Dorfmeister</name>
+    </artist>
+    <id type="isrc">ATG240800501</id>
+    <album href="spotify:album:7JS8lA3u4itvmB4vYKlLzG">
+      <name>Sixteen F**king Years Of G-Stone Recordings</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>409.067000</length>
+    <popularity>0.33494</popularity>
+  </track>
+  <track href="spotify:track:0N7moDNFwMPCnjrLX5Hlsk">
+    <name>Highnoon</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">NLS241103188</id>
+    <album href="spotify:album:5ThOaIIdjCaQNUfySvukgU">
+      <name>Supperclub Volume 1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>386.267000</length>
+    <popularity>0.33222</popularity>
+  </track>
+  <track href="spotify:track:72jNSzVowIRXbJD1tDJqB6">
+    <name>Deep Shit Pt1 &amp; 2</name>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <artist href="spotify:artist:39ywlwtGw8RTGobakgb11L">
+      <name>Kruder &amp; Dorfmeister</name>
+    </artist>
+    <id type="isrc">ATG249301102</id>
+    <album href="spotify:album:6NQb03Dkn80FmvGGKvIXPF">
+      <name>G-Stone Book</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>375.573000</length>
+    <popularity>0.33340</popularity>
+  </track>
+  <track href="spotify:track:1WzHo2MECOkR3yyj8T3yBS">
+    <name>Young Man</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <artist href="spotify:artist:7kVSO9W0cZoyKBEG5o3E9h">
+      <name>Richard Dorfmeister</name>
+    </artist>
+    <id type="isrc">ATG240900413</id>
+    <album href="spotify:album:7JS8lA3u4itvmB4vYKlLzG">
+      <name>Sixteen F**king Years Of G-Stone Recordings</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>394.173000</length>
+    <popularity>0.32730</popularity>
+  </track>
+  <track href="spotify:track:3ZidgUvrmVNhroQqjSpVYE">
+    <name>Bug Powder Dust - Kruder &amp; Dorfmeister Session</name>
+    <artist href="spotify:artist:1G3Eh23f2hwhEnAMw7HsZ6">
+      <name>Bomb The Bass</name>
+    </artist>
+    <artist href="spotify:artist:7FsYhkJR8zX4NeEqifNqDA">
+      <name>Justin Warfield</name>
+    </artist>
+    <id type="isrc">GBUM70911459</id>
+    <album href="spotify:album:0THgn0SNHFx0tqqYqQlt4R">
+      <name>Island Records Post Punk Box Set - Out Come The Freaks</name>
+      <released>2009</released>
+      <availability>
+        <territories>BE DK EE FI GB HU IE LT LV RU</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>447.213000</length>
+    <popularity>0.33376</popularity>
+  </track>
+  <track href="spotify:track:0zrgcbxAnpDQl1YN4oCBqr">
+    <name>The G-stone Anthem - Urbs Mashup</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <artist href="spotify:artist:7kVSO9W0cZoyKBEG5o3E9h">
+      <name>Richard Dorfmeister</name>
+    </artist>
+    <id type="isrc">ATG240900412</id>
+    <album href="spotify:album:7JS8lA3u4itvmB4vYKlLzG">
+      <name>Sixteen F**king Years Of G-Stone Recordings</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>202.200000</length>
+    <popularity>0.31304</popularity>
+  </track>
+  <track href="spotify:track:1UMGeDMyMUj2agDjhkUUzx">
+    <name>Bug Powder Dust - Kruder &amp; Dorfmeister Dub</name>
+    <artist href="spotify:artist:1G3Eh23f2hwhEnAMw7HsZ6">
+      <name>Bomb The Bass</name>
+    </artist>
+    <id type="isrc">GBAAN0201305</id>
+    <album href="spotify:album:2c6jvwvpB6BxSt9GRpkgl9">
+      <name>Lifestyle2 - Chill Lounge Vol 1</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CZ DE FI GB HR HU IE NO PL RU SG SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>374.480000</length>
+    <popularity>0.32200</popularity>
+  </track>
+  <track href="spotify:track:5ddZT4fFIUqxKCEl1aMefd">
+    <name>Trans Fatty Acid - Kruder &amp; Dorfmeister Session Mix</name>
+    <artist href="spotify:artist:08YvZ2qzFrDSITfHLbPKMP">
+      <name>Lamb</name>
+    </artist>
+    <id type="isrc">GBF089700185</id>
+    <album href="spotify:album:07h7nvM4vrOj7f2SOxSrhK">
+      <name>What Sound</name>
+      <released>2002</released>
+      <availability>
+        <territories>AU BE CH CZ DK ES GB IE NL NZ PL PT SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>540.866000</length>
+    <popularity>0.32615</popularity>
+  </track>
+  <track href="spotify:track:4lm1GclttsdQeai33xaUFM">
+    <name>Original Bedroom Rockers</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">GBKTX0700251</id>
+    <album href="spotify:album:6TFYGynikAAFmmEixVPVEc">
+      <name>Summer Chill Classics (A Decade Of Blissed Out Bar Grooves)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>363.867000</length>
+    <popularity>0.30002</popularity>
+  </track>
+  <track href="spotify:track:3QIuzaLFyaEk8p43um0TXH">
+    <name>Deep Shit Pt. 1 &amp; 2</name>
+    <artist href="spotify:artist:39ywlwtGw8RTGobakgb11L">
+      <name>Kruder &amp; Dorfmeister</name>
+    </artist>
+    <id type="isrc">ATG249300102</id>
+    <album href="spotify:album:45hn2K2KxI4LV3X3QzYaRO">
+      <name>Lifestyle2 - Chill Lounge Vol 1</name>
+      <released>2008</released>
+      <availability>
+        <territories>SE</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>377.053000</length>
+    <popularity>0.27374</popularity>
+  </track>
+  <track href="spotify:track:27IKfKy6b8FLd9CnPM2MAE">
+    <name>Bomberclad Joint - Kruder &amp; Dorfmeister</name>
+    <artist href="spotify:artist:4QiVrFYBkKs4s5qjCE3tiq">
+      <name>Knowtoryus</name>
+    </artist>
+    <id type="isrc">DEM090000047</id>
+    <album href="spotify:album:1kYon4xsRwKpbVTJDG1UFJ">
+      <name>Digital &amp; Rare Vol. 1</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>235.413000</length>
+    <popularity>0.27004</popularity>
+  </track>
+  <track href="spotify:track:3DE2jHibElpsJHt6AaETN2">
+    <name>Trans Fatty Acid - Kruder &amp; Dorfmeister Remix Edit</name>
+    <artist href="spotify:artist:08YvZ2qzFrDSITfHLbPKMP">
+      <name>Lamb</name>
+    </artist>
+    <id type="isrc">GBF089800359</id>
+    <album href="spotify:album:6WogBgc1G23f6RSOkR3Gon">
+      <name>Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU CH CN CZ DE DK EE ES FI FR GB HK HR HU IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>539.853000</length>
+    <popularity>0.29183</popularity>
+  </track>
+  <track href="spotify:track:3uQcTdvjtuvWyAFLp4apBH">
+    <name>Night Nurse (Kruder &amp; Dorfmeister Session) - Kruder &amp; Dorfmeister Session</name>
+    <artist href="spotify:artist:6QHu71f8LLeT8n0GzfbYFc">
+      <name>Gregory Isaacs</name>
+    </artist>
+    <id type="isrc">USIR29700232</id>
+    <album href="spotify:album:0h31KqIo3fQCe6JqVhRhSG">
+      <name>Lifestyle2 - Chill Lounge Vol 2</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CZ DE FI GB HR HU IE NO PL RU SG SK UA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>329.253000</length>
+    <popularity>0.26141</popularity>
+  </track>
+  <track href="spotify:track:0mhk5fCBtDiZFd41Dv8gpa">
+    <name>Bug Powder Dust - Kruder &amp; Dorfmeister Dub</name>
+    <artist href="spotify:artist:1G3Eh23f2hwhEnAMw7HsZ6">
+      <name>Bomb The Bass</name>
+    </artist>
+    <id type="isrc">GBAAN0201305</id>
+    <album href="spotify:album:45hn2K2KxI4LV3X3QzYaRO">
+      <name>Lifestyle2 - Chill Lounge Vol 1</name>
+      <released>2008</released>
+      <availability>
+        <territories>SE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>375.013000</length>
+    <popularity>0.27432</popularity>
+  </track>
+  <track href="spotify:track:1BUHTu8SCqsA11FBCn1M6e">
+    <name>Night Nurse (Kruder &amp; Dorfmeister Session) - Kruder &amp; Dorfmeister Session</name>
+    <artist href="spotify:artist:6QHu71f8LLeT8n0GzfbYFc">
+      <name>Gregory Isaacs</name>
+    </artist>
+    <id type="isrc">USIR29700232</id>
+    <album href="spotify:album:6AKw5sQbBY4ukKgV6FcQEE">
+      <name>Lifestyle2 - Chill Lounge Vol 2</name>
+      <released>2008</released>
+      <availability>
+        <territories>SE</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>330.586000</length>
+    <popularity>0.25738</popularity>
+  </track>
+  <track href="spotify:track:6ZOSoagxwaLFYypdw4Y2Yn">
+    <name>Trans Fatty Acid - Kruder &amp; Dorfmeister Remix Edit</name>
+    <artist href="spotify:artist:08YvZ2qzFrDSITfHLbPKMP">
+      <name>Lamb</name>
+    </artist>
+    <id type="isrc">GBF089800359</id>
+    <album href="spotify:album:71HGIEAQgLrve7MVDTM6q3">
+      <name>Remixed</name>
+      <released>2005</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>539.853000</length>
+    <popularity>0.27085</popularity>
+  </track>
+  <track href="spotify:track:4aIACprxEQXYgnyDTfhZiC">
+    <name>Transfatty Acid - Kruder &amp; Dorfmeister Remix Edit</name>
+    <artist href="spotify:artist:08YvZ2qzFrDSITfHLbPKMP">
+      <name>Lamb</name>
+    </artist>
+    <id type="isrc">GBF089800359</id>
+    <album href="spotify:album:4bnNuuhWLsSGePW5y8GZ3P">
+      <name>Café Del Mar: Volumen Cinco y Seis</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT AU DE GB HR IT NL RU</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>404.560000</length>
+    <popularity>0.25230</popularity>
+  </track>
+  <track href="spotify:track:4liCQV5A7kPYrn5ixoULWK">
+    <name>Useless - The Kruder + Dorfmeister Session</name>
+    <artist href="spotify:artist:762310PdDnwsDxAQxzQkfX">
+      <name>Depeche Mode</name>
+    </artist>
+    <id type="isrc">GBAJH0400146</id>
+    <album href="spotify:album:4wvqSj96WPcUOi4XsOnGyF">
+      <name>Remixes 81&gt;04</name>
+      <released>2004</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>19</track-number>
+    <length>547.573000</length>
+    <popularity>0.24673</popularity>
+  </track>
+  <track href="spotify:track:2gSFE9Y1S5Dng1PXYvmbm0">
+    <name>Original Bedroom Rockers</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">GBKTX0901190</id>
+    <album href="spotify:album:6dIIufYreh0aFygYCUbVmf">
+      <name>Winter / Summer Chillout Classics Digital Box Set 43 Chilled Bar Grooves</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>23</track-number>
+    <length>363.867000</length>
+    <popularity>0.22778</popularity>
+  </track>
+  <track href="spotify:track:3J3MvJUfZiS3rh3BYwclCO">
+    <name>The Revenge Of The Bomberclad Joint (Kruder &amp; Dorfmeister Session Pt. II)</name>
+    <artist href="spotify:artist:4QiVrFYBkKs4s5qjCE3tiq">
+      <name>Knowtoryus</name>
+    </artist>
+    <id type="isrc">USA370961529</id>
+    <album href="spotify:album:7lUXvxDkawvrMxqZJ3JywE">
+      <name>Trip Hop Sounds</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>258.653000</length>
+    <popularity>0.25516</popularity>
+  </track>
+  <track href="spotify:track:4TNUsE2VUnfj3SVT8VrHVb">
+    <name>The Revenge Of The Bomberclad Joint (Kruder &amp; Dorfmeister Session Pt. II)</name>
+    <artist href="spotify:artist:4QiVrFYBkKs4s5qjCE3tiq">
+      <name>Knowtoryus</name>
+    </artist>
+    <id type="isrc">USA560628032</id>
+    <album href="spotify:album:14YDB2oSZa65QxNJ2Q4f7C">
+      <name>Clubber's Guide To Drum 'N' Bass</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>275.427000</length>
+    <popularity>0.23411</popularity>
+  </track>
+  <track href="spotify:track:4jglk3NHXajrqwdfVJrUiP">
+    <name>Black Baby (DJ-Kicks)</name>
+    <artist href="spotify:artist:0w9S6yT99I2cMoQrslSvzY">
+      <name>Kruder</name>
+    </artist>
+    <artist href="spotify:artist:0F4ihboWsfvk4xH0hkc08k">
+      <name>Dorfmeister</name>
+    </artist>
+    <id type="isrc">DEG939600003</id>
+    <album href="spotify:album:1OBOeR9s6PKtRQHgvSPB49">
+      <name>DJ-Kicks The Exclusives </name>
+      <released>2006</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>380.000000</length>
+    <popularity>0.19567</popularity>
+  </track>
+  <track href="spotify:track:16sFASXHmhPjwHXfuX4z7B">
+    <name>Useless - The Kruder + Dorfmeister Session</name>
+    <artist href="spotify:artist:762310PdDnwsDxAQxzQkfX">
+      <name>Depeche Mode</name>
+    </artist>
+    <id type="isrc">GBAJH0400146</id>
+    <album href="spotify:album:1xvX6tyv6NXLXyyQ7Hj3ix">
+      <name>Depeche Mode - Singles Box 6</name>
+      <released>2004</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>30</track-number>
+    <length>547.573000</length>
+    <popularity>0.20765</popularity>
+  </track>
+  <track href="spotify:track:1Q8VpE3HhadDxLHfomy4X7">
+    <name>Night Nurse (Kruder &amp; Dorfmeister Session) - Kruder &amp; Dorfmeister Session</name>
+    <artist href="spotify:artist:6QHu71f8LLeT8n0GzfbYFc">
+      <name>Gregory Isaacs</name>
+    </artist>
+    <id type="isrc">USIR29700232</id>
+    <album href="spotify:album:1JwEXGKH0PxhU0U4PuTIAf">
+      <name>Dubmission 2: The Remixes</name>
+      <released>1996</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>329.760000</length>
+    <popularity>0.18874</popularity>
+  </track>
+  <track href="spotify:track:6UO15pjQc1HOcQWZNR7jgE">
+    <name>The Revenge Of The Bomberclad Joint (Kruder &amp; Dorfmeister Session Pt.ll)</name>
+    <artist href="spotify:artist:4QiVrFYBkKs4s5qjCE3tiq">
+      <name>Knowtoryus</name>
+    </artist>
+    <id type="isrc">USA371020954</id>
+    <album href="spotify:album:5VQeRflEBFxybDjDaLqFNU">
+      <name>Fashion Lounge Remix</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>258.653000</length>
+    <popularity>0.20928</popularity>
+  </track>
+  <track href="spotify:track:4s96TMjP1j4h6KdFc16GjS">
+    <name>Bomberclad Joint (Kruder &amp; Dorfmeister Session)</name>
+    <artist href="spotify:artist:4QiVrFYBkKs4s5qjCE3tiq">
+      <name>Knowtoryus</name>
+    </artist>
+    <id type="isrc">DEM090000047</id>
+    <album href="spotify:album:1Z9Wifv3PPONsS2A5UJ77h">
+      <name>Compost 50</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>236.440000</length>
+    <popularity>0.18193</popularity>
+  </track>
+  <track href="spotify:track:4pXr40R2u8AkccNw1JQD6n">
+    <name>Useless - The Kruder + Dorfmeister Session</name>
+    <artist href="spotify:artist:762310PdDnwsDxAQxzQkfX">
+      <name>Depeche Mode</name>
+    </artist>
+    <id type="isrc">GBAJH0400146</id>
+    <album href="spotify:album:5Y0b7Wi56263sCvw4RteCp">
+      <name>Remixes 81&gt;04</name>
+      <released>2004</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>547.573000</length>
+    <popularity>0.17577</popularity>
+  </track>
+  <track href="spotify:track:3f4nOyMHC5jRf5Z8YWRbFh">
+    <name>Gotta Jazz</name>
+    <artist href="spotify:artist:6j8m6cVc4301niMvVMP0kz">
+      <name>Count Basic</name>
+    </artist>
+    <id type="isrc">USSH60509603</id>
+    <album href="spotify:album:1q9hricKh1zM3nuPRvlotQ">
+      <name>The Peter Kruder Richard Dorfmeister Remixes</name>
+      <released>2001</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>331.000000</length>
+    <popularity>0.17248</popularity>
+  </track>
+  <track href="spotify:track:4UrB0G94zTw5OtQOYMsDhD">
+    <name>Useless - Kruder &amp; Dorfmeister Session Version</name>
+    <artist href="spotify:artist:762310PdDnwsDxAQxzQkfX">
+      <name>Depeche Mode</name>
+    </artist>
+    <id type="isrc">GBAJH9700343</id>
+    <album href="spotify:album:6PaBPB6A1duL6ejV1TnT6m">
+      <name>Home</name>
+      <released>1997</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>548.306000</length>
+    <popularity>0.15633</popularity>
+  </track>
+  <track href="spotify:track:2iT0NrEP788ua32E7yFRPP">
+    <name>Speechless Drum &amp; Bass</name>
+    <artist href="spotify:artist:6j8m6cVc4301niMvVMP0kz">
+      <name>Count Basic</name>
+    </artist>
+    <id type="isrc">USSH60509604</id>
+    <album href="spotify:album:1q9hricKh1zM3nuPRvlotQ">
+      <name>The Peter Kruder Richard Dorfmeister Remixes</name>
+      <released>2001</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>412.000000</length>
+    <popularity>0.15862</popularity>
+  </track>
+  <track href="spotify:track:6p1TEx7AAhuvGdcD0phicO">
+    <name>Hide Abstract Jazz</name>
+    <artist href="spotify:artist:6j8m6cVc4301niMvVMP0kz">
+      <name>Count Basic</name>
+    </artist>
+    <id type="isrc">USSH60509601</id>
+    <album href="spotify:album:1q9hricKh1zM3nuPRvlotQ">
+      <name>The Peter Kruder Richard Dorfmeister Remixes</name>
+      <released>2001</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>144.000000</length>
+    <popularity>0.14387</popularity>
+  </track>
+  <track href="spotify:track:1ddrfd1GSVmMlrwFqwDd5l">
+    <name>Gone (The Kruder &amp; Dorfmeister Session Tm)</name>
+    <artist href="spotify:artist:10kGEgP8MxhlfeA2tMinsL">
+      <name>David Holmes</name>
+    </artist>
+    <artist href="spotify:artist:1zNEDEkB3OxMFs1T4elb7q">
+      <name>Sarah Cracknell</name>
+    </artist>
+    <id type="isrc">GBAQT9600015</id>
+    <album href="spotify:album:5D8yBBq4yL4BGVV3mnxOfu">
+      <name>This Film's Crap, Let's Slash The Seats</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>471.293000</length>
+    <popularity>0.11844</popularity>
+  </track>
+  <track href="spotify:track:729DSVDXuEeBcyunvbkGyr">
+    <name>Speechless Slomo</name>
+    <artist href="spotify:artist:6j8m6cVc4301niMvVMP0kz">
+      <name>Count Basic</name>
+    </artist>
+    <id type="isrc">USSH60509602</id>
+    <album href="spotify:album:1q9hricKh1zM3nuPRvlotQ">
+      <name>The Peter Kruder Richard Dorfmeister Remixes</name>
+      <released>2001</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>426.000000</length>
+    <popularity>0.11752</popularity>
+  </track>
+  <track href="spotify:track:1rfkbc2edzWZogAHbCNfi2">
+    <name>Strange Life</name>
+    <artist href="spotify:artist:6j8m6cVc4301niMvVMP0kz">
+      <name>Count Basic</name>
+    </artist>
+    <id type="isrc">USSH60509606</id>
+    <album href="spotify:album:1q9hricKh1zM3nuPRvlotQ">
+      <name>The Peter Kruder Richard Dorfmeister Remixes</name>
+      <released>2001</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>276.000000</length>
+    <popularity>0.11203</popularity>
+  </track>
+  <track href="spotify:track:4KVBDJhHC6Ts0xCwSO4tJ9">
+    <name>Hide &amp; Seek</name>
+    <artist href="spotify:artist:6j8m6cVc4301niMvVMP0kz">
+      <name>Count Basic</name>
+    </artist>
+    <id type="isrc">USSH60509605</id>
+    <album href="spotify:album:1q9hricKh1zM3nuPRvlotQ">
+      <name>The Peter Kruder Richard Dorfmeister Remixes</name>
+      <released>2001</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>289.000000</length>
+    <popularity>0.11142</popularity>
+  </track>
+  <track href="spotify:track:52eAjrbmOeZiZmU0PHrIYu">
+    <name>Speechless Vocal Mix</name>
+    <artist href="spotify:artist:6j8m6cVc4301niMvVMP0kz">
+      <name>Count Basic</name>
+    </artist>
+    <id type="isrc">USSH60509607</id>
+    <album href="spotify:album:1q9hricKh1zM3nuPRvlotQ">
+      <name>The Peter Kruder Richard Dorfmeister Remixes</name>
+      <released>2001</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>316.000000</length>
+    <popularity>0.10099</popularity>
+  </track>
+  <track href="spotify:track:75Dag8wUizVdZtDEF2JLpT">
+    <name>The Revenge Of The Bomberclad Joint (Kruder &amp; Dorfmeister Session Pt.ll)</name>
+    <artist href="spotify:artist:4QiVrFYBkKs4s5qjCE3tiq">
+      <name>Knowtoryus</name>
+    </artist>
+    <id type="isrc">USA370948431</id>
+    <album href="spotify:album:1k6KKgteFGWuSm8xFL2y3F">
+      <name>This Is Buddha Lounge</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>28</track-number>
+    <length>258.653000</length>
+    <popularity>0.07295</popularity>
+  </track>
+  <track href="spotify:track:6GeF1lgVKJ2YxjGd6FJCi4">
+    <name>L.O.V.E. - Kruder + Dorfmeister Remix</name>
+    <artist href="spotify:artist:0V4fAktrp2psvXpQb2KSWh">
+      <name>United Future Organization</name>
+    </artist>
+    <id type="isrc">JPPH09502980</id>
+    <album href="spotify:album:6oJWcVw7df3JFLTkVvxIHW">
+      <name>Ufos For Real Scene2</name>
+      <released>2006</released>
+      <availability>
+        <territories>CZ NO PT SK</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>379.880000</length>
+    <popularity>0.04533</popularity>
+  </track>
+  <track href="spotify:track:3pXUSKoAVWOpM8q7mVUb2p">
+    <name>Trans Fatty Acid - Kruder &amp; Dorfmeister Remix Edit</name>
+    <artist href="spotify:artist:08YvZ2qzFrDSITfHLbPKMP">
+      <name>Lamb</name>
+    </artist>
+    <id type="isrc">GBF089800359</id>
+    <album href="spotify:album:4JAVFPvnJHTsGef2WKyHOY">
+      <name>Earotic Chill</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>405.813000</length>
+    <popularity>0.00786</popularity>
+  </track>
+  <track href="spotify:track:3mLGb4DuZQTvcMtIN6vGak">
+    <name>Night Nurse (Kruder &amp; Dorfmeister Session) - Kruder &amp; Dorfmeister Session</name>
+    <artist href="spotify:artist:6QHu71f8LLeT8n0GzfbYFc">
+      <name>Gregory Isaacs</name>
+    </artist>
+    <id type="isrc">USIR29700232</id>
+    <album href="spotify:album:74JbyE2APLsiFF7goozcdc">
+      <name>Earotic Chill (Essential 55 Hits)</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>330.493000</length>
+    <popularity>0.00250</popularity>
+  </track>
+  <track href="spotify:track:05hXxBrK1JDK7mkTiNm3Uv">
+    <name>Night Nurse (Kruder &amp; Dorfmeister Session) - Kruder &amp; Dorfmeister Session</name>
+    <artist href="spotify:artist:6QHu71f8LLeT8n0GzfbYFc">
+      <name>Gregory Isaacs</name>
+    </artist>
+    <id type="isrc">USIR29700232</id>
+    <album href="spotify:album:4JAVFPvnJHTsGef2WKyHOY">
+      <name>Earotic Chill</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>330.093000</length>
+    <popularity>0.00000</popularity>
+  </track>
+  <track href="spotify:track:1VtiSAFTiHrjxqLy2nMTYn">
+    <name>Bug Powder Dust - Kruder &amp; Dorfmeister Dub</name>
+    <artist href="spotify:artist:1G3Eh23f2hwhEnAMw7HsZ6">
+      <name>Bomb The Bass</name>
+    </artist>
+    <id type="isrc">GBAAN0201305</id>
+    <album href="spotify:album:74JbyE2APLsiFF7goozcdc">
+      <name>Earotic Chill (Essential 55 Hits)</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT DE</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>374.933000</length>
+    <popularity>0.00000</popularity>
+  </track>
+  <track href="spotify:track:5XqI1XodzUiKQr97xQavxD">
+    <name>Trans Fatty Acid - Kruder &amp; Dorfmeister Remix Edit</name>
+    <artist href="spotify:artist:08YvZ2qzFrDSITfHLbPKMP">
+      <name>Lamb</name>
+    </artist>
+    <id type="isrc">GBF089800359</id>
+    <album href="spotify:album:2yZelBjsyg7eRJ3WP7NI5p">
+      <name>Larusmiani Freedom</name>
+      <released>2011</released>
+      <availability>
+        <territories>IT SM VA</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>404.946000</length>
+    <popularity>0.00000</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:24:45 GMT -->
