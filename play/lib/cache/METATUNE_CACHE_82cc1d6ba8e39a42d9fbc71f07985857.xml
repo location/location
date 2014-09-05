@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<artists xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Bon Jovi"/>
+  <opensearch:totalResults>10</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <artist href="spotify:artist:58lV9VcRSjABbAbfWS6skp">
+    <name>Bon Jovi</name>
+    <popularity>0.59290</popularity>
+  </artist>
+  <artist href="spotify:artist:6h2bWHWTJL38N8dqocVaif">
+    <name>Jon Bon Jovi</name>
+    <popularity>0.37666</popularity>
+  </artist>
+  <artist href="spotify:artist:0J9QgfzXIEAdiddv4ynrur">
+    <name>Luciano Pavarotti &amp; Celine Dion &amp; Eros Ramazotti &amp; Zucchero &amp; Stevie Wonder &amp; Trisha Yearwood &amp; Vanessa Williams &amp; Spice Girls &amp; The Corrs &amp; Jon Bon Jovi</name>
+    <popularity>0.01142</popularity>
+  </artist>
+  <artist href="spotify:artist:78a0R6grDpVMTk9n3BNgNK">
+    <name>Eric Burdon And Bon Jovi</name>
+    <popularity>0.00136</popularity>
+  </artist>
+  <artist href="spotify:artist:2plNRHCXvi8mysjsNoBdK2">
+    <name>Karaoke - Bon Jovi</name>
+    <popularity>0.00103</popularity>
+  </artist>
+  <artist href="spotify:artist:1y2xNwfxOwI91e4e1I6bN7">
+    <name>Sam Moore with Jon Bon Jovi</name>
+    <popularity>0.00088</popularity>
+  </artist>
+  <artist href="spotify:artist:79Jyj8Ca1HgYXIfrBbjIwf">
+    <name>The Allstars Covers Bon Jovi</name>
+    <popularity>0.00032</popularity>
+  </artist>
+  <artist href="spotify:artist:6tv0vVwY1qycvGIlF5WL8R">
+    <name>Karaoke - Jon Bon Jovi</name>
+    <popularity>0.00020</popularity>
+  </artist>
+  <artist href="spotify:artist:1uSm0TBwWxom9v2H00CaYh">
+    <name>Bon Jovi Tribute Band</name>
+    <popularity>0.00019</popularity>
+  </artist>
+  <artist href="spotify:artist:32wOJGHi2vwO5mjKeumGjh">
+    <name>J. Bon Jovi</name>
+    <popularity>0.00008</popularity>
+  </artist>
+</artists>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:04:11 GMT -->

@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Sondre Lerche"/>
+  <opensearch:totalResults>202</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:1AHvvJQr8p2opmTaUabMCJ">
+    <name>Private Caller</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101002</id>
+    <album href="spotify:album:1WA8nSM0R7RAI5ojOIICTI">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>223.547000</length>
+    <popularity>0.49698</popularity>
+  </track>
+  <track href="spotify:track:2ZwJdFxMcasAwSlk9O7TLw">
+    <name>Two Way Monologue</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304090</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>342.826000</length>
+    <popularity>0.53737</popularity>
+  </track>
+  <track href="spotify:track:55FveBmYpHsK2qOIVNVXSG">
+    <name>Ricochet</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101001</id>
+    <album href="spotify:album:1WA8nSM0R7RAI5ojOIICTI">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>260.440000</length>
+    <popularity>0.46147</popularity>
+  </track>
+  <track href="spotify:track:3928BNJGrv6zdsQdchCrrM">
+    <name>Go Right Ahead</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101004</id>
+    <album href="spotify:album:1WA8nSM0R7RAI5ojOIICTI">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>205.760000</length>
+    <popularity>0.44390</popularity>
+  </track>
+  <track href="spotify:track:1XUSb1otPPd2WriIU6Vp69">
+    <name>Red Flags</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101003</id>
+    <album href="spotify:album:1WA8nSM0R7RAI5ojOIICTI">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>274.120000</length>
+    <popularity>0.39941</popularity>
+  </track>
+  <track href="spotify:track:3Bu8yWIiS9XkMIuWh0KOVT">
+    <name>When the River</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101010</id>
+    <album href="spotify:album:1WA8nSM0R7RAI5ojOIICTI">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>238.493000</length>
+    <popularity>0.39758</popularity>
+  </track>
+  <track href="spotify:track:0XGKyigJkyynKoUfVjiuPm">
+    <name>Domino</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101007</id>
+    <album href="spotify:album:1WA8nSM0R7RAI5ojOIICTI">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>209.973000</length>
+    <popularity>0.39091</popularity>
+  </track>
+  <track href="spotify:track:7MmFhLMUbUfBtHxg45bjp6">
+    <name>Coliseum Town</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101005</id>
+    <album href="spotify:album:1WA8nSM0R7RAI5ojOIICTI">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>192.440000</length>
+    <popularity>0.38589</popularity>
+  </track>
+  <track href="spotify:track:6amL7lCsfla8Lx3LAzsje4">
+    <name>Mr. Bassman</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USWD10937378</id>
+    <album href="spotify:album:1pCzQq6e6pVDJ4b0L8kCn3">
+      <name>Muppets: The Green Album</name>
+      <released>2011</released>
+      <availability>
+        <territories>CY CZ DK EE FI FR GB GR HR HU IE LT NO PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>161.746000</length>
+    <popularity>0.44212</popularity>
+  </track>
+  <track href="spotify:track:1X2UZlhAPTEBAUT94jLrJ1">
+    <name>Nevermind the Typos</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101006</id>
+    <album href="spotify:album:1WA8nSM0R7RAI5ojOIICTI">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>272.093000</length>
+    <popularity>0.37284</popularity>
+  </track>
+  <track href="spotify:track:7qgjIufiatoMEvjs9LSkXq">
+    <name>Mr. Bassman</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USWD10937378</id>
+    <album href="spotify:album:77klgRm6FxdgXYArYvXGYj">
+      <name>Muppets: The Green Album</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>161.747000</length>
+    <popularity>0.42021</popularity>
+  </track>
+  <track href="spotify:track:1kwgMFXS1sraNMRIDbDKdc">
+    <name>Living Dangerously</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101008</id>
+    <album href="spotify:album:1WA8nSM0R7RAI5ojOIICTI">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>236.507000</length>
+    <popularity>0.36225</popularity>
+  </track>
+  <track href="spotify:track:5o1wH28Q3uEDGjblTICKNu">
+    <name>Private Caller</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101002</id>
+    <album href="spotify:album:1XQ7vQEePEc6T0wDR8jD4C">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>223.547000</length>
+    <popularity>0.35919</popularity>
+  </track>
+  <track href="spotify:track:6zw4y8NPYOQUGEsNV7u3vc">
+    <name>Tied Up To the Tide</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101009</id>
+    <album href="spotify:album:1WA8nSM0R7RAI5ojOIICTI">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CH CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>320.880000</length>
+    <popularity>0.35658</popularity>
+  </track>
+  <track href="spotify:track:6uhSIb6LQf1aqr9fyXcjOq">
+    <name>You Know So Well</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008020</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>255.160000</length>
+    <popularity>0.39728</popularity>
+  </track>
+  <track href="spotify:track:5Fb1tBNLkKUymmf7f1uJOV">
+    <name>Modern Nature</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008060</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>216.960000</length>
+    <popularity>0.39277</popularity>
+  </track>
+  <track href="spotify:track:3FoNKmYfeHkvnV6fpUGu3D">
+    <name>Modern Nature</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008060</id>
+    <album href="spotify:album:5dnwBCdDJHmD83k36JfTD2">
+      <name>Faces Down</name>
+      <released>2002</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>216.920000</length>
+    <popularity>0.38707</popularity>
+  </track>
+  <track href="spotify:track:01YorAsdX1NYI8xwmSI1qU">
+    <name>Ricochet</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101001</id>
+    <album href="spotify:album:1XQ7vQEePEc6T0wDR8jD4C">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>260.440000</length>
+    <popularity>0.31394</popularity>
+  </track>
+  <track href="spotify:track:119tQZtps88EtShD2VFtgy">
+    <name>Go Right Ahead</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101004</id>
+    <album href="spotify:album:1XQ7vQEePEc6T0wDR8jD4C">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>205.760000</length>
+    <popularity>0.30074</popularity>
+  </track>
+  <track href="spotify:track:7za8yXPfC5agzjYE45QSbv">
+    <name>Sleep On Needles</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008030</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>285.400000</length>
+    <popularity>0.35422</popularity>
+  </track>
+  <track href="spotify:track:3sCTw5wiHiPlXbbGKIWdrw">
+    <name>Track You Down</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304020</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>278.880000</length>
+    <popularity>0.34803</popularity>
+  </track>
+  <track href="spotify:track:4yBHXbD7QO3fNW3dERhJ7G">
+    <name>Say It All</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603030</id>
+    <album href="spotify:album:1dUdM0ZNWGNcPOWA6gUv5R">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>233.200000</length>
+    <popularity>0.34645</popularity>
+  </track>
+  <track href="spotify:track:1XDrMnfFmJ6D6QJqh0KGcE">
+    <name>Days That Are Over</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304050</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>249.826000</length>
+    <popularity>0.34627</popularity>
+  </track>
+  <track href="spotify:track:5GbuP2VCwtcYks19oqAe89">
+    <name>Heartbeat Radio</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909402</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>244.333000</length>
+    <popularity>0.34491</popularity>
+  </track>
+  <track href="spotify:track:0g8E7qPVhCoZZEy36bt1tR">
+    <name>I Cannot Let You Go</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909403</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>285.040000</length>
+    <popularity>0.34512</popularity>
+  </track>
+  <track href="spotify:track:3OrII9lGIAHfkzpLhz4CDb">
+    <name>Domino</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101007</id>
+    <album href="spotify:album:1XQ7vQEePEc6T0wDR8jD4C">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>209.973000</length>
+    <popularity>0.28488</popularity>
+  </track>
+  <track href="spotify:track:6G6g5G7S2kLEwqlWQuWPsZ">
+    <name>Dan and Marie Finale Theme</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USHR10723535</id>
+    <album href="spotify:album:2hc3wJYs3eHHjvSAhI3VjV">
+      <name>Dan In Real Life (Original Motion Picture Soundtrack)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>125.133000</length>
+    <popularity>0.34035</popularity>
+  </track>
+  <track href="spotify:track:6iBYCS5rgEpKCRE2gKAWpT">
+    <name>Red Flags</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101003</id>
+    <album href="spotify:album:1XQ7vQEePEc6T0wDR8jD4C">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>274.120000</length>
+    <popularity>0.27942</popularity>
+  </track>
+  <track href="spotify:track:70FEM5WhDBe6UF8TKInnzk">
+    <name>Coliseum Town</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101005</id>
+    <album href="spotify:album:1XQ7vQEePEc6T0wDR8jD4C">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>192.440000</length>
+    <popularity>0.28005</popularity>
+  </track>
+  <track href="spotify:track:1qeHg8qZ1zSCMnWNXwwOgC">
+    <name>Dan and Marie Picking Hum</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USHR10723531</id>
+    <album href="spotify:album:2hc3wJYs3eHHjvSAhI3VjV">
+      <name>Dan In Real Life (Original Motion Picture Soundtrack)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>55.706000</length>
+    <popularity>0.33289</popularity>
+  </track>
+  <track href="spotify:track:4D1AhnzXQX4b1JQZ8XYanj">
+    <name>Good Luck</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909401</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>313.360000</length>
+    <popularity>0.32840</popularity>
+  </track>
+  <track href="spotify:track:0JxBIsEQTV76OAUQC73pUf">
+    <name>Dan In Real Life</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USHR10723533</id>
+    <album href="spotify:album:2hc3wJYs3eHHjvSAhI3VjV">
+      <name>Dan In Real Life (Original Motion Picture Soundtrack)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>91.000000</length>
+    <popularity>0.32757</popularity>
+  </track>
+  <track href="spotify:track:3nOQmwS6q6NvZyrfCxN6gf">
+    <name>Two Way Monologue (Short Edit)</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304092</id>
+    <album href="spotify:album:5fyGRJenAlf5YdebTL0sJI">
+      <name>Two Way Monologue</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>185.600000</length>
+    <popularity>0.32340</popularity>
+  </track>
+  <track href="spotify:track:7iXLU09bdo1HFC57kgzixA">
+    <name>On The Tower</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304120</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>229.613000</length>
+    <popularity>0.32368</popularity>
+  </track>
+  <track href="spotify:track:2slcjT2YqQd8CE31BSFfTh">
+    <name>Nevermind the Typos</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101006</id>
+    <album href="spotify:album:1XQ7vQEePEc6T0wDR8jD4C">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>272.093000</length>
+    <popularity>0.26696</popularity>
+  </track>
+  <track href="spotify:track:74C4Pa5PdtoyPDzph9b5we">
+    <name>Love You</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304160</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>97.080000</length>
+    <popularity>0.31637</popularity>
+  </track>
+  <track href="spotify:track:1NrSwbvJTtbLFzAKVcGtID">
+    <name>When the River</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101010</id>
+    <album href="spotify:album:1XQ7vQEePEc6T0wDR8jD4C">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>238.493000</length>
+    <popularity>0.26111</popularity>
+  </track>
+  <track href="spotify:track:6ictkcRUqxUNifxx74AYP8">
+    <name>Stupid Memory</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304100</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>250.506000</length>
+    <popularity>0.31366</popularity>
+  </track>
+  <track href="spotify:track:5uHE54WI3SNA5AxigwZNiv">
+    <name>Family Theme Waltz</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USHR10723530</id>
+    <album href="spotify:album:2hc3wJYs3eHHjvSAhI3VjV">
+      <name>Dan In Real Life (Original Motion Picture Soundtrack)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>49.733000</length>
+    <popularity>0.31421</popularity>
+  </track>
+  <track href="spotify:track:1LOl21ueaKLmjyPehuNFqV">
+    <name>Family Theme</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USHR10723532</id>
+    <album href="spotify:album:2hc3wJYs3eHHjvSAhI3VjV">
+      <name>Dan In Real Life (Original Motion Picture Soundtrack)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>109.733000</length>
+    <popularity>0.31288</popularity>
+  </track>
+  <track href="spotify:track:6W5mOMhhaDhdmHMP4MtslA">
+    <name>Living Dangerously</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101008</id>
+    <album href="spotify:album:1XQ7vQEePEc6T0wDR8jD4C">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>236.507000</length>
+    <popularity>0.25613</popularity>
+  </track>
+  <track href="spotify:track:0M2geGKk9d2fWB4vlUULfA">
+    <name>Two Way Monologue</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304090</id>
+    <album href="spotify:album:0tNsfX2tIiv5hekFSfMG8K">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>342.826000</length>
+    <popularity>0.30964</popularity>
+  </track>
+  <track href="spotify:track:5By6gYdbhPyFKBI1Yc1NXq">
+    <name>Tied Up To the Tide</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">QMYT81101009</id>
+    <album href="spotify:album:1XQ7vQEePEc6T0wDR8jD4C">
+      <name>Sondre Lerche</name>
+      <released>2011</released>
+      <availability>
+        <territories>CA MX US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>320.880000</length>
+    <popularity>0.25349</popularity>
+  </track>
+  <track href="spotify:track:1b7EowbF9Y7lmcNISJqV5D">
+    <name>Phantom Punch</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603050</id>
+    <album href="spotify:album:1dUdM0ZNWGNcPOWA6gUv5R">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>180.826000</length>
+    <popularity>0.30551</popularity>
+  </track>
+  <track href="spotify:track:6DzLNDXUkFj1SbQ0aBo3cp">
+    <name>Dan and Marie Melody</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USHR10723537</id>
+    <album href="spotify:album:2hc3wJYs3eHHjvSAhI3VjV">
+      <name>Dan In Real Life (Original Motion Picture Soundtrack)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>55.893000</length>
+    <popularity>0.30546</popularity>
+  </track>
+  <track href="spotify:track:0S66FGY7wLJY3H60kmyxKR">
+    <name>Airport Taxi Reception</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603010</id>
+    <album href="spotify:album:1dUdM0ZNWGNcPOWA6gUv5R">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>148.266000</length>
+    <popularity>0.30534</popularity>
+  </track>
+  <track href="spotify:track:5E97q6RIoeInQc4aYlNv6Z">
+    <name>If Only</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909405</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>233.933000</length>
+    <popularity>0.30104</popularity>
+  </track>
+  <track href="spotify:track:6EQFrhUKuhmHkJXWRaSqmO">
+    <name>Wet Ground</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304060</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>191.666000</length>
+    <popularity>0.29955</popularity>
+  </track>
+  <track href="spotify:track:0mQM6PlrnFuus56YNZIfF5">
+    <name>Maybe You're Gone</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304110</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>289.053000</length>
+    <popularity>0.29907</popularity>
+  </track>
+  <track href="spotify:track:6U5G7gabnCy3c7mEIMy15j">
+    <name>Like Lazenby</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909404</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>202.600000</length>
+    <popularity>0.29827</popularity>
+  </track>
+  <track href="spotify:track:2taqrDe50euiPzHhYI3HPA">
+    <name>I Guess It's Gonna Rain Today</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909409</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>243.506000</length>
+    <popularity>0.29192</popularity>
+  </track>
+  <track href="spotify:track:5hT2QazaM6tuhZ7eaDUDuB">
+    <name>It's Over</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304080</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>191.800000</length>
+    <popularity>0.29158</popularity>
+  </track>
+  <track href="spotify:track:2E7d0lind2WJKqAsPaBt2W">
+    <name>You Know So Well</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008020</id>
+    <album href="spotify:album:5dnwBCdDJHmD83k36JfTD2">
+      <name>Faces Down</name>
+      <released>2002</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>255.120000</length>
+    <popularity>0.29259</popularity>
+  </track>
+  <track href="spotify:track:39PM87v8OiuAZb2COxSGv1">
+    <name>Airport Taxi Reception</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603010</id>
+    <album href="spotify:album:2Q619Z2f4GrHZW9fMOxYLJ">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>148.266000</length>
+    <popularity>0.29087</popularity>
+  </track>
+  <track href="spotify:track:1HRMMwwjPIIH51Hh5fzkx9">
+    <name>Words And Music</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909408</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>209.306000</length>
+    <popularity>0.28941</popularity>
+  </track>
+  <track href="spotify:track:5VLdRhxGRMF9S9fF6YGJIh">
+    <name>No One's Gonna Come</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008090</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>278.693000</length>
+    <popularity>0.28955</popularity>
+  </track>
+  <track href="spotify:track:4hmJJQidA0xOdgyMtv0Yip">
+    <name>Suffused With Love</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008040</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>170.600000</length>
+    <popularity>0.28852</popularity>
+  </track>
+  <track href="spotify:track:4vPYoWMpSkHgyB4qjzMfTL">
+    <name>Don't Be Shallow</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008130</id>
+    <album href="spotify:album:7lf2MlMFTYw2hhGd1aS12o">
+      <name>Don't Be Shallow</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>247.133000</length>
+    <popularity>0.28737</popularity>
+  </track>
+  <track href="spotify:track:0QH98Cun4Ahrd7kHJuWFGt">
+    <name>Say It All</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603030</id>
+    <album href="spotify:album:54V6cJwym4SyuAdXxhrT4E">
+      <name>Say It All</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>231.720000</length>
+    <popularity>0.28581</popularity>
+  </track>
+  <track href="spotify:track:7AEGe3JJtoOmyttB2nVF5z">
+    <name>Counter Spark</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304070</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>253.786000</length>
+    <popularity>0.28578</popularity>
+  </track>
+  <track href="spotify:track:5ey4g5wzayl6kIQE4sutWT">
+    <name>Dead Passengers</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008010</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>262.666000</length>
+    <popularity>0.28512</popularity>
+  </track>
+  <track href="spotify:track:5EtnMallLIfp1Q6ACOGuBS">
+    <name>Easy To Persuade</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909407</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>223.200000</length>
+    <popularity>0.28330</popularity>
+  </track>
+  <track href="spotify:track:3VBko104j3pAmLgJ1oTJb0">
+    <name>She's Fantastic</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603100</id>
+    <album href="spotify:album:1dUdM0ZNWGNcPOWA6gUv5R">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>143.200000</length>
+    <popularity>0.28329</popularity>
+  </track>
+  <track href="spotify:track:4B2hIiesYxEjpKm9nuhVgr">
+    <name>The Tape</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603020</id>
+    <album href="spotify:album:1dUdM0ZNWGNcPOWA6gUv5R">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>157.000000</length>
+    <popularity>0.28297</popularity>
+  </track>
+  <track href="spotify:track:1lcmFeiWJUjoBGbVBpIh8i">
+    <name>Heartbeat Radio</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909402</id>
+    <album href="spotify:album:3sdXF7pRMtRP9HN1MxnbY7">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>244.333000</length>
+    <popularity>0.28275</popularity>
+  </track>
+  <track href="spotify:track:1nw4nfb6BdeGqQhTVnMaLE">
+    <name>Pioneer</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909406</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>127.333000</length>
+    <popularity>0.27847</popularity>
+  </track>
+  <track href="spotify:track:0O7mWOgVM6yFcda6ViaOCw">
+    <name>Virtue And Wine</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008070</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>320.546000</length>
+    <popularity>0.27589</popularity>
+  </track>
+  <track href="spotify:track:1OwpMhK8fUSYLTGcXGy7Yu">
+    <name>Human Hands</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0508140</id>
+    <album href="spotify:album:4k1GpEplNpEAHZS1j75rKO">
+      <name>Duper Sessions</name>
+      <released>2006</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>154.680000</length>
+    <popularity>0.27613</popularity>
+  </track>
+  <track href="spotify:track:1CXecYAsKn0GFFj7oGfyvp">
+    <name>I Cannot Let You Go</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909403</id>
+    <album href="spotify:album:3sdXF7pRMtRP9HN1MxnbY7">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>285.040000</length>
+    <popularity>0.27534</popularity>
+  </track>
+  <track href="spotify:track:36td8YK1M2zBb5v1ZsVttL">
+    <name>It's Too Late</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304030</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>318.400000</length>
+    <popularity>0.27236</popularity>
+  </track>
+  <track href="spotify:track:77ITAgOW322n3Gmi68mTAX">
+    <name>Don't Look Now</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909411</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>192.040000</length>
+    <popularity>0.27104</popularity>
+  </track>
+  <track href="spotify:track:67uaMEJwvBoZv6uA8hD2QF">
+    <name>Days That Are Over</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304050</id>
+    <album href="spotify:album:0tNsfX2tIiv5hekFSfMG8K">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>249.826000</length>
+    <popularity>0.27079</popularity>
+  </track>
+  <track href="spotify:track:7FxlKh97Z7yQAKswUOOvFW">
+    <name>Almighty Moon</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909410</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>273.240000</length>
+    <popularity>0.26992</popularity>
+  </track>
+  <track href="spotify:track:7mjqsHrqqUh9yKUlmAGioD">
+    <name>It's Our Job</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304040</id>
+    <album href="spotify:album:3jqREP3RcF8uNTuJ8dOZmC">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>167.266000</length>
+    <popularity>0.26928</popularity>
+  </track>
+  <track href="spotify:track:35lVAmZWcvT8M7EhuU6Wwh">
+    <name>Sleep On Needles</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008030</id>
+    <album href="spotify:album:5dnwBCdDJHmD83k36JfTD2">
+      <name>Faces Down</name>
+      <released>2002</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>285.346000</length>
+    <popularity>0.26970</popularity>
+  </track>
+  <track href="spotify:track:0FmUnM7t6Ivu1CJ0YEfdWA">
+    <name>Good Luck</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909401</id>
+    <album href="spotify:album:3sdXF7pRMtRP9HN1MxnbY7">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>313.360000</length>
+    <popularity>0.26958</popularity>
+  </track>
+  <track href="spotify:track:7tCOcoKuG7VvXVyByJon2H">
+    <name>Goodnight</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909412</id>
+    <album href="spotify:album:2hg721etQTepeKrY6FA1cc">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE EE FI GB HR HU IE IT LT LV NL NO NZ PT SE SG SK ZA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>231.200000</length>
+    <popularity>0.26794</popularity>
+  </track>
+  <track href="spotify:track:0tZwkV4raC5Ej8aJV8xs40">
+    <name>Tragic Mirror</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603040</id>
+    <album href="spotify:album:1dUdM0ZNWGNcPOWA6gUv5R">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>237.933000</length>
+    <popularity>0.26813</popularity>
+  </track>
+  <track href="spotify:track:7kDe73zJ8VmxLkVsqYmArn">
+    <name>After All</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603080</id>
+    <album href="spotify:album:1dUdM0ZNWGNcPOWA6gUv5R">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>185.866000</length>
+    <popularity>0.26832</popularity>
+  </track>
+  <track href="spotify:track:7JzdKRRiF5UECKxwNSFEqp">
+    <name>I Know I Know</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008120</id>
+    <album href="spotify:album:7lf2MlMFTYw2hhGd1aS12o">
+      <name>Don't Be Shallow</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>182.333000</length>
+    <popularity>0.26831</popularity>
+  </track>
+  <track href="spotify:track:220vGivWgO2Ei9acg9mRoo">
+    <name>Side Two</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008050</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>276.533000</length>
+    <popularity>0.26861</popularity>
+  </track>
+  <track href="spotify:track:3qXnZAV0jMuabElRzT7Gs6">
+    <name>On And Off Again</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008080</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>306.453000</length>
+    <popularity>0.26764</popularity>
+  </track>
+  <track href="spotify:track:34rJFPRhFkiXamRCz5wyrX">
+    <name>You Know So Well (Live USA)</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008022</id>
+    <album href="spotify:album:7lf2MlMFTYw2hhGd1aS12o">
+      <name>Don't Be Shallow</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>272.893000</length>
+    <popularity>0.26607</popularity>
+  </track>
+  <track href="spotify:track:3KcVVMilGhcS6YmZUQadyb">
+    <name>All Luck Ran Out</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008100</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>265.186000</length>
+    <popularity>0.26581</popularity>
+  </track>
+  <track href="spotify:track:4GpUZtqpUV17PGazEp2hym">
+    <name>Track You Down</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304020</id>
+    <album href="spotify:album:0tNsfX2tIiv5hekFSfMG8K">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>278.880000</length>
+    <popularity>0.26630</popularity>
+  </track>
+  <track href="spotify:track:60d9kPPucRnjEORSp5xsF6">
+    <name>Minor Details</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0508020</id>
+    <album href="spotify:album:6xM2KZMQlZhHliopy7G2bx">
+      <name>Duper Sessions</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>214.813000</length>
+    <popularity>0.26513</popularity>
+  </track>
+  <track href="spotify:track:4eY0t126DL520AAirZB1LE">
+    <name>The Curse Of Being In Love</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0508040</id>
+    <album href="spotify:album:6xM2KZMQlZhHliopy7G2bx">
+      <name>Duper Sessions</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>185.786000</length>
+    <popularity>0.25882</popularity>
+  </track>
+  <track href="spotify:track:1jVaRNMbpS7VjPBfizYNmz">
+    <name>After All</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603080</id>
+    <album href="spotify:album:2Q619Z2f4GrHZW9fMOxYLJ">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>185.866000</length>
+    <popularity>0.25743</popularity>
+  </track>
+  <track href="spotify:track:4Mfc7Gs4B4ZEdxWf0cgAG6">
+    <name>Everyone's Rooting For You</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0508010</id>
+    <album href="spotify:album:6xM2KZMQlZhHliopy7G2bx">
+      <name>Duper Sessions</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>168.413000</length>
+    <popularity>0.25545</popularity>
+  </track>
+  <track href="spotify:track:5kTeF7EMzov7WnqolAkQkf">
+    <name>Face The Blood</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603090</id>
+    <album href="spotify:album:1dUdM0ZNWGNcPOWA6gUv5R">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>136.933000</length>
+    <popularity>0.25562</popularity>
+  </track>
+  <track href="spotify:track:3nXA1zBt3cAhezjdyMaHJS">
+    <name>John, Let Me Go</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603070</id>
+    <album href="spotify:album:1dUdM0ZNWGNcPOWA6gUv5R">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>247.066000</length>
+    <popularity>0.25544</popularity>
+  </track>
+  <track href="spotify:track:4NKhyGvxYaPupQr1SCx5qt">
+    <name>Things You Call Fate</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008110</id>
+    <album href="spotify:album:0jGMyqt97cRKyE6gsmHZVg">
+      <name>Faces Down</name>
+      <released>2001</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>565.373000</length>
+    <popularity>0.25561</popularity>
+  </track>
+  <track href="spotify:track:473kL3JLfqKEFfrQpZLBUG">
+    <name>Love You</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304160</id>
+    <album href="spotify:album:0tNsfX2tIiv5hekFSfMG8K">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>97.080000</length>
+    <popularity>0.25685</popularity>
+  </track>
+  <track href="spotify:track:6PWHLnLa6vEQ9wHGP8K2l4">
+    <name>On The Tower</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0304120</id>
+    <album href="spotify:album:0tNsfX2tIiv5hekFSfMG8K">
+      <name>Two Way Monologue</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>229.613000</length>
+    <popularity>0.25583</popularity>
+  </track>
+  <track href="spotify:track:42nSc2JBIePwqSuz1q5Bqb">
+    <name>Well, Well, Well</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0603060</id>
+    <album href="spotify:album:1dUdM0ZNWGNcPOWA6gUv5R">
+      <name>Phantom Punch</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>207.333000</length>
+    <popularity>0.25367</popularity>
+  </track>
+  <track href="spotify:track:1ngt3uytz7nsWgVGCppWIU">
+    <name>Lulu-vise</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0508130</id>
+    <album href="spotify:album:6xM2KZMQlZhHliopy7G2bx">
+      <name>Duper Sessions</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>94.480000</length>
+    <popularity>0.25185</popularity>
+  </track>
+  <track href="spotify:track:3yMVV5st3RMD9bog59Mg1t">
+    <name>Single-hand Affairs</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008170</id>
+    <album href="spotify:album:7lf2MlMFTYw2hhGd1aS12o">
+      <name>Don't Be Shallow</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>209.760000</length>
+    <popularity>0.25141</popularity>
+  </track>
+  <track href="spotify:track:0O7E5Tt3BzQJTV1KxXd4jZ">
+    <name>Sleep On Needles (Live USA)</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0008033</id>
+    <album href="spotify:album:7lf2MlMFTYw2hhGd1aS12o">
+      <name>Don't Be Shallow</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>279.786000</length>
+    <popularity>0.25111</popularity>
+  </track>
+  <track href="spotify:track:4DIVfLmiPHlJTuUgMYGMUS">
+    <name>Words &amp; Music</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">USRO20909408</id>
+    <album href="spotify:album:3sdXF7pRMtRP9HN1MxnbY7">
+      <name>Heartbeat Radio</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>209.307000</length>
+    <popularity>0.25303</popularity>
+  </track>
+  <track href="spotify:track:5CN9M5ZUxtZ5i9pA3QKiuY">
+    <name>Dead End Mystery</name>
+    <artist href="spotify:artist:0Q6X1jqwOVQuclYp2P1bub">
+      <name>Sondre Lerche</name>
+    </artist>
+    <id type="isrc">NOAHV0508050</id>
+    <album href="spotify:album:6xM2KZMQlZhHliopy7G2bx">
+      <name>Duper Sessions</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GR HR HU IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>208.666000</length>
+    <popularity>0.24993</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sun, 11 Mar 2012 01:33:00 GMT -->

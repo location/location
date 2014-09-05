@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Nat King Cole"/>
+  <opensearch:totalResults>24425</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:7E3rc13GL2I5wA6CIFXaxs">
+    <name>L-O-V-E</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901262</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>153.466000</length>
+    <popularity>0.61833</popularity>
+  </track>
+  <track href="spotify:track:5h1mm1R9Jy531CbvptILX7">
+    <name>Unforgettable (Duet with Nat "King" Cole)</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <artist href="spotify:artist:5tTsrGPwQRWUsHR2Xf7Ke9">
+      <name>Natalie Cole</name>
+    </artist>
+    <id type="isrc">USEE19100030</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>25</track-number>
+    <length>208.640000</length>
+    <popularity>0.56326</popularity>
+  </track>
+  <track href="spotify:track:4cqLCCMzG6GQ9Bch2PBzFp">
+    <name>The Christmas Song (Merry Christmas To You)</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900551</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>191.640000</length>
+    <popularity>0.62414</popularity>
+  </track>
+  <track href="spotify:track:1oDCK7PW72XEZ1pE5rh87A">
+    <name>Smile</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29100211</id>
+    <album href="spotify:album:3NoP1ifIejWkGSDsO9T2xH">
+      <name>The Nat King Cole Story</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>173.266000</length>
+    <popularity>0.55770</popularity>
+  </track>
+  <track href="spotify:track:6bZf2VcN25Hu7jcLNkc5NC">
+    <name>When I Fall In Love</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA25700058</id>
+    <album href="spotify:album:0X60d06UrpWTMaLwMPd4Od">
+      <name>Nat King Cole - The Ultimate Collection</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>191.266000</length>
+    <popularity>0.52158</popularity>
+  </track>
+  <track href="spotify:track:4fmWoLmC56tPtBED8HLaEm">
+    <name>The Christmas Song (Merry Christmas To You)</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA28600133</id>
+    <album href="spotify:album:6DSiUd05nsqb10TkcFWlN5">
+      <name>Absolute Christmas</name>
+      <released>2011</released>
+      <availability>
+        <territories>SE</territories>
+      </availability>
+    </album>
+    <track-number>21</track-number>
+    <length>191.773000</length>
+    <popularity>0.55045</popularity>
+  </track>
+  <track href="spotify:track:4b09yzTo7CS5Kp9HpsnQvE">
+    <name>Unforgettable - 2003 - Remastered</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA20300539</id>
+    <album href="spotify:album:5643V0ojEFh2bULWiPhuhs">
+      <name>Music From The Motion Picture Watchmen</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>206.893000</length>
+    <popularity>0.53153</popularity>
+  </track>
+  <track href="spotify:track:0C3wR9nIodKyFqTp6TmSqC">
+    <name>The Christmas Song (Chestnuts Roasting On an Open Fire)</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">SEWDL9980702</id>
+    <album href="spotify:album:4bpM7VVbCVefDLKI0XFvvq">
+      <name>Julmusik - 100 Bästa Julklassikerna</name>
+      <released>2011</released>
+      <availability>
+        <territories>AL AM AT AX BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MT NL NO PL PT RO RS RU SE SI SK TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>191.813000</length>
+    <popularity>0.51541</popularity>
+  </track>
+  <track href="spotify:track:0L7YfzdKQIGlugQHbf27sN">
+    <name>The Christmas Song - The Christmas Song</name>
+    <artist href="spotify:artist:2YowsONImeWgtpiAm0h2XX">
+      <name>Nat 'King' Cole</name>
+    </artist>
+    <id type="isrc">NL-BH7-10-30002</id>
+    <album href="spotify:album:07IiVMlshVjpuncGyNqR0N">
+      <name>100 Classic Christmas Songs</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>192.000000</length>
+    <popularity>0.51092</popularity>
+  </track>
+  <track href="spotify:track:3l2WdCv0Fy9baEFeLR0vUe">
+    <name>Autumn Leaves</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA28700088</id>
+    <album href="spotify:album:0X60d06UrpWTMaLwMPd4Od">
+      <name>Nat King Cole - The Ultimate Collection</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>161.493000</length>
+    <popularity>0.45968</popularity>
+  </track>
+  <track href="spotify:track:5WUx1mTgFVIPSIeWf1NXEl">
+    <name>Deck The Hall</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900552</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>69.440000</length>
+    <popularity>0.50374</popularity>
+  </track>
+  <track href="spotify:track:3eQwtgoiVKbaYuX0ITe2fU">
+    <name>Unforgettable</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA25100005</id>
+    <album href="spotify:album:3NoP1ifIejWkGSDsO9T2xH">
+      <name>The Nat King Cole Story</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>207.440000</length>
+    <popularity>0.45263</popularity>
+  </track>
+  <track href="spotify:track:0gmqhOlGG6ZXIJPLObFt7J">
+    <name>O Holy Night</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900561</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>178.800000</length>
+    <popularity>0.50008</popularity>
+  </track>
+  <track href="spotify:track:4w3EWf73bFuUgE32emb8kj">
+    <name>The Very Thought Of You</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901257</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>229.426000</length>
+    <popularity>0.44908</popularity>
+  </track>
+  <track href="spotify:track:2WMyu5IYgxEuCd6xgFgJrl">
+    <name>Nature Boy</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29100245</id>
+    <album href="spotify:album:3NoP1ifIejWkGSDsO9T2xH">
+      <name>The Nat King Cole Story</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>173.533000</length>
+    <popularity>0.44524</popularity>
+  </track>
+  <track href="spotify:track:5humEOJehpAwMJEJmb0JJ2">
+    <name>The Christmas Song (Merry Christmas To You)</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA28600133</id>
+    <album href="spotify:album:3NoP1ifIejWkGSDsO9T2xH">
+      <name>The Nat King Cole Story</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>190.973000</length>
+    <popularity>0.44475</popularity>
+  </track>
+  <track href="spotify:track:3k5ycyXX5qsCjLd7R2vphp">
+    <name>Mona Lisa</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29100212</id>
+    <album href="spotify:album:3NoP1ifIejWkGSDsO9T2xH">
+      <name>The Nat King Cole Story</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>207.573000</length>
+    <popularity>0.44321</popularity>
+  </track>
+  <track href="spotify:track:2YsxdgfdysICWS4Mrn25hd">
+    <name>Let There Be Love</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <artist href="spotify:artist:7uUBTiZ2u5b40vymlFmXrn">
+      <name>George Shearing</name>
+    </artist>
+    <id type="isrc">USCA29000095</id>
+    <album href="spotify:album:0X60d06UrpWTMaLwMPd4Od">
+      <name>Nat King Cole - The Ultimate Collection</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>166.960000</length>
+    <popularity>0.45240</popularity>
+  </track>
+  <track href="spotify:track:3o98eZrYer8GANpYHZpjW9">
+    <name>The Christmas Song (Merry Christmas To You)</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900551</id>
+    <album href="spotify:album:5tnzZOPPSeafBICfszjSkK">
+      <name>Holidays &amp; Hits</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>192.266000</length>
+    <popularity>0.49193</popularity>
+  </track>
+  <track href="spotify:track:0pXI8zEfx8NRayUVNAdURx">
+    <name>Unforgettable</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0302576</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>193.507000</length>
+    <popularity>0.49162</popularity>
+  </track>
+  <track href="spotify:track:6NMz3Cjvod2qnJjakiRDA8">
+    <name>The Christmas Song (Merry Christmas To You)</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900551</id>
+    <album href="spotify:album:6XodQl1BPzs13GY61iXQv7">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>191.640000</length>
+    <popularity>0.48938</popularity>
+  </track>
+  <track href="spotify:track:5SmPKP243kMCB0HlqTNU0z">
+    <name>O Come All Ye Faithful</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900574</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>140.560000</length>
+    <popularity>0.48406</popularity>
+  </track>
+  <track href="spotify:track:3Y4CxDbpJr3HoY29q6gtPe">
+    <name>All I Want For Christmas Is My Two Front Teeth</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">SEWDL9980743</id>
+    <album href="spotify:album:4bpM7VVbCVefDLKI0XFvvq">
+      <name>Julmusik - 100 Bästa Julklassikerna</name>
+      <released>2011</released>
+      <availability>
+        <territories>AL AM AT AX BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MT NL NO PL PT RO RS RU SE SI SK TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>149.296000</length>
+    <popularity>0.47943</popularity>
+  </track>
+  <track href="spotify:track:4CkT4yjAaQ3wxqdzAfUomX">
+    <name>God Rest Ye Merry, Gentlemen</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900554</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>88.533000</length>
+    <popularity>0.47753</popularity>
+  </track>
+  <track href="spotify:track:5Wm5QcaeDBlSn9JUT6ol19">
+    <name>It's Only A Paper Moon</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901258</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>186.733000</length>
+    <popularity>0.42647</popularity>
+  </track>
+  <track href="spotify:track:0myVHcsJ6LbCJZrw02Zy69">
+    <name>Silent Night</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900573</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>131.360000</length>
+    <popularity>0.47264</popularity>
+  </track>
+  <track href="spotify:track:6zgAvpIfM1QGyfqfVhSnnj">
+    <name>When I Fall In Love</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0891129</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>194.040000</length>
+    <popularity>0.46836</popularity>
+  </track>
+  <track href="spotify:track:6lrYOVAU67C67rllaO8rNR">
+    <name>O Holy Night</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA28600134</id>
+    <album href="spotify:album:5nn0oYdYM0JOQjSdGDUh5Z">
+      <name>Christmas With Bing Crosby / Nat King Cole / Dean Martin</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>176.906000</length>
+    <popularity>0.42708</popularity>
+  </track>
+  <track href="spotify:track:4YPYFUATiul0877A1HhSlW">
+    <name>Stardust</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA25600006</id>
+    <album href="spotify:album:3NoP1ifIejWkGSDsO9T2xH">
+      <name>The Nat King Cole Story</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>194.040000</length>
+    <popularity>0.41334</popularity>
+  </track>
+  <track href="spotify:track:1dsTXrCAI4PuSe7bfaswfe">
+    <name>Unforgettable</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA20000010</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>191.933000</length>
+    <popularity>0.41219</popularity>
+  </track>
+  <track href="spotify:track:702BEASUMQlXTFTvj37nqi">
+    <name>Hark! The Herald Angels Sing</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900562</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>111.053000</length>
+    <popularity>0.46200</popularity>
+  </track>
+  <track href="spotify:track:4BveK9OJ5DIKCYWLIwFdKf">
+    <name>Unforgettable</name>
+    <artist href="spotify:artist:27nB7rMBpyPuTLXYxt1phF">
+      <name>Nat "King" Cole</name>
+    </artist>
+    <id type="isrc">GBURZ1002516</id>
+    <album href="spotify:album:5osht7nhE9DBFabVvRdj3J">
+      <name>Gold Collection</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>209.933000</length>
+    <popularity>0.46133</popularity>
+  </track>
+  <track href="spotify:track:3r06wORwbt19TP2qkenyDY">
+    <name>Mrs Santa Claus</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">SEWDL6016695</id>
+    <album href="spotify:album:4bpM7VVbCVefDLKI0XFvvq">
+      <name>Julmusik - 100 Bästa Julklassikerna</name>
+      <released>2011</released>
+      <availability>
+        <territories>AL AM AT AX BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MT NL NO PL PT RO RS RU SE SI SK TR UA VA</territories>
+      </availability>
+    </album>
+    <track-number>20</track-number>
+    <length>126.867000</length>
+    <popularity>0.46101</popularity>
+  </track>
+  <track href="spotify:track:4UqYvZDOiaZDFhf2y338ww">
+    <name>The Christmas Song (Chestnuts Roasting On An Open Fire)</name>
+    <artist href="spotify:artist:3OpnoUqoRIHWbsFs4Nw0NQ">
+      <name>Nat King Cole Trio</name>
+    </artist>
+    <id type="isrc">USCA24600066</id>
+    <album href="spotify:album:3RbxlISBoyXN6ECspX7Jrr">
+      <name>Christmas With Nat And Dean</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>194.866000</length>
+    <popularity>0.44004</popularity>
+  </track>
+  <track href="spotify:track:2i7mrUSIMIA9QKri6XccwS">
+    <name>This Can't Be Love</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901263</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>150.933000</length>
+    <popularity>0.41073</popularity>
+  </track>
+  <track href="spotify:track:0yOLhQVpava7cJhVDbCvSh">
+    <name>Deck The Halls</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA28600284</id>
+    <album href="spotify:album:3RbxlISBoyXN6ECspX7Jrr">
+      <name>Christmas With Nat And Dean</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>69.000000</length>
+    <popularity>0.43945</popularity>
+  </track>
+  <track href="spotify:track:6pQj568jDnSUV5AzOObz2X">
+    <name>Lush Life</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901265</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>226.906000</length>
+    <popularity>0.40992</popularity>
+  </track>
+  <track href="spotify:track:2uKCLBowCQVDhjAnp152Xd">
+    <name>O Tannenbaum</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900555</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>182.986000</length>
+    <popularity>0.45867</popularity>
+  </track>
+  <track href="spotify:track:1NybaHwlupN6N45wqTr8XC">
+    <name>Mona Lisa</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0200168</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>197.107000</length>
+    <popularity>0.45757</popularity>
+  </track>
+  <track href="spotify:track:0VIeWH0P5gGNAEcF5vSf1D">
+    <name>Autumn Leaves</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0601739</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>163.040000</length>
+    <popularity>0.45742</popularity>
+  </track>
+  <track href="spotify:track:4CoGcT43bIaffUvWJR98SP">
+    <name>Joy To The World</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900569</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>85.173000</length>
+    <popularity>0.45501</popularity>
+  </track>
+  <track href="spotify:track:36oJ5vW39q2EYLlmxCSvnl">
+    <name>Almost Like Being In Love</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901277</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>21</track-number>
+    <length>115.000000</length>
+    <popularity>0.40429</popularity>
+  </track>
+  <track href="spotify:track:6bLoSXKii9ENFCRzoxt3OQ">
+    <name>I Saw Three Ships</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900559</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>88.253000</length>
+    <popularity>0.45328</popularity>
+  </track>
+  <track href="spotify:track:5Pz0WwZX3iILmqiKTHnWSg">
+    <name>The Touch Of Your Lips</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBJUT1016187</id>
+    <album href="spotify:album:5ORNl5qlz9Igv1SCgiCZxi">
+      <name>The Touch Of Your Lips (Expanded Edition)</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CA CH CY CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>250.920000</length>
+    <popularity>0.45262</popularity>
+  </track>
+  <track href="spotify:track:5QnCtH7euld6R68UwcWrte">
+    <name>(I Love You) For Sentimental Reasons</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29100218</id>
+    <album href="spotify:album:3NoP1ifIejWkGSDsO9T2xH">
+      <name>The Nat King Cole Story</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>184.466000</length>
+    <popularity>0.40034</popularity>
+  </track>
+  <track href="spotify:track:5O1mYFInOCd0CCdH2mqUlR">
+    <name>The Christmas Song</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <artist href="spotify:artist:5tTsrGPwQRWUsHR2Xf7Ke9">
+      <name>Natalie Cole</name>
+    </artist>
+    <id type="isrc">USCA29901932</id>
+    <album href="spotify:album:5tnzZOPPSeafBICfszjSkK">
+      <name>Holidays &amp; Hits</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>224.026000</length>
+    <popularity>0.44976</popularity>
+  </track>
+  <track href="spotify:track:0cp3U3o69XOZRInNtycSUm">
+    <name>Smile</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0601730</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>176.027000</length>
+    <popularity>0.44927</popularity>
+  </track>
+  <track href="spotify:track:3T3QJphqhbSRui3Fg5BDJD">
+    <name>O Little Town Of Bethlehem</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900558</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>141.306000</length>
+    <popularity>0.44851</popularity>
+  </track>
+  <track href="spotify:track:0O520oxwslSzvuIWnCSj4J">
+    <name>All I Want For Christmas (Is My Two Front Teeth)</name>
+    <artist href="spotify:artist:3OpnoUqoRIHWbsFs4Nw0NQ">
+      <name>Nat King Cole Trio</name>
+    </artist>
+    <id type="isrc">USCA20904182</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>153.066000</length>
+    <popularity>0.44689</popularity>
+  </track>
+  <track href="spotify:track:5DZauOwq0jjpvBK6iwbhYn">
+    <name>Time And The River</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ1102965</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>141.680000</length>
+    <popularity>0.44641</popularity>
+  </track>
+  <track href="spotify:track:4AvGw5yOX1vIUlDj0LOVjb">
+    <name>The Happiest Christmas Tree</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA25900237</id>
+    <album href="spotify:album:3RbxlISBoyXN6ECspX7Jrr">
+      <name>Christmas With Nat And Dean</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>113.933000</length>
+    <popularity>0.42549</popularity>
+  </track>
+  <track href="spotify:track:7B4HR3GjYjZPkz7N9UMQwf">
+    <name>Smile</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901264</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>174.533000</length>
+    <popularity>0.39610</popularity>
+  </track>
+  <track href="spotify:track:1aFEiAvSMrKY3giHb33bxC">
+    <name>The First Noel</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900570</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>118.666000</length>
+    <popularity>0.44545</popularity>
+  </track>
+  <track href="spotify:track:6NU8FEj8HV1HI5h7FKg20O">
+    <name>On The Street Where You Live</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29200184</id>
+    <album href="spotify:album:0X60d06UrpWTMaLwMPd4Od">
+      <name>Nat King Cole - The Ultimate Collection</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>190.693000</length>
+    <popularity>0.39992</popularity>
+  </track>
+  <track href="spotify:track:3IPmPxMKtww2RhzrqDYp8g">
+    <name>Nature Boy</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0601712</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>161.080000</length>
+    <popularity>0.44086</popularity>
+  </track>
+  <track href="spotify:track:7ntoFNKLPggMM1E13GdffZ">
+    <name>That Sunday, That Summer</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901266</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>192.200000</length>
+    <popularity>0.39011</popularity>
+  </track>
+  <track href="spotify:track:140ywv6rd7uUi0nbl9jCOO">
+    <name>Mona Lisa</name>
+    <artist href="spotify:artist:27nB7rMBpyPuTLXYxt1phF">
+      <name>Nat "King" Cole</name>
+    </artist>
+    <id type="isrc">GBURZ1002517</id>
+    <album href="spotify:album:5osht7nhE9DBFabVvRdj3J">
+      <name>Gold Collection</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>195.760000</length>
+    <popularity>0.43890</popularity>
+  </track>
+  <track href="spotify:track:1375rQNSQjr0P5F7bTf18M">
+    <name>Away In A Manger</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900568</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>121.786000</length>
+    <popularity>0.43751</popularity>
+  </track>
+  <track href="spotify:track:55uduIWYE7apmOddsTxsIh">
+    <name>That’s You</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ1192916</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>159.280000</length>
+    <popularity>0.43726</popularity>
+  </track>
+  <track href="spotify:track:3300YFuVaH7krwDl0gAUUc">
+    <name>Aquellos Ojos Verdes</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">FR6V81140138</id>
+    <album href="spotify:album:3gAjPBrGAwVEh8yt4qsOg6">
+      <name>Just One of Those Things / The Piano Style of Nat King Cole / Sings for Two In Love / The Very Thought of You / A Mis Amigos</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>57</track-number>
+    <length>133.066000</length>
+    <popularity>0.41087</popularity>
+  </track>
+  <track href="spotify:track:3AS3L8LdKsqf2RvslO6AUz">
+    <name>The Happiest Christmas Tree</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA20904183</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>19</track-number>
+    <length>105.346000</length>
+    <popularity>0.43663</popularity>
+  </track>
+  <track href="spotify:track:3ijsbl1KxhEQHeRg8NnWYC">
+    <name>Mona Lisa</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA20000006</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>206.866000</length>
+    <popularity>0.38639</popularity>
+  </track>
+  <track href="spotify:track:5jjsm4Jjq8xjDaue3rW9Go">
+    <name>Joy To The World</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA28600137</id>
+    <album href="spotify:album:5nn0oYdYM0JOQjSdGDUh5Z">
+      <name>Christmas With Bing Crosby / Nat King Cole / Dean Martin</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>85.226000</length>
+    <popularity>0.39599</popularity>
+  </track>
+  <track href="spotify:track:3GAFK6rdbymUtrvZICiGS9">
+    <name>Caroling, Caroling</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900572</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>123.733000</length>
+    <popularity>0.43463</popularity>
+  </track>
+  <track href="spotify:track:5fgYlVUzj3tuLFeKL8ReTH">
+    <name>A Cradle In Bethlehem</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29900567</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>207.440000</length>
+    <popularity>0.43459</popularity>
+  </track>
+  <track href="spotify:track:5dcxlwsXhRXqVZl2casDso">
+    <name>Answer Me, My Love</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0601738</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>160.000000</length>
+    <popularity>0.43448</popularity>
+  </track>
+  <track href="spotify:track:2waiAcLQiqlX5bzvLtNUA0">
+    <name>Fly Me To The Moon (In Other Words)</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <artist href="spotify:artist:7uUBTiZ2u5b40vymlFmXrn">
+      <name>George Shearing</name>
+    </artist>
+    <id type="isrc">USCA28700594</id>
+    <album href="spotify:album:4jBiAQDfhcRFyH52ry6rZr">
+      <name>Nat King Cole Sings George Shearing Plays</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>211.173000</length>
+    <popularity>0.39841</popularity>
+  </track>
+  <track href="spotify:track:4JzOH0R6wr0SmGqpWwlhwh">
+    <name>Tenderly</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901269</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>179.666000</length>
+    <popularity>0.38339</popularity>
+  </track>
+  <track href="spotify:track:7p5OH2mJAllkJ7lrEQCqr1">
+    <name>Get Your Kicks On - Route 66</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0200226</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>183.227000</length>
+    <popularity>0.43249</popularity>
+  </track>
+  <track href="spotify:track:2BQcYNBgsH2geZgM2x3A0i">
+    <name>Autumn Leaves</name>
+    <artist href="spotify:artist:27nB7rMBpyPuTLXYxt1phF">
+      <name>Nat "King" Cole</name>
+    </artist>
+    <id type="isrc">GBURZ1002602</id>
+    <album href="spotify:album:5osht7nhE9DBFabVvRdj3J">
+      <name>Gold Collection</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>160.666000</length>
+    <popularity>0.43175</popularity>
+  </track>
+  <track href="spotify:track:5LtCOcvKJyKrq8FP3F3rPb">
+    <name>(Get Your Kicks On) Route 66</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901259</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>176.866000</length>
+    <popularity>0.38165</popularity>
+  </track>
+  <track href="spotify:track:6za7fef5rb4G0fua4eIljE">
+    <name>Too Young</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0202506</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>194.360000</length>
+    <popularity>0.43044</popularity>
+  </track>
+  <track href="spotify:track:2Ze6kgKdIRZrhKO8fQptlS">
+    <name>Caroling, Caroling</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA28600138</id>
+    <album href="spotify:album:5nn0oYdYM0JOQjSdGDUh5Z">
+      <name>Christmas With Bing Crosby / Nat King Cole / Dean Martin</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>121.533000</length>
+    <popularity>0.38880</popularity>
+  </track>
+  <track href="spotify:track:4LX5ijdCVxk2AzcQv5FsIb">
+    <name>Let's Face The Music And Dance</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29200185</id>
+    <album href="spotify:album:0X60d06UrpWTMaLwMPd4Od">
+      <name>Nat King Cole - The Ultimate Collection</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>21</track-number>
+    <length>148.533000</length>
+    <popularity>0.38296</popularity>
+  </track>
+  <track href="spotify:track:25HyDfvr7F4HEP7RxYD3fs">
+    <name>Don't Get Around Much Anymore</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901273</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>193.533000</length>
+    <popularity>0.37706</popularity>
+  </track>
+  <track href="spotify:track:0NnhDaBOy4Kt5PoHca3ed4">
+    <name>Too Young</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901274</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>205.373000</length>
+    <popularity>0.37674</popularity>
+  </track>
+  <track href="spotify:track:1Owl01oVHyOMqkzC0TuTYZ">
+    <name>Stardust</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ1092428</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>196.827000</length>
+    <popularity>0.42583</popularity>
+  </track>
+  <track href="spotify:track:5bV5aNKjf4YelnJQHJ5PEI">
+    <name>Orange Colored Sky</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901267</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>154.866000</length>
+    <popularity>0.37577</popularity>
+  </track>
+  <track href="spotify:track:5gRNNm96Dp3R86H1k2k1aH">
+    <name>But Beautiful</name>
+    <artist href="spotify:artist:27nB7rMBpyPuTLXYxt1phF">
+      <name>Nat "King" Cole</name>
+    </artist>
+    <id type="isrc">GBURZ1002545</id>
+    <album href="spotify:album:5osht7nhE9DBFabVvRdj3J">
+      <name>Gold Collection</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>207.160000</length>
+    <popularity>0.42538</popularity>
+  </track>
+  <track href="spotify:track:0Uw2r1tqPTEB7x5qB8exzg">
+    <name>The Happiest Christmas Tree - The Happiest Christmas Tree</name>
+    <artist href="spotify:artist:2YowsONImeWgtpiAm0h2XX">
+      <name>Nat 'King' Cole</name>
+    </artist>
+    <id type="isrc">NL-BH7-10-30031</id>
+    <album href="spotify:album:07IiVMlshVjpuncGyNqR0N">
+      <name>100 Classic Christmas Songs</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>31</track-number>
+    <length>111.000000</length>
+    <popularity>0.42413</popularity>
+  </track>
+  <track href="spotify:track:7kxCSa6baape6RYuGbpK0e">
+    <name>Because You’re Mine</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0601746</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>192.627000</length>
+    <popularity>0.42287</popularity>
+  </track>
+  <track href="spotify:track:3ZcTnIdKyRIBAhQ9sUyxag">
+    <name>(I Love You) For Sentimental Reasons</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901268</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>185.626000</length>
+    <popularity>0.37160</popularity>
+  </track>
+  <track href="spotify:track:0oCmwbag0dTp6rjEi0NGyT">
+    <name>Walkin’ My Baby Back Home</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0601734</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>162.053000</length>
+    <popularity>0.42154</popularity>
+  </track>
+  <track href="spotify:track:7qJpwNiidCJIHmoMC7yOMR">
+    <name>Penthouse Serenade (When We're Alone)</name>
+    <artist href="spotify:artist:27nB7rMBpyPuTLXYxt1phF">
+      <name>Nat "King" Cole</name>
+    </artist>
+    <id type="isrc">GBURZ1002197</id>
+    <album href="spotify:album:5osht7nhE9DBFabVvRdj3J">
+      <name>Gold Collection</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>189.080000</length>
+    <popularity>0.42094</popularity>
+  </track>
+  <track href="spotify:track:6cyl9jZNaeLZGD4v4T4f3O">
+    <name>Buon Natale</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <artist href="spotify:artist:2DzRMyWgjuMbYvt5BLbpCo">
+      <name>Anthony Hamilton</name>
+    </artist>
+    <id type="isrc">USCA20804846</id>
+    <album href="spotify:album:2d3wa6DNw6HEdrKf6VmW4O">
+      <name>The Christmas Song</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>95.973000</length>
+    <popularity>0.42928</popularity>
+  </track>
+  <track href="spotify:track:5xq3fe46pLbiAGCCIT6I38">
+    <name>Sometimes I'm Happy</name>
+    <artist href="spotify:artist:27nB7rMBpyPuTLXYxt1phF">
+      <name>Nat "King" Cole</name>
+    </artist>
+    <id type="isrc">GBURZ1002581</id>
+    <album href="spotify:album:5osht7nhE9DBFabVvRdj3J">
+      <name>Gold Collection</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>250.666000</length>
+    <popularity>0.41868</popularity>
+  </track>
+  <track href="spotify:track:6XCM8rcYZ6MJiM6V4tBGGv">
+    <name>Autumn Leaves</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901270</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>162.133000</length>
+    <popularity>0.36718</popularity>
+  </track>
+  <track href="spotify:track:3vXRZhHnVB3Z5scbRgH1ah">
+    <name>Straighten Up And Fly Right</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29100708</id>
+    <album href="spotify:album:3NoP1ifIejWkGSDsO9T2xH">
+      <name>The Nat King Cole Story</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>156.493000</length>
+    <popularity>0.36709</popularity>
+  </track>
+  <track href="spotify:track:6AlmudWNrmyqohVSV7Vgib">
+    <name>(Get Your Kicks On) Route 66</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29101181</id>
+    <album href="spotify:album:3NoP1ifIejWkGSDsO9T2xH">
+      <name>The Nat King Cole Story</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>176.133000</length>
+    <popularity>0.36694</popularity>
+  </track>
+  <track href="spotify:track:4flLkVcVJi4YNxgfEKmnpL">
+    <name>Quizás, Quizás, Quizás</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">ES5631108591</id>
+    <album href="spotify:album:1loKuajsWnynto38567nTc">
+      <name>The Most Romantic Love Songs. Music for Valentine´s Day to Celebrate Love in Valentine´s Day</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>168.880000</length>
+    <popularity>0.41644</popularity>
+  </track>
+  <track href="spotify:track:6zDJIyaHJ90Q5qgVgNLwLs">
+    <name>Blue Gardenia</name>
+    <artist href="spotify:artist:27nB7rMBpyPuTLXYxt1phF">
+      <name>Nat "King" Cole</name>
+    </artist>
+    <id type="isrc">GBURZ1002610</id>
+    <album href="spotify:album:5osht7nhE9DBFabVvRdj3J">
+      <name>Gold Collection</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>178.373000</length>
+    <popularity>0.41587</popularity>
+  </track>
+  <track href="spotify:track:04hsUOwjDOOPJXNwwxL8jw">
+    <name>A Blossom Fell</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ0601749</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>156.733000</length>
+    <popularity>0.41394</popularity>
+  </track>
+  <track href="spotify:track:4dXS2HrRBOAXVAQrFYs4nR">
+    <name>Darling, Je Vous Aime Beaucoup</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901276</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>20</track-number>
+    <length>170.573000</length>
+    <popularity>0.36371</popularity>
+  </track>
+  <track href="spotify:track:4XNoQLUAahbJi7VJ9y5Ijs">
+    <name>Tenderly</name>
+    <artist href="spotify:artist:27nB7rMBpyPuTLXYxt1phF">
+      <name>Nat "King" Cole</name>
+    </artist>
+    <id type="isrc">GBURZ1002605</id>
+    <album href="spotify:album:5osht7nhE9DBFabVvRdj3J">
+      <name>Gold Collection</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>177.506000</length>
+    <popularity>0.41357</popularity>
+  </track>
+  <track href="spotify:track:44FhKCONrJ3Ud7CPPdjczS">
+    <name>Avalon</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA29901272</id>
+    <album href="spotify:album:4GTwzXDzczrmF67glcuNxt">
+      <name>The Unforgettable Nat King Cole</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>106.426000</length>
+    <popularity>0.36265</popularity>
+  </track>
+  <track href="spotify:track:5Wf4RrTQ6f0SsRm2hVsocC">
+    <name>My Baby Just Cares For Me</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <artist href="spotify:artist:2KSxJY1WxGGVYSmoM0N54P">
+      <name>Woody Herman</name>
+    </artist>
+    <id type="isrc">GBCJQ0690238</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>170.987000</length>
+    <popularity>0.42211</popularity>
+  </track>
+  <track href="spotify:track:36AD3inDDZEM1KbqYjCU44">
+    <name>I Remember You</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBJUT1016188</id>
+    <album href="spotify:album:5ORNl5qlz9Igv1SCgiCZxi">
+      <name>The Touch Of Your Lips (Expanded Edition)</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CA CH CY CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SJ SK SM UA VA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>209.240000</length>
+    <popularity>0.41125</popularity>
+  </track>
+  <track href="spotify:track:3oyopVskNF0z6y4F6Fi2i6">
+    <name>(I Love You) For Sentimental Reasons</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">GBCJQ8800077</id>
+    <album href="spotify:album:1fQvKquIH6Zfk8Uq9f3hUk">
+      <name>The Ultimate Collection - 125 Original Recordings</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>176.413000</length>
+    <popularity>0.41101</popularity>
+  </track>
+  <track href="spotify:track:05FJchvnykYZStvWXEaRXm">
+    <name>Tea For Two</name>
+    <artist href="spotify:artist:27nB7rMBpyPuTLXYxt1phF">
+      <name>Nat "King" Cole</name>
+    </artist>
+    <id type="isrc">GBURZ1002332</id>
+    <album href="spotify:album:5osht7nhE9DBFabVvRdj3J">
+      <name>Gold Collection</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>151.800000</length>
+    <popularity>0.41062</popularity>
+  </track>
+  <track href="spotify:track:3eLWJ29j2FGM91T7aGlHHW">
+    <name>Joy To The World</name>
+    <artist href="spotify:artist:7v4imS0moSyGdXyLgVTIV7">
+      <name>Nat King Cole</name>
+    </artist>
+    <id type="isrc">USCA28600137</id>
+    <album href="spotify:album:3RbxlISBoyXN6ECspX7Jrr">
+      <name>Christmas With Nat And Dean</name>
+      <released>1996</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>86.200000</length>
+    <popularity>0.38986</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:21:49 GMT -->

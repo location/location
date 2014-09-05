@@ -1,0 +1,2641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Philip Catherine"/>
+  <opensearch:totalResults>533</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:7cPuqSACu4f6fSwE12y0di">
+    <name>David</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056020</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>192.533000</length>
+    <popularity>0.34080</popularity>
+  </track>
+  <track href="spotify:track:753E7I07fjnXxtv5TSFHPG">
+    <name>Toscane</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700740</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>236.880000</length>
+    <popularity>0.20137</popularity>
+  </track>
+  <track href="spotify:track:6dcKUQY3ETgjVf6D9g0TRF">
+    <name>Let's Do It, Let's Fall In Love</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100208</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>369.613000</length>
+    <popularity>0.23536</popularity>
+  </track>
+  <track href="spotify:track:662FRQ2agK4jg4MzqiJLKg">
+    <name>I Concentrate On You</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100202</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>340.787000</length>
+    <popularity>0.22118</popularity>
+  </track>
+  <track href="spotify:track:7mB3ST9DVGnCdWOilIm4In">
+    <name>Dark Eyes</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056010</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>241.733000</length>
+    <popularity>0.25152</popularity>
+  </track>
+  <track href="spotify:track:6vFpf7twWBoYXLNg2HOqxs">
+    <name>Nature Boy</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056030</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>373.347000</length>
+    <popularity>0.24521</popularity>
+  </track>
+  <track href="spotify:track:12hS0mA0L63QP75h8OfNjV">
+    <name>Bossa Dorado</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056140</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>210.027000</length>
+    <popularity>0.24115</popularity>
+  </track>
+  <track href="spotify:track:5spvtD5OLPZrVwciECWeyy">
+    <name>Bois Le Baron</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700750</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>220.213000</length>
+    <popularity>0.15965</popularity>
+  </track>
+  <track href="spotify:track:0qwUolmhD2IGhaUgq4raxQ">
+    <name>So In Love</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100203</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>331.533000</length>
+    <popularity>0.19936</popularity>
+  </track>
+  <track href="spotify:track:2aOUrWfrQ3HfOF7ZoEwvDM">
+    <name>Fiso Place</name>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">USA371090881</id>
+    <album href="spotify:album:7dZifOO6T4WZHGlFCv7IVg">
+      <name>Django Forever</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>389.732000</length>
+    <popularity>0.16591</popularity>
+  </track>
+  <track href="spotify:track:4IZAULS8W26EAgdiLrJat9">
+    <name>Stella By Starlight</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">DEAM89300028</id>
+    <album href="spotify:album:5BXfx1vcuhjdV0QExnTACs">
+      <name>Art Of The Duo</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>502.866000</length>
+    <popularity>0.14136</popularity>
+  </track>
+  <track href="spotify:track:2gAnJK77UZ8yeHiNGj4u1n">
+    <name>Nuit De St. Germain Des Pres</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056090</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>215.787000</length>
+    <popularity>0.21677</popularity>
+  </track>
+  <track href="spotify:track:4HG0zgb3IgabCM4FvRBZWB">
+    <name>Get Out Of Town</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100207</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>368.720000</length>
+    <popularity>0.17902</popularity>
+  </track>
+  <track href="spotify:track:055VYRwcAApuwUXHHn9c3N">
+    <name>Méline</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700760</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>161.200000</length>
+    <popularity>0.13352</popularity>
+  </track>
+  <track href="spotify:track:2YoQlZiu9GqJn85U1KDvCw">
+    <name>Why Can't You Behave</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100204</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>305.653000</length>
+    <popularity>0.17678</popularity>
+  </track>
+  <track href="spotify:track:7EfuXqn9wOUXabhlt250Hc">
+    <name>From This Moment On</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100206</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>240.400000</length>
+    <popularity>0.17425</popularity>
+  </track>
+  <track href="spotify:track:5i126QrHEalpSeJnVsD1eX">
+    <name>Merci Philip</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700850</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>272.480000</length>
+    <popularity>0.09881</popularity>
+  </track>
+  <track href="spotify:track:6SyT77i3kcroP4E36Q7XB9">
+    <name>Ev'ry Time We Say Goodbye</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100212</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>299.133000</length>
+    <popularity>0.17109</popularity>
+  </track>
+  <track href="spotify:track:4DXhBGWNc8P15KODjXKca4">
+    <name>Csardas De Monti</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056170</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>286.093000</length>
+    <popularity>0.20431</popularity>
+  </track>
+  <track href="spotify:track:1kVLJT9vYHeLPtEzVDvrPx">
+    <name>Els Jogars</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056040</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>107.760000</length>
+    <popularity>0.20189</popularity>
+  </track>
+  <track href="spotify:track:2DzAne4Tdh68BXGkn1x28u">
+    <name>Me Som Gojo Chavaro</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056070</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>242.080000</length>
+    <popularity>0.20072</popularity>
+  </track>
+  <track href="spotify:track:7vL1Ovsog0HKLfPvEgyzCA">
+    <name>Dream Dancing</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100205</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>297.400000</length>
+    <popularity>0.16639</popularity>
+  </track>
+  <track href="spotify:track:3e4Nvzcu6SOhggiGxOEztw">
+    <name>Romanò Traïo</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056080</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>163.107000</length>
+    <popularity>0.20024</popularity>
+  </track>
+  <track href="spotify:track:7mD5JWoW8nvsmmiHJcg2FJ">
+    <name>Spanish Flower</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:6cKTYu4WjPM4YjYdgZhfEr">
+      <name>Charlie Mariano</name>
+    </artist>
+    <id type="isrc">NLG620446685</id>
+    <album href="spotify:album:2C9jBgfCsZlPAoC12Q41nG">
+      <name>Toots Thielemans, Philip Catherine &amp; Friends</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>264.267000</length>
+    <popularity>0.09322</popularity>
+  </track>
+  <track href="spotify:track:3qmU3m2VRujwGGSsMIwxnq">
+    <name>You Do Something To Me</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100209</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>284.973000</length>
+    <popularity>0.16090</popularity>
+  </track>
+  <track href="spotify:track:0QCzp93IDkIAw6NlnwteZT">
+    <name>In The Still Of The Night</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100210</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>242.213000</length>
+    <popularity>0.15993</popularity>
+  </track>
+  <track href="spotify:track:2QG0QFqTEb1lYfPzWPx4Il">
+    <name>Lady Be Good</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056060</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>185.653000</length>
+    <popularity>0.19323</popularity>
+  </track>
+  <track href="spotify:track:7nBn14IVGjVdiFRdCWvW54">
+    <name>Pendulum</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700830</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>391.533000</length>
+    <popularity>0.11609</popularity>
+  </track>
+  <track href="spotify:track:5zxOr9tvAHe7nJMCWe1gqL">
+    <name>Karlov</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056050</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>221.827000</length>
+    <popularity>0.19155</popularity>
+  </track>
+  <track href="spotify:track:0cdBsM2j4R5DIHlSc708RG">
+    <name>Love For Sale</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:50m2KVom2r1LcmDxWWkieg">
+      <name>Jean-Louis Rassinfosse</name>
+    </artist>
+    <id type="isrc">DEA590854103</id>
+    <album href="spotify:album:0BtoHUXuoSEVo2i5ZYku3M">
+      <name>Strollin'</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>576.813000</length>
+    <popularity>0.14555</popularity>
+  </track>
+  <track href="spotify:track:49biA5SreKYzXOcKd6pZVK">
+    <name>Leaving</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:2BQZS3aAMLNtot11kkZb4R">
+      <name>Jean Louis Rassinfosse</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">USA371231331</id>
+    <album href="spotify:album:3j8LBolBUBEWUoK4htmNYu">
+      <name>Live &amp; Rare</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>682.947000</length>
+    <popularity>0.14386</popularity>
+  </track>
+  <track href="spotify:track:4LR0YB4lZwTK8lOdqGIPqA">
+    <name>Blåmann! Blåmann!</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056130</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>224.000000</length>
+    <popularity>0.18846</popularity>
+  </track>
+  <track href="spotify:track:6hqG3Ce4RxdUIZkyqisE07">
+    <name>It's De-Lovely</name>
+    <artist href="spotify:artist:1k8GWiYV0XOQWIBqzAqoVR">
+      <name>Philippe Aerts</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55qkALGCwSReSD2iRcopXs">
+      <name>Karel Boehlee</name>
+    </artist>
+    <artist href="spotify:artist:6xPPjviGzqY77jjX22apCL">
+      <name>Martijn Vink</name>
+    </artist>
+    <id type="isrc">NLB151100211</id>
+    <album href="spotify:album:1Vv7Msi4McRtxh5JEyNdEd">
+      <name>plays Cole Porter</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>320.920000</length>
+    <popularity>0.15456</popularity>
+  </track>
+  <track href="spotify:track:30yB9IaiMpRh4W6ojpXUry">
+    <name>Love For Sale</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:2BQZS3aAMLNtot11kkZb4R">
+      <name>Jean Louis Rassinfosse</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">USA371231322</id>
+    <album href="spotify:album:3j8LBolBUBEWUoK4htmNYu">
+      <name>Live &amp; Rare</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>731.773000</length>
+    <popularity>0.14155</popularity>
+  </track>
+  <track href="spotify:track:5eDh8ffNu5yGxABW0NBlqW">
+    <name>Blues for Django and Stéphane</name>
+    <artist href="spotify:artist:32i0ni9RO8Q7T7T7ZqkGU2">
+      <name>Yehudi Menuhin</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4dUz7BlHOabxSUziS1XUQl">
+      <name>Niels-henning Pedersen</name>
+    </artist>
+    <id type="isrc">FRT299280050</id>
+    <album href="spotify:album:0fop4gzjMQnJZ7HZgr1tod">
+      <name>Generation Django</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>386.067000</length>
+    <popularity>0.14090</popularity>
+  </track>
+  <track href="spotify:track:7fanLcbXtHSF4fcKQWt5MD">
+    <name>Tears</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056100</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>327.440000</length>
+    <popularity>0.18286</popularity>
+  </track>
+  <track href="spotify:track:2t0uL0cX1UdVbFQUUovaMU">
+    <name>Nuages</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056150</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>406.960000</length>
+    <popularity>0.17979</popularity>
+  </track>
+  <track href="spotify:track:6qxZRWSnjyDuURv8b7MO4e">
+    <name>Lendas Brasileiras</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700790</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>305.840000</length>
+    <popularity>0.10545</popularity>
+  </track>
+  <track href="spotify:track:5DskpHKNTuifKlE8KnEr91">
+    <name>Skating In Central Park</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700800</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>266.093000</length>
+    <popularity>0.10090</popularity>
+  </track>
+  <track href="spotify:track:4MuiqHKJi3lrNTAn1whkGc">
+    <name>Twice A Week</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">DEAM89300026</id>
+    <album href="spotify:album:5BXfx1vcuhjdV0QExnTACs">
+      <name>Art Of The Duo</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>540.266000</length>
+    <popularity>0.09958</popularity>
+  </track>
+  <track href="spotify:track:2iWHVtbyFqDwIpkEeoBdFR">
+    <name>Dance For Victor</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">DEB648700077</id>
+    <album href="spotify:album:5q9dJt7cpZhhlq1BnfdFOi">
+      <name>Transparence</name>
+      <released>1986</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>262.026000</length>
+    <popularity>0.09897</popularity>
+  </track>
+  <track href="spotify:track:4QqekSSZ8Xxwzm0nPE6sFR">
+    <name>Bluesette</name>
+    <artist href="spotify:artist:0KyolDFb1RjJQb4qXZKCqo">
+      <name>Toots Thielemans</name>
+    </artist>
+    <id type="isrc">NLG620446682</id>
+    <album href="spotify:album:2C9jBgfCsZlPAoC12Q41nG">
+      <name>Toots Thielemans, Philip Catherine &amp; Friends</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>196.080000</length>
+    <popularity>0.11025</popularity>
+  </track>
+  <track href="spotify:track:3RfC8cc51GWhOGDCHfcPMj">
+    <name>My Foolish Heart</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">DEAM89300027</id>
+    <album href="spotify:album:5BXfx1vcuhjdV0QExnTACs">
+      <name>Art Of The Duo</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>289.760000</length>
+    <popularity>0.09772</popularity>
+  </track>
+  <track href="spotify:track:76gXqC31lgi5yGlmrx9GGJ">
+    <name>Pourquoi</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700780</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>327.640000</length>
+    <popularity>0.09771</popularity>
+  </track>
+  <track href="spotify:track:36yfGjyl3Xpf7Lw6xPhxYK">
+    <name>Souvenirs De Villigen</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700810</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>194.000000</length>
+    <popularity>0.09759</popularity>
+  </track>
+  <track href="spotify:track:6x27TA24naMDiyywa7k5rg">
+    <name>Sad Walk</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:50m2KVom2r1LcmDxWWkieg">
+      <name>Jean-Louis Rassinfosse</name>
+    </artist>
+    <id type="isrc">DEA590854101</id>
+    <album href="spotify:album:0BtoHUXuoSEVo2i5ZYku3M">
+      <name>Strollin'</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>626.760000</length>
+    <popularity>0.12572</popularity>
+  </track>
+  <track href="spotify:track:3ASXaZovhSbYXuMA4CwbaG">
+    <name>Angelo Solo 1</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056120</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>54.200000</length>
+    <popularity>0.16709</popularity>
+  </track>
+  <track href="spotify:track:34yAxSaEcGnLFcROfenFBF">
+    <name>Aria De Opereta</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700870</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>163.960000</length>
+    <popularity>0.09464</popularity>
+  </track>
+  <track href="spotify:track:3UhPAbcMy3cdE4UyYhTFup">
+    <name>Pozna Notch</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056110</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>145.080000</length>
+    <popularity>0.16659</popularity>
+  </track>
+  <track href="spotify:track:3Zzi3cmQl8NMzNCpe84HRf">
+    <name>Jacobien</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700820</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>240.453000</length>
+    <popularity>0.09449</popularity>
+  </track>
+  <track href="spotify:track:3iPK9FRS1LvnQiV8OninAc">
+    <name>There's Gonna Be A Party</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056180</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>121.320000</length>
+    <popularity>0.16607</popularity>
+  </track>
+  <track href="spotify:track:3VQtiYSXx8JMzxv0CNoAvJ">
+    <name>The Lonely Wolf</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056190</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>19</track-number>
+    <length>432.360000</length>
+    <popularity>0.16545</popularity>
+  </track>
+  <track href="spotify:track:17GKPrDWor1VPKPTyU5h6e">
+    <name>Djangology</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056200</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>20</track-number>
+    <length>202.733000</length>
+    <popularity>0.16390</popularity>
+  </track>
+  <track href="spotify:track:7g1GqdkpyECw2FJX5QgIDY">
+    <name>Funk In Deep Freeze</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:50m2KVom2r1LcmDxWWkieg">
+      <name>Jean-Louis Rassinfosse</name>
+    </artist>
+    <id type="isrc">DEA590854104</id>
+    <album href="spotify:album:0BtoHUXuoSEVo2i5ZYku3M">
+      <name>Strollin'</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>599.426000</length>
+    <popularity>0.11820</popularity>
+  </track>
+  <track href="spotify:track:52ATryzGmzA1qbPDt6I93S">
+    <name>Etude Pour Peter S</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700770</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>198.347000</length>
+    <popularity>0.08924</popularity>
+  </track>
+  <track href="spotify:track:01JcwwYel6mwnYD4UYBtlD">
+    <name>Lament</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:2BQZS3aAMLNtot11kkZb4R">
+      <name>Jean Louis Rassinfosse</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">USA371231324</id>
+    <album href="spotify:album:3j8LBolBUBEWUoK4htmNYu">
+      <name>Live &amp; Rare</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>659.773000</length>
+    <popularity>0.11464</popularity>
+  </track>
+  <track href="spotify:track:7J7UeGAhxI1ZbgLpNHisou">
+    <name>Angelo Solo 2</name>
+    <artist href="spotify:artist:0dW8sRIOuTuarCATlX7OgQ">
+      <name>Jon Larsen &amp; Jimmy Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:0G3ug1mpFw0I50kvAIxNhS">
+      <name>Biréli Lagrène</name>
+    </artist>
+    <artist href="spotify:artist:1OuWJDxfpuEdlNvLLnN2st">
+      <name>Biel Ballester</name>
+    </artist>
+    <artist href="spotify:artist:1TMAAu88K5ofxlAkBrVRvp">
+      <name>Stian Carstensen</name>
+    </artist>
+    <artist href="spotify:artist:2HdcSFjH7Q29VYf89WIHLs">
+      <name>Florin Niculescu</name>
+    </artist>
+    <artist href="spotify:artist:3mxIEiUDDuWq4xj73RYHy8">
+      <name>Pascal de Loutcheck</name>
+    </artist>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4pTgWOAUPDXSB5c5xwHVM5">
+      <name>Stochelo Rosenberg</name>
+    </artist>
+    <artist href="spotify:artist:64oD1nmr26PzBAecbxdBzt">
+      <name>Angelo DeBarre</name>
+    </artist>
+    <artist href="spotify:artist:6OaEACxpxzP2sDxX2nTUYJ">
+      <name>Ola Kvernberg</name>
+    </artist>
+    <artist href="spotify:artist:770iqFnZSU8y1Nqp6PcfbM">
+      <name>Babik Reinhardt</name>
+    </artist>
+    <id type="isrc">NOFHH1056160</id>
+    <album href="spotify:album:2lqop2wn28WGnU75DJTx5m">
+      <name>Dreams, Drugs and Django</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>87.427000</length>
+    <popularity>0.15664</popularity>
+  </track>
+  <track href="spotify:track:4ICnI0k1gWgUzQI3EY66Rx">
+    <name>All The Things You Are</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">DEAM89300029</id>
+    <album href="spotify:album:5BXfx1vcuhjdV0QExnTACs">
+      <name>Art Of The Duo</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>263.440000</length>
+    <popularity>0.08633</popularity>
+  </track>
+  <track href="spotify:track:6vrKnIoZiUwXLzxtDHIyVO">
+    <name>Marc Moulin On The Beach</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700880</id>
+    <album href="spotify:album:6glcFfk4Sdg0DojupOOz2B">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>271.160000</length>
+    <popularity>0.08414</popularity>
+  </track>
+  <track href="spotify:track:60UKd1C1TXmPgNvNBMC1oC">
+    <name>Monti: Czardas</name>
+    <artist href="spotify:artist:0nu138Ds9OGIVhcnRJvsDc">
+      <name>Erica Beston</name>
+    </artist>
+    <artist href="spotify:artist:2bnMHZxop8gBCm7AIQuqxu">
+      <name>Jonathan Craig</name>
+    </artist>
+    <artist href="spotify:artist:2PwjjlrSzkcoc2AqKa0FiM">
+      <name>David Young</name>
+    </artist>
+    <artist href="spotify:artist:4bGgtvj8oHbBw0LtRckmnn">
+      <name>Sharon Prater</name>
+    </artist>
+    <artist href="spotify:artist:4A86j7zvcEcHnbMZ4dnmsm">
+      <name>Catherine Wilson</name>
+    </artist>
+    <artist href="spotify:artist:6kRwaTjbXXBP7g0eBS6lmw">
+      <name>Norman Hathaway</name>
+    </artist>
+    <artist href="spotify:artist:7lgIekyTphPtrHB0RsqaaS">
+      <name>Philip Seguin</name>
+    </artist>
+    <id type="isrc">CAO440836408</id>
+    <album href="spotify:album:0DTkBoQh1wYuvo4xyGjolF">
+      <name>Palm Court Encores</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>299.067000</length>
+    <popularity>0.13529</popularity>
+  </track>
+  <track href="spotify:track:7LBDvuIm1yVbQEGfpUu6Tw">
+    <name>Francis' delight</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:4lTsggnLkaq3lhPwGtY6Gm">
+      <name>Brussels Jazz Orchestra</name>
+    </artist>
+    <id type="isrc">FR14F0500100</id>
+    <album href="spotify:album:6qgJoidfO16SPmlr3UPSEu">
+      <name>Dreyfus Jazz Club: Big Band</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>360.493000</length>
+    <popularity>0.10212</popularity>
+  </track>
+  <track href="spotify:track:3XS4iS89qt6Ucvyrl3xXA1">
+    <name>I Should Care</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">DEAM89300031</id>
+    <album href="spotify:album:5BXfx1vcuhjdV0QExnTACs">
+      <name>Art Of The Duo</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>266.293000</length>
+    <popularity>0.07889</popularity>
+  </track>
+  <track href="spotify:track:4uLCp4G2xNAj2kty3Tcqoh">
+    <name>My Funny Valentine</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55CwMwuNvVsQXrC3KwMwUe">
+      <name>Joe La barbera</name>
+    </artist>
+    <artist href="spotify:artist:5vACdMa2kY7jHnlJwqYRKP">
+      <name>Enrico Pieranunzi</name>
+    </artist>
+    <artist href="spotify:artist:74MwvlhrhrGR0EwNAVbIs2">
+      <name>Hein Van De Geyn</name>
+    </artist>
+    <id type="isrc">FR14F0901010</id>
+    <album href="spotify:album:0RZBq5uEPfuiCarr8zjty6">
+      <name>Concert In Capbreton</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>453.960000</length>
+    <popularity>0.12769</popularity>
+  </track>
+  <track href="spotify:track:1mxohfsst9re66wEpVoDwN">
+    <name>Merci Afrique</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F9800750</id>
+    <album href="spotify:album:3mUckIEFKquaMV2rR06ZR2">
+      <name>Guitar Groove</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>290.413000</length>
+    <popularity>0.07764</popularity>
+  </track>
+  <track href="spotify:track:4nLM1c6aGZOpKnrIzmgwdr">
+    <name>Tears - Instrumental</name>
+    <artist href="spotify:artist:3ucYcUJ22BnNZWH4NoSAU0">
+      <name>Marc Fosset</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:673nUEedXxOIdNlPvxXLiM">
+      <name>Niels-Henning Ørsted Pedersen</name>
+    </artist>
+    <artist href="spotify:artist:6AfbDYupHV5e6nse9W6tKG">
+      <name>Stéphane Grappelli</name>
+    </artist>
+    <id type="isrc">FRT299280040</id>
+    <album href="spotify:album:2nqLTJD6FN0qeTqCInbP0j">
+      <name>Young Django</name>
+      <released>1979</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK EE ES FI FR GB IE IL IT LT LV NL NO NZ PL PT RU SE SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>381.640000</length>
+    <popularity>0.11140</popularity>
+  </track>
+  <track href="spotify:track:3twr5BRYZc1wP5ZwsdfZYw">
+    <name>Strollin'</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:50m2KVom2r1LcmDxWWkieg">
+      <name>Jean-Louis Rassinfosse</name>
+    </artist>
+    <id type="isrc">DEA590854102</id>
+    <album href="spotify:album:0BtoHUXuoSEVo2i5ZYku3M">
+      <name>Strollin'</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>555.893000</length>
+    <popularity>0.10035</popularity>
+  </track>
+  <track href="spotify:track:6rkFCVM9qWf9BwOlw6xjoI">
+    <name>L'eternel Desir</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">DEB648700079</id>
+    <album href="spotify:album:5q9dJt7cpZhhlq1BnfdFOi">
+      <name>Transparence</name>
+      <released>1986</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>476.066000</length>
+    <popularity>0.07314</popularity>
+  </track>
+  <track href="spotify:track:52SxPBWpAVOf397rraTMHV">
+    <name>Hello George</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F9800680</id>
+    <album href="spotify:album:3mUckIEFKquaMV2rR06ZR2">
+      <name>Guitar Groove</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>310.867000</length>
+    <popularity>0.07286</popularity>
+  </track>
+  <track href="spotify:track:0wEop0cwoOOQi2MLSgFhdB">
+    <name>Beatrice</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55CwMwuNvVsQXrC3KwMwUe">
+      <name>Joe La barbera</name>
+    </artist>
+    <artist href="spotify:artist:5vACdMa2kY7jHnlJwqYRKP">
+      <name>Enrico Pieranunzi</name>
+    </artist>
+    <artist href="spotify:artist:74MwvlhrhrGR0EwNAVbIs2">
+      <name>Hein Van De Geyn</name>
+    </artist>
+    <id type="isrc">FR14F0901050</id>
+    <album href="spotify:album:0RZBq5uEPfuiCarr8zjty6">
+      <name>Concert In Capbreton</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>471.160000</length>
+    <popularity>0.11988</popularity>
+  </track>
+  <track href="spotify:track:3X1a0dahRqwhKJKuUip5EM">
+    <name>Eva</name>
+    <artist href="spotify:artist:2Y89jEuBQXOh2H7Nv8pU3J">
+      <name>Olivier Ker Ourio</name>
+    </artist>
+    <artist href="spotify:artist:1NVyfQbY0oM9xBVCaIYkwh">
+      <name>Emmanuel Bex</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:77FgwKhxIPrET0QgGTn58K">
+      <name>André Ceccarelli</name>
+    </artist>
+    <id type="isrc">FR2IT1000080</id>
+    <album href="spotify:album:2wybCTHfCfQmLLBPUMKiQs">
+      <name>Magic Tree</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>273.013000</length>
+    <popularity>0.10697</popularity>
+  </track>
+  <track href="spotify:track:41sNnjEcuy7e7kjhiIlRCj">
+    <name>On the ground</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0500020</id>
+    <album href="spotify:album:6dHfnGRuxR13AKfxeLiFD7">
+      <name>Meeting Colours</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>336.080000</length>
+    <popularity>0.07113</popularity>
+  </track>
+  <track href="spotify:track:5SzV7At6ZtYuZrZ6vW4Ru7">
+    <name>Coffee Groove</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0000420</id>
+    <album href="spotify:album:3c1SzIiUCvu34VSNAOzYCr">
+      <name>Blue Prince</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>214.853000</length>
+    <popularity>0.07098</popularity>
+  </track>
+  <track href="spotify:track:0vSzK4cSrVPEmCFwhbpguE">
+    <name>The Puzzle</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">DEAM89300030</id>
+    <album href="spotify:album:5BXfx1vcuhjdV0QExnTACs">
+      <name>Art Of The Duo</name>
+      <released>1993</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>485.933000</length>
+    <popularity>0.06994</popularity>
+  </track>
+  <track href="spotify:track:5blXgzamh5ncaIWFOo2tMP">
+    <name>Good Morning Bill</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F9800640</id>
+    <album href="spotify:album:7DoF2lKSOp4jTZ7Czl3Ka4">
+      <name>Dreyfus Jazz Club: Electric Guitar</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>310.133000</length>
+    <popularity>0.06931</popularity>
+  </track>
+  <track href="spotify:track:32FVheXM0JnDZ9ewt2KeLd">
+    <name>Lendas Brasileiras</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700790</id>
+    <album href="spotify:album:56lZOYSvuBVSaKjFFzWxd5">
+      <name>Dreyfus Jazz 20 Years</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>305.840000</length>
+    <popularity>0.06777</popularity>
+  </track>
+  <track href="spotify:track:3jlZppM1H6P6gXs84ktV9E">
+    <name>Sunset Shuffle</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F9800670</id>
+    <album href="spotify:album:3mUckIEFKquaMV2rR06ZR2">
+      <name>Guitar Groove</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>250.733000</length>
+    <popularity>0.06768</popularity>
+  </track>
+  <track href="spotify:track:1eyd8WLs9JuUwgBXbamZqo">
+    <name>Transparence</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">DEB648700076</id>
+    <album href="spotify:album:5q9dJt7cpZhhlq1BnfdFOi">
+      <name>Transparence</name>
+      <released>1986</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>451.933000</length>
+    <popularity>0.06616</popularity>
+  </track>
+  <track href="spotify:track:4d6etnf6n7junJ5SGt4zmu">
+    <name>Sweet Chorus - Instrumental</name>
+    <artist href="spotify:artist:25s8YpOLWqI2SgTlvapJyQ">
+      <name>Larry Coryell</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:673nUEedXxOIdNlPvxXLiM">
+      <name>Niels-Henning Ørsted Pedersen</name>
+    </artist>
+    <artist href="spotify:artist:6AfbDYupHV5e6nse9W6tKG">
+      <name>Stéphane Grappelli</name>
+    </artist>
+    <id type="isrc">DEA117900120</id>
+    <album href="spotify:album:2nqLTJD6FN0qeTqCInbP0j">
+      <name>Young Django</name>
+      <released>1979</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK EE ES FI FR GB IE IL IT LT LV NL NO NZ PL PT RU SE SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>252.440000</length>
+    <popularity>0.09871</popularity>
+  </track>
+  <track href="spotify:track:06mavnzMDZ4gqR0StxM9Yp">
+    <name>Emotions</name>
+    <artist href="spotify:artist:63ZJSdxmTX5wWRMoS1C5ph">
+      <name>Joachim Kühn</name>
+    </artist>
+    <id type="isrc">NLG620446683</id>
+    <album href="spotify:album:2C9jBgfCsZlPAoC12Q41nG">
+      <name>Toots Thielemans, Philip Catherine &amp; Friends</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>378.373000</length>
+    <popularity>0.07447</popularity>
+  </track>
+  <track href="spotify:track:1xG21DYIH6k3Dki6iBTaI0">
+    <name>Second Story Together</name>
+    <artist href="spotify:artist:1u0jhn9jd0tlKRSMLxvxHl">
+      <name>Chris Hinze</name>
+    </artist>
+    <artist href="spotify:artist:63ZJSdxmTX5wWRMoS1C5ph">
+      <name>Joachim Kühn</name>
+    </artist>
+    <id type="isrc">NLG620446684</id>
+    <album href="spotify:album:2C9jBgfCsZlPAoC12Q41nG">
+      <name>Toots Thielemans, Philip Catherine &amp; Friends</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>305.333000</length>
+    <popularity>0.07258</popularity>
+  </track>
+  <track href="spotify:track:3Cs7Xk8V2WtPnEUEqwZMTq">
+    <name>Freddie Freeloader</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F9601240</id>
+    <album href="spotify:album:704S64drkeTxSKQGvzgMcA">
+      <name>Live</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>208.160000</length>
+    <popularity>0.06228</popularity>
+  </track>
+  <track href="spotify:track:2cacGVPvm8Y8gju8sfNX22">
+    <name>But Not For Me</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:50m2KVom2r1LcmDxWWkieg">
+      <name>Jean-Louis Rassinfosse</name>
+    </artist>
+    <id type="isrc">DEA590854106</id>
+    <album href="spotify:album:0BtoHUXuoSEVo2i5ZYku3M">
+      <name>Strollin'</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>501.880000</length>
+    <popularity>0.08454</popularity>
+  </track>
+  <track href="spotify:track:0pG9RX1pWF066lOawj52gF">
+    <name>Leaving</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:50m2KVom2r1LcmDxWWkieg">
+      <name>Jean-Louis Rassinfosse</name>
+    </artist>
+    <id type="isrc">DEA590854105</id>
+    <album href="spotify:album:0BtoHUXuoSEVo2i5ZYku3M">
+      <name>Strollin'</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>1005.120000</length>
+    <popularity>0.08330</popularity>
+  </track>
+  <track href="spotify:track:4jS9hipItYqHqACn7kFxNX">
+    <name>My Foolish Heart</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55CwMwuNvVsQXrC3KwMwUe">
+      <name>Joe La barbera</name>
+    </artist>
+    <artist href="spotify:artist:5vACdMa2kY7jHnlJwqYRKP">
+      <name>Enrico Pieranunzi</name>
+    </artist>
+    <artist href="spotify:artist:74MwvlhrhrGR0EwNAVbIs2">
+      <name>Hein Van De Geyn</name>
+    </artist>
+    <id type="isrc">FR14F0901020</id>
+    <album href="spotify:album:0RZBq5uEPfuiCarr8zjty6">
+      <name>Concert In Capbreton</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>593.760000</length>
+    <popularity>0.10326</popularity>
+  </track>
+  <track href="spotify:track:5uN8pP1V7r8t5UH6I5622Y">
+    <name>Good Morning Bill</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F9800640</id>
+    <album href="spotify:album:3mUckIEFKquaMV2rR06ZR2">
+      <name>Guitar Groove</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>310.133000</length>
+    <popularity>0.05885</popularity>
+  </track>
+  <track href="spotify:track:4JPDPOSw4k1eqWSA6Y6Yn7">
+    <name>Tiger Groove</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0200370</id>
+    <album href="spotify:album:69u9nttVoQ0QgO1YvXny1t">
+      <name>Summer Night</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>300.480000</length>
+    <popularity>0.05850</popularity>
+  </track>
+  <track href="spotify:track:6wWIOzsdFAANbYWj9WEf58">
+    <name>Strollin'</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:2BQZS3aAMLNtot11kkZb4R">
+      <name>Jean Louis Rassinfosse</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">USA371231328</id>
+    <album href="spotify:album:3j8LBolBUBEWUoK4htmNYu">
+      <name>Live &amp; Rare</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>511.920000</length>
+    <popularity>0.08075</popularity>
+  </track>
+  <track href="spotify:track:6R2JQOjAq2ThDn2WnerJbY">
+    <name>The Creeper</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0000490</id>
+    <album href="spotify:album:3c1SzIiUCvu34VSNAOzYCr">
+      <name>Blue Prince</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>462.787000</length>
+    <popularity>0.05770</popularity>
+  </track>
+  <track href="spotify:track:176QZ64HclWrR8rZUKeKIQ">
+    <name>Francis' Delight</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0200380</id>
+    <album href="spotify:album:69u9nttVoQ0QgO1YvXny1t">
+      <name>Summer Night</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>293.880000</length>
+    <popularity>0.05735</popularity>
+  </track>
+  <track href="spotify:track:79nKEyt3fv5LTCCkjA6m7G">
+    <name>In a sentimental mood</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0500090</id>
+    <album href="spotify:album:6dHfnGRuxR13AKfxeLiFD7">
+      <name>Meeting Colours</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>408.600000</length>
+    <popularity>0.05662</popularity>
+  </track>
+  <track href="spotify:track:087JQ6aab2ongNFQfuAj7u">
+    <name>Announcement (Introduction of the Band)</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55CwMwuNvVsQXrC3KwMwUe">
+      <name>Joe La barbera</name>
+    </artist>
+    <artist href="spotify:artist:5vACdMa2kY7jHnlJwqYRKP">
+      <name>Enrico Pieranunzi</name>
+    </artist>
+    <artist href="spotify:artist:74MwvlhrhrGR0EwNAVbIs2">
+      <name>Hein Van De Geyn</name>
+    </artist>
+    <id type="isrc">FR14F0901000</id>
+    <album href="spotify:album:0RZBq5uEPfuiCarr8zjty6">
+      <name>Concert In Capbreton</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>41.667000</length>
+    <popularity>0.09971</popularity>
+  </track>
+  <track href="spotify:track:3v6wQZIXpt5nMq7ksLla4i">
+    <name>Rene Thomas</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">DEB648700081</id>
+    <album href="spotify:album:5q9dJt7cpZhhlq1BnfdFOi">
+      <name>Transparence</name>
+      <released>1986</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>388.106000</length>
+    <popularity>0.05620</popularity>
+  </track>
+  <track href="spotify:track:37Bw7qFfVDxqBiYJn1TaDQ">
+    <name>Summer Night</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0200470</id>
+    <album href="spotify:album:69u9nttVoQ0QgO1YvXny1t">
+      <name>Summer Night</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>161.880000</length>
+    <popularity>0.05515</popularity>
+  </track>
+  <track href="spotify:track:35rGR6pY0g0VwoBoRo5Sdv">
+    <name>Broken Wings</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <artist href="spotify:artist:55CwMwuNvVsQXrC3KwMwUe">
+      <name>Joe La barbera</name>
+    </artist>
+    <artist href="spotify:artist:5vACdMa2kY7jHnlJwqYRKP">
+      <name>Enrico Pieranunzi</name>
+    </artist>
+    <artist href="spotify:artist:74MwvlhrhrGR0EwNAVbIs2">
+      <name>Hein Van De Geyn</name>
+    </artist>
+    <id type="isrc">FR14F0901030</id>
+    <album href="spotify:album:0RZBq5uEPfuiCarr8zjty6">
+      <name>Concert In Capbreton</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>748.360000</length>
+    <popularity>0.09732</popularity>
+  </track>
+  <track href="spotify:track:2J2SQoSWdkmI1k8iGe5UVh">
+    <name>December 26th (In tempo)</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0500130</id>
+    <album href="spotify:album:6dHfnGRuxR13AKfxeLiFD7">
+      <name>Meeting Colours</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>249.920000</length>
+    <popularity>0.05475</popularity>
+  </track>
+  <track href="spotify:track:4dJsdhMNXPcNslxNAncTm8">
+    <name>With A Song In My Heart</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0000510</id>
+    <album href="spotify:album:3c1SzIiUCvu34VSNAOzYCr">
+      <name>Blue Prince</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>230.653000</length>
+    <popularity>0.05467</popularity>
+  </track>
+  <track href="spotify:track:1e47eW4NBZIppZ2xbuOtg6">
+    <name>Letter From My Mother</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0200400</id>
+    <album href="spotify:album:69u9nttVoQ0QgO1YvXny1t">
+      <name>Summer Night</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>287.360000</length>
+    <popularity>0.05409</popularity>
+  </track>
+  <track href="spotify:track:1hFRGCAEbTmJHqUNcQNa66">
+    <name>Guitar Groove</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F9800710</id>
+    <album href="spotify:album:3mUckIEFKquaMV2rR06ZR2">
+      <name>Guitar Groove</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AL AT AU AZ BA BE BG BY CA CH CZ DE DK EE ES FI FO FR GB GI GR HR HU IE IS IT JP LI LT LU LV MC MD MK MT MX NL NO NZ PL PT RO RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>385.693000</length>
+    <popularity>0.05365</popularity>
+  </track>
+  <track href="spotify:track:3AIoALO77AyJajemFHkvgp">
+    <name>Shifting Down</name>
+    <artist href="spotify:artist:3rxeQlsv0Sc2nyYaZ5W71T">
+      <name>Chet Baker</name>
+    </artist>
+    <artist href="spotify:artist:2BQZS3aAMLNtot11kkZb4R">
+      <name>Jean Louis Rassinfosse</name>
+    </artist>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">USA371231334</id>
+    <album href="spotify:album:3j8LBolBUBEWUoK4htmNYu">
+      <name>Live &amp; Rare</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>402.453000</length>
+    <popularity>0.07466</popularity>
+  </track>
+  <track href="spotify:track:7p4dsKCFLrUVoRMBdidDGQ">
+    <name>Toscane</name>
+    <artist href="spotify:artist:3MK08earaAAPhouY2WTvqn">
+      <name>Philip Catherine</name>
+    </artist>
+    <id type="isrc">FR14F0700740</id>
+    <album href="spotify:album:1CaCY3ouPKcKr29tvv3gvR">
+      <name>Guitars Two</name>
+      <released>2008</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>234.787000</length>
+    <popularity>0.05303</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:36:09 GMT -->

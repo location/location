@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Lukestar Flying Canoes"/>
+  <opensearch:totalResults>3</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:4pT07aJoQyI56pe93BoXuL">
+    <name>Flying Canoes</name>
+    <artist href="spotify:artist:5ABatVOEkxTA9jD18FCOX5">
+      <name>Lukestar</name>
+    </artist>
+    <id type="isrc">NOBTZ1101030</id>
+    <album href="spotify:album:4gPhQ5M8B2CLBTSMrYc3jM">
+      <name>Flying Canoes - Single</name>
+      <released>2011</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>174.827000</length>
+    <popularity>0.48107</popularity>
+  </track>
+  <track href="spotify:track:7aBG8Nh2lN5zvkB7JGvqYu">
+    <name>Flying Canoes</name>
+    <artist href="spotify:artist:5ABatVOEkxTA9jD18FCOX5">
+      <name>Lukestar</name>
+    </artist>
+    <id type="isrc">NOBTZ1101030</id>
+    <album href="spotify:album:7vrMXovTvV3jW4CGOhu29c">
+      <name>Taiga</name>
+      <released>2011</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>173.907000</length>
+    <popularity>0.29047</popularity>
+  </track>
+  <track href="spotify:track:3EqsWzH3NCmx8nMHOSP3Bt">
+    <name>Flying Canoes</name>
+    <artist href="spotify:artist:5ABatVOEkxTA9jD18FCOX5">
+      <name>Lukestar</name>
+    </artist>
+    <id type="isrc">NOBTZ1101030</id>
+    <album href="spotify:album:2AnxgoUFCJ5V07RqpqhlH5">
+      <name>Taiga</name>
+      <released>2011</released>
+      <availability>
+        <territories>DK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>173.907000</length>
+    <popularity>0.11481</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 20:32:26 GMT -->

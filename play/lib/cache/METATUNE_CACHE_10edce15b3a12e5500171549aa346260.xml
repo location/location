@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Nick Cave and The Bad Seeds"/>
+  <opensearch:totalResults>22</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:4g8tzDWYUQoEPVRYhihdLH">
+    <name>Into My Arms</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700433</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>254.426000</length>
+    <popularity>0.61771</popularity>
+  </track>
+  <track href="spotify:track:43yNc1rlFr8vJvnSIpbVaF">
+    <name>Where The Wild Roses Grow (Live)</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700441</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>237.426000</length>
+    <popularity>0.52284</popularity>
+  </track>
+  <track href="spotify:track:2UW9OFUzClq1eDL21249U4">
+    <name>The Ship Song</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700440</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>282.840000</length>
+    <popularity>0.50138</popularity>
+  </track>
+  <track href="spotify:track:7CkMO5LWAY5ZF3ZTYj0OE6">
+    <name>Red Right Hand</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700428</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>288.506000</length>
+    <popularity>0.46643</popularity>
+  </track>
+  <track href="spotify:track:6MrJO5xj4GVH3uliSnlk6I">
+    <name>Henry Lee</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700438</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>236.666000</length>
+    <popularity>0.44357</popularity>
+  </track>
+  <track href="spotify:track:06ecozNbG8AFt93ZCEW2bD">
+    <name>Are You The One That I've Been Waiting For</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700434</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>246.400000</length>
+    <popularity>0.43386</popularity>
+  </track>
+  <track href="spotify:track:32JjRMpbWGc1KwGbfZDG1r">
+    <name>The Weeping Song</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700439</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>260.960000</length>
+    <popularity>0.41299</popularity>
+  </track>
+  <track href="spotify:track:1wxXOIjFdy7tBrWSkUPYdh">
+    <name>Straight To You</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700429</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>275.666000</length>
+    <popularity>0.41645</popularity>
+  </track>
+  <track href="spotify:track:54YoWhhG7dvNbf3zwMXJuu">
+    <name>And No More Shall We Part</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH1000684</id>
+    <album href="spotify:album:2TD5tznciiSisrt8KcHgnr">
+      <name>No More Shall We Part (2011 - Remaster)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>240.533000</length>
+    <popularity>0.44076</popularity>
+  </track>
+  <track href="spotify:track:5yBEuhwgIUC6y5T8QG6DcM">
+    <name>Do You Love Me?</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700436</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>277.160000</length>
+    <popularity>0.39097</popularity>
+  </track>
+  <track href="spotify:track:5C4kr2GgZzatYNkhd0Rztb">
+    <name>The Carny</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700435</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>481.040000</length>
+    <popularity>0.37751</popularity>
+  </track>
+  <track href="spotify:track:5hh1sHtLi9XOtAAPxiFcU6">
+    <name>The Mercy Seat</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700437</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>308.573000</length>
+    <popularity>0.37877</popularity>
+  </track>
+  <track href="spotify:track:1x3JDAwgjqlFFQxakAgdBm">
+    <name>Deanna</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700427</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>226.093000</length>
+    <popularity>0.38804</popularity>
+  </track>
+  <track href="spotify:track:7zS6yyE2MMkPVQoSqXnu8u">
+    <name>Nobody's Baby Now</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700431</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>233.666000</length>
+    <popularity>0.38797</popularity>
+  </track>
+  <track href="spotify:track:2jWQOpaBXksbp1KFxG66jV">
+    <name>Tupelo</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700430</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>312.466000</length>
+    <popularity>0.37611</popularity>
+  </track>
+  <track href="spotify:track:5fDjontgPLcwv4XMdfYbVw">
+    <name>Stranger Than Kindness</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700432</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>282.200000</length>
+    <popularity>0.37115</popularity>
+  </track>
+  <track href="spotify:track:6XY71UUX9is35gdyRYk5Am">
+    <name>From Her To Eternity</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH9700442</id>
+    <album href="spotify:album:4Bks19ouf722fXIqA11CNU">
+      <name>The Best Of Nick Cave And The Bad Seeds</name>
+      <released>1998</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>333.560000</length>
+    <popularity>0.34747</popularity>
+  </track>
+  <track href="spotify:track:1KqIRyOiIcDScrhYCU1OpU">
+    <name>Lie Down Here (And Be My Girl)</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH0700744</id>
+    <album href="spotify:album:3K0fBwqffK9Xr3iDaFugB0">
+      <name>DIG, LAZARUS, DIG!!!</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>297.813000</length>
+    <popularity>0.32470</popularity>
+  </track>
+  <track href="spotify:track:0KgoKD71ST6pRNe2Nkjl2F">
+    <name>(I'll Love You) Till The End Of The World</name>
+    <artist href="spotify:artist:5lSERadDfvAyRflebDfTjP">
+      <name>Nick Cave And The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH0200126</id>
+    <album href="spotify:album:2tXlHfaKYig2LCM9gmiRco">
+      <name>Music From The Motion Picture Soundtrack Until The End Of The World</name>
+      <released>1991</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>278.173000</length>
+    <popularity>0.30567</popularity>
+  </track>
+  <track href="spotify:track:72GvjSEMdWX0kr61lTHB8Y">
+    <name>Lie Down Here (And Be My Girl)</name>
+    <artist href="spotify:artist:4UXJsSlnKd7ltsrHebV79Q">
+      <name>Nick Cave &amp; The Bad Seeds</name>
+    </artist>
+    <id type="isrc">GBAJH0800124</id>
+    <album href="spotify:album:23bW3WP9vnK7JYgedbnnoQ">
+      <name>Live From London</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>302.487000</length>
+    <popularity>0.17641</popularity>
+  </track>
+  <track href="spotify:track:6Zl8PBcJ9Psyz8fyyemDHm">
+    <name>Into My Arms (Backing Track) - Originally Performed By Nick Cave and the Bad Seeds</name>
+    <artist href="spotify:artist:1QHkzuqwFtqACAidszOAno">
+      <name>Soundmachine</name>
+    </artist>
+    <id type="isrc">USGN61101838</id>
+    <album href="spotify:album:6Gb24rfBAAGkmAfTuzkbcF">
+      <name>Ultimate Backing Tracks: Cool Tracks, Vol. 3</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>255.164000</length>
+    <popularity>0.13343</popularity>
+  </track>
+  <track href="spotify:track:02KDw4fJZyHBYWIh3VJktZ">
+    <name>Into My Arms - Originally Performed By Nick Cave and the Bad Seeds</name>
+    <artist href="spotify:artist:1UNVJFSDvwWjoRoQGDgorD">
+      <name>B the Star</name>
+    </artist>
+    <id type="isrc">USGN61109644</id>
+    <album href="spotify:album:2VHP1dWKaaLjrfBZAAvEM4">
+      <name>40 Super Hits Karaoke: Classic Rock V2</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>18</track-number>
+    <length>255.137000</length>
+    <popularity>0.08108</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:37:14 GMT -->

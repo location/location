@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Jazzanova"/>
+  <opensearch:totalResults>203</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:44BOpj4B3NF6AOO1Wi9yqP">
+    <name>I Can See feat. Ben Westbeech - Filippo Moscatello Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP961100006</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>505.773000</length>
+    <popularity>0.47449</popularity>
+  </track>
+  <track href="spotify:track:6iOSofMZrd6q37VMfGPJhb">
+    <name>Let Me Show Ya feat. Paul Randolph - Henrik Schwarz Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEUM70805092</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>452.893000</length>
+    <popularity>0.43876</popularity>
+  </track>
+  <track href="spotify:track:52VS5Vx4zyBwBYQEpeT37K">
+    <name>Dance The Dance - Atjazz Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960300107</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>513.947000</length>
+    <popularity>0.42351</popularity>
+  </track>
+  <track href="spotify:track:5pWUZzeNJBbcww7GOdjRXL">
+    <name>Lie feat. Thief - Soldiers Of House AB Reworked Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">ZAC031100098</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>427.280000</length>
+    <popularity>0.40603</popularity>
+  </track>
+  <track href="spotify:track:1SHjitsWKalokrTp48kNTd">
+    <name>I Can See feat. Ben Westbeech - Midnight Marauders House Your Father Dub</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP961100007</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>590.800000</length>
+    <popularity>0.39879</popularity>
+  </track>
+  <track href="spotify:track:0mft4iksV4wfDuT1DjT8b8">
+    <name>Boom Clicky Boom Klack - Mr. Scruffs Vocal Mix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960500171</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>519.467000</length>
+    <popularity>0.39119</popularity>
+  </track>
+  <track href="spotify:track:6tlMgNAsd9WBfATJy3SP7m">
+    <name>I Can See feat. Ben Westbeech - Ye:Solar Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960900015</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>259.880000</length>
+    <popularity>0.38688</popularity>
+  </track>
+  <track href="spotify:track:7h8TrJy4tlNkAvwMMlXk19">
+    <name>No Use feat. Clara Hill - Lensco Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960400070</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>377.920000</length>
+    <popularity>0.37880</popularity>
+  </track>
+  <track href="spotify:track:1wLJa3aKjk8xEhHlZ8Oyqm">
+    <name>Look What You're Doin' To Me feat. Phonte - Manuel Tur &amp; Dplay Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP961100003</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>458.400000</length>
+    <popularity>0.37815</popularity>
+  </track>
+  <track href="spotify:track:5WKNY2K8cYY517xEewGaCq">
+    <name>Lemon Tea?</name>
+    <artist href="spotify:artist:6jqdr93X1L0PxEK2TG8zmn">
+      <name>Liquid Lounge Vs Jazzanova</name>
+    </artist>
+    <id type="isrc">DES590200999</id>
+    <album href="spotify:album:5ulCJnCYTOOtXu1uuEg5Md">
+      <name>Hôtel Costes 8 by Stéphane Pompougnac</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>255.000000</length>
+    <popularity>0.42584</popularity>
+  </track>
+  <track href="spotify:track:6heZ02MZTxgxgHWGeoZAxP">
+    <name>You ain't really down - Jazzanova's hey baby remix</name>
+    <artist href="spotify:artist:41Rftahl67GeM2t5r6YNL5">
+      <name>Status IV</name>
+    </artist>
+    <id type="isrc">DEP960500168</id>
+    <album href="spotify:album:36TqKS077D7jSveEnfIWba">
+      <name>Hôtel Costes 9 by Stéphane Pompougnac</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>406.000000</length>
+    <popularity>0.43414</popularity>
+  </track>
+  <track href="spotify:track:5nU1ik1qInWsNZwFTM6kkn">
+    <name>Glow &amp; Glare - Âme Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960300097</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>438.120000</length>
+    <popularity>0.37195</popularity>
+  </track>
+  <track href="spotify:track:1lGGN7kYe97AKtUCOo3Jg1">
+    <name>I Can See feat. Ben Westbeech - Mark E Remix Dub</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP961100009</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>456.653000</length>
+    <popularity>0.36358</popularity>
+  </track>
+  <track href="spotify:track:4abU9poWeOx9MlSYiaTIyZ">
+    <name>Theme From Belle et Fou - Danny Krivit Edit</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960800052</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>442.920000</length>
+    <popularity>0.36276</popularity>
+  </track>
+  <track href="spotify:track:56bAQG0JhUx9i6JhQGAJUv">
+    <name>Look What You're Doin' To Me feat. Phonte - Motor City Drum Ensemble Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEUM70905944</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>400.427000</length>
+    <popularity>0.36249</popularity>
+  </track>
+  <track href="spotify:track:0L0v2d9bB5gPcNAvW9aHvC">
+    <name>I Can See</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:0qP3Irw4a8UFvXv6KQf3XM">
+      <name>Ben Westbeech</name>
+    </artist>
+    <id type="isrc">DEUM70805422</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>210.880000</length>
+    <popularity>0.41179</popularity>
+  </track>
+  <track href="spotify:track:4bkgBhwO1unl3C75AYei8s">
+    <name>Let Me Show Ya</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2YrHDeEEoToOzrGjIhETYD">
+      <name>Paul Randolph</name>
+    </artist>
+    <id type="isrc">DEUM70805420</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>386.000000</length>
+    <popularity>0.40528</popularity>
+  </track>
+  <track href="spotify:track:6RE2o6n1v4RUn4UHaIUnie">
+    <name>I Can See feat. Ben Westbeech - Vaitaitau Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960900014</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>196.093000</length>
+    <popularity>0.35194</popularity>
+  </track>
+  <track href="spotify:track:5DaS6GHbA1nOktDVDbcAzB">
+    <name>Lie feat. Thief - Bond &amp; B.MA Just A Lie Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">ZAC031100099</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>387.840000</length>
+    <popularity>0.34949</popularity>
+  </track>
+  <track href="spotify:track:7yKaPO5kgksbA8vxhfi407">
+    <name>Lucky Girl feat. Paul Randolph - Neve Naive Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP961100008</id>
+    <album href="spotify:album:2DtAVptIvrRWrziXMFFQrH">
+      <name>Upside Down</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>327.387000</length>
+    <popularity>0.34673</popularity>
+  </track>
+  <track href="spotify:track:1K7AxN02sSuNDyZioEwvJC">
+    <name>Little Bird</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:4l2MwXYwUDQKHcUXwCZjEz">
+      <name>Jose James</name>
+    </artist>
+    <id type="isrc">DEUM70805421</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>365.200000</length>
+    <popularity>0.39186</popularity>
+  </track>
+  <track href="spotify:track:7Izc0eVXAcS1JDYOqM6yzJ">
+    <name>Look What You're Doin' To Me</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:0p9LVcPuUXYtvXaouzQpAs">
+      <name>Phonte Coleman</name>
+    </artist>
+    <id type="isrc">DEUM70805429</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>181.080000</length>
+    <popularity>0.38703</popularity>
+  </track>
+  <track href="spotify:track:4DdB23Abai3ECDPVf7clML">
+    <name>I Human feat. Paul Randolph</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2YrHDeEEoToOzrGjIhETYD">
+      <name>Paul Randolph</name>
+    </artist>
+    <id type="isrc">DEP961200001</id>
+    <album href="spotify:album:0kW8jLIhcJLXRI8Q7bQpSH">
+      <name>I Human</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>307.783000</length>
+    <popularity>0.37650</popularity>
+  </track>
+  <track href="spotify:track:67MWWQHPzfvOTrAHunHV1k">
+    <name>Lie</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:3tt8QykpX4uli06TBSTKXI">
+      <name>Thief</name>
+    </artist>
+    <id type="isrc">DEUM70805426</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>269.640000</length>
+    <popularity>0.34086</popularity>
+  </track>
+  <track href="spotify:track:6V0xxNmBP6lurDkTigzMnp">
+    <name>Think Twice</name>
+    <artist href="spotify:artist:3ZUZYvTkSr7kJQyAXVpqaL">
+      <name>Donald Byrd</name>
+    </artist>
+    <id type="isrc">USBN29100100</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>369.226000</length>
+    <popularity>0.37309</popularity>
+  </track>
+  <track href="spotify:track:3Ub1UWY1IapiPD5bQgXqhd">
+    <name>Rockin' You Eternally</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:3DwcX6M6GF3KGWbVmfNp8G">
+      <name>Leon Ware</name>
+    </artist>
+    <artist href="spotify:artist:7u6LfVyYpEzMpHLL7jTyvU">
+      <name>Dwele</name>
+    </artist>
+    <id type="isrc">DEUM70805419</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>282.506000</length>
+    <popularity>0.35064</popularity>
+  </track>
+  <track href="spotify:track:7hj0aKy6nsZlqDnQX2WIWO">
+    <name>Rendezvous</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960600213</id>
+    <album href="spotify:album:1ccuqcj59aqBZUxlpu2wt7">
+      <name>Select 2010 - Music For Our Friends</name>
+      <released>2010</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>149.000000</length>
+    <popularity>0.28987</popularity>
+  </track>
+  <track href="spotify:track:01gCUID7bHTcp6JzeTfpIe">
+    <name>Lucky Girl</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2YrHDeEEoToOzrGjIhETYD">
+      <name>Paul Randolph</name>
+    </artist>
+    <id type="isrc">DEUM70805418</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>213.720000</length>
+    <popularity>0.33138</popularity>
+  </track>
+  <track href="spotify:track:0aVfpH6wypa6ANiWvt9dmw">
+    <name>I Human feat. Paul Randolph - Dub</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2YrHDeEEoToOzrGjIhETYD">
+      <name>Paul Randolph</name>
+    </artist>
+    <id type="isrc">DEP961200002</id>
+    <album href="spotify:album:0kW8jLIhcJLXRI8Q7bQpSH">
+      <name>I Human</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>461.158000</length>
+    <popularity>0.32819</popularity>
+  </track>
+  <track href="spotify:track:33IcXq9l4tDGopI1lD6bnQ">
+    <name>What Do You Want?</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:1stlWvYSCm3sSEIzdKBSeY">
+      <name>Joe Dukie</name>
+    </artist>
+    <id type="isrc">DEUM70805424</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>286.346000</length>
+    <popularity>0.32401</popularity>
+  </track>
+  <track href="spotify:track:2oLn6jCK5SkmSLVuELtkXG">
+    <name>So Far From Home</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:0p9LVcPuUXYtvXaouzQpAs">
+      <name>Phonte Coleman</name>
+    </artist>
+    <id type="isrc">DEUM70805428</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>251.920000</length>
+    <popularity>0.32227</popularity>
+  </track>
+  <track href="spotify:track:6H8rUS4rFIjW2AjdFQXPdq">
+    <name>Dial A Cliché</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2YrHDeEEoToOzrGjIhETYD">
+      <name>Paul Randolph</name>
+    </artist>
+    <id type="isrc">DEUM70805425</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>254.386000</length>
+    <popularity>0.31283</popularity>
+  </track>
+  <track href="spotify:track:1yVd4gsCgOf1JvfACB3QH8">
+    <name>Gafiera</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:7fgw6kQggc48KiNoTGWNU5">
+      <name>Pedro Martins</name>
+    </artist>
+    <id type="isrc">DEUM70805427</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>158.480000</length>
+    <popularity>0.31165</popularity>
+  </track>
+  <track href="spotify:track:6HnnlkJTmmmbGJj9pZpm61">
+    <name>I Human feat. Paul Randolph - Radio Version</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2YrHDeEEoToOzrGjIhETYD">
+      <name>Paul Randolph</name>
+    </artist>
+    <id type="isrc">DEP961200004</id>
+    <album href="spotify:album:0kW8jLIhcJLXRI8Q7bQpSH">
+      <name>I Human</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>214.444000</length>
+    <popularity>0.30866</popularity>
+  </track>
+  <track href="spotify:track:7i12dtgyebUHY0LWn7y5qd">
+    <name>Morning Scapes</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2ox6AU0eHDMkXfbcvmOQA4">
+      <name>Bembe Segue</name>
+    </artist>
+    <id type="isrc">DEUM70805423</id>
+    <album href="spotify:album:5UfXvVB6oMHgnuT25R5jAs">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>249.706000</length>
+    <popularity>0.30684</popularity>
+  </track>
+  <track href="spotify:track:6itwxRbiz3h2ItkRZejN1E">
+    <name>You Make Me Feel So Good</name>
+    <artist href="spotify:artist:0JbqyQSsMK7TavqlR0yNON">
+      <name>Bobbi Humphrey</name>
+    </artist>
+    <id type="isrc">USBN27500049</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>372.453000</length>
+    <popularity>0.32559</popularity>
+  </track>
+  <track href="spotify:track:3RpdbRE0SKjk1YW10yVWvz">
+    <name>Skybreaks - Jazzanova Remix</name>
+    <artist href="spotify:artist:2OyIh81YX7A4sRCAIqNLzn">
+      <name>Heritage Orchestra</name>
+    </artist>
+    <id type="isrc">GBMEF0700114</id>
+    <album href="spotify:album:1N4CUhUXnDMw9g01ZbxlBY">
+      <name>Gilles Peterson Presents Brownswood Are One</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AL AM AT AZ BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GE GF GP GR HR HU IE IS IT LI LT LU LV MC MD MK MQ MT NC NL NO PF PL PM PT RE RO RU SE SI SK SM TR UA VA YT</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>411.000000</length>
+    <popularity>0.26751</popularity>
+  </track>
+  <track href="spotify:track:2cxjHwWDgopaEa4U1nVeSr">
+    <name>Beatrice</name>
+    <artist href="spotify:artist:0DNuWm5ZBKuCIXLNmrzuk5">
+      <name>Sam Rivers</name>
+    </artist>
+    <id type="isrc">USBN29600709</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>373.720000</length>
+    <popularity>0.31453</popularity>
+  </track>
+  <track href="spotify:track:3KdwqWF7y34dAYy1Z5vTVo">
+    <name>Ice</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960600220</id>
+    <album href="spotify:album:0289Vdubq25N8wIkeeqkoh">
+      <name>Brazil Emoção - edição dois</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>258.613000</length>
+    <popularity>0.24219</popularity>
+  </track>
+  <track href="spotify:track:3XYdOSoN07e9x2j00FB9FB">
+    <name>Look What You're Doin' To Me</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:0p9LVcPuUXYtvXaouzQpAs">
+      <name>Phonte Coleman</name>
+    </artist>
+    <id type="isrc">DEUM70805429</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>181.080000</length>
+    <popularity>0.28869</popularity>
+  </track>
+  <track href="spotify:track:5ulYrTPIEJa9syuZSzKF9M">
+    <name>Let Me Show Ya</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2YrHDeEEoToOzrGjIhETYD">
+      <name>Paul Randolph</name>
+    </artist>
+    <id type="isrc">DEUM70805420</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>386.000000</length>
+    <popularity>0.28815</popularity>
+  </track>
+  <track href="spotify:track:08FjQF2BTixDGtqZkRRTRi">
+    <name>I Can See feat. Ben Westbeech - Dima Studitsky Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP961100002</id>
+    <album href="spotify:album:3VeuVcDEpAGgRwiOGEJk9H">
+      <name>Upside Down EP</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>427.507000</length>
+    <popularity>0.23608</popularity>
+  </track>
+  <track href="spotify:track:3W6JNCAdfZyDuIk51Q21EN">
+    <name>Look What You're Doin' To Me feat. Phonte - Manuel Tur &amp; Dplay Instrumental Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP961100005</id>
+    <album href="spotify:album:3VeuVcDEpAGgRwiOGEJk9H">
+      <name>Upside Down EP</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>459.200000</length>
+    <popularity>0.23066</popularity>
+  </track>
+  <track href="spotify:track:5NSYB465YegWfOarC6hMDT">
+    <name>YuYo (Instrumental)</name>
+    <artist href="spotify:artist:3uO6HG2JwyP744sg4PMmg5">
+      <name>Bobby Hutcherson</name>
+    </artist>
+    <id type="isrc">USBN20200184</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>402.613000</length>
+    <popularity>0.29478</popularity>
+  </track>
+  <track href="spotify:track:2KEXAqauB4Gh6UgAP69aJo">
+    <name>Little Bird feat. José James - Alex Barck Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP961100001</id>
+    <album href="spotify:album:3VeuVcDEpAGgRwiOGEJk9H">
+      <name>Upside Down EP</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>507.960000</length>
+    <popularity>0.22428</popularity>
+  </track>
+  <track href="spotify:track:6XQZrV5ERvX0KCpeg0sHGC">
+    <name>I Can See</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:0qP3Irw4a8UFvXv6KQf3XM">
+      <name>Ben Westbeech</name>
+    </artist>
+    <id type="isrc">DEUM70805422</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>210.880000</length>
+    <popularity>0.27091</popularity>
+  </track>
+  <track href="spotify:track:7cd3LrY8KxcFN1JjA9ed0v">
+    <name>Losalamitoslatinfunklovesong</name>
+    <artist href="spotify:artist:7HZokAjDop6Gjgtghfr8lp">
+      <name>Gene Harris</name>
+    </artist>
+    <id type="isrc">USBN29400150</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>186.133000</length>
+    <popularity>0.28998</popularity>
+  </track>
+  <track href="spotify:track:1wj2fgTUBMjekTcS8t9kXO">
+    <name>I've Had A Little Talk</name>
+    <artist href="spotify:artist:5ZATfKurLqflrBhv2FLht5">
+      <name>Horace Silver</name>
+    </artist>
+    <id type="isrc">USBN20400377</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>225.840000</length>
+    <popularity>0.28895</popularity>
+  </track>
+  <track href="spotify:track:77yVlQ8fCGeHEr3pnVTw20">
+    <name>Little Bird</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:4l2MwXYwUDQKHcUXwCZjEz">
+      <name>Jose James</name>
+    </artist>
+    <id type="isrc">DEUM70805421</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>365.200000</length>
+    <popularity>0.26818</popularity>
+  </track>
+  <track href="spotify:track:6sFBl4TU6WuE1sYGSWQk6k">
+    <name>Rockin' You Eternally</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:3DwcX6M6GF3KGWbVmfNp8G">
+      <name>Leon Ware</name>
+    </artist>
+    <artist href="spotify:artist:7u6LfVyYpEzMpHLL7jTyvU">
+      <name>Dwele</name>
+    </artist>
+    <id type="isrc">DEUM70805419</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>282.507000</length>
+    <popularity>0.26337</popularity>
+  </track>
+  <track href="spotify:track:44M1aa5MzGsVAbkwbE5NMy">
+    <name>Amazon Adventure (Jazzanova Remix)</name>
+    <artist href="spotify:artist:5lYcr7Yue9FUB7MJDBtTJx">
+      <name>Azymuth</name>
+    </artist>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">GBDCR0400128</id>
+    <album href="spotify:album:2bkRMzuo9eqdsG7yNf5JFB">
+      <name>Far Out Brazil</name>
+      <released>2007</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>479.000000</length>
+    <popularity>0.19836</popularity>
+  </track>
+  <track href="spotify:track:6zwuVPWib8aVIIFmMMsZR7">
+    <name>Afreaka</name>
+    <artist href="spotify:artist:38C3okxv3fyyOIQUVPCdGX">
+      <name>Lee Morgan</name>
+    </artist>
+    <id type="isrc">USBN20300457</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>477.946000</length>
+    <popularity>0.27851</popularity>
+  </track>
+  <track href="spotify:track:1pD1sRp03i7EHY6wDnk83k">
+    <name>Look What You're Doin' To Me feat. Phonte - MCDE Remix - Morid And Hifi3000 Dub Edit</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP961100004</id>
+    <album href="spotify:album:3VeuVcDEpAGgRwiOGEJk9H">
+      <name>Upside Down EP</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>333.627000</length>
+    <popularity>0.20889</popularity>
+  </track>
+  <track href="spotify:track:41HNiNioHPMm50LINJmRPn">
+    <name>I Can See feat. Ben Westbeech - Holy Ghost! Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEUM70807784</id>
+    <album href="spotify:album:3VeuVcDEpAGgRwiOGEJk9H">
+      <name>Upside Down EP</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>363.267000</length>
+    <popularity>0.20777</popularity>
+  </track>
+  <track href="spotify:track:1CmExxekasw1c0OAlMqMCV">
+    <name>Maiden Voyage</name>
+    <artist href="spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW">
+      <name>Herbie Hancock</name>
+    </artist>
+    <id type="isrc">USBN28400020</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>473.693000</length>
+    <popularity>0.27456</popularity>
+  </track>
+  <track href="spotify:track:0IoSkt5jCRP6ptoIlyxKZ9">
+    <name>Meci Bon Dieu</name>
+    <artist href="spotify:artist:4WjOiUFD5b9kpa8LfdxkvM">
+      <name>Charlie Rouse</name>
+    </artist>
+    <id type="isrc">USBN26200138</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>353.946000</length>
+    <popularity>0.27365</popularity>
+  </track>
+  <track href="spotify:track:6Nbj7ac86nySzb47qL5NLg">
+    <name>Afrodisia</name>
+    <artist href="spotify:artist:2fMvylhnE23sAlyePKK8er">
+      <name>Kenny Dorham</name>
+    </artist>
+    <id type="isrc">USBN28700264</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>305.066000</length>
+    <popularity>0.27325</popularity>
+  </track>
+  <track href="spotify:track:2J2TZMJLGUNP3ZNN5ss3Vd">
+    <name>Tin Tin Deo</name>
+    <artist href="spotify:artist:5iXjBG4p5hwkuSj3GQRJTx">
+      <name>James Moody and His Bop Men</name>
+    </artist>
+    <artist href="spotify:artist:6QQuESLtKhAOcLW2TeWC2t">
+      <name>Art Blakey</name>
+    </artist>
+    <id type="isrc">USBN28900040</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>168.013000</length>
+    <popularity>0.27276</popularity>
+  </track>
+  <track href="spotify:track:7M9NJv7jeQo1Eyg9ZWtV0g">
+    <name>Blue Spirits (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <id type="isrc">USBN20300588</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>738.040000</length>
+    <popularity>0.27135</popularity>
+  </track>
+  <track href="spotify:track:66jBfyFUBdPySPak8FfZ4F">
+    <name>Congalegra</name>
+    <artist href="spotify:artist:413WfGS7CgAHEJD4DtAo3e">
+      <name>Horace Parlan</name>
+    </artist>
+    <id type="isrc">USBN29200121</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>260.706000</length>
+    <popularity>0.27134</popularity>
+  </track>
+  <track href="spotify:track:4mZtisJMIFwnWLuHG4mKsU">
+    <name>Let Me Show Ya / Something About You - Henrik Schwarz Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:4IbnLLNZLYIzI2o7YDYr17">
+      <name>Daniel Paul</name>
+    </artist>
+    <id type="isrc">DEUM70805092</id>
+    <album href="spotify:album:6MX60uKAV4jfD0Oy9I5vNl">
+      <name>Temporary Secretary</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>277.000000</length>
+    <popularity>0.24724</popularity>
+  </track>
+  <track href="spotify:track:5gPNrmlqaProjf87yqMkjH">
+    <name>Look What You're Doin' To Me feat. Phonte - Christian Prommer Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEUM70905943</id>
+    <album href="spotify:album:3VeuVcDEpAGgRwiOGEJk9H">
+      <name>Upside Down EP</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>556.547000</length>
+    <popularity>0.19764</popularity>
+  </track>
+  <track href="spotify:track:4jk7nNzejOAhXiIpBDxf1R">
+    <name>Love And You And I</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">usexg0501106</id>
+    <album href="spotify:album:0p0OC8cKmADVSd3LGvxiU4">
+      <name>Impeach The Precedent</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>469.467000</length>
+    <popularity>0.19731</popularity>
+  </track>
+  <track href="spotify:track:6tRULJPQbcL9ARoMY5lbsi">
+    <name>Song Of Will (Remix)</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">USBN20400020</id>
+    <album href="spotify:album:7DNMdBpvFLtwdu9FCUBQ1h">
+      <name>Blue Note Revisited</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>460.866000</length>
+    <popularity>0.19711</popularity>
+  </track>
+  <track href="spotify:track:6IQu6rZXeBQSZTNk6pZgVu">
+    <name>Quantrale</name>
+    <artist href="spotify:artist:2Ma7hbsouPDXerzHHcfnVK">
+      <name>Curtis Fuller</name>
+    </artist>
+    <id type="isrc">USBN29600967</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>371.080000</length>
+    <popularity>0.26061</popularity>
+  </track>
+  <track href="spotify:track:4QPbfhr9ojBdv9GEJSy273">
+    <name>Baltimore Oriole</name>
+    <artist href="spotify:artist:6aSWZH2HiBFSJ28gv5JG7g">
+      <name>Sheila Jordan</name>
+    </artist>
+    <id type="isrc">USBN28900230</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>155.546000</length>
+    <popularity>0.26028</popularity>
+  </track>
+  <track href="spotify:track:74CwjgOoHZlxupVGWISzGY">
+    <name>Love Song</name>
+    <artist href="spotify:artist:3uO6HG2JwyP744sg4PMmg5">
+      <name>Bobby Hutcherson</name>
+    </artist>
+    <id type="isrc">USBN20300245</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>336.520000</length>
+    <popularity>0.26019</popularity>
+  </track>
+  <track href="spotify:track:5CX9mIwE5lELSpXX0v1CKa">
+    <name>Nobody Knows</name>
+    <artist href="spotify:artist:5ZATfKurLqflrBhv2FLht5">
+      <name>Horace Silver</name>
+    </artist>
+    <id type="isrc">USBN20400372</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>248.986000</length>
+    <popularity>0.25889</popularity>
+  </track>
+  <track href="spotify:track:1vMuPdLAaZj72HrK8zFx1w">
+    <name>Senor Blues (Vocal Version)</name>
+    <artist href="spotify:artist:4PNIQCDBeVCSSqKUhvkP8Y">
+      <name>Horace Silver Quintet</name>
+    </artist>
+    <id type="isrc">USBN20000106</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>376.013000</length>
+    <popularity>0.25804</popularity>
+  </track>
+  <track href="spotify:track:1NjcoS76MsyQRwu69yDib4">
+    <name>Lie</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:3tt8QykpX4uli06TBSTKXI">
+      <name>Thief</name>
+    </artist>
+    <id type="isrc">DEUM70805426</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>269.640000</length>
+    <popularity>0.22181</popularity>
+  </track>
+  <track href="spotify:track:4FAwgSgSSnU4TId9DD0ixk">
+    <name>So Far From Home</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:0p9LVcPuUXYtvXaouzQpAs">
+      <name>Phonte Coleman</name>
+    </artist>
+    <id type="isrc">DEUM70805428</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>251.920000</length>
+    <popularity>0.23080</popularity>
+  </track>
+  <track href="spotify:track:6BrpZKmnAphSLF5HuYbBtN">
+    <name>What Do You Want?</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:1stlWvYSCm3sSEIzdKBSeY">
+      <name>Joe Dukie</name>
+    </artist>
+    <id type="isrc">DEUM70805424</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>286.347000</length>
+    <popularity>0.22805</popularity>
+  </track>
+  <track href="spotify:track:5vxcquwvqa0G9pqw6EHTbz">
+    <name>The Morning Side Of Love</name>
+    <artist href="spotify:artist:31NF3yc9DoAdh2bgR6mY04">
+      <name>Chico Hamilton</name>
+    </artist>
+    <id type="isrc">USBN20100933</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>318.560000</length>
+    <popularity>0.24667</popularity>
+  </track>
+  <track href="spotify:track:4iHv0RbzGXhoSZ5greIII3">
+    <name>That Night (Live At 'The SK Office')</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960600217</id>
+    <album href="spotify:album:1UjcjReMR0lSdY9EigW0ZO">
+      <name>Ritz Paris - Jazz Around The Ritz</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO EC EE EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HM HN HR HT HU IE IM IO IQ IS IT JE JM KE KG KH KI KM KN KP KY KZ LA LC LI LR LS LT LU LV MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ PA PE PF PG PH PK PL PM PN PR PS PT PW PY RE RO RS RU RW SB SC SE SH SI SJ SK SL SM SN SO SR ST SV SZ TC TD TF TG TJ TK TL TM TO TR TT TV TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>310.000000</length>
+    <popularity>0.17909</popularity>
+  </track>
+  <track href="spotify:track:2sCSuobO9Ji1CWpORoPqkT">
+    <name>Xibaba</name>
+    <artist href="spotify:artist:2SZ1e7QHN5jon9tpSpQl44">
+      <name>Duke Pearson</name>
+    </artist>
+    <id type="isrc">USBN29500522</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>393.600000</length>
+    <popularity>0.24350</popularity>
+  </track>
+  <track href="spotify:track:6gyjVJiBYktl6ZyZD0X6pV">
+    <name>Lucky Girl</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2YrHDeEEoToOzrGjIhETYD">
+      <name>Paul Randolph</name>
+    </artist>
+    <id type="isrc">DEUM70805418</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>213.720000</length>
+    <popularity>0.22100</popularity>
+  </track>
+  <track href="spotify:track:2UDsnN8bmJ2jIS7ytPpRM3">
+    <name>You ain't really down - Jazzanova's hey baby remix</name>
+    <artist href="spotify:artist:41Rftahl67GeM2t5r6YNL5">
+      <name>Status IV</name>
+    </artist>
+    <id type="isrc">DEP960500168</id>
+    <album href="spotify:album:3l1nGJTNNjFwQ1cADEGHaw">
+      <name>Hotel Costes 9 by Stephane Pompougnac</name>
+      <released>2010</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>406.000000</length>
+    <popularity>0.22895</popularity>
+  </track>
+  <track href="spotify:track:46FS46wZI73YJtcjq4O0fd">
+    <name>I Can See - Feat. Ben Westbeech</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960999005</id>
+    <album href="spotify:album:6XmtFbaWvqqmiqVE3S8T6S">
+      <name>Lila, Lila</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>211.000000</length>
+    <popularity>0.16820</popularity>
+  </track>
+  <track href="spotify:track:530dCN48MRS4azjpRSUg3m">
+    <name>Is This All</name>
+    <artist href="spotify:artist:0JbqyQSsMK7TavqlR0yNON">
+      <name>Bobbi Humphrey</name>
+    </artist>
+    <id type="isrc">USBN27200034</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>223.413000</length>
+    <popularity>0.23208</popularity>
+  </track>
+  <track href="spotify:track:7sn57Q2uCAzYX88xTitjlN">
+    <name>Glow And Glare</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">USA560776621</id>
+    <album href="spotify:album:65FhJF99uym5syTa0O0G26">
+      <name>In Between</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>351.093000</length>
+    <popularity>0.16574</popularity>
+  </track>
+  <track href="spotify:track:01KMut1L29ippSvzr6MWEm">
+    <name>Sitting Here All Alone</name>
+    <artist href="spotify:artist:4KKQvsAWZWMkS1QCuPnajG">
+      <name>Waters</name>
+    </artist>
+    <id type="isrc">USBN27400052</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>210.640000</length>
+    <popularity>0.23174</popularity>
+  </track>
+  <track href="spotify:track:6PZUXzZVn1AR4jaXzhEeTF">
+    <name>Soulpower - Jazzanova's Straight Dub Mix</name>
+    <artist href="spotify:artist:1cgAf3uR02fbLlKFWSTCgK">
+      <name>Marschmellows</name>
+    </artist>
+    <id type="isrc">USSH60613406</id>
+    <album href="spotify:album:7jkydVdkOsRWHCYdzSK3RR">
+      <name>Shadow Masters: New, Used, &amp; Absurd</name>
+      <released>2002</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>362.000000</length>
+    <popularity>0.20941</popularity>
+  </track>
+  <track href="spotify:track:4M07CnPrHYXwfuH3XeJoSZ">
+    <name>Behold These Days - Berlin '74</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960600216</id>
+    <album href="spotify:album:6XmtFbaWvqqmiqVE3S8T6S">
+      <name>Lila, Lila</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>237.000000</length>
+    <popularity>0.16263</popularity>
+  </track>
+  <track href="spotify:track:7Ak1O538IoKBcQ82ad89k4">
+    <name>Hello To The Wind</name>
+    <artist href="spotify:artist:3uO6HG2JwyP744sg4PMmg5">
+      <name>Bobby Hutcherson</name>
+    </artist>
+    <id type="isrc">USBN20400327</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>357.400000</length>
+    <popularity>0.22437</popularity>
+  </track>
+  <track href="spotify:track:4bc9MyZNKnyTt9HeQ1fYCp">
+    <name>Fedime's Flight - Jazzanova</name>
+    <artist href="spotify:artist:0JxtWtg9GIpDys8aH4A99W">
+      <name>Various Artists - Sweet Mother Records</name>
+    </artist>
+    <id type="isrc">USA370315725</id>
+    <album href="spotify:album:3ASxXAfRqgPYhFJm3Bzx7K">
+      <name>Wallpaper Mach 1.5-Limitless Luxury</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>421.133000</length>
+    <popularity>0.17737</popularity>
+  </track>
+  <track href="spotify:track:55tL6OSbNU6JqrrovY4xVH">
+    <name>I Can See - Instrumental</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEUM70807153</id>
+    <album href="spotify:album:3PAq9LJejs2Gv4K4SsVBe3">
+      <name>I Can See</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DK EE ES FI FR GB HR HU IE LT LV NL NO NZ PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>210.893000</length>
+    <popularity>0.15724</popularity>
+  </track>
+  <track href="spotify:track:5QPcEI4g1w4ahPuz4xHvGW">
+    <name>Theme For Doris (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:4JgvfZeCWGzEPGR6yVaXuX">
+      <name>Tina Brooks</name>
+    </artist>
+    <id type="isrc">USBN20400506</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>343.560000</length>
+    <popularity>0.21966</popularity>
+  </track>
+  <track href="spotify:track:5zN3JyaX6IiHyD2zPrb5Dr">
+    <name>Gafiera</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:7fgw6kQggc48KiNoTGWNU5">
+      <name>Pedro Martins</name>
+    </artist>
+    <id type="isrc">DEUM70805427</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>158.480000</length>
+    <popularity>0.19820</popularity>
+  </track>
+  <track href="spotify:track:7dgkp98mhwJ98Tzjr4BmYa">
+    <name>Dial A Cliché</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2YrHDeEEoToOzrGjIhETYD">
+      <name>Paul Randolph</name>
+    </artist>
+    <id type="isrc">DEUM70805425</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>254.387000</length>
+    <popularity>0.19591</popularity>
+  </track>
+  <track href="spotify:track:0lR920RPgdb3zgS4IWyJ8m">
+    <name>Morning Scapes</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:2ox6AU0eHDMkXfbcvmOQA4">
+      <name>Bembe Segue</name>
+    </artist>
+    <id type="isrc">DEUM70805423</id>
+    <album href="spotify:album:3gBNRCBJGtm1DgVFzJaZRP">
+      <name>Of All The Things</name>
+      <released>2008</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>249.707000</length>
+    <popularity>0.19362</popularity>
+  </track>
+  <track href="spotify:track:6oHVzIBFJ3jHY6lNgzoPqd">
+    <name>Song Of Will</name>
+    <artist href="spotify:artist:7EkZReKcX6KzLURq10LahK">
+      <name>Eddie Gale</name>
+    </artist>
+    <id type="isrc">USBN20300051</id>
+    <album href="spotify:album:5xAymHaEllHdMWol6Fl5Wq">
+      <name>Blue Note Trip Jazzanova: Lookin' Back/Movin' On</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>187.426000</length>
+    <popularity>0.20935</popularity>
+  </track>
+  <track href="spotify:track:2q1fkxw9OmjrGg12uCEx38">
+    <name>Get Into My Groove - Jazzanova Regroove</name>
+    <artist href="spotify:artist:5moJNCJeiNwuQAhDLJXULs">
+      <name>Incognito</name>
+    </artist>
+    <id type="isrc">GBF089900690</id>
+    <album href="spotify:album:7oY2q6UwkewYCZhzgFdefX">
+      <name>Future Remixed</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>434.800000</length>
+    <popularity>0.18908</popularity>
+  </track>
+  <track href="spotify:track:2y86W0iJGUv2aFiZYN5oTu">
+    <name>I Can See</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:0qP3Irw4a8UFvXv6KQf3XM">
+      <name>Ben Westbeech</name>
+    </artist>
+    <id type="isrc">DEUM70805422</id>
+    <album href="spotify:album:3PAq9LJejs2Gv4K4SsVBe3">
+      <name>I Can See</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DK EE ES FI FR GB HR HU IE LT LV NL NO NZ PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>210.866000</length>
+    <popularity>0.18615</popularity>
+  </track>
+  <track href="spotify:track:4QV1sByJARBJ9oURxTRMV0">
+    <name>L.O.V.E. Beats</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">DEP960400007</id>
+    <album href="spotify:album:08ZPuWhCSI6Adx3d5lhX8W">
+      <name>The Instrumental Session</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>103.000000</length>
+    <popularity>0.13998</popularity>
+  </track>
+  <track href="spotify:track:6fu5TrD7i9qIlzaA6ee3Yw">
+    <name>I Can See - Holy Ghost! Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:0qP3Irw4a8UFvXv6KQf3XM">
+      <name>Ben Westbeech</name>
+    </artist>
+    <id type="isrc">DEUM70807784</id>
+    <album href="spotify:album:3PAq9LJejs2Gv4K4SsVBe3">
+      <name>I Can See</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DK EE ES FI FR GB HR HU IE LT LV NL NO NZ PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>363.253000</length>
+    <popularity>0.17823</popularity>
+  </track>
+  <track href="spotify:track:6bsT8OVsXMg8Dbkkp6hUph">
+    <name>Wonderlove - Jazzanova Remix</name>
+    <artist href="spotify:artist:4k504xMp2InbnaJP0qyFX0">
+      <name>Heavy</name>
+    </artist>
+    <id type="isrc">NL-M96-05-00170</id>
+    <album href="spotify:album:6RmKMaF5u6RfTqzgOipu7z">
+      <name>Witness Future Vintage Vol.2</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>393.000000</length>
+    <popularity>0.14866</popularity>
+  </track>
+  <track href="spotify:track:1fyoRCaLhu35n8xOnEzm69">
+    <name>I Can See - Mark E Remix</name>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <artist href="spotify:artist:0qP3Irw4a8UFvXv6KQf3XM">
+      <name>Ben Westbeech</name>
+    </artist>
+    <id type="isrc">DEUM70807785</id>
+    <album href="spotify:album:3PAq9LJejs2Gv4K4SsVBe3">
+      <name>I Can See</name>
+      <released>2008</released>
+      <availability>
+        <territories>AU BE CH CN CZ DK EE ES FI FR GB HR HU IE LT LV NL NO NZ PT SE SG SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>503.413000</length>
+    <popularity>0.17476</popularity>
+  </track>
+  <track href="spotify:track:2YcxiXwJr6kEIjfl80UKqF">
+    <name>Soulpower - Jazzanova Reworked, Extended Version</name>
+    <artist href="spotify:artist:6qDZ7gH9C2m23MEeX76Wvh">
+      <name>Marschmellow</name>
+    </artist>
+    <id type="isrc">FR6V81010085</id>
+    <album href="spotify:album:3he3ztDe6IKRXDNQykCtQN">
+      <name>Lovebirds Presents My Favourite Dish</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>361.213000</length>
+    <popularity>0.17253</popularity>
+  </track>
+  <track href="spotify:track:2jqlxb9WEBgtjHOk5nQPTH">
+    <name>Amazon Adventure (Jazzanova Remix)</name>
+    <artist href="spotify:artist:5lYcr7Yue9FUB7MJDBtTJx">
+      <name>Azymuth</name>
+    </artist>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">GBDCR0400128</id>
+    <album href="spotify:album:56wSlsfBck7CCRCDEEMFmy">
+      <name>Misturada 3</name>
+      <released>2003</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>481.000000</length>
+    <popularity>0.11473</popularity>
+  </track>
+  <track href="spotify:track:5a5iXrqpAGb33GHf4SS6f8">
+    <name>Besteiras De Amor (Jazzanova Remix)</name>
+    <artist href="spotify:artist:5I0EPnV9gwrZYTbScjnaOk">
+      <name>Marcos Valle</name>
+    </artist>
+    <artist href="spotify:artist:0nTErwSOllrcUWt3knOG2T">
+      <name>Jazzanova</name>
+    </artist>
+    <id type="isrc">GBDCR0500103</id>
+    <album href="spotify:album:18VRIj4PTiSp7ZxVu56Rx2">
+      <name>Besteiras De Amor (Jazzanova Remixes)</name>
+      <released>2001</released>
+      <availability>
+        <territories>worldwide</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>548.000000</length>
+    <popularity>0.10250</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Fri, 24 Feb 2012 11:51:02 GMT -->

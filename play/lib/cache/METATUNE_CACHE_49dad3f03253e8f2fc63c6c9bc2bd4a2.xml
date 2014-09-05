@@ -1,0 +1,1846 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Oscar Peterson"/>
+  <opensearch:totalResults>11072</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:6zzAPqXj6UyVI56ul7LhSH">
+    <name>Don't Get Around Much Anymore</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922980</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>152.880000</length>
+    <popularity>0.44999</popularity>
+  </track>
+  <track href="spotify:track:1T0Yi7ncWsHlhtcAw0xOgT">
+    <name>Take The 'A' Train</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922988</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>183.933000</length>
+    <popularity>0.42346</popularity>
+  </track>
+  <track href="spotify:track:6Ku78IkySXj208dEElgNmg">
+    <name>There Will Never Be Another You</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR35252010</id>
+    <album href="spotify:album:5oWrfeHVKKxdjmPhqV9lnV">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>204.800000</length>
+    <popularity>0.42373</popularity>
+  </track>
+  <track href="spotify:track:5v5h0IdOAo0pK8a7i2esZG">
+    <name>Georgia On My Mind</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USF096300320</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>226.600000</length>
+    <popularity>0.44414</popularity>
+  </track>
+  <track href="spotify:track:4TCgzQGO2CZ1OyaLt8s9tY">
+    <name>Sophisticated Lady</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922981</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>145.853000</length>
+    <popularity>0.40229</popularity>
+  </track>
+  <track href="spotify:track:0mlDTc832qP4Byo2fsZyl0">
+    <name>C-Jam Blues</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR36260034</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>206.093000</length>
+    <popularity>0.41782</popularity>
+  </track>
+  <track href="spotify:track:24pfUw07pZw74gwkqZjbdj">
+    <name>Oscar's Boogie</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA560860621</id>
+    <album href="spotify:album:7Ex1VGseGTP91ePZhKEqdv">
+      <name>Piano Boogie Woogie Vol. 1</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>37</track-number>
+    <length>162.200000</length>
+    <popularity>0.37749</popularity>
+  </track>
+  <track href="spotify:track:2T1ACKqq6GEozD390n16Ve">
+    <name>Hymn To Freedom</name>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USF096300400</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>338.133000</length>
+    <popularity>0.42316</popularity>
+  </track>
+  <track href="spotify:track:5wuPPU2fpJU5yrTWYACG8o">
+    <name>Ad Lib Blues</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR35252001</id>
+    <album href="spotify:album:5oWrfeHVKKxdjmPhqV9lnV">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>350.626000</length>
+    <popularity>0.36206</popularity>
+  </track>
+  <track href="spotify:track:7G48Z9O8oOY2R61XV2q1hG">
+    <name>Almost Like Being In Love</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR35252008</id>
+    <album href="spotify:album:5oWrfeHVKKxdjmPhqV9lnV">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>211.266000</length>
+    <popularity>0.35705</popularity>
+  </track>
+  <track href="spotify:track:7rKzd20HdQ5YST7fQIXkae">
+    <name>Prelude To A Kiss</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922983</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>151.360000</length>
+    <popularity>0.34454</popularity>
+  </track>
+  <track href="spotify:track:1EfAxF3Jj9IDSOF51Eai0k">
+    <name>Soulville</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395870</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>484.179000</length>
+    <popularity>0.34895</popularity>
+  </track>
+  <track href="spotify:track:0I4CWGOtq6qV38gXcy6k5P">
+    <name>Rockin' In Rhythm</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922982</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>135.467000</length>
+    <popularity>0.34123</popularity>
+  </track>
+  <track href="spotify:track:0k1YQrkGaMPv8ysk0FziP8">
+    <name>Night Train</name>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USPR36200014</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>292.800000</length>
+    <popularity>0.39008</popularity>
+  </track>
+  <track href="spotify:track:6USEESvFtlZ3SLChx8sr4I">
+    <name>Stardust</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR35252005</id>
+    <album href="spotify:album:5oWrfeHVKKxdjmPhqV9lnV">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>212.040000</length>
+    <popularity>0.34911</popularity>
+  </track>
+  <track href="spotify:track:4TfcY9wQRLmIzgUDlmBWjB">
+    <name>In A Mellow Tone</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922984</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>221.187000</length>
+    <popularity>0.33340</popularity>
+  </track>
+  <track href="spotify:track:4dZGhzltQ1NHekNjCICQYK">
+    <name>The Touch of Your Lips</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106603</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>380.560000</length>
+    <popularity>0.33693</popularity>
+  </track>
+  <track href="spotify:track:6fGVKEVhYivGGab40s9LHY">
+    <name>Boogie Woogie</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395871</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>190.302000</length>
+    <popularity>0.32855</popularity>
+  </track>
+  <track href="spotify:track:21rIpDhTvTgUvFgqWiS78Y">
+    <name>Bye Bye Blackbird</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR35912074</id>
+    <album href="spotify:album:20nUe1jHLgvuPnaTkL0uSA">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CZ DE DK EE ES FI FR GB IE IL IN IT LT LV NL NO NZ PL PT RU SE SK UA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>405.800000</length>
+    <popularity>0.32265</popularity>
+  </track>
+  <track href="spotify:track:62Dv5UT9lrHYk27UsRjyIc">
+    <name>Take The A Train</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0802240</id>
+    <album href="spotify:album:6sdMqIu5mgaPlymyUdcCu8">
+      <name>Oscar Peterson Collection</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AL AT AX BA BE BG BY CA CY CZ DE DK EE ES FI FO FR GB GG GI GR HR HU IE IS IT LI LT LU LV MC MD ME MK MT NL PL PT RO RS RU SE SI SJ SK SM UA VA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>182.560000</length>
+    <popularity>0.30386</popularity>
+  </track>
+  <track href="spotify:track:6ZYYuW9yOD7SgKOfraDKIa">
+    <name>Things Ain't What They Used To Be</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922987</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>186.720000</length>
+    <popularity>0.31972</popularity>
+  </track>
+  <track href="spotify:track:04chcHuvRCOHkzp9I5UIu3">
+    <name>Just A-Sittin' And A-Rockin'</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922986</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>177.733000</length>
+    <popularity>0.31523</popularity>
+  </track>
+  <track href="spotify:track:0fCoRtjrJcILTDwgQRupvz">
+    <name>Georgia On My Mind</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USF096300320</id>
+    <album href="spotify:album:3c0DGyQLVaWikxLYsPPB10">
+      <name>Standards (Great Songs/Great Performances)</name>
+      <released>2010</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>223.707000</length>
+    <popularity>0.34618</popularity>
+  </track>
+  <track href="spotify:track:3jUQD0HI2TNxO1WHfQSBjw">
+    <name>Bounce Blues</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395872</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>273.136000</length>
+    <popularity>0.31700</popularity>
+  </track>
+  <track href="spotify:track:1O6IHXJLeInFKlXP5MHi2B">
+    <name>Bye Bye Blackbird</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395873</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>405.812000</length>
+    <popularity>0.31439</popularity>
+  </track>
+  <track href="spotify:track:5gT7EXXgMAxdoe4ndTwr2t">
+    <name>Lover Come Back to Me</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395874</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>509.701000</length>
+    <popularity>0.31411</popularity>
+  </track>
+  <track href="spotify:track:6t2YWQnLvtprc2TzTAoTXX">
+    <name>I Got It Bad And That Ain't Good</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922989</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>189.640000</length>
+    <popularity>0.30765</popularity>
+  </track>
+  <track href="spotify:track:4N73kKSSM5I07e4FEFdqsw">
+    <name>Someday My Prince Will Come</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR36301947</id>
+    <album href="spotify:album:2cuTa1pXn0B1VECjFeyNzM">
+      <name>Oscar Peterson &amp; Nelson Riddle</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>171.826000</length>
+    <popularity>0.29846</popularity>
+  </track>
+  <track href="spotify:track:1GvPJapLSNqWzswZbROepS">
+    <name>Cottontail</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922985</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>142.760000</length>
+    <popularity>0.30662</popularity>
+  </track>
+  <track href="spotify:track:1hBVTMgTfMz0t6Eisv5F91">
+    <name>A Foggy Day (In London Town)</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175354</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>217.426000</length>
+    <popularity>0.29789</popularity>
+  </track>
+  <track href="spotify:track:0CYwOhTcd3ZesegXItJvSI">
+    <name>Do Nothin' Till You Hear From Me</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922990</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>134.333000</length>
+    <popularity>0.30559</popularity>
+  </track>
+  <track href="spotify:track:3pzQqS91ExLOSFzUmBdA7D">
+    <name>How Deep Is the Ocean</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395875</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>156.160000</length>
+    <popularity>0.30546</popularity>
+  </track>
+  <track href="spotify:track:06Gm9sGGsLSCOhpcyMYMkA">
+    <name>I Can't Get Started</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USPR35212020</id>
+    <album href="spotify:album:5oWrfeHVKKxdjmPhqV9lnV">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>219.000000</length>
+    <popularity>0.32064</popularity>
+  </track>
+  <track href="spotify:track:4l8ObeGgaNUWiWeq0pSKs9">
+    <name>John Hardy's Wife</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBJUT0922991</id>
+    <album href="spotify:album:6SjBlnTT18kPpiYdkvmpAc">
+      <name>Oscar Peterson Plays The Duke Ellington Songbook</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE BG CA CY CZ DE DK EE ES FI FR GB GR HU IE IT LT LU LV MT NL PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>151.640000</length>
+    <popularity>0.29879</popularity>
+  </track>
+  <track href="spotify:track:1oZfYpBlmDVbcjir635GoJ">
+    <name>Poutin'</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395876</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>238.785000</length>
+    <popularity>0.30115</popularity>
+  </track>
+  <track href="spotify:track:6se67ZwiOfkuBvT97Guf9C">
+    <name>(Back Home Again In) Indiana</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175352</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>192.359000</length>
+    <popularity>0.28756</popularity>
+  </track>
+  <track href="spotify:track:69xxslCHavbl4EYh2WPXQX">
+    <name>Bag's Groove</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR36260036</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>343.040000</length>
+    <popularity>0.32932</popularity>
+  </track>
+  <track href="spotify:track:0uWOzW53qc5aDXphWBxy1g">
+    <name>Late Date</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395877</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>435.957000</length>
+    <popularity>0.29777</popularity>
+  </track>
+  <track href="spotify:track:2D2rPio6cf6s6xcrQk0wHO">
+    <name>The Touch of Your Lips</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395878</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>380.656000</length>
+    <popularity>0.29401</popularity>
+  </track>
+  <track href="spotify:track:4aThNuFztJ15YremppiZUJ">
+    <name>C-Jam Blues</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR36260034</id>
+    <album href="spotify:album:3gPOWmWT0q7Ygp95Xiuw1v">
+      <name>Night Train</name>
+      <released>2010</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>203.467000</length>
+    <popularity>0.32070</popularity>
+  </track>
+  <track href="spotify:track:4lW94wdwF9bqqLOSOebGr3">
+    <name>Bye-Bye, Blackbird</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106605</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>405.800000</length>
+    <popularity>0.29524</popularity>
+  </track>
+  <track href="spotify:track:0VmnhcB6a1IVYPmH5VlKoI">
+    <name>C-Jam Blues</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA560774283</id>
+    <album href="spotify:album:2q6SX7DV8ts84uO7e8cJl2">
+      <name>Oscar Peterson, JATP Lausanne 1953</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>1163.173000</length>
+    <popularity>0.27702</popularity>
+  </track>
+  <track href="spotify:track:2BI1A4WB9TsUATfv3XPNU0">
+    <name>On The Sunny Side Of The Street</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR35200032</id>
+    <album href="spotify:album:5oWrfeHVKKxdjmPhqV9lnV">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>204.360000</length>
+    <popularity>0.29453</popularity>
+  </track>
+  <track href="spotify:track:5iIEHWNqbPiLe61keF9ad7">
+    <name>Makin' Whoopee</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395879</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>272.535000</length>
+    <popularity>0.28868</popularity>
+  </track>
+  <track href="spotify:track:2m2kSVXlbXGEuUaY9CJYAe">
+    <name>This Can't Be Love</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395880</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>591.673000</length>
+    <popularity>0.28576</popularity>
+  </track>
+  <track href="spotify:track:2CfkT3UtanJkR8eNcwXJdp">
+    <name>A Fine Romance</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175353</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>193.866000</length>
+    <popularity>0.27238</popularity>
+  </track>
+  <track href="spotify:track:7nSWCTI4fBV8H1RUirjMpA">
+    <name>Ballad Medley: Bewitched, Bothered And Bewilderd/I Don't Know Why I Just Do/How Long Has This Been Going On... - Ballad Medley: Bewitched, Bothered And Bewilderd/I Don't Know Why I Just Do/How Long Has This Been Going On...</name>
+    <artist href="spotify:artist:2cXlnvvCcphve1B1h6hpQ5">
+      <name>Oscar Peterson &amp; Stan Getz</name>
+    </artist>
+    <id type="isrc">NL-HR5-10-17890</id>
+    <album href="spotify:album:7rgfXJqR508RUxOpcIMIiA">
+      <name>Oscar Peterson: Oscar Peterson &amp; Stan Getz</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>611.000000</length>
+    <popularity>0.27196</popularity>
+  </track>
+  <track href="spotify:track:6uJfY4Rf6er256pP74Lj5z">
+    <name>Volare</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR36260044</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>169.306000</length>
+    <popularity>0.31065</popularity>
+  </track>
+  <track href="spotify:track:5DYVJRRql7x0RoWTqG9La6">
+    <name>C Jam Blues</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175362</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>160.506000</length>
+    <popularity>0.26658</popularity>
+  </track>
+  <track href="spotify:track:6q1ZqNkfcq2R7j8MRLRnUf">
+    <name>You Look Good To Me</name>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USF096500170</id>
+    <album href="spotify:album:4rCo3zGQW3xzkuHYwhJg40">
+      <name>We Get Requests</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IL IN IT LT LV NL NO PL PT RU SE SG SK TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>289.226000</length>
+    <popularity>0.32372</popularity>
+  </track>
+  <track href="spotify:track:0EOy1hiSe2ZHLVeTTUwoH5">
+    <name>Danny Boy - Londonderry Air</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395884</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>219.219000</length>
+    <popularity>0.27735</popularity>
+  </track>
+  <track href="spotify:track:1RwO60hBWtopKZiih3h4KZ">
+    <name>Summertime</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBHFE1116198</id>
+    <album href="spotify:album:2kbA2VU9w5Cauk48LOccmg">
+      <name>Porgy &amp; Bess</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>228.577000</length>
+    <popularity>0.30500</popularity>
+  </track>
+  <track href="spotify:track:64CM30eFYAV2chwXCppW1q">
+    <name>Who</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395881</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>178.782000</length>
+    <popularity>0.27618</popularity>
+  </track>
+  <track href="spotify:track:7qN6WprD4UVy5tUResyu4h">
+    <name>Tenderly</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106610</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>187.733000</length>
+    <popularity>0.28031</popularity>
+  </track>
+  <track href="spotify:track:1tDWw40yIF586AGPNHN6cp">
+    <name>Tenderly</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395883</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>183.013000</length>
+    <popularity>0.27474</popularity>
+  </track>
+  <track href="spotify:track:4SprwwMCLh4sGgS4lbuTe9">
+    <name>Night Train</name>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USPR36200014</id>
+    <album href="spotify:album:0hZV3zfW9PhXNH6WWVTkts">
+      <name>Verve Jazz Masters 16:  Oscar Peterson</name>
+      <released>1993</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>290.133000</length>
+    <popularity>0.27457</popularity>
+  </track>
+  <track href="spotify:track:5H9T3qgv6smx7lkA03VzXk">
+    <name>Moten Swing</name>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USF096300340</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>175.466000</length>
+    <popularity>0.31886</popularity>
+  </track>
+  <track href="spotify:track:79ACHKGiG2le8e3q7S1In1">
+    <name>I'll Wind</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80395882</id>
+    <album href="spotify:album:1McWI0kF4KIpcJnARMQJJd">
+      <name>Best of Ben Webster &amp; Oscar Peterson</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>211.200000</length>
+    <popularity>0.27361</popularity>
+  </track>
+  <track href="spotify:track:1kGQzSasZr4HY5CzjHqCPG">
+    <name>Hymn To Freedom</name>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USF096300400</id>
+    <album href="spotify:album:3gPOWmWT0q7Ygp95Xiuw1v">
+      <name>Night Train</name>
+      <released>2010</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>333.507000</length>
+    <popularity>0.31833</popularity>
+  </track>
+  <track href="spotify:track:3upMqDYmc79kPSRgJ8Sxr6">
+    <name>When Your Lover Has Gone</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106604</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>239.666000</length>
+    <popularity>0.27638</popularity>
+  </track>
+  <track href="spotify:track:2i0U450s32CTawy92A8OuQ">
+    <name>Just You, Just Me</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR35252002</id>
+    <album href="spotify:album:5oWrfeHVKKxdjmPhqV9lnV">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>457.093000</length>
+    <popularity>0.27539</popularity>
+  </track>
+  <track href="spotify:track:1Zby0HhJTsWVlTX7DpDw3K">
+    <name>Honey Dripper</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USF096300360</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>144.733000</length>
+    <popularity>0.29883</popularity>
+  </track>
+  <track href="spotify:track:7CA52ur6AyDfxhWM1gZEFx">
+    <name>I Got Plenty Of Nuttin'</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBHFE1116196</id>
+    <album href="spotify:album:2kbA2VU9w5Cauk48LOccmg">
+      <name>Porgy &amp; Bess</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>382.491000</length>
+    <popularity>0.29689</popularity>
+  </track>
+  <track href="spotify:track:3zyClIKOSiEBGHANRAjhEA">
+    <name>Sunday</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106608</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>237.933000</length>
+    <popularity>0.27102</popularity>
+  </track>
+  <track href="spotify:track:6ryuV31a7soSe4YUl4WvGv">
+    <name>Night Train</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR36260043</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>300.066000</length>
+    <popularity>0.29444</popularity>
+  </track>
+  <track href="spotify:track:1XOPWCBVRapgdepIo0CKS5">
+    <name>All Things Are You</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175356</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>214.093000</length>
+    <popularity>0.25283</popularity>
+  </track>
+  <track href="spotify:track:4wzRUU1pWTQj9taZsmzYXn">
+    <name>How Deep Is the Ocean</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106606</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>156.133000</length>
+    <popularity>0.27029</popularity>
+  </track>
+  <track href="spotify:track:1UAbL4HVObMqk1rb2ZocGY">
+    <name>Love for Sale</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80682030</id>
+    <album href="spotify:album:3Oa0nBNramF41v34BAu3hw">
+      <name>Best of Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>233.195000</length>
+    <popularity>0.25170</popularity>
+  </track>
+  <track href="spotify:track:0PdBmaed8GBkNbU9uxvYRA">
+    <name>You Make Me Feel So Young</name>
+    <artist href="spotify:artist:0ldU0QJm31y0d6f57R1G2A">
+      <name>Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106458</id>
+    <album href="spotify:album:5OGPcFqoxE2PplxQq1Ogmy">
+      <name>A Jazz Portrait of Frank Sinatra</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>158.267000</length>
+    <popularity>0.30849</popularity>
+  </track>
+  <track href="spotify:track:5QnwXNZEiBxkY2ecVFQ6CU">
+    <name>In the Wee, Small Hours of the Morning</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106607</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>193.133000</length>
+    <popularity>0.26842</popularity>
+  </track>
+  <track href="spotify:track:7axUjGqVc0wLrwCGeg7Alz">
+    <name>Love Is Here To Stay</name>
+    <artist href="spotify:artist:19eLuQmk9aCobbVDHc6eek">
+      <name>Louis Armstrong</name>
+    </artist>
+    <artist href="spotify:artist:5V0MlUE1Bft0mbLlND7FJz">
+      <name>Ella Fitzgerald</name>
+    </artist>
+    <artist href="spotify:artist:0SvD7DL5CQTbcrMtns1US8">
+      <name>Ray Brown</name>
+    </artist>
+    <artist href="spotify:artist:1el0ImlpL5kq6eAHoodvOU">
+      <name>Louie Bellson</name>
+    </artist>
+    <artist href="spotify:artist:3cE7UG46bdFd8gHHgzyQEz">
+      <name>Herb Ellis</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USF095800370</id>
+    <album href="spotify:album:7BDttJbsfypmLhCSTFAYHa">
+      <name>The Best Of Ella Fitzgerald And Louis Armstrong On Verve</name>
+      <released>1997</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>240.400000</length>
+    <popularity>0.35729</popularity>
+  </track>
+  <track href="spotify:track:1lvIHUFBQoESWGDqTJaxhN">
+    <name>I'll Be Home for Christmas</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USTE10437206</id>
+    <album href="spotify:album:5dqDUL5HIhxapzKoyIndfH">
+      <name>An Oscar Peterson Christmas</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>169.505000</length>
+    <popularity>0.24933</popularity>
+  </track>
+  <track href="spotify:track:5skmZMK4GOD729sJ1YeuLl">
+    <name>The Girl From Ipanema (Garota De Ipanema)</name>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USF096500180</id>
+    <album href="spotify:album:4rCo3zGQW3xzkuHYwhJg40">
+      <name>We Get Requests</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IL IN IT LT LV NL NO PL PT RU SE SG SK TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>231.826000</length>
+    <popularity>0.30546</popularity>
+  </track>
+  <track href="spotify:track:2HufIWC7zAIM0xfz41YfjM">
+    <name>Stardust</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR35252005</id>
+    <album href="spotify:album:1RGYFu40MzvQGoVD8qhmLu">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>1997</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>215.760000</length>
+    <popularity>0.26560</popularity>
+  </track>
+  <track href="spotify:track:38jPhpSmmTwQ71O7Lfby9h">
+    <name>Ac-Cent-Tchu-Ate The Positive</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175355</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>194.079000</length>
+    <popularity>0.24779</popularity>
+  </track>
+  <track href="spotify:track:4VAZcdCT3S04e8P4EHofhx">
+    <name>Round Midnight</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USF096400490</id>
+    <album href="spotify:album:2cuTa1pXn0B1VECjFeyNzM">
+      <name>Oscar Peterson &amp; Nelson Riddle</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>247.226000</length>
+    <popularity>0.24735</popularity>
+  </track>
+  <track href="spotify:track:2yUwuEwgS6WyIf2YanF8Ax">
+    <name>I Can't Get Started</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USPR35212020</id>
+    <album href="spotify:album:1RGYFu40MzvQGoVD8qhmLu">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>1997</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>221.293000</length>
+    <popularity>0.27581</popularity>
+  </track>
+  <track href="spotify:track:3C6cIrAAD4LW4b0pfcYIWf">
+    <name>Blue Moon</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175359</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>170.439000</length>
+    <popularity>0.24600</popularity>
+  </track>
+  <track href="spotify:track:5I831rhKkspOpZYKKe74w2">
+    <name>At Sundown</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175357</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>188.599000</length>
+    <popularity>0.24492</popularity>
+  </track>
+  <track href="spotify:track:6q446fgVzI0PdfhHqyMJju">
+    <name>My Heart Belongs To Daddy</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR36260045</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>237.693000</length>
+    <popularity>0.28636</popularity>
+  </track>
+  <track href="spotify:track:4orIK28FQ28fPMovlCW93G">
+    <name>Three Little Words - Three Little Words</name>
+    <artist href="spotify:artist:2cXlnvvCcphve1B1h6hpQ5">
+      <name>Oscar Peterson &amp; Stan Getz</name>
+    </artist>
+    <id type="isrc">NL-HR5-10-17901</id>
+    <album href="spotify:album:7rgfXJqR508RUxOpcIMIiA">
+      <name>Oscar Peterson: Oscar Peterson &amp; Stan Getz</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>396.000000</length>
+    <popularity>0.24527</popularity>
+  </track>
+  <track href="spotify:track:2rBH4qQYa5y9nlljyejilu">
+    <name>Don't Get Around Much Anymore</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106612</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>189.946000</length>
+    <popularity>0.26221</popularity>
+  </track>
+  <track href="spotify:track:2xHNifkrHlpB5Z3jJ5mbmD">
+    <name>Between The Devil And The Deep</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175358</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>188.119000</length>
+    <popularity>0.24416</popularity>
+  </track>
+  <track href="spotify:track:5ggY5qyyVSgWV6csdtddxF">
+    <name>In the still of the night</name>
+    <artist href="spotify:artist:0ldU0QJm31y0d6f57R1G2A">
+      <name>Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USA561070604</id>
+    <album href="spotify:album:3CxleZkMVTODMGHfv7ZdvM">
+      <name>The complete Cole Porter Songbooks</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>173.412000</length>
+    <popularity>0.30144</popularity>
+  </track>
+  <track href="spotify:track:1WEDog7KtWUEawfySiPOeS">
+    <name>Tea For Two</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR25212023</id>
+    <album href="spotify:album:5oWrfeHVKKxdjmPhqV9lnV">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>462.426000</length>
+    <popularity>0.26056</popularity>
+  </track>
+  <track href="spotify:track:7tj4Au8FvjMiZUZL0ny4aA">
+    <name>I Loves You Porgy</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBHFE1116197</id>
+    <album href="spotify:album:2kbA2VU9w5Cauk48LOccmg">
+      <name>Porgy &amp; Bess</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>380.778000</length>
+    <popularity>0.28398</popularity>
+  </track>
+  <track href="spotify:track:41RBAtoaClkf68j39Z3I8F">
+    <name>Cheek To Cheek</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175364</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>181.705000</length>
+    <popularity>0.24181</popularity>
+  </track>
+  <track href="spotify:track:10vQV422cu0Z7FsYYxGz8J">
+    <name>There Will Never Be Another You</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR35252010</id>
+    <album href="spotify:album:6JoGO3R1Gw9Tdfe3Zy8PsS">
+      <name>The Complete Lester Young Studio Sessions On Verve</name>
+      <released>1999</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>209.560000</length>
+    <popularity>0.29906</popularity>
+  </track>
+  <track href="spotify:track:2AeKRepThpZCh5mIohuJYX">
+    <name>Danny Boy</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106617</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>220.533000</length>
+    <popularity>0.25936</popularity>
+  </track>
+  <track href="spotify:track:4C6T1aag9Ry8pCUuCulrsI">
+    <name>Blues In The Night</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175360</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>229.932000</length>
+    <popularity>0.24123</popularity>
+  </track>
+  <track href="spotify:track:7x8JfQQGmB3k814UE011ga">
+    <name>Easy Does It</name>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USF096300350</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>165.693000</length>
+    <popularity>0.29826</popularity>
+  </track>
+  <track href="spotify:track:1NyF7kNSW01QotnfDhD0zP">
+    <name>Night And Day</name>
+    <artist href="spotify:artist:0SvD7DL5CQTbcrMtns1US8">
+      <name>Ray Brown</name>
+    </artist>
+    <artist href="spotify:artist:6pVkGhtBvjj1P52yn0tNLG">
+      <name>Barney Kessel</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">DEH840700850</id>
+    <album href="spotify:album:7oPay3ADTqTq8g2J65gE8A">
+      <name>Oscar Peterson: Night And Day</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>221.653000</length>
+    <popularity>0.25825</popularity>
+  </track>
+  <track href="spotify:track:0JqQMjhS34nE2XUxqqBZjJ">
+    <name>But Not For Me</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USA2P1175361</id>
+    <album href="spotify:album:0SuuDzUtk0kgIanT5xtyzW">
+      <name>Oscar Peterson - 85 Essential Tracks</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>149.239000</length>
+    <popularity>0.23844</popularity>
+  </track>
+  <track href="spotify:track:521qezMfJ71NGibQanQvvN">
+    <name>Days Of Wine And Roses</name>
+    <artist href="spotify:artist:1sNYEHEpdM7TN0ZfxLaNm7">
+      <name>The Oscar Peterson Trio</name>
+    </artist>
+    <id type="isrc">USF096500130</id>
+    <album href="spotify:album:4rCo3zGQW3xzkuHYwhJg40">
+      <name>We Get Requests</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HR HU IE IL IN IT LT LV NL NO PL PT RU SE SG SK TR UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>160.133000</length>
+    <popularity>0.29561</popularity>
+  </track>
+  <track href="spotify:track:2iQME0H4YLyYoCWCoye8tP">
+    <name>That's All</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106613</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>231.413000</length>
+    <popularity>0.25541</popularity>
+  </track>
+  <track href="spotify:track:3ER5UyugQhvAaslwtW2DLM">
+    <name>Jive At Six</name>
+    <artist href="spotify:artist:34W7ZCX0LZeJd8q6boKGOk">
+      <name>Ben Webster</name>
+    </artist>
+    <artist href="spotify:artist:6tNsEwW8wgwfuN84vihPIn">
+      <name>Oscar Peterson &amp; His Trio</name>
+    </artist>
+    <id type="isrc">DEBL61106611</id>
+    <album href="spotify:album:5JBeKeAxaMddtmxlhrWxmV">
+      <name>Ben Webster Meets Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>255.533000</length>
+    <popularity>0.25469</popularity>
+  </track>
+  <track href="spotify:track:1w6HfZfFgWC956spwsNqhs">
+    <name>It Takes Two To Tango</name>
+    <artist href="spotify:artist:05E3NBxNMdnrPtxF9oraJm">
+      <name>Lester Young</name>
+    </artist>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR35252006</id>
+    <album href="spotify:album:5oWrfeHVKKxdjmPhqV9lnV">
+      <name>Lester Young With The Oscar Peterson Trio</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>363.960000</length>
+    <popularity>0.25452</popularity>
+  </track>
+  <track href="spotify:track:4vcbPPKrQpNtdYhwGTpI2Q">
+    <name>It ain't Necessarily So</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">GBHFE1116201</id>
+    <album href="spotify:album:2kbA2VU9w5Cauk48LOccmg">
+      <name>Porgy &amp; Bess</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>239.380000</length>
+    <popularity>0.27810</popularity>
+  </track>
+  <track href="spotify:track:4fbPmmFbuRJQONM13IUalL">
+    <name>Moten Swing</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">USPR36260046</id>
+    <album href="spotify:album:1wht9VwbCummrzrwOOjAm7">
+      <name>Night Train</name>
+      <released>1997</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR IE IL IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>216.706000</length>
+    <popularity>0.27803</popularity>
+  </track>
+  <track href="spotify:track:7MnEaiFNdMxNzhfaWtU4H1">
+    <name>Body and Soul</name>
+    <artist href="spotify:artist:6zkX5fhrSD4tdVOmimR9wB">
+      <name>Oscar Peterson</name>
+    </artist>
+    <id type="isrc">FR6V80682031</id>
+    <album href="spotify:album:3Oa0nBNramF41v34BAu3hw">
+      <name>Best of Oscar Peterson</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>203.937000</length>
+    <popularity>0.23639</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Thu, 23 Feb 2012 15:45:54 GMT -->

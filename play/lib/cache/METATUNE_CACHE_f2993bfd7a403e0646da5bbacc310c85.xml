@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Rammstein"/>
+  <opensearch:totalResults>71</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:7e5EPkc1TcBoFyTQHanK6G">
+    <name>Du Hast</name>
+    <artist href="spotify:artist:6wWVKhxIU2cEi0K81v7HvP">
+      <name>Rammstein</name>
+    </artist>
+    <id type="isrc">USMV29900037</id>
+    <album href="spotify:album:5BofYSCt13mhMt4WkIJr7O">
+      <name>Music From And Inspired By The Motion Picture The Matrix</name>
+      <released>1999</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>233.800000</length>
+    <popularity>0.73508</popularity>
+  </track>
+  <track href="spotify:track:2xi5z9sQKG9Qs2mne1TzmS">
+    <name>Amerika - A tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900064</id>
+    <album href="spotify:album:0mDqu4WMEtT2yk4NTm8WSI">
+      <name>Will.ich</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>233.133000</length>
+    <popularity>0.58390</popularity>
+  </track>
+  <track href="spotify:track:1wY7rVoUMORvj6Xby1u81n">
+    <name>Ich will - A tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900062</id>
+    <album href="spotify:album:0mDqu4WMEtT2yk4NTm8WSI">
+      <name>Will.ich</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>221.760000</length>
+    <popularity>0.57599</popularity>
+  </track>
+  <track href="spotify:track:7B7XpaUithOenL7q0EPhoi">
+    <name>Engel - A Tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900074</id>
+    <album href="spotify:album:1P5kqvyRvsQXAiUlkMDXhV">
+      <name>Live</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>280.386000</length>
+    <popularity>0.55680</popularity>
+  </track>
+  <track href="spotify:track:1qgzA8SkAx4NsRlF2vZxle">
+    <name>Feuer frei - A Tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900072</id>
+    <album href="spotify:album:1P5kqvyRvsQXAiUlkMDXhV">
+      <name>Live</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>192.266000</length>
+    <popularity>0.54507</popularity>
+  </track>
+  <track href="spotify:track:0kchm7gJ6qtqJJX0AOsUvq">
+    <name>Mein Herz brennt - A Tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900067</id>
+    <album href="spotify:album:1P5kqvyRvsQXAiUlkMDXhV">
+      <name>Live</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>283.293000</length>
+    <popularity>0.53992</popularity>
+  </track>
+  <track href="spotify:track:5vqDOXsKcmv3s2gcedCyFZ">
+    <name>Reise, Reise - A tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900063</id>
+    <album href="spotify:album:0mDqu4WMEtT2yk4NTm8WSI">
+      <name>Will.ich</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>332.506000</length>
+    <popularity>0.51918</popularity>
+  </track>
+  <track href="spotify:track:4a8aiPydmtGkIXjMCVYkqi">
+    <name>Mutter - A Tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900070</id>
+    <album href="spotify:album:1P5kqvyRvsQXAiUlkMDXhV">
+      <name>Live</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>271.453000</length>
+    <popularity>0.50981</popularity>
+  </track>
+  <track href="spotify:track:0KfE5c5aCxYdzPi1qx5xs4">
+    <name>Keine Lust - A Tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900066</id>
+    <album href="spotify:album:1P5kqvyRvsQXAiUlkMDXhV">
+      <name>Live</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>233.760000</length>
+    <popularity>0.50303</popularity>
+  </track>
+  <track href="spotify:track:2pXfshsyUXsaSojDLqTcsS">
+    <name>Stripped</name>
+    <artist href="spotify:artist:6wWVKhxIU2cEi0K81v7HvP">
+      <name>Rammstein</name>
+    </artist>
+    <id type="isrc">USAM10300269</id>
+    <album href="spotify:album:4MvDxkXBKkPcCd7s1wwmb3">
+      <name>For The Masses</name>
+      <released>1998</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>284.467000</length>
+    <popularity>0.45249</popularity>
+  </track>
+  <track href="spotify:track:2TqdrjlfnujDnOgWDA7u74">
+    <name>Du hast - A Tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900073</id>
+    <album href="spotify:album:1P5kqvyRvsQXAiUlkMDXhV">
+      <name>Live</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>241.106000</length>
+    <popularity>0.49205</popularity>
+  </track>
+  <track href="spotify:track:6qDZifz1iPK5DPD45MW6da">
+    <name>Links 2 3 4 - A Tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900069</id>
+    <album href="spotify:album:1P5kqvyRvsQXAiUlkMDXhV">
+      <name>Live</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>295.280000</length>
+    <popularity>0.49735</popularity>
+  </track>
+  <track href="spotify:track:3kzvDIEsP1ul44BAiQEKjy">
+    <name>Asche zu Asche - A Tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900065</id>
+    <album href="spotify:album:1P5kqvyRvsQXAiUlkMDXhV">
+      <name>Live</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>233.586000</length>
+    <popularity>0.49414</popularity>
+  </track>
+  <track href="spotify:track:4UBCGGqaOoxAMd2jpMWTXZ">
+    <name>Mater</name>
+    <artist href="spotify:artist:2KPGT6fKTrfIVu8GXdZHgD">
+      <name>LUPE VILLAR &amp; XII.AMC</name>
+    </artist>
+    <artist href="spotify:artist:6wWVKhxIU2cEi0K81v7HvP">
+      <name>Rammstein</name>
+    </artist>
+    <id type="isrc">ES5060803809</id>
+    <album href="spotify:album:2jWT6Zcccsd2zcyyyZerug">
+      <name>Kcor d rock</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>284.827000</length>
+    <popularity>0.47608</popularity>
+  </track>
+  <track href="spotify:track:5tAkXbacqRynXRD8zKQJem">
+    <name>Rammstein</name>
+    <artist href="spotify:artist:4avdmpPkJrtfaqSI42aBYI">
+      <name>Paweł Brzozowski</name>
+    </artist>
+    <artist href="spotify:artist:2EIE0xjWdNl4WtkdxG2vpI">
+      <name>Jarek Adamów</name>
+    </artist>
+    <id type="isrc">uscgj0550034</id>
+    <album href="spotify:album:4kVDcceE5ErokVGJZ6SyRT">
+      <name>Contemporary Polish Village Music</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>600.600000</length>
+    <popularity>0.38698</popularity>
+  </track>
+  <track href="spotify:track:5zwVlpeMtfZABd0kgpURFe">
+    <name>Heirate mich - A Tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900071</id>
+    <album href="spotify:album:1P5kqvyRvsQXAiUlkMDXhV">
+      <name>Live</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>305.373000</length>
+    <popularity>0.44108</popularity>
+  </track>
+  <track href="spotify:track:6uGFdNrNhWkm7rXLO8agxK">
+    <name>Stein um Stein - A Tribute to Rammstein</name>
+    <artist href="spotify:artist:2Yof9jmQT3Qkf1q7TaCMOX">
+      <name>Völkerball</name>
+    </artist>
+    <id type="isrc">DEHI90900068</id>
+    <album href="spotify:album:1P5kqvyRvsQXAiUlkMDXhV">
+      <name>Live</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>236.346000</length>
+    <popularity>0.43959</popularity>
+  </track>
+  <track href="spotify:track:2KNjU67FsdA4y60OvrjTdv">
+    <name>Du Hast (English Version) [In the Style of "Rammstein"]</name>
+    <artist href="spotify:artist:0GQkTwFb7D3ePIpnxwYavf">
+      <name>Done Again</name>
+    </artist>
+    <id type="isrc">USK4W0711767</id>
+    <album href="spotify:album:3YbtoaNL8tajjxELkUZorU">
+      <name>Rammstein - Du Hast (English Version) (Reproduction)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>234.517000</length>
+    <popularity>0.39325</popularity>
+  </track>
+  <track href="spotify:track:5cDPqsWMa3l9TZCaBkkdaZ">
+    <name>Sonne - Karaoke Version Without Backings In the Art of Rammstein</name>
+    <artist href="spotify:artist:4XFDCSYeWRauMrvdLD5Hdh">
+      <name>Karaoke Planet</name>
+    </artist>
+    <id type="isrc">CAM460412592</id>
+    <album href="spotify:album:5OsHtPVDqfrYbkKq4uVvsO">
+      <name>The Rammstein Hits, Vol. 1</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>268.512000</length>
+    <popularity>0.37995</popularity>
+  </track>
+  <track href="spotify:track:3hL6LhqE8mauCKnkGFcAUC">
+    <name>Du Hast (German Version) [In the Style of Rammstein] {Performance Track with Demonstration Vocals}</name>
+    <artist href="spotify:artist:0GQkTwFb7D3ePIpnxwYavf">
+      <name>Done Again</name>
+    </artist>
+    <id type="isrc">USK4W0700582</id>
+    <album href="spotify:album:02L3HAkR4uBEqim22MvO2Q">
+      <name>Du Hast (German Version) [In the Style of Rammstein] {Performance Track with Demonstration Vocals}</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>234.517000</length>
+    <popularity>0.37548</popularity>
+  </track>
+  <track href="spotify:track:7K9Pa4Bvg0c5oPYqRHU9wx">
+    <name>Du Hast</name>
+    <artist href="spotify:artist:2v18nM5JwlWLCBbaLWUw67">
+      <name>J.P. Melen, C. Meyer, P. Durst, D.O.</name>
+    </artist>
+    <id type="isrc">USI4R0701435</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>283.000000</length>
+    <popularity>0.37946</popularity>
+  </track>
+  <track href="spotify:track:7mGDE068M16nGo8LbHYejb">
+    <name>Du Hast (English Version) [In the Style of "Rammstein"]</name>
+    <artist href="spotify:artist:0KL0Oi3NecuQ4xXysUo9x9">
+      <name>Stingray Music</name>
+    </artist>
+    <id type="isrc">USK4W0711767</id>
+    <album href="spotify:album:3SE0LSrSVadjroh6qytoFX">
+      <name>Rammstein - Du Hast (English Version) (Reproduction)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>234.518000</length>
+    <popularity>0.33762</popularity>
+  </track>
+  <track href="spotify:track:1uGrsK0wPLOoFCMhPGqwth">
+    <name>Engel - Karaoke Version With Backings In the Art of Rammstein</name>
+    <artist href="spotify:artist:4XFDCSYeWRauMrvdLD5Hdh">
+      <name>Karaoke Planet</name>
+    </artist>
+    <id type="isrc">CAM460801325</id>
+    <album href="spotify:album:5OsHtPVDqfrYbkKq4uVvsO">
+      <name>The Rammstein Hits, Vol. 1</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>266.004000</length>
+    <popularity>0.33090</popularity>
+  </track>
+  <track href="spotify:track:1BrYkhidHBvuCXPDJaJDQe">
+    <name>Mutter</name>
+    <artist href="spotify:artist:5u4hJFQwOCsgzIv0GN6FXw">
+      <name>J.P. Melen, C. Meyer, R. Paveza</name>
+    </artist>
+    <id type="isrc">USI4R0701443</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>269.000000</length>
+    <popularity>0.36344</popularity>
+  </track>
+  <track href="spotify:track:3qCR2KNft4tTDWaD0cfbXv">
+    <name>Du hast - Karaoke Version With Backings In the Art of Rammstein</name>
+    <artist href="spotify:artist:4XFDCSYeWRauMrvdLD5Hdh">
+      <name>Karaoke Planet</name>
+    </artist>
+    <id type="isrc">CAM460703679</id>
+    <album href="spotify:album:5OsHtPVDqfrYbkKq4uVvsO">
+      <name>The Rammstein Hits, Vol. 1</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>234.553000</length>
+    <popularity>0.31124</popularity>
+  </track>
+  <track href="spotify:track:0UuYxrSh0sTRzj919TUQJs">
+    <name>Buck Dich</name>
+    <artist href="spotify:artist:3ZTwD8MIhTtRHQqzxuyq1G">
+      <name>Colp</name>
+    </artist>
+    <id type="isrc">USI4R0701438</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>221.000000</length>
+    <popularity>0.34953</popularity>
+  </track>
+  <track href="spotify:track:53gU7xNdcPwjHlR3aiAcEf">
+    <name>Links 2 3 4</name>
+    <artist href="spotify:artist:6DWRT9dBppsWvaYtptHy42">
+      <name>J.P. Melen, P. Durst, D.O.</name>
+    </artist>
+    <id type="isrc">USI4R0701442</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>254.000000</length>
+    <popularity>0.32816</popularity>
+  </track>
+  <track href="spotify:track:7eL1ohA5b8LqlntoZg5tic">
+    <name>Ohne Dich - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:64a1C3HL8z3tnsuhl4EjyA">
+      <name>Amazing Karaoke Premium</name>
+    </artist>
+    <id type="isrc">DEHB51103309</id>
+    <album href="spotify:album:2RyDa9CHtzHbWjQSGODMQZ">
+      <name>Rocksongs, Vol. 1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>282.345000</length>
+    <popularity>0.32370</popularity>
+  </track>
+  <track href="spotify:track:5W2Cm0DpsoxJcYugbvUKfL">
+    <name>Engel - Karaoke Version Without Backings In the Art of Rammstein</name>
+    <artist href="spotify:artist:4XFDCSYeWRauMrvdLD5Hdh">
+      <name>Karaoke Planet</name>
+    </artist>
+    <id type="isrc">CAM460801326</id>
+    <album href="spotify:album:5OsHtPVDqfrYbkKq4uVvsO">
+      <name>The Rammstein Hits, Vol. 1</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>266.004000</length>
+    <popularity>0.28092</popularity>
+  </track>
+  <track href="spotify:track:3ChR6TphJmRZjBOoRGEAJz">
+    <name>Wollt Ihr Das Bett In Flammen Sehen</name>
+    <artist href="spotify:artist:00BFvyeTQePw93rIavfNw2">
+      <name>Locomotive</name>
+    </artist>
+    <id type="isrc">USI4R0701437</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>267.000000</length>
+    <popularity>0.31985</popularity>
+  </track>
+  <track href="spotify:track:4tL8hNK2EbOInd987Zp1rs">
+    <name>Rammstein ruht</name>
+    <artist href="spotify:artist:1ym8WWtIM0llTk5gzEFaHS">
+      <name>Thomas Nicolai</name>
+    </artist>
+    <id type="isrc">DEAX40820126</id>
+    <album href="spotify:album:65InMr4B5MzUU20ehAfeFz">
+      <name>Best of Der blonde Emil</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>26</track-number>
+    <length>107.560000</length>
+    <popularity>0.27407</popularity>
+  </track>
+  <track href="spotify:track:6FLQJrLoRpbruwCUCNy9jK">
+    <name>Awitter</name>
+    <artist href="spotify:artist:2SO9RO86Vz1nUMBOKaznQK">
+      <name>Delusion</name>
+    </artist>
+    <id type="isrc">USI4R0701436</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>246.000000</length>
+    <popularity>0.31251</popularity>
+  </track>
+  <track href="spotify:track:3uLwQADzQfRWz9pKJ2z8Df">
+    <name>Du hast - Karaoke Version Without Backings In the Art of Rammstein</name>
+    <artist href="spotify:artist:4XFDCSYeWRauMrvdLD5Hdh">
+      <name>Karaoke Planet</name>
+    </artist>
+    <id type="isrc">CAM460703680</id>
+    <album href="spotify:album:5OsHtPVDqfrYbkKq4uVvsO">
+      <name>The Rammstein Hits, Vol. 1</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>234.553000</length>
+    <popularity>0.27260</popularity>
+  </track>
+  <track href="spotify:track:35kQ4Ish0Kc38YByuLp1Fu">
+    <name>Seemann</name>
+    <artist href="spotify:artist:2Gjo1Zb2LTkwXVEs4jhOM6">
+      <name>Floodland</name>
+    </artist>
+    <id type="isrc">USI4R0701445</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>278.000000</length>
+    <popularity>0.30416</popularity>
+  </track>
+  <track href="spotify:track:0lWMM7C0IlfWaVHmhkJXCI">
+    <name>Klavier</name>
+    <artist href="spotify:artist:5c4hWQl3zV5vn2v0Mxe2UM">
+      <name>Ebola Joy</name>
+    </artist>
+    <id type="isrc">USI4R0701439</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>305.000000</length>
+    <popularity>0.30091</popularity>
+  </track>
+  <track href="spotify:track:2wSO5z4CExSwajo7yazffn">
+    <name>Pussy (Karaoke Version) - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:3g4xthh9aq9HTMYA3mcVn0">
+      <name>Amazing Karaoke</name>
+    </artist>
+    <id type="isrc">DEHB51103310</id>
+    <album href="spotify:album:6fX30uV5wfMhMhIMpmZ7mc">
+      <name>Alternativ Rock Deutsch, Vol. 1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>230.753000</length>
+    <popularity>0.30917</popularity>
+  </track>
+  <track href="spotify:track:1WXlL7t5ejmjzi8J7OjFl3">
+    <name>Asche zu Asche</name>
+    <artist href="spotify:artist:6GMdpATXXENXCf66ZAogpI">
+      <name>J. Pykal, T. Sedlacek, C. Meyer, P. Durst</name>
+    </artist>
+    <id type="isrc">USI4R0701440</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>246.000000</length>
+    <popularity>0.29427</popularity>
+  </track>
+  <track href="spotify:track:7KkaFrJxmtGPqlAwhHQcE6">
+    <name>Du Hast (English Version) [In the Style of "Rammstein"] {Performance Track with Demonstration Vocals}</name>
+    <artist href="spotify:artist:0GQkTwFb7D3ePIpnxwYavf">
+      <name>Done Again</name>
+    </artist>
+    <id type="isrc">USK4W0711767</id>
+    <album href="spotify:album:0h6xD8MbipvqPHkAsX2EMe">
+      <name>Du Hast (English Version) [In the Style of "Rammstein"] {Performance Track with Demonstration Vocals}</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>234.517000</length>
+    <popularity>0.28314</popularity>
+  </track>
+  <track href="spotify:track:3YwLCaHkNui3m9rwdH6jSk">
+    <name>Xcess (Remixed by Schneider of Rammstein)</name>
+    <artist href="spotify:artist:0kZpuNm4o9hQki5IMsu5d5">
+      <name>Slick Idiot</name>
+    </artist>
+    <id type="isrc">USA560901943</id>
+    <album href="spotify:album:6NwKHR5eZQMq1yu3IFSIuQ">
+      <name>Industrial Metal</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>22</track-number>
+    <length>254.640000</length>
+    <popularity>0.28858</popularity>
+  </track>
+  <track href="spotify:track:45VCvuoCXOozQCjPb7vGn1">
+    <name>Heirate Mich</name>
+    <artist href="spotify:artist:2Gjo1Zb2LTkwXVEs4jhOM6">
+      <name>Floodland</name>
+    </artist>
+    <id type="isrc">USI4R0701441</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>380.000000</length>
+    <popularity>0.28249</popularity>
+  </track>
+  <track href="spotify:track:1vJyFLvaZCIvKW36LNSkY2">
+    <name>Amerika - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:64a1C3HL8z3tnsuhl4EjyA">
+      <name>Amazing Karaoke Premium</name>
+    </artist>
+    <id type="isrc">DEHB51103301</id>
+    <album href="spotify:album:2RyDa9CHtzHbWjQSGODMQZ">
+      <name>Rocksongs, Vol. 1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>228.637000</length>
+    <popularity>0.27849</popularity>
+  </track>
+  <track href="spotify:track:4kBjTMqEfeRttdZpi0J5Xq">
+    <name>Du Hast (Rammstein Cover)</name>
+    <artist href="spotify:artist:1TeJbKM2nre9DmGjMCYfZy">
+      <name>Kanatran</name>
+    </artist>
+    <id type="isrc">CLKK10810016</id>
+    <album href="spotify:album:0CGVcIrQcRwMf6CSGQ3cpp">
+      <name>Martyr</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>229.320000</length>
+    <popularity>0.25660</popularity>
+  </track>
+  <track href="spotify:track:7BmmkfeO28bEKwdBdrGVcG">
+    <name>Das Alte Leid</name>
+    <artist href="spotify:artist:4KQ6VIPYUVSRQd7yAw0DFa">
+      <name>Moon, C. Meyer, P. Durst, D.O</name>
+    </artist>
+    <id type="isrc">USI4R0701444</id>
+    <album href="spotify:album:0JgaztFPscAOeLI1CkmcMw">
+      <name>Battery: A Tribute to Rammstein</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>342.000000</length>
+    <popularity>0.27105</popularity>
+  </track>
+  <track href="spotify:track:6McOQlogEUjmkIAnuYrbD1">
+    <name>Engel - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:64a1C3HL8z3tnsuhl4EjyA">
+      <name>Amazing Karaoke Premium</name>
+    </artist>
+    <id type="isrc">DEHB51103305</id>
+    <album href="spotify:album:2RyDa9CHtzHbWjQSGODMQZ">
+      <name>Rocksongs, Vol. 1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>268.840000</length>
+    <popularity>0.26499</popularity>
+  </track>
+  <track href="spotify:track:5AYb85WhqJMRMRe1BfOiPj">
+    <name>Xcess (Schneider of Rammstein Remix)</name>
+    <artist href="spotify:artist:0kZpuNm4o9hQki5IMsu5d5">
+      <name>Slick Idiot</name>
+    </artist>
+    <id type="isrc">USA371425888</id>
+    <album href="spotify:album:6Ots560rd3jCHMjqWQlkIl">
+      <name>The Dark Box - The Ultimate Goth, Wave &amp; Industrial Collection 1980-2011</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>255.307000</length>
+    <popularity>0.26462</popularity>
+  </track>
+  <track href="spotify:track:4GOk1ptxsEOHmLJRmggnSk">
+    <name>Engel - Sound-A-Like As Made Famous By: Rammstein</name>
+    <artist href="spotify:artist:5CZ7oUAqi1RHO1hO5AJ6GH">
+      <name>Studio Group</name>
+    </artist>
+    <id type="isrc">USFB20677118</id>
+    <album href="spotify:album:6f4EledGOIFb0cC46fmcUL">
+      <name>Almost Pop: Everything Is Beautiful</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>264.000000</length>
+    <popularity>0.27690</popularity>
+  </track>
+  <track href="spotify:track:3z5cDok4vFYdAJzaP3DOot">
+    <name>Benzin (Karaoke Version) - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:3g4xthh9aq9HTMYA3mcVn0">
+      <name>Amazing Karaoke</name>
+    </artist>
+    <id type="isrc">DEHB51103302</id>
+    <album href="spotify:album:35fy9BhMvguCSSMlWR5alC">
+      <name>Alternativ Rock Deutsch, Vol. 2</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>226.887000</length>
+    <popularity>0.26382</popularity>
+  </track>
+  <track href="spotify:track:2x3OJuNSKN1fHjKCHn6DwL">
+    <name>What The Hell - Back To Rammstein RMX</name>
+    <artist href="spotify:artist:15fwypqMqi0dOILN0rvgwu">
+      <name>Inventar</name>
+    </artist>
+    <id type="isrc">DEAF71121230</id>
+    <album href="spotify:album:3n4moslARvDaCWr60DMlAl">
+      <name>50 Dubstep Electro Anthems</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AI AL AM AT AW AX AZ BA BE BG BM BV BY CH CY CZ DE DK EE ES FI FK FO FR GB GE GF GG GI GL GP GR GS HR HU IE IM IO IS IT JE KY LI LT LU LV MC MD ME MK MQ MS MT NC NL NO PF PL PM PN PT RE RO RS RU SE SH SI SJ SK SM TC TF TR UA US VA VG WF YT</territories>
+      </availability>
+    </album>
+    <track-number>34</track-number>
+    <length>308.964000</length>
+    <popularity>0.25312</popularity>
+  </track>
+  <track href="spotify:track:0vEW0z0JbXIn5jZuA3sLKR">
+    <name>Stripped (Karaoke Version) - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:3g4xthh9aq9HTMYA3mcVn0">
+      <name>Amazing Karaoke</name>
+    </artist>
+    <id type="isrc">DEHB51103312</id>
+    <album href="spotify:album:6fX30uV5wfMhMhIMpmZ7mc">
+      <name>Alternativ Rock Deutsch, Vol. 1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>272.392000</length>
+    <popularity>0.24966</popularity>
+  </track>
+  <track href="spotify:track:60ezRCJEz8pQFGLU2NE8wg">
+    <name>Du Hast (English Version) - Composed Or Made Famous By: Rammstein, Karaoke Version</name>
+    <artist href="spotify:artist:4DnB4QJ2KifkrfV1WaANkR">
+      <name>Stingray Music Karaoke</name>
+    </artist>
+    <id type="isrc">USK4W0721352</id>
+    <album href="spotify:album:2xskUNgPNZOs0K0mZFuoLU">
+      <name>Stingray Music Karaoke - Rock Vol. 22</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>235.368000</length>
+    <popularity>0.25977</popularity>
+  </track>
+  <track href="spotify:track:03ZnmUQ6YWYF8zI56d2iD0">
+    <name>Spieluhr (Karaoke Version) - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:3g4xthh9aq9HTMYA3mcVn0">
+      <name>Amazing Karaoke</name>
+    </artist>
+    <id type="isrc">DEHB51103311</id>
+    <album href="spotify:album:35fy9BhMvguCSSMlWR5alC">
+      <name>Alternativ Rock Deutsch, Vol. 2</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>290.156000</length>
+    <popularity>0.24063</popularity>
+  </track>
+  <track href="spotify:track:4jb37IlXUbg5TkVWt8LR4F">
+    <name>Engel (karaoke-version) As Made Famous By: Rammstein</name>
+    <artist href="spotify:artist:5CZ7oUAqi1RHO1hO5AJ6GH">
+      <name>Studio Group</name>
+    </artist>
+    <id type="isrc">USFB20620385</id>
+    <album href="spotify:album:72p68FV7Mp6MI0dkuHBula">
+      <name>Karaoke Hardware Part 2</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>263.802000</length>
+    <popularity>0.23961</popularity>
+  </track>
+  <track href="spotify:track:5t2DqxaxvnuLrhZzZtVAVP">
+    <name>Feuer frei (Karaoke Version) - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:3g4xthh9aq9HTMYA3mcVn0">
+      <name>Amazing Karaoke</name>
+    </artist>
+    <id type="isrc">DEHB51103306</id>
+    <album href="spotify:album:6fX30uV5wfMhMhIMpmZ7mc">
+      <name>Alternativ Rock Deutsch, Vol. 1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>192.693000</length>
+    <popularity>0.23569</popularity>
+  </track>
+  <track href="spotify:track:3C54m3wwTCodxbYw7kHwqR">
+    <name>Du Hast (German Version) [In the Style of Rammstein] {Karaoke Version}</name>
+    <artist href="spotify:artist:5UloVKzUNJcjORzhhTWWiJ">
+      <name>The Karaoke Channel</name>
+    </artist>
+    <id type="isrc">USK4W0732345</id>
+    <album href="spotify:album:1aNa0hiimXfcf5yb6V2KSR">
+      <name>The Karaoke Channel - The Best Of Rock Vol. - 115</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>21</track-number>
+    <length>234.647000</length>
+    <popularity>0.24294</popularity>
+  </track>
+  <track href="spotify:track:4sZdUwCalnWoUp00IRdcap">
+    <name>Keine Lust (Karaoke Version) - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:3g4xthh9aq9HTMYA3mcVn0">
+      <name>Amazing Karaoke</name>
+    </artist>
+    <id type="isrc">DEHB51103307</id>
+    <album href="spotify:album:35fy9BhMvguCSSMlWR5alC">
+      <name>Alternativ Rock Deutsch, Vol. 2</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>224.667000</length>
+    <popularity>0.22294</popularity>
+  </track>
+  <track href="spotify:track:1E3O35UejY7sLLb1IRPNNO">
+    <name>Du Hast - Composed Or Made Famous By: Rammstein, Karaoke Version</name>
+    <artist href="spotify:artist:4DnB4QJ2KifkrfV1WaANkR">
+      <name>Stingray Music Karaoke</name>
+    </artist>
+    <id type="isrc">USK4W0732345</id>
+    <album href="spotify:album:27sLrihIcwOR05yJmvyUPe">
+      <name>Stingray Music Karaoke - Rock Vol. 23</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>235.560000</length>
+    <popularity>0.23255</popularity>
+  </track>
+  <track href="spotify:track:3pDfrsXCbBdb5VG99zZDQE">
+    <name>Rasch: STIMMEN AUS DEM KISSEN - VARIATIONEN ÜBER RAMMSTEIN</name>
+    <artist href="spotify:artist:07zZwZhLwwVAX4kMmMr2nc">
+      <name>John Carewe</name>
+    </artist>
+    <artist href="spotify:artist:6DDisAF9BdBeK73gKxq2Oj">
+      <name>Dresden Symphonic Orchestra</name>
+    </artist>
+    <id type="isrc">GBFWU0300347</id>
+    <album href="spotify:album:5AC2TvtMrjFScO4A22rNE7">
+      <name>MEIN HERZ BRENNT</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IT LT LV NL NO NZ PL PT RU SE SG SK TR UA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>667.773000</length>
+    <popularity>0.22114</popularity>
+  </track>
+  <track href="spotify:track:3gQeG3hufdtQMi6fihDolr">
+    <name>Engel (Karaoke Version) - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:3g4xthh9aq9HTMYA3mcVn0">
+      <name>Amazing Karaoke</name>
+    </artist>
+    <id type="isrc">DEHB51103303</id>
+    <album href="spotify:album:35fy9BhMvguCSSMlWR5alC">
+      <name>Alternativ Rock Deutsch, Vol. 2</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>270.799000</length>
+    <popularity>0.21501</popularity>
+  </track>
+  <track href="spotify:track:79alMqDFAhK4HNGsxdUQXO">
+    <name>Du Hast (English Version) - Composed Or Made Famous By: Rammstein, Karaoke Demonstration With Lead Vocal</name>
+    <artist href="spotify:artist:4DnB4QJ2KifkrfV1WaANkR">
+      <name>Stingray Music Karaoke</name>
+    </artist>
+    <id type="isrc">USK4W0711767</id>
+    <album href="spotify:album:2xskUNgPNZOs0K0mZFuoLU">
+      <name>Stingray Music Karaoke - Rock Vol. 22</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>17</track-number>
+    <length>235.469000</length>
+    <popularity>0.23482</popularity>
+  </track>
+  <track href="spotify:track:4ddTDFxfF4NnbHNYFywuFD">
+    <name>Du Hast (English Version) [In the Style of Rammstein] {Karaoke Version}</name>
+    <artist href="spotify:artist:5UloVKzUNJcjORzhhTWWiJ">
+      <name>The Karaoke Channel</name>
+    </artist>
+    <id type="isrc">USK4W0721352</id>
+    <album href="spotify:album:4hAqP4iHyRlthfJLbS1W7a">
+      <name>The Karaoke Channel - The Best Of Rock Vol. - 94</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>21</track-number>
+    <length>234.703000</length>
+    <popularity>0.21805</popularity>
+  </track>
+  <track href="spotify:track:6LUoSgabcTvpvNOzBVPHbW">
+    <name>Du Hast - Composed Or Made Famous By: Rammstein, Karaoke Demonstration With Lead Vocal</name>
+    <artist href="spotify:artist:4DnB4QJ2KifkrfV1WaANkR">
+      <name>Stingray Music Karaoke</name>
+    </artist>
+    <id type="isrc">USK4W0700582</id>
+    <album href="spotify:album:27sLrihIcwOR05yJmvyUPe">
+      <name>Stingray Music Karaoke - Rock Vol. 23</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>24</track-number>
+    <length>235.565000</length>
+    <popularity>0.22709</popularity>
+  </track>
+  <track href="spotify:track:3ODhX6sPeWeOAHMIMp3DuX">
+    <name>Du Hast (German Version) [In the Style of Rammstein] {Karaoke Lead Vocal Version}</name>
+    <artist href="spotify:artist:5UloVKzUNJcjORzhhTWWiJ">
+      <name>The Karaoke Channel</name>
+    </artist>
+    <id type="isrc">USK4W0700582</id>
+    <album href="spotify:album:1aNa0hiimXfcf5yb6V2KSR">
+      <name>The Karaoke Channel - The Best Of Rock Vol. - 115</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>22</track-number>
+    <length>234.652000</length>
+    <popularity>0.22444</popularity>
+  </track>
+  <track href="spotify:track:2ZnAnfNP2UBSnUuCJSj3MJ">
+    <name>Du Hast (English Version) [In the Style of Rammstein] {Karaoke Lead Vocal Version}</name>
+    <artist href="spotify:artist:5UloVKzUNJcjORzhhTWWiJ">
+      <name>The Karaoke Channel</name>
+    </artist>
+    <id type="isrc">USK4W0711767</id>
+    <album href="spotify:album:4hAqP4iHyRlthfJLbS1W7a">
+      <name>The Karaoke Channel - The Best Of Rock Vol. - 94</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>22</track-number>
+    <length>234.637000</length>
+    <popularity>0.21866</popularity>
+  </track>
+  <track href="spotify:track:0yRxFKdR2EFrQh5vodteuw">
+    <name>Ohne Dich - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:64a1C3HL8z3tnsuhl4EjyA">
+      <name>Amazing Karaoke Premium</name>
+    </artist>
+    <id type="isrc">DEHB51103308</id>
+    <album href="spotify:album:21o9npgtnzhQRMv2FLxqnT">
+      <name>Rocksongs, Vol. 1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>279.210000</length>
+    <popularity>0.14326</popularity>
+  </track>
+  <track href="spotify:track:4K9AqZQ2weZ9a3TAWrcs8o">
+    <name>Xcess (Remixed By Schneider of Rammstein)</name>
+    <artist href="spotify:artist:0kZpuNm4o9hQki5IMsu5d5">
+      <name>Slick Idiot</name>
+    </artist>
+    <id type="isrc">USA560629290</id>
+    <album href="spotify:album:3Xp5sZFd7e13YocsP2aMr6">
+      <name>This Is Industrial Hits Of The '90s</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>254.694000</length>
+    <popularity>0.14290</popularity>
+  </track>
+  <track href="spotify:track:34UQkAp81i2bcsWsiLej3u">
+    <name>Xcess (Remixed by Schneider of Rammstein)</name>
+    <artist href="spotify:artist:0kZpuNm4o9hQki5IMsu5d5">
+      <name>Slick Idiot</name>
+    </artist>
+    <id type="isrc">USA560901943</id>
+    <album href="spotify:album:6AWmh4kKArM2PVEnrlyF6K">
+      <name>Industrial Metal</name>
+      <released>2009</released>
+      <availability>
+        <territories>US</territories>
+      </availability>
+    </album>
+    <track-number>22</track-number>
+    <length>254.640000</length>
+    <popularity>0.14202</popularity>
+  </track>
+  <track href="spotify:track:5P4wOmklRxp2yM5RiZRVLh">
+    <name>Xcess (Remixed by Schneider of Rammstein)</name>
+    <artist href="spotify:artist:0kZpuNm4o9hQki5IMsu5d5">
+      <name>Slick Idiot</name>
+    </artist>
+    <id type="isrc">USA560922364</id>
+    <album href="spotify:album:16RE8SrUs4jcjos9G5OQDJ">
+      <name>Industrial Metal For Fitness</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>28</track-number>
+    <length>254.640000</length>
+    <popularity>0.14001</popularity>
+  </track>
+  <track href="spotify:track:572E7F4OSUOrphvrMHSZN3">
+    <name>Amerika - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:64a1C3HL8z3tnsuhl4EjyA">
+      <name>Amazing Karaoke Premium</name>
+    </artist>
+    <id type="isrc">DEHB51103300</id>
+    <album href="spotify:album:21o9npgtnzhQRMv2FLxqnT">
+      <name>Rocksongs, Vol. 1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>228.637000</length>
+    <popularity>0.13364</popularity>
+  </track>
+  <track href="spotify:track:0dKQCwlVzSaaml8gyCloXQ">
+    <name>Engel - Originally Performed By Rammstein</name>
+    <artist href="spotify:artist:64a1C3HL8z3tnsuhl4EjyA">
+      <name>Amazing Karaoke Premium</name>
+    </artist>
+    <id type="isrc">DEHB51103304</id>
+    <album href="spotify:album:21o9npgtnzhQRMv2FLxqnT">
+      <name>Rocksongs, Vol. 1</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>268.840000</length>
+    <popularity>0.11691</popularity>
+  </track>
+  <track href="spotify:track:2sR6Q8kVHsyhs9HeA77f56">
+    <name>Engel - Karaoke Version With Backings In the Art of Rammstein</name>
+    <artist href="spotify:artist:4XFDCSYeWRauMrvdLD5Hdh">
+      <name>Karaoke Planet</name>
+    </artist>
+    <id type="isrc">CAM460801325</id>
+    <album href="spotify:album:1scqS5xBAGlomnmSJoV6TU">
+      <name>Various Rock Songs, Vol. 26</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>266.004000</length>
+    <popularity>0.09713</popularity>
+  </track>
+  <track href="spotify:track:2K9JwHvik6THJhjvlX97SB">
+    <name>Rammstein</name>
+    <artist href="spotify:artist:3UMx5nFo889Kap1CKGE3KV">
+      <name>Mass A.K.</name>
+    </artist>
+    <artist href="spotify:artist:6wFcCZQM8oAI2gHue5hHzm">
+      <name>Forensikk</name>
+    </artist>
+    <id type="isrc">DEBL60870011</id>
+    <album href="spotify:album:0C0pFPCsvIrYEfebyLwIFX">
+      <name>3te Halbzeit - Mixtape</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT CH DE LI LU</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>172.293000</length>
+    <popularity>0.01448</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Wed, 29 Feb 2012 08:32:10 GMT -->

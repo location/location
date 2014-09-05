@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Wayne Shorter"/>
+  <opensearch:totalResults>734</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:2jz7vSAguRJmBHEA4I6C4N">
+    <name>Footprints</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28500087</id>
+    <album href="spotify:album:4jo7Y2Gk6RGH8CFUXKdMqi">
+      <name>The Best Of Wayne Shorter</name>
+      <released>1988</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>451.733000</length>
+    <popularity>0.43956</popularity>
+  </track>
+  <track href="spotify:track:0mHEBtkQ5H3PhAdWqLunva">
+    <name>Speak No Evil</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28600071</id>
+    <album href="spotify:album:4jo7Y2Gk6RGH8CFUXKdMqi">
+      <name>The Best Of Wayne Shorter</name>
+      <released>1988</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>505.693000</length>
+    <popularity>0.38255</popularity>
+  </track>
+  <track href="spotify:track:7Ke18a4dLDyjdBRNd5iLLM">
+    <name>Juju</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801110</id>
+    <album href="spotify:album:46VoobaZCtFPReElOHFEqq">
+      <name>JuJu</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>515.826000</length>
+    <popularity>0.37046</popularity>
+  </track>
+  <track href="spotify:track:2PGjqrXgOBqP8G4R6EKmpR">
+    <name>Yes Or No</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801114</id>
+    <album href="spotify:album:46VoobaZCtFPReElOHFEqq">
+      <name>JuJu</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>399.466000</length>
+    <popularity>0.34357</popularity>
+  </track>
+  <track href="spotify:track:5PjjGpas7CE6x6gudzk9gA">
+    <name>Footprints</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28500087</id>
+    <album href="spotify:album:0lcdc9pUe5p7FQZsOpE3gG">
+      <name>100 Best Of Blue Note</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>30</track-number>
+    <length>447.586000</length>
+    <popularity>0.34338</popularity>
+  </track>
+  <track href="spotify:track:6fw1b1bCVNY5EVurncxIss">
+    <name>Witch Hunt (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801009</id>
+    <album href="spotify:album:27Rl7A8jXEQOkIfUKOa6ZU">
+      <name>Speak No Evil</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>491.493000</length>
+    <popularity>0.32276</popularity>
+  </track>
+  <track href="spotify:track:5m1tw6H6w8lwSMxhWgWrRD">
+    <name>House Of Jade</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28400103</id>
+    <album href="spotify:album:0lcdc9pUe5p7FQZsOpE3gG">
+      <name>100 Best Of Blue Note</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>67</track-number>
+    <length>411.773000</length>
+    <popularity>0.32045</popularity>
+  </track>
+  <track href="spotify:track:5VGKsDTuCXr0HuA6i7me9t">
+    <name>Adam's Apple</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28500076</id>
+    <album href="spotify:album:4jo7Y2Gk6RGH8CFUXKdMqi">
+      <name>The Best Of Wayne Shorter</name>
+      <released>1988</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>409.333000</length>
+    <popularity>0.27728</popularity>
+  </track>
+  <track href="spotify:track:6lgkhf5XLGA2wvgFeTy2cq">
+    <name>Fee-Fi-Fo-Fum (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801010</id>
+    <album href="spotify:album:27Rl7A8jXEQOkIfUKOa6ZU">
+      <name>Speak No Evil</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>354.066000</length>
+    <popularity>0.30886</popularity>
+  </track>
+  <track href="spotify:track:7lUJQR3g0r2u4gdreqNSYX">
+    <name>Virgo</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28700697</id>
+    <album href="spotify:album:4jo7Y2Gk6RGH8CFUXKdMqi">
+      <name>The Best Of Wayne Shorter</name>
+      <released>1988</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>428.306000</length>
+    <popularity>0.26106</popularity>
+  </track>
+  <track href="spotify:track:0iRNnorxnFDSwVwnBgQ4CI">
+    <name>Infant Eyes</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28600357</id>
+    <album href="spotify:album:4jo7Y2Gk6RGH8CFUXKdMqi">
+      <name>The Best Of Wayne Shorter</name>
+      <released>1988</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>414.840000</length>
+    <popularity>0.25829</popularity>
+  </track>
+  <track href="spotify:track:0qxiaagtTvTeNvzxHHc441">
+    <name>Speak No Evil (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801012</id>
+    <album href="spotify:album:27Rl7A8jXEQOkIfUKOa6ZU">
+      <name>Speak No Evil</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>503.786000</length>
+    <popularity>0.29735</popularity>
+  </track>
+  <track href="spotify:track:0IffIW3eyCx9aZ36IqOu5o">
+    <name>Infant Eyes (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801013</id>
+    <album href="spotify:album:27Rl7A8jXEQOkIfUKOa6ZU">
+      <name>Speak No Evil</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>414.240000</length>
+    <popularity>0.29505</popularity>
+  </track>
+  <track href="spotify:track:6W8HRHzzSBXzLcYOKvLpJl">
+    <name>Diana</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USSM17500058</id>
+    <album href="spotify:album:5u2ImNDyprfiy8nuVt6Uw5">
+      <name>Outlaws Super Hits</name>
+      <released>1996</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>202.333000</length>
+    <popularity>0.29440</popularity>
+  </track>
+  <track href="spotify:track:6R2gKRyI8gqgFGazMf837C">
+    <name>Miracle Of The Fishes</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USSM17500171</id>
+    <album href="spotify:album:0ZjoVVcivTAErI32AUtwOW">
+      <name>Bossa Nova - This Is Jazz # 29</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MU MV MW MX MZ NA NC NE NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>285.600000</length>
+    <popularity>0.29411</popularity>
+  </track>
+  <track href="spotify:track:4hKk4FVmLvgwNapTBxc9ao">
+    <name>Dance Cadaverous (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801011</id>
+    <album href="spotify:album:27Rl7A8jXEQOkIfUKOa6ZU">
+      <name>Speak No Evil</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>405.920000</length>
+    <popularity>0.28112</popularity>
+  </track>
+  <track href="spotify:track:4ZeUFDMGEkbd3To1zKWDLq">
+    <name>Tom Thumb</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28800093</id>
+    <album href="spotify:album:4jo7Y2Gk6RGH8CFUXKdMqi">
+      <name>The Best Of Wayne Shorter</name>
+      <released>1988</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>374.666000</length>
+    <popularity>0.23550</popularity>
+  </track>
+  <track href="spotify:track:1WTeBG1uctVhtWM6ZfOaWk">
+    <name>Deluge</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801111</id>
+    <album href="spotify:album:46VoobaZCtFPReElOHFEqq">
+      <name>JuJu</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>413.826000</length>
+    <popularity>0.27559</popularity>
+  </track>
+  <track href="spotify:track:5tIDZCixAvskZRL867Ewh5">
+    <name>House Of Jade</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801112</id>
+    <album href="spotify:album:46VoobaZCtFPReElOHFEqq">
+      <name>JuJu</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>413.640000</length>
+    <popularity>0.26841</popularity>
+  </track>
+  <track href="spotify:track:6tadSGrUKQXnYRusoqtNx0">
+    <name>Wild Flower (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801014</id>
+    <album href="spotify:album:27Rl7A8jXEQOkIfUKOa6ZU">
+      <name>Speak No Evil</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>366.973000</length>
+    <popularity>0.26820</popularity>
+  </track>
+  <track href="spotify:track:5swrhTekdSh7ZqXpAQ7M4h">
+    <name>Black Nile</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28700174</id>
+    <album href="spotify:album:5JCSYLF7sGeD9nKTgxwDg8">
+      <name>Afro Blue Vol. 2 - The Roots &amp; Rhythm</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>388.066000</length>
+    <popularity>0.25898</popularity>
+  </track>
+  <track href="spotify:track:6TwPabnj1LeqVsmRJVYqY3">
+    <name>Mahjong</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801113</id>
+    <album href="spotify:album:46VoobaZCtFPReElOHFEqq">
+      <name>JuJu</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>464.360000</length>
+    <popularity>0.25556</popularity>
+  </track>
+  <track href="spotify:track:3Bz44jNc9pWaJA2BuHVf5a">
+    <name>Dance Cadaverous (Alternate Take) (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801015</id>
+    <album href="spotify:album:27Rl7A8jXEQOkIfUKOa6ZU">
+      <name>Speak No Evil</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>395.400000</length>
+    <popularity>0.24731</popularity>
+  </track>
+  <track href="spotify:track:5fpWud9mHuZolojuRQeiVQ">
+    <name>Witch Hunt</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28600405</id>
+    <album href="spotify:album:0UhFHMnSg3uMcik1RAddpZ">
+      <name>Speak No Evil</name>
+      <released>1987</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>490.626000</length>
+    <popularity>0.23711</popularity>
+  </track>
+  <track href="spotify:track:5t07yfgCqr8rMRV2TRiByD">
+    <name>Lost</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28800663</id>
+    <album href="spotify:album:4jo7Y2Gk6RGH8CFUXKdMqi">
+      <name>The Best Of Wayne Shorter</name>
+      <released>1988</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>437.026000</length>
+    <popularity>0.19128</popularity>
+  </track>
+  <track href="spotify:track:2y2FuwDTy3DH3SN1o7U0DE">
+    <name>Footprints</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USGR10200119</id>
+    <album href="spotify:album:1SAV0RJ5lZdZlVQd8ekFoz">
+      <name>Footprints - Live</name>
+      <released>2002</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>473.826000</length>
+    <popularity>0.23143</popularity>
+  </track>
+  <track href="spotify:track:01svZjfg3VKGPjuLcrpUjP">
+    <name>El Gaucho (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20000448</id>
+    <album href="spotify:album:4sxvTow8IffB0lisGJWb6Z">
+      <name>Adam's Apple (Rudy Van Gelder Edition)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>390.453000</length>
+    <popularity>0.23066</popularity>
+  </track>
+  <track href="spotify:track:3rXJbXaRGLK1A6vPmRafRR">
+    <name>Black Nile</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20400545</id>
+    <album href="spotify:album:2lcz9fPwBhtESyIFVGKvq6">
+      <name>Night Dreamer</name>
+      <released>1964</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>388.146000</length>
+    <popularity>0.22791</popularity>
+  </track>
+  <track href="spotify:track:2HbpOucCYcPyVEBpjTiJK8">
+    <name>Night Dreamer</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20400542</id>
+    <album href="spotify:album:2lcz9fPwBhtESyIFVGKvq6">
+      <name>Night Dreamer</name>
+      <released>1964</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>435.440000</length>
+    <popularity>0.22743</popularity>
+  </track>
+  <track href="spotify:track:2obcjLyHrdXd34dfeYtzyD">
+    <name>Ana Maria</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USSM10009143</id>
+    <album href="spotify:album:4rttkc7l8KkLDxuyul5hBf">
+      <name>Native Dancer</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>298.600000</length>
+    <popularity>0.22714</popularity>
+  </track>
+  <track href="spotify:track:69QM5QmYUP4m1W5lQsm1p4">
+    <name>Black Orpheus</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <artist href="spotify:artist:0fTHKjepK5HWOrb2rkS5Em">
+      <name>Freddie Hubbard</name>
+    </artist>
+    <artist href="spotify:artist:0W5dlTiXGpQqs0OhqCRE92">
+      <name>Eddie Higgins</name>
+    </artist>
+    <id type="isrc">USA371198136</id>
+    <album href="spotify:album:63mO2h93nK4p28iY5P9SYt">
+      <name>Essential Jazz Masters</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>275.307000</length>
+    <popularity>0.26108</popularity>
+  </track>
+  <track href="spotify:track:241a7EFlsfQpggghbM6t28">
+    <name>Ponta De Areia</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USSM10009137</id>
+    <album href="spotify:album:4rttkc7l8KkLDxuyul5hBf">
+      <name>Native Dancer</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>314.693000</length>
+    <popularity>0.22513</popularity>
+  </track>
+  <track href="spotify:track:32Db3bCceK2K2t2LWrY9Zn">
+    <name>Tom Thumb</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28800093</id>
+    <album href="spotify:album:6aD3lrRt9NRV6PYoERKFCI">
+      <name>Blue 'N Groovy - Blue Note Connects With The Good Vibes</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>370.906000</length>
+    <popularity>0.22390</popularity>
+  </track>
+  <track href="spotify:track:4dWr8MTATlW5mOsYjTBDYg">
+    <name>Beauty And The Beast</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USSM10009138</id>
+    <album href="spotify:album:4rttkc7l8KkLDxuyul5hBf">
+      <name>Native Dancer</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>304.533000</length>
+    <popularity>0.22373</popularity>
+  </track>
+  <track href="spotify:track:24mcjv8HG3Db33HGh16O4Z">
+    <name>Go</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29500592</id>
+    <album href="spotify:album:4Ngkptf4tipkoTOIjoF2kW">
+      <name>Schizophrenia</name>
+      <released>1967</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>342.573000</length>
+    <popularity>0.22262</popularity>
+  </track>
+  <track href="spotify:track:0Dfpbbbwi2MW7o6fGPJnNr">
+    <name>Black Nile</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200315</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>389.000000</length>
+    <popularity>0.22262</popularity>
+  </track>
+  <track href="spotify:track:7JK3fsNZWxNMhvJem6BRBz">
+    <name>Black Nile</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28700174</id>
+    <album href="spotify:album:0WA1gcZHemas7tpK8VHQrM">
+      <name>Triple Best Of</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>388.706000</length>
+    <popularity>0.22193</popularity>
+  </track>
+  <track href="spotify:track:6TllCfnk6RZAGlcsZHj4F9">
+    <name>Black Orpheus</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">FR6V81200512</id>
+    <album href="spotify:album:7IPdwLJANzxDguJzOuOCws">
+      <name>Black Orpheus</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>275.306000</length>
+    <popularity>0.22021</popularity>
+  </track>
+  <track href="spotify:track:2JITVZu8o6ls9k8SoMRy7w">
+    <name>Footprints (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20000449</id>
+    <album href="spotify:album:4sxvTow8IffB0lisGJWb6Z">
+      <name>Adam's Apple (Rudy Van Gelder Edition)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>449.773000</length>
+    <popularity>0.21869</popularity>
+  </track>
+  <track href="spotify:track:3dYS1w4w3Lqol3icrp7hjX">
+    <name>Juju</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28600422</id>
+    <album href="spotify:album:4jo7Y2Gk6RGH8CFUXKdMqi">
+      <name>The Best Of Wayne Shorter</name>
+      <released>1988</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>511.493000</length>
+    <popularity>0.17630</popularity>
+  </track>
+  <track href="spotify:track:0QRcIGOrLvLNhIB9SLXW9F">
+    <name>Adam's Apple (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20000446</id>
+    <album href="spotify:album:4sxvTow8IffB0lisGJWb6Z">
+      <name>Adam's Apple (Rudy Van Gelder Edition)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>409.626000</length>
+    <popularity>0.21350</popularity>
+  </track>
+  <track href="spotify:track:6SCVfqGacfyaBpisM9Cons">
+    <name>Night Dreamer</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28700695</id>
+    <album href="spotify:album:4UkHOcW9OLZ3HMUtfmzP42">
+      <name>Night Dreamer</name>
+      <released>1987</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>427.500000</length>
+    <popularity>0.21315</popularity>
+  </track>
+  <track href="spotify:track:3bNfD7IqH153a0bUSaXoxr">
+    <name>Judy</name>
+    <artist href="spotify:artist:6kXe2uPLJcKyNrSUmR21Cw">
+      <name>Michael Landau</name>
+    </artist>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">US4R31012705</id>
+    <album href="spotify:album:4mGd6YHrHRWqm0YZ6kwZWQ">
+      <name>Tales From The Bulge</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>376.533000</length>
+    <popularity>0.22841</popularity>
+  </track>
+  <track href="spotify:track:1YbJO8rKyIyaotRmRkKosi">
+    <name>Nefertiti</name>
+    <artist href="spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW">
+      <name>Herbie Hancock</name>
+    </artist>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USUM70746340</id>
+    <album href="spotify:album:4XkWqozX4Uqc0qwncCVZxi">
+      <name>River: The Joni Letters</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT CN CZ DK EE FI FR GB HK HR HU IL IN LT LV MY NL NO NZ PL RU SE SG TH TR TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>449.693000</length>
+    <popularity>0.22517</popularity>
+  </track>
+  <track href="spotify:track:5NEYr07MeW3Kp64GobkQAk">
+    <name>Twelve More Bars To Go</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801115</id>
+    <album href="spotify:album:46VoobaZCtFPReElOHFEqq">
+      <name>JuJu</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>331.306000</length>
+    <popularity>0.20658</popularity>
+  </track>
+  <track href="spotify:track:7IRs9GnahgIHlm0VUQPZXW">
+    <name>Speak No Evil</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200316</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>503.560000</length>
+    <popularity>0.20503</popularity>
+  </track>
+  <track href="spotify:track:7wF5fXzQxysjTLV2YykGLH">
+    <name>Infant Eyes</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200317</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>414.173000</length>
+    <popularity>0.20427</popularity>
+  </track>
+  <track href="spotify:track:1IogmRGZMwkp3A5N5BNS1T">
+    <name>House Of Jade (Alternate Take)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801117</id>
+    <album href="spotify:album:46VoobaZCtFPReElOHFEqq">
+      <name>JuJu</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>399.080000</length>
+    <popularity>0.20286</popularity>
+  </track>
+  <track href="spotify:track:7AvtNbWfws19wW7nLUnE6W">
+    <name>Yes Or No</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200331</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>398.066000</length>
+    <popularity>0.20135</popularity>
+  </track>
+  <track href="spotify:track:3d2LgIMynxA3oraCvcErnh">
+    <name>The Song Goes On (feat. K.S. Chithra, Chaka Khan, Anoushka Shankar, &amp; Wayne Shorter)</name>
+    <artist href="spotify:artist:28wX8zkTNiYBfCuVNylFz7">
+      <name>Herbie Hancock;K.S. Chithra;Chaka Khan;Anoushka Shankar;Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USATO1000080</id>
+    <album href="spotify:album:0lVU3BF0DnEt62L6JJDIbQ">
+      <name>The Imagine Project</name>
+      <released>2010</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>468.893000</length>
+    <popularity>0.20083</popularity>
+  </track>
+  <track href="spotify:track:2UgM9dW0dxBfsvt5Zo2FZC">
+    <name>Angola</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USGR10201399</id>
+    <album href="spotify:album:0Gsc2yc178lgc0gKA5GlXH">
+      <name>Alegría</name>
+      <released>2003</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>327.787000</length>
+    <popularity>0.20083</popularity>
+  </track>
+  <track href="spotify:track:68QOODobcfxeT82w8bllnj">
+    <name>The Albatross</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">DEZ651119231</id>
+    <album href="spotify:album:757WCQ0JUtRMVkkV6ursnc">
+      <name>Directions</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>321.000000</length>
+    <popularity>0.19897</popularity>
+  </track>
+  <track href="spotify:track:097f4XZHrS0oMDBIm1DQpC">
+    <name>Water Babies</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28700383</id>
+    <album href="spotify:album:4jo7Y2Gk6RGH8CFUXKdMqi">
+      <name>The Best Of Wayne Shorter</name>
+      <released>1988</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>292.373000</length>
+    <popularity>0.15926</popularity>
+  </track>
+  <track href="spotify:track:676GFJ10fxTUzNL4pbRKCE">
+    <name>Juju (Alternate Take)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29801116</id>
+    <album href="spotify:album:46VoobaZCtFPReElOHFEqq">
+      <name>JuJu</name>
+      <released>1999</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>470.853000</length>
+    <popularity>0.19641</popularity>
+  </track>
+  <track href="spotify:track:1LjV7S3Rx05691WRk3Jwt9">
+    <name>Witch Hunt</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200318</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>490.200000</length>
+    <popularity>0.19597</popularity>
+  </track>
+  <track href="spotify:track:4TaOL2aftnrorD38RkBVSo">
+    <name>Footprints</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28500087</id>
+    <album href="spotify:album:7w0BBD1iMMRbULd1MmV9Zv">
+      <name>Original Hits - Jazz</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>449.826000</length>
+    <popularity>0.19354</popularity>
+  </track>
+  <track href="spotify:track:7iHOe9rR5k7oeKvkEwLujM">
+    <name>Tom Thumb</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28800093</id>
+    <album href="spotify:album:4Ngkptf4tipkoTOIjoF2kW">
+      <name>Schizophrenia</name>
+      <released>1967</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>376.560000</length>
+    <popularity>0.19341</popularity>
+  </track>
+  <track href="spotify:track:0F8xfPspwyXxRjsiW12mya">
+    <name>502 Blues (Drinkin' And Drivin') (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20000447</id>
+    <album href="spotify:album:4sxvTow8IffB0lisGJWb6Z">
+      <name>Adam's Apple (Rudy Van Gelder Edition)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>394.466000</length>
+    <popularity>0.19339</popularity>
+  </track>
+  <track href="spotify:track:2m8F1DopzoORa4jbV4c3C4">
+    <name>Miyako</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29500594</id>
+    <album href="spotify:album:4Ngkptf4tipkoTOIjoF2kW">
+      <name>Schizophrenia</name>
+      <released>1967</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>300.800000</length>
+    <popularity>0.19028</popularity>
+  </track>
+  <track href="spotify:track:6jTlknwBYM6EOfIlu81nPE">
+    <name>Armageddon</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28700700</id>
+    <album href="spotify:album:4UkHOcW9OLZ3HMUtfmzP42">
+      <name>Night Dreamer</name>
+      <released>1987</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>381.706000</length>
+    <popularity>0.18730</popularity>
+  </track>
+  <track href="spotify:track:2X2pDKOgU0ev1rfSDZCCwW">
+    <name>Night Dreamer</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28700695</id>
+    <album href="spotify:album:0WA1gcZHemas7tpK8VHQrM">
+      <name>Triple Best Of</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>432.906000</length>
+    <popularity>0.18669</popularity>
+  </track>
+  <track href="spotify:track:60OwEEn9RNm49We6hqzJXj">
+    <name>Wild Flower</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28600408</id>
+    <album href="spotify:album:0UhFHMnSg3uMcik1RAddpZ">
+      <name>Speak No Evil</name>
+      <released>1987</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>366.933000</length>
+    <popularity>0.18467</popularity>
+  </track>
+  <track href="spotify:track:4H7Dj5xRUOyoGu1Uz9A1H4">
+    <name>Oriental Folk Song</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20400543</id>
+    <album href="spotify:album:2lcz9fPwBhtESyIFVGKvq6">
+      <name>Night Dreamer</name>
+      <released>1964</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>410.706000</length>
+    <popularity>0.18445</popularity>
+  </track>
+  <track href="spotify:track:1JobbSgR6x6oTgK25C4jrg">
+    <name>Endangered Species</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USSM18500015</id>
+    <album href="spotify:album:3quB98SadeySnNv8WYRfHO">
+      <name>Atlantis</name>
+      <released>1985</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>286.760000</length>
+    <popularity>0.18305</popularity>
+  </track>
+  <track href="spotify:track:7qzej9vvC6AniA7A77HP2r">
+    <name>Footprints</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200322</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>451.666000</length>
+    <popularity>0.18204</popularity>
+  </track>
+  <track href="spotify:track:4DJ6zzNnnfcyCK0ewYOIfL">
+    <name>Lady Day</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29000395</id>
+    <album href="spotify:album:2DPEfJpJnhIBFqheiiq2TH">
+      <name>ESSENTIAL BLUE NOTE</name>
+      <released>2009</released>
+      <availability>
+        <territories>ES</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>334.013000</length>
+    <popularity>0.17947</popularity>
+  </track>
+  <track href="spotify:track:2UCW98PNSzEbhkD8x478ua">
+    <name>The Three Marias</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USSM18500016</id>
+    <album href="spotify:album:3quB98SadeySnNv8WYRfHO">
+      <name>Atlantis</name>
+      <released>1985</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>348.506000</length>
+    <popularity>0.17861</popularity>
+  </track>
+  <track href="spotify:track:3RpVOE3BROLDkJQ71zH7g7">
+    <name>Angola</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USGR10201399</id>
+    <album href="spotify:album:1moRyG1MZNtFukH78ouVKs">
+      <name>Alegría</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>327.786000</length>
+    <popularity>0.17756</popularity>
+  </track>
+  <track href="spotify:track:0uQ0xplT2ZD4EMr2GZ4ZAg">
+    <name>Angola</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200319</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>291.000000</length>
+    <popularity>0.17642</popularity>
+  </track>
+  <track href="spotify:track:4rp5B92jwpBDme3jZwwSqt">
+    <name>Second Genesis</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">FR6V81200513</id>
+    <album href="spotify:album:7IPdwLJANzxDguJzOuOCws">
+      <name>Black Orpheus</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>249.129000</length>
+    <popularity>0.17504</popularity>
+  </track>
+  <track href="spotify:track:66i0Abcv99s68IuXMzO5B6">
+    <name>Wayning Moments</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <artist href="spotify:artist:0unT9z4lnok5nu2WXrrhEQ">
+      <name>Jymie Merritt</name>
+    </artist>
+    <artist href="spotify:artist:7kOGXXOsRrZn8CNOJ5e0rA">
+      <name>Marshall Thompson</name>
+    </artist>
+    <id type="isrc">USA371198122</id>
+    <album href="spotify:album:63mO2h93nK4p28iY5P9SYt">
+      <name>Essential Jazz Masters</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>262.640000</length>
+    <popularity>0.20913</popularity>
+  </track>
+  <track href="spotify:track:4vdncLAevMflUnxCp5J22M">
+    <name>Adam's Apple</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200321</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>412.066000</length>
+    <popularity>0.17413</popularity>
+  </track>
+  <track href="spotify:track:0VxX1FD3ssAOR8dq6tRT0B">
+    <name>Tom Thumb</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200323</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>373.000000</length>
+    <popularity>0.17308</popularity>
+  </track>
+  <track href="spotify:track:3IVkSU2D8D6PZWPz5A6p5f">
+    <name>Second Genesis</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">DEZ651119232</id>
+    <album href="spotify:album:757WCQ0JUtRMVkkV6ursnc">
+      <name>Directions</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>249.000000</length>
+    <popularity>0.17233</popularity>
+  </track>
+  <track href="spotify:track:5dEj4mIwc5RMk1rUna9YJh">
+    <name>The Collector (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200664</id>
+    <album href="spotify:album:18x3CX5nt2gQEEof0E1aPy">
+      <name>Triple Best Of</name>
+      <released>2009</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>413.786000</length>
+    <popularity>0.17029</popularity>
+  </track>
+  <track href="spotify:track:0Lwdf3FXIYA8Ht801ZmKtX">
+    <name>Etcetera</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200320</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>382.266000</length>
+    <popularity>0.17022</popularity>
+  </track>
+  <track href="spotify:track:4j2cnZZPxt7R3f9qTpYclv">
+    <name>Ruby &amp; The Pearl</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">DEZ651119233</id>
+    <album href="spotify:album:757WCQ0JUtRMVkkV6ursnc">
+      <name>Directions</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>353.000000</length>
+    <popularity>0.16943</popularity>
+  </track>
+  <track href="spotify:track:1ylwBTCAZ1WlvvMnWm6U3c">
+    <name>Virgo</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20400544</id>
+    <album href="spotify:album:2lcz9fPwBhtESyIFVGKvq6">
+      <name>Night Dreamer</name>
+      <released>1964</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>426.800000</length>
+    <popularity>0.16927</popularity>
+  </track>
+  <track href="spotify:track:2HFdKfGjLxo21Y1AYCMnPl">
+    <name>Tarde</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USSM10009139</id>
+    <album href="spotify:album:4rttkc7l8KkLDxuyul5hBf">
+      <name>Native Dancer</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>346.706000</length>
+    <popularity>0.16798</popularity>
+  </track>
+  <track href="spotify:track:6TxRqUSiNyahejFN2KB14M">
+    <name>Footprints</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28500087</id>
+    <album href="spotify:album:49Xjwu2IJkZZw8HTEDz5td">
+      <name>Pure Jazz</name>
+      <released>2008</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>452.200000</length>
+    <popularity>0.16769</popularity>
+  </track>
+  <track href="spotify:track:6Rltr5mZpWOJRZuWjiyYQN">
+    <name>Chief Crazy Horse (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20000451</id>
+    <album href="spotify:album:4sxvTow8IffB0lisGJWb6Z">
+      <name>Adam's Apple (Rudy Van Gelder Edition)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>454.306000</length>
+    <popularity>0.16508</popularity>
+  </track>
+  <track href="spotify:track:7oozdeLTbsSAYzB7pSScl2">
+    <name>Super Nova</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200324</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>290.893000</length>
+    <popularity>0.16451</popularity>
+  </track>
+  <track href="spotify:track:1OUAbRfYy7R4Tr1dawuGiC">
+    <name>Black Diamond</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">FR6V81200514</id>
+    <album href="spotify:album:7IPdwLJANzxDguJzOuOCws">
+      <name>Black Orpheus</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>360.489000</length>
+    <popularity>0.16443</popularity>
+  </track>
+  <track href="spotify:track:2XWf0cmzSfHYrD6E2O16YE">
+    <name>Schizophrenia</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29500595</id>
+    <album href="spotify:album:4Ngkptf4tipkoTOIjoF2kW">
+      <name>Schizophrenia</name>
+      <released>1967</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>410.093000</length>
+    <popularity>0.16375</popularity>
+  </track>
+  <track href="spotify:track:1dsCMePRPpJFLhY7HaBpgK">
+    <name>Calm</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200325</id>
+    <album href="spotify:album:3TrdwnRT9bK0udsbM0X4EW">
+      <name>The Classic Blue Note Recordings (Remastered)</name>
+      <released>2011</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>204.666000</length>
+    <popularity>0.16324</popularity>
+  </track>
+  <track href="spotify:track:04PxizllkChnDAmhg6n89P">
+    <name>Kryptonite</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN29500593</id>
+    <album href="spotify:album:4Ngkptf4tipkoTOIjoF2kW">
+      <name>Schizophrenia</name>
+      <released>1967</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>389.506000</length>
+    <popularity>0.16291</popularity>
+  </track>
+  <track href="spotify:track:2yg9ITCDdkB9hmt95knWis">
+    <name>Pug Nose</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">FR6V80780747</id>
+    <album href="spotify:album:59b82aBU3majq4HCW0W5ex">
+      <name>Joe Meet Wayne</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>409.887000</length>
+    <popularity>0.13522</popularity>
+  </track>
+  <track href="spotify:track:4DtQbQsX3AOg9Bd2FadZaY">
+    <name>Footprints (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20000449</id>
+    <album href="spotify:album:4ADqSU58qpJX2Y4lsDLs6d">
+      <name>Rollins' Choice (Blue Note Selections by Henry Rollins)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>452.586000</length>
+    <popularity>0.16008</popularity>
+  </track>
+  <track href="spotify:track:5lhTT6IVAeQwxcS6tFJjsh">
+    <name>Lilia</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USSM10009144</id>
+    <album href="spotify:album:4rttkc7l8KkLDxuyul5hBf">
+      <name>Native Dancer</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>420.840000</length>
+    <popularity>0.16002</popularity>
+  </track>
+  <track href="spotify:track:25Rkp2Ky7s3qRptVxaQgh5">
+    <name>Wayning Moments</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">FR6V81200515</id>
+    <album href="spotify:album:7IPdwLJANzxDguJzOuOCws">
+      <name>Black Orpheus</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>262.640000</length>
+    <popularity>0.16001</popularity>
+  </track>
+  <track href="spotify:track:5dmpJTyGjnHeYbfzLASZAM">
+    <name>The Albatross</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <artist href="spotify:artist:3K4JRC7kRVAJoD9py8Rup6">
+      <name>Bob Cranshaw</name>
+    </artist>
+    <artist href="spotify:artist:6QQuESLtKhAOcLW2TeWC2t">
+      <name>Art Blakey</name>
+    </artist>
+    <artist href="spotify:artist:7DCTgrI6aDK3nBRZm5RUKT">
+      <name>Cedar Walton</name>
+    </artist>
+    <id type="isrc">USA371198123</id>
+    <album href="spotify:album:63mO2h93nK4p28iY5P9SYt">
+      <name>Essential Jazz Masters</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>321.067000</length>
+    <popularity>0.20523</popularity>
+  </track>
+  <track href="spotify:track:7DWiFL8ynmBx6kaU0gLQcT">
+    <name>The Collector (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20200664</id>
+    <album href="spotify:album:4sxvTow8IffB0lisGJWb6Z">
+      <name>Adam's Apple (Rudy Van Gelder Edition)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>414.493000</length>
+    <popularity>0.15877</popularity>
+  </track>
+  <track href="spotify:track:6S5vGVyWqxCXkBwrF32wHJ">
+    <name>Charcoal Blues</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20400546</id>
+    <album href="spotify:album:2lcz9fPwBhtESyIFVGKvq6">
+      <name>Night Dreamer</name>
+      <released>1964</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>414.466000</length>
+    <popularity>0.15829</popularity>
+  </track>
+  <track href="spotify:track:6j91ztKKE6iF8IUIGeb3DF">
+    <name>Armageddon</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20400547</id>
+    <album href="spotify:album:2lcz9fPwBhtESyIFVGKvq6">
+      <name>Night Dreamer</name>
+      <released>1964</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>382.520000</length>
+    <popularity>0.15806</popularity>
+  </track>
+  <track href="spotify:track:2WSJsFFzxQGYFJlR57ddGI">
+    <name>Teru (Rudy Van Gelder Edition)</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN20000450</id>
+    <album href="spotify:album:4sxvTow8IffB0lisGJWb6Z">
+      <name>Adam's Apple (Rudy Van Gelder Edition)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>372.866000</length>
+    <popularity>0.15703</popularity>
+  </track>
+  <track href="spotify:track:7orlrGrtpjMVzZ4kEu430m">
+    <name>Getting To Know You</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">DEZ651119234</id>
+    <album href="spotify:album:757WCQ0JUtRMVkkV6ursnc">
+      <name>Directions</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>256.000000</length>
+    <popularity>0.15663</popularity>
+  </track>
+  <track href="spotify:track:5xNZX28uEAsHWcCncXmda2">
+    <name>Fee-Fi-Fo-Fum</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USBN28600406</id>
+    <album href="spotify:album:0UhFHMnSg3uMcik1RAddpZ">
+      <name>Speak No Evil</name>
+      <released>1987</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>354.440000</length>
+    <popularity>0.15538</popularity>
+  </track>
+  <track href="spotify:track:2EwSDe5DtyGUncvJM8Tlsr">
+    <name>Tenderfoot</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">DEZ651119235</id>
+    <album href="spotify:album:757WCQ0JUtRMVkkV6ursnc">
+      <name>Directions</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>204.000000</length>
+    <popularity>0.15481</popularity>
+  </track>
+  <track href="spotify:track:6UBG42235wbXCi71E4ib9L">
+    <name>All Blues</name>
+    <artist href="spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4">
+      <name>Miles Davis</name>
+    </artist>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <artist href="spotify:artist:4wnzivx3OQ3vjrySAdTdJP">
+      <name>Ron Carter</name>
+    </artist>
+    <id type="isrc">USA371183659</id>
+    <album href="spotify:album:1NOTiWRaAsyPsCYLbQdSGq">
+      <name>Live Jazz Sessions In Europe</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>820.813000</length>
+    <popularity>0.18720</popularity>
+  </track>
+  <track href="spotify:track:4qlYEMfcxYT68HXRhFROU5">
+    <name>Miracle Of The Fishes</name>
+    <artist href="spotify:artist:0ZqhrTXYPA9DZR527ZnFdO">
+      <name>Wayne Shorter</name>
+    </artist>
+    <id type="isrc">USSM10009140</id>
+    <album href="spotify:album:4rttkc7l8KkLDxuyul5hBf">
+      <name>Native Dancer</name>
+      <released>1990</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AT AU AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BW BY BZ CD CF CG CH CI CK CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>285.573000</length>
+    <popularity>0.15371</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Fri, 24 Feb 2012 11:51:03 GMT -->

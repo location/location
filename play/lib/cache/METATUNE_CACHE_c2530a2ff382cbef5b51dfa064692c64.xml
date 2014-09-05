@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Bertine Zetlitz"/>
+  <opensearch:totalResults>115</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:4L7JKubbEIIxBc4b8YHmvD">
+    <name>Twisted Little Star</name>
+    <artist href="spotify:artist:4si4vypZaD6Vk7TiHkEXeY">
+      <name>Halvdan Sivertsen</name>
+    </artist>
+    <id type="isrc">NO3551201060</id>
+    <album href="spotify:album:5mkvzJ7YuqeWuQ4ylEcImy">
+      <name>Hver gang vi møtes - Bertine Zetlitz' dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>171.693000</length>
+    <popularity>0.64516</popularity>
+  </track>
+  <track href="spotify:track:0anVDPEKfQJX3CwIbN1OAH">
+    <name>Høre tell på jorda</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NO3551201270</id>
+    <album href="spotify:album:71fvc3dkvMexOGVREczQjz">
+      <name>Hver gang vi møtes - Halvdan Sivertsens dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>168.346000</length>
+    <popularity>0.60223</popularity>
+  </track>
+  <track href="spotify:track:750PoHfjNCahHsFt3cyEl3">
+    <name>Change My Stars</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NO3551201130</id>
+    <album href="spotify:album:2HHly69oUu6ocg3bfzs2yK">
+      <name>Hver gang vi møtes - Vinnis dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>176.053000</length>
+    <popularity>0.57781</popularity>
+  </track>
+  <track href="spotify:track:28PNGJUGMXWHV8x4SVdKdN">
+    <name>Twisted Little Star</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204040</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>249.546000</length>
+    <popularity>0.52196</popularity>
+  </track>
+  <track href="spotify:track:4YT2kxGq8ShkcRUEqtHslP">
+    <name>Telefon</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NO3551201240</id>
+    <album href="spotify:album:7IqyzHKIJ5n0evFHy0OsDg">
+      <name>Hver gang vi møtes - Jan Eggums dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>171.733000</length>
+    <popularity>0.55559</popularity>
+  </track>
+  <track href="spotify:track:0KZnRwRHFQMwCX9ltJhGv5">
+    <name>Apples And Diamonds</name>
+    <artist href="spotify:artist:2rvUlmaAfN7eKSVAcaRj9t">
+      <name>Vinni</name>
+    </artist>
+    <id type="isrc">NO3551201280</id>
+    <album href="spotify:album:5mkvzJ7YuqeWuQ4ylEcImy">
+      <name>Hver gang vi møtes - Bertine Zetlitz' dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>147.000000</length>
+    <popularity>0.58196</popularity>
+  </track>
+  <track href="spotify:track:70u2gR6Mu6btiiKJkGUNH1">
+    <name>Electric Feet (feat. Samsaya)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAAC1200001</id>
+    <album href="spotify:album:2g6ORXHVOSNH5NqDgL7Sls">
+      <name>Electric Feet (feat. Samsaya)</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>232.426000</length>
+    <popularity>0.54440</popularity>
+  </track>
+  <track href="spotify:track:5E8hZp01NKSNqLt9umSNLD">
+    <name>Fake Your Beauty</name>
+    <artist href="spotify:artist:1QfTCSQTI4rrK027UaiSQ6">
+      <name>Jan Eggum</name>
+    </artist>
+    <id type="isrc">NO3551201290</id>
+    <album href="spotify:album:5mkvzJ7YuqeWuQ4ylEcImy">
+      <name>Hver gang vi møtes - Bertine Zetlitz' dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>145.933000</length>
+    <popularity>0.56675</popularity>
+  </track>
+  <track href="spotify:track:5TZdyuzJXgxg0RvQSGXXUU">
+    <name>Sommerfuglvinger</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NO3551201050</id>
+    <album href="spotify:album:0NexFSlH9oLI0GgXqyhisQ">
+      <name>Hver gang vi møtes - Anne Grete Preus' dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>189.920000</length>
+    <popularity>0.52340</popularity>
+  </track>
+  <track href="spotify:track:684wPZ3JcEi9B9TKkQdlWg">
+    <name>Fate</name>
+    <artist href="spotify:artist:32mTrXKr7W8Tg4hH4S2Do1">
+      <name>Anne Grete Preus</name>
+    </artist>
+    <id type="isrc">NO3551201300</id>
+    <album href="spotify:album:5mkvzJ7YuqeWuQ4ylEcImy">
+      <name>Hver gang vi møtes - Bertine Zetlitz' dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>169.026000</length>
+    <popularity>0.55850</popularity>
+  </track>
+  <track href="spotify:track:0rn76c04Iedm5dotwvbZjx">
+    <name>Girl Like You</name>
+    <artist href="spotify:artist:6IPzVGJ14q4iiRihLj6Xag">
+      <name>Elvira Nikolaisen</name>
+    </artist>
+    <id type="isrc">NO3551201180</id>
+    <album href="spotify:album:5mkvzJ7YuqeWuQ4ylEcImy">
+      <name>Hver gang vi møtes - Bertine Zetlitz' dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>184.760000</length>
+    <popularity>0.54389</popularity>
+  </track>
+  <track href="spotify:track:0urrrFGZbb63qRhz0ruLLu">
+    <name>Girl Like You (Full Album Version)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204010</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>313.653000</length>
+    <popularity>0.47218</popularity>
+  </track>
+  <track href="spotify:track:2uUqPx08n2xZM0xi76UUBX">
+    <name>Fake Your Beauty</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404020</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>217.946000</length>
+    <popularity>0.46912</popularity>
+  </track>
+  <track href="spotify:track:1QRtHtY4EMs3RRv006S27E">
+    <name>Adore Me</name>
+    <artist href="spotify:artist:2R2KAPIjNWXsqWkSVUp9Cp">
+      <name>Øystein Dolmen</name>
+    </artist>
+    <id type="isrc">NO3551201230</id>
+    <album href="spotify:album:5mkvzJ7YuqeWuQ4ylEcImy">
+      <name>Hver gang vi møtes - Bertine Zetlitz' dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>164.720000</length>
+    <popularity>0.52881</popularity>
+  </track>
+  <track href="spotify:track:3r8QToZ8tmFTacOdx5F2VI">
+    <name>Adore Me (Radio Edit)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008010</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>198.773000</length>
+    <popularity>0.42612</popularity>
+  </track>
+  <track href="spotify:track:41AA459P7I97JttJMFS4eo">
+    <name>Fate</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008070</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>286.680000</length>
+    <popularity>0.44146</popularity>
+  </track>
+  <track href="spotify:track:2bntLHVbHH2qAvdhUq08uo">
+    <name>Fate (Disclab Remake- Radio Version)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008071</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>256.066000</length>
+    <popularity>0.40434</popularity>
+  </track>
+  <track href="spotify:track:7BQ1gyGkAFUNPqAGKgaMSi">
+    <name>Apples And Diamonds</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE9707030</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>252.293000</length>
+    <popularity>0.38904</popularity>
+  </track>
+  <track href="spotify:track:4khQDC1iCRi6xwEMqwtVKd">
+    <name>Ah Ah</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404010</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>163.786000</length>
+    <popularity>0.37153</popularity>
+  </track>
+  <track href="spotify:track:533uPo1UovUbmDUHNUWLxX">
+    <name>Fate (Hell Sessions)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603120</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>336.520000</length>
+    <popularity>0.36700</popularity>
+  </track>
+  <track href="spotify:track:2nSgXP8RBLS0gfrnS2MbVC">
+    <name>Ashamed</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0704011</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>238.466000</length>
+    <popularity>0.36264</popularity>
+  </track>
+  <track href="spotify:track:3zmBhDNBJjTzMIzsXAmONU">
+    <name>Midnight</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603050</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>251.560000</length>
+    <popularity>0.35680</popularity>
+  </track>
+  <track href="spotify:track:4kGDyMHv5N1WB3nCzUuuD6">
+    <name>500</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603012</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>228.226000</length>
+    <popularity>0.34864</popularity>
+  </track>
+  <track href="spotify:track:5ciFgbAYwoXOi8ORiNansf">
+    <name>Bubble Bursts</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0704020</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>192.320000</length>
+    <popularity>0.34140</popularity>
+  </track>
+  <track href="spotify:track:0Tprw9VwtF0domkWrsxPbX">
+    <name>Islands In The Stream</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603110</id>
+    <album href="spotify:album:69o1EcOX7bi5dWj8YoFoiZ">
+      <name>Islands In The Stream</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>227.253000</length>
+    <popularity>0.36486</popularity>
+  </track>
+  <track href="spotify:track:3rnAGZ3ogTWxQtIfbtWkY9">
+    <name>Getting Out</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE9701010</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>256.093000</length>
+    <popularity>0.32816</popularity>
+  </track>
+  <track href="spotify:track:1OAfzyYh3fGRjegPTEN29s">
+    <name>Abigail</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE9707020</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>228.466000</length>
+    <popularity>0.32830</popularity>
+  </track>
+  <track href="spotify:track:1X2C2Bl02kxM0Vr19Al3qx">
+    <name>Twisted Little Star</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204040</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>250.573000</length>
+    <popularity>0.35592</popularity>
+  </track>
+  <track href="spotify:track:799JohWNJwasQXgo0VkWRZ">
+    <name>Cruel</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008060</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>269.466000</length>
+    <popularity>0.32097</popularity>
+  </track>
+  <track href="spotify:track:74WM8sS3JY4W9sm9V2NTDN">
+    <name>Quiet Exit</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NO3551201370</id>
+    <album href="spotify:album:4xwKmfYeSPaZuiJ6GNjyXw">
+      <name>Hver gang vi møtes - Elvira Nikolaisens dag</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>146.386000</length>
+    <popularity>0.35380</popularity>
+  </track>
+  <track href="spotify:track:7to82Y63VsyVuARh35lUeb">
+    <name>Fake Your Beauty (Featuring Ken Ring (Remix))</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <artist href="spotify:artist:2yMJGKSRgxIniMnq30FAzX">
+      <name>Ken Ring</name>
+    </artist>
+    <id type="isrc">NOAFE0404024</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>207.146000</length>
+    <popularity>0.32680</popularity>
+  </track>
+  <track href="spotify:track:36g46gbTDMcQHGaYjjGfWc">
+    <name>Pale green eyes</name>
+    <artist href="spotify:artist:6kUglM25Mvn6Uy7EDXsT1n">
+      <name>Thomas Dybdahl</name>
+    </artist>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOBHG0326040</id>
+    <album href="spotify:album:6lwirw1Mj9xu1vAFErniAh">
+      <name>Stray Dogs</name>
+      <released>2003</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>226.987000</length>
+    <popularity>0.36530</popularity>
+  </track>
+  <track href="spotify:track:0xUq8JnRHm0lV0PAkCgTKx">
+    <name>Islands In The Stream</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603110</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>266.866000</length>
+    <popularity>0.31286</popularity>
+  </track>
+  <track href="spotify:track:1naUDfdytebZ3QoDFnYHot">
+    <name>For Fun</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204020</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>207.266000</length>
+    <popularity>0.30623</popularity>
+  </track>
+  <track href="spotify:track:2HsQQx0PFKwR0TJ5DeS5rG">
+    <name>Snow On A Hot Day</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE9707010</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>247.546000</length>
+    <popularity>0.30417</popularity>
+  </track>
+  <track href="spotify:track:7jN8eGe0xb1NgW6bUET31U">
+    <name>Fate</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008070</id>
+    <album href="spotify:album:4JVyr6iE1O7JodFaHHQ20D">
+      <name>Big-5: Bertine Zetlitz</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>287.826000</length>
+    <popularity>0.28404</popularity>
+  </track>
+  <track href="spotify:track:3iUCiPNTyjuglzDO9TX4QB">
+    <name>Fake Your Beauty</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404020</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>217.826000</length>
+    <popularity>0.32072</popularity>
+  </track>
+  <track href="spotify:track:09EXldFC6s12G88c3erhvH">
+    <name>Girl Like You (Full Album Version)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204010</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>314.306000</length>
+    <popularity>0.31533</popularity>
+  </track>
+  <track href="spotify:track:29F9TEfdx5RDhcksS7f3jn">
+    <name>Apples And Diamonds (Tee Prod. Remix)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE9707031</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>284.266000</length>
+    <popularity>0.27866</popularity>
+  </track>
+  <track href="spotify:track:1pcBID2mqBQIWzS9jOVcoM">
+    <name>Snow On A Hot Day (Erot Remix)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE9707012</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>458.746000</length>
+    <popularity>0.27567</popularity>
+  </track>
+  <track href="spotify:track:5iH0OIm5bXJpMIHVrMZQur">
+    <name>Change My Stars</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NO3551201130</id>
+    <album href="spotify:album:2ydKzazfCac7Kc6CmSoziB">
+      <name>Hver gang vi møtes</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>175.893000</length>
+    <popularity>0.30720</popularity>
+  </track>
+  <track href="spotify:track:1Bj20PqZaQtAIObD8L4JJP">
+    <name>Fake Your Beauty (Pleasure Mix)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404022</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>275.933000</length>
+    <popularity>0.26558</popularity>
+  </track>
+  <track href="spotify:track:3KGejGaAJTOJHNwq1VF5ln">
+    <name>Adore Me (Radio Edit)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008010</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>199.666000</length>
+    <popularity>0.29803</popularity>
+  </track>
+  <track href="spotify:track:1K3XgTP1zYrReZFzvzJC5l">
+    <name>Sommerfuglvinger</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NO3551201050</id>
+    <album href="spotify:album:2ydKzazfCac7Kc6CmSoziB">
+      <name>Hver gang vi møtes</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>190.320000</length>
+    <popularity>0.29022</popularity>
+  </track>
+  <track href="spotify:track:4YToeARzaJHBRbUDOPbEB5">
+    <name>Getting Out (Bjørn Torske Remix)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE9701013</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>387.706000</length>
+    <popularity>0.25733</popularity>
+  </track>
+  <track href="spotify:track:4FGRYJbETZBe3knw4lU47A">
+    <name>Fake Your Beauty (Gaute Drevdal Remix)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404025</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>399.946000</length>
+    <popularity>0.25243</popularity>
+  </track>
+  <track href="spotify:track:7BbMVCdqxuoPlLIjr1VfZY">
+    <name>Twisted Little Star</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204040</id>
+    <album href="spotify:album:4JVyr6iE1O7JodFaHHQ20D">
+      <name>Big-5: Bertine Zetlitz</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>249.546000</length>
+    <popularity>0.23573</popularity>
+  </track>
+  <track href="spotify:track:0fqWZ7fBWKGf2ZU7cHHfvP">
+    <name>Girl Like You (Lucky Music Remix By Richard X)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204012</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>455.653000</length>
+    <popularity>0.24826</popularity>
+  </track>
+  <track href="spotify:track:0Ro8GLDquOdW7Bnj1biuSp">
+    <name>Ah Ah (Deeper Love Mix)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404013</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>235.320000</length>
+    <popularity>0.24568</popularity>
+  </track>
+  <track href="spotify:track:1DDm5G9j2QoH4CyBR0xyEl">
+    <name>Telefon</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NO3551201240</id>
+    <album href="spotify:album:2ydKzazfCac7Kc6CmSoziB">
+      <name>Hver gang vi møtes</name>
+      <released>2012</released>
+      <availability>
+        <territories>DK FI NO SE</territories>
+      </availability>
+    </album>
+    <track-number>24</track-number>
+    <length>170.560000</length>
+    <popularity>0.27452</popularity>
+  </track>
+  <track href="spotify:track:2Z5niZfwRsJGZBnYvSyWZf">
+    <name>Get What You Deserve (Bjørn Kaarud and John Moss Big Room Mix)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603031</id>
+    <album href="spotify:album:4YRKsw5hR5w9WdwQBd31DU">
+      <name>In My Mind 1997-2007 - Best Of Bertine Zetlitz</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>434.186000</length>
+    <popularity>0.23976</popularity>
+  </track>
+  <track href="spotify:track:7eGdwYVwoUewspmBtNiWlU">
+    <name>Sickest Girl</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204030</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>208.840000</length>
+    <popularity>0.27087</popularity>
+  </track>
+  <track href="spotify:track:20BS0tAzT5kC9yPPqwcTHX">
+    <name>Blow Over</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204050</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>242.533000</length>
+    <popularity>0.26676</popularity>
+  </track>
+  <track href="spotify:track:5KRlQPngJa5fzq3PGOU49s">
+    <name>Broken</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404090</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>238.426000</length>
+    <popularity>0.26447</popularity>
+  </track>
+  <track href="spotify:track:2kk5AOp3tYzocolZsRX6Pc">
+    <name>Bubble Bursts</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0704020</id>
+    <album href="spotify:album:4JVyr6iE1O7JodFaHHQ20D">
+      <name>Big-5: Bertine Zetlitz</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>192.320000</length>
+    <popularity>0.21397</popularity>
+  </track>
+  <track href="spotify:track:6G69v4niQFQDajUObcQFbT">
+    <name>Obsession</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603070</id>
+    <album href="spotify:album:4XLbEHoYUOAeIEr0NN1l43">
+      <name>My Italian Greyhound</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>234.640000</length>
+    <popularity>0.26011</popularity>
+  </track>
+  <track href="spotify:track:0fvPhmyZSLfSs2IGMg0atL">
+    <name>Get What You Deserve</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603030</id>
+    <album href="spotify:album:4XLbEHoYUOAeIEr0NN1l43">
+      <name>My Italian Greyhound</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>225.226000</length>
+    <popularity>0.25872</popularity>
+  </track>
+  <track href="spotify:track:5ZU92rd9WnsRTFKr3qFpbA">
+    <name>Fake Your Beauty (Radio Edit)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404021</id>
+    <album href="spotify:album:5tdVEjpAy8KdnJBb54zr73">
+      <name>Fake Your Beauty</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>203.720000</length>
+    <popularity>0.25855</popularity>
+  </track>
+  <track href="spotify:track:714dyJrg5FbKHAIaLEHnfX">
+    <name>500</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603012</id>
+    <album href="spotify:album:4XLbEHoYUOAeIEr0NN1l43">
+      <name>My Italian Greyhound</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>227.480000</length>
+    <popularity>0.25570</popularity>
+  </track>
+  <track href="spotify:track:3wTZoRpiGdQ7xea8WyscG1">
+    <name>For Fun</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204020</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>206.906000</length>
+    <popularity>0.25694</popularity>
+  </track>
+  <track href="spotify:track:7Jy2hrxuZIsafJXJiZ7K9x">
+    <name>Death In Her Room</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204100</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>229.346000</length>
+    <popularity>0.25706</popularity>
+  </track>
+  <track href="spotify:track:4hE7fJpVTNcsqj2SE56xiS">
+    <name>Girl Like You (Full Album Version)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204010</id>
+    <album href="spotify:album:4JVyr6iE1O7JodFaHHQ20D">
+      <name>Big-5: Bertine Zetlitz</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>313.653000</length>
+    <popularity>0.20560</popularity>
+  </track>
+  <track href="spotify:track:2FPhFZaBrcel6rcN3dfufg">
+    <name>Draggin' Me Down</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603020</id>
+    <album href="spotify:album:4XLbEHoYUOAeIEr0NN1l43">
+      <name>My Italian Greyhound</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>191.813000</length>
+    <popularity>0.25264</popularity>
+  </track>
+  <track href="spotify:track:3FQNF91ME6CVFyihwc60ak">
+    <name>So Beautiful</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204090</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>230.093000</length>
+    <popularity>0.25221</popularity>
+  </track>
+  <track href="spotify:track:6et2R88apyYk2pZbxA6dcm">
+    <name>Beautiful So Far</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008120</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>233.533000</length>
+    <popularity>0.24955</popularity>
+  </track>
+  <track href="spotify:track:43fqdGYMnddGUpCBpVuX1j">
+    <name>Ah Ah</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404010</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>164.786000</length>
+    <popularity>0.25058</popularity>
+  </track>
+  <track href="spotify:track:1U3FbaAjBSliXn6lPErUdj">
+    <name>Want You</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404030</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>203.173000</length>
+    <popularity>0.25081</popularity>
+  </track>
+  <track href="spotify:track:3POHYImuosHPJL2dWAOXQ0">
+    <name>Apples And Diamonds</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE9707030</id>
+    <album href="spotify:album:6rb4CQYFBD5JZPyc1rCJGG">
+      <name>Morbid Late Night Show</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>252.600000</length>
+    <popularity>0.24704</popularity>
+  </track>
+  <track href="spotify:track:41k7XjNW5KCLRgj4nHr2GV">
+    <name>Tigerlilly</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008050</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>195.493000</length>
+    <popularity>0.24374</popularity>
+  </track>
+  <track href="spotify:track:0FknuFgaTvQol6PAVkaFU2">
+    <name>Everything I Want</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008080</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>211.146000</length>
+    <popularity>0.24604</popularity>
+  </track>
+  <track href="spotify:track:37EFCmP6c0sgavdHmTywuw">
+    <name>Fate (Disclab Remake- Radio Version)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008071</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>254.640000</length>
+    <popularity>0.24395</popularity>
+  </track>
+  <track href="spotify:track:0i6vAU5ehwHGucktDNt53M">
+    <name>Kiss Me Harder</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404050</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>232.973000</length>
+    <popularity>0.24579</popularity>
+  </track>
+  <track href="spotify:track:1m5BGpJqJMPw5GzNzKRrEV">
+    <name>Closer</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008100</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>220.440000</length>
+    <popularity>0.24245</popularity>
+  </track>
+  <track href="spotify:track:7LN3mIn3qGIA4nDJSbeZ6u">
+    <name>Wild Kisses (Good For Me)</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204060</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>199.533000</length>
+    <popularity>0.24271</popularity>
+  </track>
+  <track href="spotify:track:5hDMsSxYc7hRsROpadX60f">
+    <name>Rollerskating</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404070</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>167.893000</length>
+    <popularity>0.24331</popularity>
+  </track>
+  <track href="spotify:track:6nlcQl6XZLzdCCKD9DLTIR">
+    <name>If You Were Mine</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404110</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>271.200000</length>
+    <popularity>0.24135</popularity>
+  </track>
+  <track href="spotify:track:3JS6SwwfYZuxcoqnWK9aP6">
+    <name>Midnight</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603050</id>
+    <album href="spotify:album:4XLbEHoYUOAeIEr0NN1l43">
+      <name>My Italian Greyhound</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>251.480000</length>
+    <popularity>0.23906</popularity>
+  </track>
+  <track href="spotify:track:2vXpV0hKZa4h7KkKpQ5lA9">
+    <name>Spitfire</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008040</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>202.840000</length>
+    <popularity>0.23924</popularity>
+  </track>
+  <track href="spotify:track:5AXpRpPhjlAbylEKmU1P1U">
+    <name>Certain</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008020</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>246.133000</length>
+    <popularity>0.23588</popularity>
+  </track>
+  <track href="spotify:track:6wjS6XocQsLSgi5K3bieyl">
+    <name>Candy</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404060</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>202.360000</length>
+    <popularity>0.23680</popularity>
+  </track>
+  <track href="spotify:track:2mA0crjMixg7BYLLZAgLNt">
+    <name>Jeg Er En Seiler</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0016070</id>
+    <album href="spotify:album:1VQH2pHx3fEYAS9ayfgWnY">
+      <name>Perleporten</name>
+      <released>2000</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>326.507000</length>
+    <popularity>0.23735</popularity>
+  </track>
+  <track href="spotify:track:61pcKcnoAMfHT8wOQhfDjN">
+    <name>Fake Your Beauty</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404020</id>
+    <album href="spotify:album:4JVyr6iE1O7JodFaHHQ20D">
+      <name>Big-5: Bertine Zetlitz</name>
+      <released>2010</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>217.946000</length>
+    <popularity>0.18907</popularity>
+  </track>
+  <track href="spotify:track:5bIWaPHMhgMv6f4GjoBbql">
+    <name>Uncomfortable</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008090</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>177.813000</length>
+    <popularity>0.23100</popularity>
+  </track>
+  <track href="spotify:track:2BNZAb0boJFV73NktuLyli">
+    <name>Sick Communication</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008030</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>179.720000</length>
+    <popularity>0.22986</popularity>
+  </track>
+  <track href="spotify:track:58lV8dUFE8bYLaOJXPQczc">
+    <name>Let Armies Loose</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204110</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>274.186000</length>
+    <popularity>0.22702</popularity>
+  </track>
+  <track href="spotify:track:73tmKUXdGtid8rBy4PBFnz">
+    <name>Ashamed</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0704011</id>
+    <album href="spotify:album:260gJofj7XcXcCgV1IBm8m">
+      <name>Ashamed</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>237.791000</length>
+    <popularity>0.22858</popularity>
+  </track>
+  <track href="spotify:track:3sfrgMtG2CjJYCjI5zqTG7">
+    <name>Piper Piper</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204070</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>239.640000</length>
+    <popularity>0.22424</popularity>
+  </track>
+  <track href="spotify:track:0NBm8XtRAa5EOmcDnOwN6K">
+    <name>Wicked Wonderboys</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404080</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>252.360000</length>
+    <popularity>0.22469</popularity>
+  </track>
+  <track href="spotify:track:1rfEDJsCuHT5SzfOB9WtRP">
+    <name>Cruel</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008060</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>270.360000</length>
+    <popularity>0.22129</popularity>
+  </track>
+  <track href="spotify:track:5DcOBPmWHeUCQAKTbRmcBd">
+    <name>Chainsaw</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204080</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>245.706000</length>
+    <popularity>0.22323</popularity>
+  </track>
+  <track href="spotify:track:2Q1BUnSHMkHc1UMEIu86Ps">
+    <name>Lovers Do</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0008110</id>
+    <album href="spotify:album:3iRSWFpYMDGPG3GofGlLma">
+      <name>Beautiful So Far</name>
+      <released>2005</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>199.440000</length>
+    <popularity>0.21879</popularity>
+  </track>
+  <track href="spotify:track:7BDG6Da13f7TPOXJA4JjkO">
+    <name>Slowly</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0204120</id>
+    <album href="spotify:album:0sqxOKEKhrH3VTgKFFKs2g">
+      <name>Sweet Injections</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>185.120000</length>
+    <popularity>0.22027</popularity>
+  </track>
+  <track href="spotify:track:6AjDxdisc2EhYTxdew7ikQ">
+    <name>This Time</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603100</id>
+    <album href="spotify:album:4XLbEHoYUOAeIEr0NN1l43">
+      <name>My Italian Greyhound</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>288.506000</length>
+    <popularity>0.21644</popularity>
+  </track>
+  <track href="spotify:track:0OyBwlvf0766nNDVI8Z1Xd">
+    <name>Abigail</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE9707020</id>
+    <album href="spotify:album:6rb4CQYFBD5JZPyc1rCJGG">
+      <name>Morbid Late Night Show</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>228.626000</length>
+    <popularity>0.21650</popularity>
+  </track>
+  <track href="spotify:track:0X97Sn5pBHl1SMgumhCtiz">
+    <name>If You Buy The Blue One</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404040</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>238.813000</length>
+    <popularity>0.21653</popularity>
+  </track>
+  <track href="spotify:track:710nAiQKhz5ok6SURaGNvw">
+    <name>Back Where I Belong</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE0404100</id>
+    <album href="spotify:album:62ER1VxfxGX39G19d0q1jp">
+      <name>Rollerskating</name>
+      <released>2004</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>191.266000</length>
+    <popularity>0.21603</popularity>
+  </track>
+  <track href="spotify:track:53KVKMW7DtCbXacxjJkg7G">
+    <name>This Moment</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603090</id>
+    <album href="spotify:album:4XLbEHoYUOAeIEr0NN1l43">
+      <name>My Italian Greyhound</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>214.480000</length>
+    <popularity>0.20674</popularity>
+  </track>
+  <track href="spotify:track:4KNyfMR5xiYh2BFhwPyDE6">
+    <name>Never Let You Go</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603060</id>
+    <album href="spotify:album:4XLbEHoYUOAeIEr0NN1l43">
+      <name>My Italian Greyhound</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>197.480000</length>
+    <popularity>0.20749</popularity>
+  </track>
+  <track href="spotify:track:160xPAuqorgsiuDeSY0Rxq">
+    <name>I'll Be Fine</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFC0603040</id>
+    <album href="spotify:album:4XLbEHoYUOAeIEr0NN1l43">
+      <name>My Italian Greyhound</name>
+      <released>2006</released>
+      <availability>
+        <territories>AT BE CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>231.613000</length>
+    <popularity>0.20800</popularity>
+  </track>
+  <track href="spotify:track:74jDo4gKrrW48TzeJA32JZ">
+    <name>Snow On A Hot Day</name>
+    <artist href="spotify:artist:5Ecypk9dy3PpNdikTIf6UL">
+      <name>Bertine Zetlitz</name>
+    </artist>
+    <id type="isrc">NOAFE9707010</id>
+    <album href="spotify:album:6rb4CQYFBD5JZPyc1rCJGG">
+      <name>Morbid Late Night Show</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT BE CA CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LT LU NL NO PL PT RO SE SI SK US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>247.906000</length>
+    <popularity>0.20864</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sun, 11 Mar 2012 01:29:22 GMT -->

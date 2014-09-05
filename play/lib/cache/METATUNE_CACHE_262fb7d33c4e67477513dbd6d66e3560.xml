@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
+  <opensearch:Query role="request" startPage="1" searchTerms="Gotan Project"/>
+  <opensearch:totalResults>493</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <track href="spotify:track:6nrUDtBBWBKuSDofJpphDd">
+    <name>Epoca</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FRR640790078</id>
+    <album href="spotify:album:4vVNtOzHgfo1WqBcvxkZ6n">
+      <name>Hôtel Costes quatre - by Stéphane Pompougnac</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>263.000000</length>
+    <popularity>0.56739</popularity>
+  </track>
+  <track href="spotify:track:70mK4gyo4QathYNG4bg6Ov">
+    <name>Diferente</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500015</id>
+    <album href="spotify:album:36TqKS077D7jSveEnfIWba">
+      <name>Hôtel Costes 9 by Stéphane Pompougnac</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>279.000000</length>
+    <popularity>0.55844</popularity>
+  </track>
+  <track href="spotify:track:7MHsCcXjQ4il9m3R1TIhMY">
+    <name>Santa Maria</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000014</id>
+    <album href="spotify:album:4dg2JEml0yoBDyh6OHVpfl">
+      <name>La Revancha Del Tango</name>
+      <released>2001</released>
+      <availability>
+        <territories>AU CA GB IE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>357.000000</length>
+    <popularity>0.54584</popularity>
+  </track>
+  <track href="spotify:track:65MDo5mxRY45IHpyVkLEU5">
+    <name>Santa María - Del Buen Ayre</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S9900014</id>
+    <album href="spotify:album:2riLhxE3UzS3evEXAwjEJq">
+      <name>La Revancha Del Tango</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>357.906000</length>
+    <popularity>0.54231</popularity>
+  </track>
+  <track href="spotify:track:4sZ8a9YiRqlUt9gLuy0dO8">
+    <name>Last tango in Paris</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FRR640790124</id>
+    <album href="spotify:album:3Er64PKmlMytoEmdeJTlTs">
+      <name>Hôtel Costes - Etage 3 - by Stéphane Pompougnac</name>
+      <released>2005</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO KE KG KH KI KM KN KP KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>273.000000</length>
+    <popularity>0.53833</popularity>
+  </track>
+  <track href="spotify:track:4IhNO2E1wfp76eU7PgvD7P">
+    <name>Queremos Paz</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000009</id>
+    <album href="spotify:album:4dg2JEml0yoBDyh6OHVpfl">
+      <name>La Revancha Del Tango</name>
+      <released>2001</released>
+      <availability>
+        <territories>AU CA GB IE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>315.000000</length>
+    <popularity>0.49101</popularity>
+  </track>
+  <track href="spotify:track:5SDMvQvHD3CSZURYGaiTGk">
+    <name>Queremos Paz</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000009</id>
+    <album href="spotify:album:2riLhxE3UzS3evEXAwjEJq">
+      <name>La Revancha Del Tango</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>315.826000</length>
+    <popularity>0.48976</popularity>
+  </track>
+  <track href="spotify:track:7gE3O8SYmpVZOPeIDbfPUT">
+    <name>Whatever Lola Wants - Gotan Project Remix</name>
+    <artist href="spotify:artist:1bgyxtWjZwA5PQlDsvs9b8">
+      <name>Sarah Vaughan</name>
+    </artist>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">USGR10300556</id>
+    <album href="spotify:album:6sHssbd2OeNYv6Xeq1VNL9">
+      <name>Verve Remixed 2</name>
+      <released>2003</released>
+      <availability>
+        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IT LT LV MY NL NO NZ PL PT SE SG SK TH TW UA ZA</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>280.373000</length>
+    <popularity>0.45125</popularity>
+  </track>
+  <track href="spotify:track:1oFaRhv31qo0RyYfP13xGl">
+    <name>Santa María - Del Buen Ayre</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S9900014</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>360.933000</length>
+    <popularity>0.44254</popularity>
+  </track>
+  <track href="spotify:track:0dgFEx9mvVjDDXVjy4DrYU">
+    <name>Época</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000010</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>269.087000</length>
+    <popularity>0.43121</popularity>
+  </track>
+  <track href="spotify:track:1LDeVNE0LGkHUpfzmpJjTd">
+    <name>Vuelvo al sur</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800003</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>362.746000</length>
+    <popularity>0.42337</popularity>
+  </track>
+  <track href="spotify:track:5ZeJiljoJIcfNYw0tzXEsV">
+    <name>Diferente</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500013</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>324.571000</length>
+    <popularity>0.42961</popularity>
+  </track>
+  <track href="spotify:track:2bOmlef8oRZIXGAAFXCJzV">
+    <name>La Gloria</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <artist href="spotify:artist:3ZnvtDHj0Wn6u3d1cm8cxz">
+      <name>Victor Hugo Morales</name>
+    </artist>
+    <id type="isrc">FR99S1000005</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>250.723000</length>
+    <popularity>0.43909</popularity>
+  </track>
+  <track href="spotify:track:3XaSDElucjBkM3qFe1ynms">
+    <name>Una Música Brutal</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000007</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>253.492000</length>
+    <popularity>0.42117</popularity>
+  </track>
+  <track href="spotify:track:0ksfWRs0dvwNfrMkDskQEx">
+    <name>Rayuela</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1000002</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>267.911000</length>
+    <popularity>0.41992</popularity>
+  </track>
+  <track href="spotify:track:0BGPPYoWECcUVJvQWfGjTb">
+    <name>Mi Confesión</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <artist href="spotify:artist:18XHL9JTKfIRagdrcVaVgX">
+      <name>Koxmoz</name>
+    </artist>
+    <id type="isrc">FR99S0500022</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>262.582000</length>
+    <popularity>0.42423</popularity>
+  </track>
+  <track href="spotify:track:786hvlF3Hi3hdNAXHdIo8Q">
+    <name>Época</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000010</id>
+    <album href="spotify:album:2riLhxE3UzS3evEXAwjEJq">
+      <name>La Revancha Del Tango</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>268.506000</length>
+    <popularity>0.45096</popularity>
+  </track>
+  <track href="spotify:track:5eLoZEREWgHqUHV5CTqnDc">
+    <name>Época</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000010</id>
+    <album href="spotify:album:4dg2JEml0yoBDyh6OHVpfl">
+      <name>La Revancha Del Tango</name>
+      <released>2001</released>
+      <availability>
+        <territories>AU CA GB IE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>268.000000</length>
+    <popularity>0.45083</popularity>
+  </track>
+  <track href="spotify:track:4UWDQjeTJKMUErk845AG7v">
+    <name>Una Música Brutal</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000007</id>
+    <album href="spotify:album:4dg2JEml0yoBDyh6OHVpfl">
+      <name>La Revancha Del Tango</name>
+      <released>2001</released>
+      <availability>
+        <territories>AU CA GB IE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>251.000000</length>
+    <popularity>0.45056</popularity>
+  </track>
+  <track href="spotify:track:3iBlhh1zOwYLq0cD97MzWB">
+    <name>Queremos paz</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800002</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>254.106000</length>
+    <popularity>0.39776</popularity>
+  </track>
+  <track href="spotify:track:1wJ8rjz2m9fv1X8TmKICWh">
+    <name>Peligro</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1000004</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>238.236000</length>
+    <popularity>0.40370</popularity>
+  </track>
+  <track href="spotify:track:3QOehiIQTEl4ecxFyYA7u8">
+    <name>Tríptico</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000003</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>508.290000</length>
+    <popularity>0.39406</popularity>
+  </track>
+  <track href="spotify:track:0fTUrKMlL4zSWMF3lmEWUk">
+    <name>Tríptico</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000003</id>
+    <album href="spotify:album:4dg2JEml0yoBDyh6OHVpfl">
+      <name>La Revancha Del Tango</name>
+      <released>2001</released>
+      <availability>
+        <territories>AU CA GB IE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>506.000000</length>
+    <popularity>0.43396</popularity>
+  </track>
+  <track href="spotify:track:2uQc8DjQPLDZPaAXQEcvFx">
+    <name>Tríptico</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000003</id>
+    <album href="spotify:album:2riLhxE3UzS3evEXAwjEJq">
+      <name>La Revancha Del Tango</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>506.360000</length>
+    <popularity>0.43277</popularity>
+  </track>
+  <track href="spotify:track:4mnpNoNVuL0Psqv19EHPYT">
+    <name>Chunga's Revenge</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000011</id>
+    <album href="spotify:album:2riLhxE3UzS3evEXAwjEJq">
+      <name>La Revancha Del Tango</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>302.133000</length>
+    <popularity>0.43063</popularity>
+  </track>
+  <track href="spotify:track:1JdVxOvbPCpgzT3mP2Y4WF">
+    <name>Una Música Brutal</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S9900007</id>
+    <album href="spotify:album:2riLhxE3UzS3evEXAwjEJq">
+      <name>La Revancha Del Tango</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>251.800000</length>
+    <popularity>0.43025</popularity>
+  </track>
+  <track href="spotify:track:21DYZ1GOXs5GJ1V8zpNZqv">
+    <name>Chunga's Revenge</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000011</id>
+    <album href="spotify:album:4dg2JEml0yoBDyh6OHVpfl">
+      <name>La Revancha Del Tango</name>
+      <released>2001</released>
+      <availability>
+        <territories>AU CA GB IE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>302.000000</length>
+    <popularity>0.43012</popularity>
+  </track>
+  <track href="spotify:track:2osdnFH9Hx9aDm9NssOEcP">
+    <name>Mi Confesión</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500022</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>260.480000</length>
+    <popularity>0.42718</popularity>
+  </track>
+  <track href="spotify:track:3poOInRkR6IDf3dUp5Uvjc">
+    <name>Last Tango In Paris</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000004</id>
+    <album href="spotify:album:4dg2JEml0yoBDyh6OHVpfl">
+      <name>La Revancha Del Tango</name>
+      <released>2001</released>
+      <availability>
+        <territories>AU CA GB IE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>350.000000</length>
+    <popularity>0.42618</popularity>
+  </track>
+  <track href="spotify:track:63167JRsS13b7sv1L6amzy">
+    <name>Panamericana</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1000010</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>272.143000</length>
+    <popularity>0.38089</popularity>
+  </track>
+  <track href="spotify:track:2NlOiZTA6Ru7Btw9nswTho">
+    <name>Amor Porteño</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <artist href="spotify:artist:1OmdWpAh1pucAuZPzJaxIJ">
+      <name>Calexico</name>
+    </artist>
+    <id type="isrc">FR99S0500018</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>308.636000</length>
+    <popularity>0.38889</popularity>
+  </track>
+  <track href="spotify:track:6QS3Bc4q8VMwsCChNb1RVq">
+    <name>El Norte</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0600001</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>273.110000</length>
+    <popularity>0.37785</popularity>
+  </track>
+  <track href="spotify:track:3oB8ulrl7ZZsbcR7OzGjIi">
+    <name>Santa María (del Buen Ayre)</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800006</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>506.120000</length>
+    <popularity>0.36805</popularity>
+  </track>
+  <track href="spotify:track:1SQXR6eJrsEBdBdp1CakPY">
+    <name>Strength to Love</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <artist href="spotify:artist:0R3pn7bweUwpLd98080DYO">
+      <name>Tumi</name>
+    </artist>
+    <id type="isrc">FR99S1100027</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>260.780000</length>
+    <popularity>0.38372</popularity>
+  </track>
+  <track href="spotify:track:3uogquNxNyZ2zajp2KJjnl">
+    <name>El capitalismo foráneo</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800004</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>347.373000</length>
+    <popularity>0.36665</popularity>
+  </track>
+  <track href="spotify:track:1Piuwcor5dO7Deg7IjBvZ1">
+    <name>Vuelvo Al Sur</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S9900003</id>
+    <album href="spotify:album:4dg2JEml0yoBDyh6OHVpfl">
+      <name>La Revancha Del Tango</name>
+      <released>2001</released>
+      <availability>
+        <territories>AU CA GB IE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>419.000000</length>
+    <popularity>0.41635</popularity>
+  </track>
+  <track href="spotify:track:0Z8Ffx1C12pAwyit4XqcXn">
+    <name>Last Tango in Paris</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000004</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>351.111000</length>
+    <popularity>0.37241</popularity>
+  </track>
+  <track href="spotify:track:68eRR2ld7utwpxyo6HYzLy">
+    <name>El Capitalismo Foráneo</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S9900002</id>
+    <album href="spotify:album:4dg2JEml0yoBDyh6OHVpfl">
+      <name>La Revancha Del Tango</name>
+      <released>2001</released>
+      <availability>
+        <territories>AU CA GB IE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>372.000000</length>
+    <popularity>0.41413</popularity>
+  </track>
+  <track href="spotify:track:2tjHItZvISm5EaG0GMFA3a">
+    <name>Checkmate / Jaque Mate</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1100028</id>
+    <album href="spotify:album:2LVpoh6UUJpRMvxR3CqsRc">
+      <name>Best of Gotan Project</name>
+      <released>2011</released>
+      <availability>
+        <territories>AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>250.331000</length>
+    <popularity>0.37024</popularity>
+  </track>
+  <track href="spotify:track:07xQuOqiMLMnVpoxJ2sYJu">
+    <name>Mi Confesion</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500022</id>
+    <album href="spotify:album:07lGNrljLTs4BlQaDXL8Hg">
+      <name>Lunatico</name>
+      <released>2006</released>
+      <availability>
+        <territories>AU CA GB GG IE IM JE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>260.000000</length>
+    <popularity>0.41033</popularity>
+  </track>
+  <track href="spotify:track:43snYjmkJRKsYPK112RSha">
+    <name>Diferente</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800011</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>388.200000</length>
+    <popularity>0.35761</popularity>
+  </track>
+  <track href="spotify:track:2oyiDPCnurvYlNrkg00Gzg">
+    <name>Live intro</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800001</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>92.253000</length>
+    <popularity>0.35371</popularity>
+  </track>
+  <track href="spotify:track:5Y0ZrXXFsXOy0f4y1SnQpc">
+    <name>La del ruso</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800005</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>389.960000</length>
+    <popularity>0.35192</popularity>
+  </track>
+  <track href="spotify:track:4oqBDWZnqPIKfse4ZP6pU1">
+    <name>Queremos Paz - King Coya Remix</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1100004</id>
+    <album href="spotify:album:7sVNUtMWVi1SQ76XQE9V3W">
+      <name>La Revancha en Cumbia</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>314.697000</length>
+    <popularity>0.40156</popularity>
+  </track>
+  <track href="spotify:track:6FWh7IIp6yGRHCdZkFzvwN">
+    <name>Last Tango In Paris</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000004</id>
+    <album href="spotify:album:2riLhxE3UzS3evEXAwjEJq">
+      <name>La Revancha Del Tango</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>350.666000</length>
+    <popularity>0.40106</popularity>
+  </track>
+  <track href="spotify:track:7vN00JiGhgYIzE49aeHM21">
+    <name>Diferente</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500013</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>323.106000</length>
+    <popularity>0.40085</popularity>
+  </track>
+  <track href="spotify:track:1unQAz3VTpgqDZktRahUdG">
+    <name>El Capitalismo Foráneo</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S9900002</id>
+    <album href="spotify:album:2riLhxE3UzS3evEXAwjEJq">
+      <name>La Revancha Del Tango</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>372.933000</length>
+    <popularity>0.39990</popularity>
+  </track>
+  <track href="spotify:track:0znL3d7w3EQ0LlmjuN1BR5">
+    <name>Vuelvo Al Sur</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S9900003</id>
+    <album href="spotify:album:2riLhxE3UzS3evEXAwjEJq">
+      <name>La Revancha Del Tango</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>419.600000</length>
+    <popularity>0.39879</popularity>
+  </track>
+  <track href="spotify:track:23vTr0AaiJ7aqUcmJ9mIxI">
+    <name>La Del Ruso</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000012</id>
+    <album href="spotify:album:4dg2JEml0yoBDyh6OHVpfl">
+      <name>La Revancha Del Tango</name>
+      <released>2001</released>
+      <availability>
+        <territories>AU CA GB IE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>382.000000</length>
+    <popularity>0.39472</popularity>
+  </track>
+  <track href="spotify:track:0JZ2qmAnaULPBSNUXAYemF">
+    <name>Santa Maria (Del Buen Ayre)</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S9900014</id>
+    <album href="spotify:album:4gKTETIzCeB3HY6xPmPvrn">
+      <name>Best Of</name>
+      <released>2011</released>
+      <availability>
+        <territories>BE CH FR</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>358.933000</length>
+    <popularity>0.39330</popularity>
+  </track>
+  <track href="spotify:track:29NRxWMbx6J6IOoE8BBl5F">
+    <name>Whatever Lola Wants - Gotan Project Remix</name>
+    <artist href="spotify:artist:1bgyxtWjZwA5PQlDsvs9b8">
+      <name>Sarah Vaughan</name>
+    </artist>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">USGR10300556</id>
+    <album href="spotify:album:0jZihpxJOMBTJ51wRN0Uje">
+      <name>Verve Remixed 2</name>
+      <released>2003</released>
+      <availability>
+        <territories>CA US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>280.373000</length>
+    <popularity>0.35871</popularity>
+  </track>
+  <track href="spotify:track:23V9Hdg4pyi6AjSvcw3Uft">
+    <name>Nocturna</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800007</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>168.946000</length>
+    <popularity>0.34140</popularity>
+  </track>
+  <track href="spotify:track:0B9veKH2yIJnM2a78lWYwg">
+    <name>La vigüela</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800012</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>336.146000</length>
+    <popularity>0.33643</popularity>
+  </track>
+  <track href="spotify:track:4WTBBWc1Mqpz2sugxJs7Aw">
+    <name>Época - Chancha Via Circuito Remix</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1100005</id>
+    <album href="spotify:album:7sVNUtMWVi1SQ76XQE9V3W">
+      <name>La Revancha en Cumbia</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>328.933000</length>
+    <popularity>0.38349</popularity>
+  </track>
+  <track href="spotify:track:0BhQa22X066Sgqe7D5gDOU">
+    <name>La Del Ruso</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000012</id>
+    <album href="spotify:album:2riLhxE3UzS3evEXAwjEJq">
+      <name>La Revancha Del Tango</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>382.093000</length>
+    <popularity>0.38337</popularity>
+  </track>
+  <track href="spotify:track:2rORuqOs2xTKZHZsqXF2Rx">
+    <name>Tríptico</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800008</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>576.066000</length>
+    <popularity>0.32661</popularity>
+  </track>
+  <track href="spotify:track:6PKhFkLIyf8Q46SzTvqHiJ">
+    <name>Diferente</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500013</id>
+    <album href="spotify:album:07lGNrljLTs4BlQaDXL8Hg">
+      <name>Lunatico</name>
+      <released>2006</released>
+      <availability>
+        <territories>AU CA GB GG IE IM JE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>323.000000</length>
+    <popularity>0.37541</popularity>
+  </track>
+  <track href="spotify:track:5GKYJ0ll1BKnGxg6c4P3oI">
+    <name>Celos</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500020</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>330.760000</length>
+    <popularity>0.37461</popularity>
+  </track>
+  <track href="spotify:track:5Tqp8PQp9byEMv1TyBMZOE">
+    <name>Chunga's Revenge - Axel Krygier Remix</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1100006</id>
+    <album href="spotify:album:7sVNUtMWVi1SQ76XQE9V3W">
+      <name>La Revancha en Cumbia</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>301.400000</length>
+    <popularity>0.37336</popularity>
+  </track>
+  <track href="spotify:track:6PIO6vywrXzIkhc48ygTPC">
+    <name>Tango Square</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1000031</id>
+    <album href="spotify:album:3rII5jVhcZdgz4itaYn7vX">
+      <name>Tango 3.0</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>226.063000</length>
+    <popularity>0.37303</popularity>
+  </track>
+  <track href="spotify:track:2fV6wH63qtmvytbjaoUyHi">
+    <name>Amor Porteño</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500018</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>307.653000</length>
+    <popularity>0.37278</popularity>
+  </track>
+  <track href="spotify:track:2uou51nnQQnEqczJQpVjjm">
+    <name>Last tango in Paris</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800010</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>379.293000</length>
+    <popularity>0.32277</popularity>
+  </track>
+  <track href="spotify:track:3EyrZKg8NYxTur8KJgp50S">
+    <name>Sola</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0700018</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>429.613000</length>
+    <popularity>0.32103</popularity>
+  </track>
+  <track href="spotify:track:7apbmI4FzFw4KNNx1DcNmh">
+    <name>Notas</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500019</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>260.693000</length>
+    <popularity>0.37053</popularity>
+  </track>
+  <track href="spotify:track:4KhXn8CkNByGnagFswKmJ3">
+    <name>Santa Maria (Del Buen Ayre)</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S9900014</id>
+    <album href="spotify:album:73vWFlYqFF6UpwAIQ8I12L">
+      <name>Shall We Dance?</name>
+      <released>2004</released>
+      <availability>
+        <territories>AU BE CH CN CZ DK EE ES FI FR GB HK HR HU IE IN IT LT LV MY NL NO RU SE SG SK TH TR TW ZA</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>357.000000</length>
+    <popularity>0.36865</popularity>
+  </track>
+  <track href="spotify:track:0nUz6ogQrBMDHkEdsTCXls">
+    <name>Amor Porteno</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500018</id>
+    <album href="spotify:album:07lGNrljLTs4BlQaDXL8Hg">
+      <name>Lunatico</name>
+      <released>2006</released>
+      <availability>
+        <territories>AU CA GB GG IE IM JE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>307.000000</length>
+    <popularity>0.36824</popularity>
+  </track>
+  <track href="spotify:track:4nF5S8EHvgdeRWdu8gICf6">
+    <name>Tríptico - Frikstailers Remix</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1100003</id>
+    <album href="spotify:album:7sVNUtMWVi1SQ76XQE9V3W">
+      <name>La Revancha en Cumbia</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>250.409000</length>
+    <popularity>0.36706</popularity>
+  </track>
+  <track href="spotify:track:4su3t6UIkZjXVc6W67U835">
+    <name>Rayuela</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1000002</id>
+    <album href="spotify:album:3rII5jVhcZdgz4itaYn7vX">
+      <name>Tango 3.0</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>267.389000</length>
+    <popularity>0.36649</popularity>
+  </track>
+  <track href="spotify:track:6YBEJKK2PTxcI9mcb7dDMn">
+    <name>Amor Porteño</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800013</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>323.520000</length>
+    <popularity>0.31540</popularity>
+  </track>
+  <track href="spotify:track:5TzmCxDo49IrFlvIarwOhj">
+    <name>Diferente</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500013</id>
+    <album href="spotify:album:4gKTETIzCeB3HY6xPmPvrn">
+      <name>Best Of</name>
+      <released>2011</released>
+      <availability>
+        <territories>BE CH FR</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>322.653000</length>
+    <popularity>0.36473</popularity>
+  </track>
+  <track href="spotify:track:751v6gckkfGBRhDEHDKLOo">
+    <name>Época</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800014</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>297.266000</length>
+    <popularity>0.31368</popularity>
+  </track>
+  <track href="spotify:track:0m5v1PERJ3kRS5c78vBjwH">
+    <name>Santa María (del Buen Ayre) - versíon orquestal</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800025</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>176.880000</length>
+    <popularity>0.31338</popularity>
+  </track>
+  <track href="spotify:track:2mE0vWfH9DwNpmh8qzcgfp">
+    <name>Chunga's revenge</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800009</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>317.053000</length>
+    <popularity>0.31291</popularity>
+  </track>
+  <track href="spotify:track:4BnfmuCLbB40nFPDViNWja">
+    <name>Che bandoneón (interlude)</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800017</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>81.200000</length>
+    <popularity>0.31278</popularity>
+  </track>
+  <track href="spotify:track:7oW8oof2NM4GaIWWaTy7VW">
+    <name>Rayuela</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1000002</id>
+    <album href="spotify:album:4gKTETIzCeB3HY6xPmPvrn">
+      <name>Best Of</name>
+      <released>2011</released>
+      <availability>
+        <territories>BE CH FR</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>265.840000</length>
+    <popularity>0.36226</popularity>
+  </track>
+  <track href="spotify:track:1p3fgI0qAQIejrJux6zyj2">
+    <name>Notas</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800015</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>269.493000</length>
+    <popularity>0.31240</popularity>
+  </track>
+  <track href="spotify:track:5OIpGkSPGZHFZ9W6G2CZhK">
+    <name>Una música brutal</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800018</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>241.573000</length>
+    <popularity>0.31144</popularity>
+  </track>
+  <track href="spotify:track:16gzAzkmpNweugVxHWHddT">
+    <name>Santa María (del Buen Ayre) - Chancha Via Circuito Remix</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1100012</id>
+    <album href="spotify:album:7sVNUtMWVi1SQ76XQE9V3W">
+      <name>La Revancha en Cumbia</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>271.360000</length>
+    <popularity>0.36081</popularity>
+  </track>
+  <track href="spotify:track:0J7HqTpv9twGKUc0rnqfYX">
+    <name>Paris, Texas</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500027</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>405.946000</length>
+    <popularity>0.35943</popularity>
+  </track>
+  <track href="spotify:track:2P2KJ5grX97Nm48UTQ5r4E">
+    <name>Época</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1100013</id>
+    <album href="spotify:album:1KegkyinEJvcsjSnhCI6cB">
+      <name>Tango 3.0 Live</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>323.343000</length>
+    <popularity>0.35880</popularity>
+  </track>
+  <track href="spotify:track:1UmpUlss6pF0BCZ3npjdwb">
+    <name>La Gloria</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <artist href="spotify:artist:3ZnvtDHj0Wn6u3d1cm8cxz">
+      <name>Victor Hugo Morales</name>
+    </artist>
+    <id type="isrc">FR99S1000005</id>
+    <album href="spotify:album:4gKTETIzCeB3HY6xPmPvrn">
+      <name>Best Of</name>
+      <released>2011</released>
+      <availability>
+        <territories>BE CH FR</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>248.666000</length>
+    <popularity>0.38401</popularity>
+  </track>
+  <track href="spotify:track:2DPldFbl9ywtdEFfCufOkk">
+    <name>Lunático</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800016</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>196.786000</length>
+    <popularity>0.30787</popularity>
+  </track>
+  <track href="spotify:track:41343XVLPQtWXxrnJDd4MG">
+    <name>Una Musica Brutal</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000007</id>
+    <album href="spotify:album:4gKTETIzCeB3HY6xPmPvrn">
+      <name>Best Of</name>
+      <released>2011</released>
+      <availability>
+        <territories>BE CH FR</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>251.680000</length>
+    <popularity>0.35741</popularity>
+  </track>
+  <track href="spotify:track:1YvWoGgmQ1sINXwfhi25JY">
+    <name>El Capitalismo Foráneo - Bomba Estéreo Remix</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1100008</id>
+    <album href="spotify:album:7sVNUtMWVi1SQ76XQE9V3W">
+      <name>La Revancha en Cumbia</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>270.027000</length>
+    <popularity>0.35671</popularity>
+  </track>
+  <track href="spotify:track:2wR8FToApZWCFcLp1iTJAT">
+    <name>Notas</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500019</id>
+    <album href="spotify:album:07lGNrljLTs4BlQaDXL8Hg">
+      <name>Lunatico</name>
+      <released>2006</released>
+      <availability>
+        <territories>AU CA GB GG IE IM JE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>260.000000</length>
+    <popularity>0.35544</popularity>
+  </track>
+  <track href="spotify:track:1iPbuSlJSwqL9bSrx3hCA0">
+    <name>Una Música Brutal - El Hijo de la Cumbia Remix</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1100002</id>
+    <album href="spotify:album:7sVNUtMWVi1SQ76XQE9V3W">
+      <name>La Revancha en Cumbia</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>271.647000</length>
+    <popularity>0.35458</popularity>
+  </track>
+  <track href="spotify:track:7rtTFyDL44ekg4rwe5cMOn">
+    <name>Lunático</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500021</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>179.826000</length>
+    <popularity>0.35431</popularity>
+  </track>
+  <track href="spotify:track:7wKJ80aUxttYORHAwGe5jc">
+    <name>Tango Canción</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500023</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>263.226000</length>
+    <popularity>0.35422</popularity>
+  </track>
+  <track href="spotify:track:1wvb6sx0YBVDKi0irNq6rZ">
+    <name>Celos</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500020</id>
+    <album href="spotify:album:07lGNrljLTs4BlQaDXL8Hg">
+      <name>Lunatico</name>
+      <released>2006</released>
+      <availability>
+        <territories>AU CA GB GG IE IM JE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>330.000000</length>
+    <popularity>0.35411</popularity>
+  </track>
+  <track href="spotify:track:2a3YtteFZ62E5yH3WGqUB1">
+    <name>La Vigüela</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500025</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>300.373000</length>
+    <popularity>0.35224</popularity>
+  </track>
+  <track href="spotify:track:4UHYssmLfMlC2O3ZrwFlXC">
+    <name>Criminal</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500024</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>215.066000</length>
+    <popularity>0.35122</popularity>
+  </track>
+  <track href="spotify:track:6AtniCm7jYgO8YoIfhmF3h">
+    <name>Epoca</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0000010</id>
+    <album href="spotify:album:4gKTETIzCeB3HY6xPmPvrn">
+      <name>Best Of</name>
+      <released>2011</released>
+      <availability>
+        <territories>BE CH FR</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>267.146000</length>
+    <popularity>0.35087</popularity>
+  </track>
+  <track href="spotify:track:450mTC6yBia1bnYIvkOlxG">
+    <name>La Gloria</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <artist href="spotify:artist:3ZnvtDHj0Wn6u3d1cm8cxz">
+      <name>Victor Hugo Morales</name>
+    </artist>
+    <id type="isrc">FR99S1000033</id>
+    <album href="spotify:album:3rII5jVhcZdgz4itaYn7vX">
+      <name>Tango 3.0</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>227.552000</length>
+    <popularity>0.37557</popularity>
+  </track>
+  <track href="spotify:track:0kEEsRySfKfAdPnKRl6MSN">
+    <name>Santa María (del Buen Ayre)</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800019</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>296.720000</length>
+    <popularity>0.29893</popularity>
+  </track>
+  <track href="spotify:track:3IrrdIsEhaH5zYkpXDsnip">
+    <name>Diferente (versíon orquestal)</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800024</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>239.773000</length>
+    <popularity>0.29796</popularity>
+  </track>
+  <track href="spotify:track:4JjzCLX8f9CPmTiHnYdpxV">
+    <name>Santa Maria (Del Buen Ayre)</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S9900014</id>
+    <album href="spotify:album:3DCKWdo7cDSv95knMOVf38">
+      <name>La Revancha Del Tango</name>
+      <released>2004</released>
+      <availability>
+        <territories>BE CH CN FR HK MY SG TH TW</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>357.906000</length>
+    <popularity>0.34628</popularity>
+  </track>
+  <track href="spotify:track:74gY7PebS2hefw7NGpkX9X">
+    <name>El Norte</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0800021</id>
+    <album href="spotify:album:0WSTozVo7k9jTBUT1jnBcs">
+      <name>Gotan Project live</name>
+      <released>2008</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>313.866000</length>
+    <popularity>0.29565</popularity>
+  </track>
+  <track href="spotify:track:3NUZYkBdFv2XHql84Lzpml">
+    <name>Tango Cancion</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500023</id>
+    <album href="spotify:album:07lGNrljLTs4BlQaDXL8Hg">
+      <name>Lunatico</name>
+      <released>2006</released>
+      <availability>
+        <territories>AU CA GB GG IE IM JE NZ US</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>263.000000</length>
+    <popularity>0.34493</popularity>
+  </track>
+  <track href="spotify:track:701lR2ESwMZ90Fo5zzt5PL">
+    <name>Last Tango in Paris - Fauna Remix</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S1100009</id>
+    <album href="spotify:album:7sVNUtMWVi1SQ76XQE9V3W">
+      <name>La Revancha en Cumbia</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GB GD GE GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>236.329000</length>
+    <popularity>0.34489</popularity>
+  </track>
+  <track href="spotify:track:6xnYN0p08AVeinncK93tB2">
+    <name>Arrabal</name>
+    <artist href="spotify:artist:44ejFPE33H5aOInxNV2BFP">
+      <name>Gotan Project</name>
+    </artist>
+    <id type="isrc">FR99S0500026</id>
+    <album href="spotify:album:0T8nMuHvA1CKt2HKmVSqGX">
+      <name>Lunático</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AE AF AG AI AL AM AN AO AQ AS AT AW AX AZ BA BB BD BF BG BH BI BJ BM BN BO BS BT BV BW BY BZ CC CD CF CG CI CK CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PH PK PL PM PN PR PS PT PW QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>237.560000</length>
+    <popularity>0.34455</popularity>
+  </track>
+</tracks>
+<!-- Last-Modified: Expires: Sat, 11 Feb 2012 22:21:40 GMT -->
