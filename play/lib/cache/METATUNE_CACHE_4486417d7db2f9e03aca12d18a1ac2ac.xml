@@ -1,182 +1,185 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
   <opensearch:Query role="request" startPage="1" searchTerms="Bugge Wesseltoft"/>
-  <opensearch:totalResults>222</opensearch:totalResults>
+  <opensearch:totalResults>335</opensearch:totalResults>
   <opensearch:startIndex>0</opensearch:startIndex>
   <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
   <track href="spotify:track:4NdghCTNFEMPPSlJFMUGzH">
     <name>Leave My Head Alone Brain</name>
-    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
-      <name>Henrik Schwarz</name>
-    </artist>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
+      <name>Henrik Schwarz</name>
     </artist>
     <id type="isrc">NOWAJ1101030</id>
     <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
       <name>Wesseltoft Schwarz Duo</name>
       <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
     <track-number>3</track-number>
     <length>480.053000</length>
-    <popularity>0.38559</popularity>
+    <popularity>0.4</popularity>
+  </track>
+  <track href="spotify:track:2BGeWY3tmXyS2ZCdAybNjm">
+    <name>Try</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
+      <name>Sidsel Endresen</name>
+    </artist>
+    <id type="isrc">NOWAJ0201110</id>
+    <album href="spotify:album:4RlsJ7EnWPG8T4HFBrk9wG">
+      <name>Out here. In there</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN IE IS IT LI LT LU LV MC MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>239.920000</length>
+    <popularity>0.39</popularity>
   </track>
   <track href="spotify:track:66LlhUS6ASRLawH7WVJDBJ">
     <name>Dreaming</name>
-    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
-      <name>Henrik Schwarz</name>
-    </artist>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
+      <name>Henrik Schwarz</name>
     </artist>
     <id type="isrc">NOWAJ1101020</id>
     <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
       <name>Wesseltoft Schwarz Duo</name>
       <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
     <track-number>2</track-number>
     <length>455.906000</length>
-    <popularity>0.34807</popularity>
-  </track>
-  <track href="spotify:track:0fjFL3NKDKgpJNGo7V0Vlr">
-    <name>First Track - live from Berlin</name>
-    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
-      <name>Henrik Schwarz</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ1101010</id>
-    <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
-      <name>Wesseltoft Schwarz Duo</name>
-      <released>2011</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>485.533000</length>
-    <popularity>0.33182</popularity>
+    <popularity>0.35</popularity>
   </track>
   <track href="spotify:track:6Pe22RNlz5nGK1LBA7apx4">
     <name>Kammermusik</name>
-    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
-      <name>Henrik Schwarz</name>
-    </artist>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
+      <name>Henrik Schwarz</name>
     </artist>
     <id type="isrc">NOWAJ1101060</id>
     <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
       <name>Wesseltoft Schwarz Duo</name>
       <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
     <track-number>6</track-number>
     <length>412.466000</length>
-    <popularity>0.32890</popularity>
+    <popularity>0.35</popularity>
   </track>
-  <track href="spotify:track:2xKc6OaocbHKRU3BNmTa3B">
-    <name>Existence - Edit</name>
+  <track href="spotify:track:0fjFL3NKDKgpJNGo7V0Vlr">
+    <name>First Track - live from Berlin</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">GBF089900475</id>
-    <album href="spotify:album:41qmqZyQEflEVjNFLKb772">
-      <name>True Chillout (3CD set)</name>
-      <released>2007</released>
-      <availability>
-        <territories>AT AU BE CH CZ DK ES HR IN NL NO PT RU SE SK</territories>
-      </availability>
-    </album>
-    <track-number>5</track-number>
-    <length>421.680000</length>
-    <popularity>0.32178</popularity>
-  </track>
-  <track href="spotify:track:5Vx8K7z4NWbBmIK8KwJyyg">
-    <name>Dudelange - live from Luxemburg</name>
     <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
       <name>Henrik Schwarz</name>
     </artist>
+    <id type="isrc">NOWAJ1101010</id>
+    <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
+      <name>Wesseltoft Schwarz Duo</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>485.533000</length>
+    <popularity>0.31</popularity>
+  </track>
+  <track href="spotify:track:4003EDH0dyO0KdEvLSXNwc">
+    <name>Gjendines Bådnlåt</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200610</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>348.740000</length>
+    <popularity>0.34</popularity>
+  </track>
+  <track href="spotify:track:0nnbIixj5XJYzFpv0bZ9Fu">
+    <name>Yellow Is the Colour &amp; Existence (Sublimage Edit) (feat. (Sublimage Edit))</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:55wZcK4hSc4PhNB3A6yU9a">
+      <name>(Sublimage Edit)</name>
+    </artist>
+    <id type="isrc">TCABB1150552</id>
+    <album href="spotify:album:2MSGsyq9BYa5Gg5YwwOCql">
+      <name>Sublimage - Velas Boutique</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>329.711000</length>
+    <popularity>0.33</popularity>
+  </track>
+  <track href="spotify:track:5Vx8K7z4NWbBmIK8KwJyyg">
+    <name>Dudelange - live from Luxemburg</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
+      <name>Henrik Schwarz</name>
     </artist>
     <id type="isrc">NOWAJ1101040</id>
     <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
       <name>Wesseltoft Schwarz Duo</name>
       <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
     <track-number>4</track-number>
     <length>330.080000</length>
-    <popularity>0.29224</popularity>
+    <popularity>0.28</popularity>
   </track>
-  <track href="spotify:track:4V436bl5sBNShhAudyjK2b">
-    <name>See You Tomorow</name>
-    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
-      <name>Henrik Schwarz</name>
-    </artist>
+  <track href="spotify:track:39Tsk0iy65V7rPtDWaFapm">
+    <name>Change</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ1101050</id>
-    <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
-      <name>Wesseltoft Schwarz Duo</name>
-      <released>2011</released>
+    <id type="isrc">US3470450033</id>
+    <album href="spotify:album:0COJNrcRsmF4WjhCp7AdYg">
+      <name>Rendezvous Lounge</name>
+      <released>2008</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
       </availability>
     </album>
-    <track-number>5</track-number>
-    <length>400.120000</length>
-    <popularity>0.27315</popularity>
-  </track>
-  <track href="spotify:track:5J8EjyQr5ZjjasfFocyNbG">
-    <name>Where Is The Edge</name>
-    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
-      <name>Henrik Schwarz</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ1101070</id>
-    <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
-      <name>Wesseltoft Schwarz Duo</name>
-      <released>2011</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>7</track-number>
-    <length>251.146000</length>
-    <popularity>0.26587</popularity>
-  </track>
-  <track href="spotify:track:7f8TWNqFsIUOh1M1DaYRUT">
-    <name>Darn That Dream</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ1128010</id>
-    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
-      <name>Songs</name>
-      <released>2011</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>478.466000</length>
-    <popularity>0.28430</popularity>
+    <track-number>13</track-number>
+    <length>309.573000</length>
+    <popularity>0.29</popularity>
   </track>
   <track href="spotify:track:2TAbVXL8yQ3zBkiFOB5V15">
     <name>Fifty Ways To Leave Your Lover</name>
@@ -189,159 +192,233 @@
     <id type="isrc">NOLEA9841020</id>
     <album href="spotify:album:0Syz71nEjaKlrkBTbXjN8E">
       <name>Duplex Ride</name>
-      <released>1999</released>
+      <released>1998</released>
       <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
       </availability>
     </album>
     <track-number>2</track-number>
-    <length>299.285000</length>
-    <popularity>0.29412</popularity>
+    <length>299.284000</length>
+    <popularity>0.31</popularity>
   </track>
-  <track href="spotify:track:1MS1jWWrCkgsjhc6jN3d5p">
-    <name>One One - live from Cologne</name>
+  <track href="spotify:track:2auZJhexODsDu4qAsW7jsX">
+    <name>Somewhere In Between</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ9601010</id>
+    <album href="spotify:album:0aou8YiShEs00gkqowRmZT">
+      <name>New Conception Of Jazz</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN IE IS IT LI LT LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>285.666000</length>
+    <popularity>0.29</popularity>
+  </track>
+  <track href="spotify:track:2z18TzgrohlfT5leRv8NWR">
+    <name>Lament</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1128060</id>
+    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
+      <name>Songs</name>
+      <released>2011</released>
+      <availability>
+        <territories>AR AT AU BE BG BO BR CH CL CO CR CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>326.533000</length>
+    <popularity>0.29</popularity>
+  </track>
+  <track href="spotify:track:4V436bl5sBNShhAudyjK2b">
+    <name>See You Tomorow</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
     <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
       <name>Henrik Schwarz</name>
     </artist>
+    <id type="isrc">NOWAJ1101050</id>
+    <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
+      <name>Wesseltoft Schwarz Duo</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>400.120000</length>
+    <popularity>0.26</popularity>
+  </track>
+  <track href="spotify:track:5J8EjyQr5ZjjasfFocyNbG">
+    <name>Where Is The Edge</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
+      <name>Henrik Schwarz</name>
+    </artist>
+    <id type="isrc">NOWAJ1101070</id>
+    <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
+      <name>Wesseltoft Schwarz Duo</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>251.146000</length>
+    <popularity>0.25</popularity>
+  </track>
+  <track href="spotify:track:7jPp27oDPLbeMcKULNcU00">
+    <name>Moving Mountains</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1314010</id>
+    <album href="spotify:album:6vQ7MqdkKGbVpsxJA6AWYj">
+      <name>OK World</name>
+      <released>2013</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>491.213000</length>
+    <popularity>0.27</popularity>
+  </track>
+  <track href="spotify:track:6dbUKADjAtw2GDXAPnoKxS">
+    <name>Out here. In there</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
+      <name>Sidsel Endresen</name>
+    </artist>
+    <id type="isrc">NOWAJ0201020</id>
+    <album href="spotify:album:4RlsJ7EnWPG8T4HFBrk9wG">
+      <name>Out here. In there</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN IE IS IT LI LT LU LV MC MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>346.426000</length>
+    <popularity>0.28</popularity>
+  </track>
+  <track href="spotify:track:2Yr12W3QnbV2FJA3vL537o">
+    <name>Blåmann</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200600</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>297.867000</length>
+    <popularity>0.27</popularity>
+  </track>
+  <track href="spotify:track:1MS1jWWrCkgsjhc6jN3d5p">
+    <name>One One - live from Cologne</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:1ooAqaFu4Ac3BO2HpL4V2R">
+      <name>Henrik Schwarz</name>
     </artist>
     <id type="isrc">NOWAJ1101080</id>
     <album href="spotify:album:4X18nU6BwCvISRPDsQoXLF">
       <name>Wesseltoft Schwarz Duo</name>
       <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
     <track-number>8</track-number>
     <length>403.493000</length>
-    <popularity>0.25438</popularity>
+    <popularity>0.24</popularity>
   </track>
-  <track href="spotify:track:7osp4PhQHiksHIz5U27imQ">
-    <name>Moon River</name>
+  <track href="spotify:track:3BtOIUM8TfF9RVxIxHqRRe">
+    <name>My World is OK</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ1128040</id>
-    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
-      <name>Songs</name>
-      <released>2011</released>
+    <id type="isrc">NOWAJ1314060</id>
+    <album href="spotify:album:6vQ7MqdkKGbVpsxJA6AWYj">
+      <name>OK World</name>
+      <released>2013</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
       </availability>
     </album>
-    <track-number>4</track-number>
-    <length>352.253000</length>
-    <popularity>0.26970</popularity>
+    <track-number>6</track-number>
+    <length>288.320000</length>
+    <popularity>0.24</popularity>
   </track>
-  <track href="spotify:track:2BGeWY3tmXyS2ZCdAybNjm">
-    <name>Try</name>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
+  <track href="spotify:track:3kfM8Ox6IGHFcetf384l4H">
+    <name>Mitt Hjerte Alltid Vanker</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0201110</id>
-    <album href="spotify:album:4RlsJ7EnWPG8T4HFBrk9wG">
-      <name>Out here. In there</name>
-      <released>2002</released>
+    <id type="isrc">DEA899700270</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
       </availability>
     </album>
-    <track-number>11</track-number>
-    <length>239.920000</length>
-    <popularity>0.28097</popularity>
+    <track-number>3</track-number>
+    <length>288.533000</length>
+    <popularity>0.24</popularity>
   </track>
-  <track href="spotify:track:3InXTSmOmjzni1aln7mzEN">
-    <name>Playing</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
+  <track href="spotify:track:7fkEILAkgoYW67WYbXn6os">
+    <name>Acid Eiffel - Live Recording With Bugge Wesseltoft</name>
+    <artist href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">
+      <name>Laurent Garnier</name>
     </artist>
-    <id type="isrc">NOWAJ0901010</id>
-    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
-      <name>Playing</name>
-      <released>2009</released>
+    <id type="isrc">FRV220600580</id>
+    <album href="spotify:album:5K4RafAM87A487iNrrlt1n">
+      <name>Retrospective 94-06</name>
+      <released>2006</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
       </availability>
     </album>
     <track-number>1</track-number>
-    <length>335.933000</length>
-    <popularity>0.26439</popularity>
+    <length>496.386000</length>
+    <popularity>0.27</popularity>
   </track>
-  <track href="spotify:track:37zOV0JvuIOBci0YGu04mX">
-    <name>My Foolish Heart</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
+  <track href="spotify:track:4z6lUCXlyOysgDIjUL0ZQW">
+    <name>Judas Bolero</name>
+    <artist href="spotify:artist:7c9O0hfRy2u32JVcWhoope">
+      <name>Lars Danielsson</name>
     </artist>
-    <id type="isrc">NOWAJ1128020</id>
-    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
-      <name>Songs</name>
-      <released>2011</released>
+    <id type="isrc">DEA890602024</id>
+    <album href="spotify:album:1Vhlg79m8xChZNEHPszgdc">
+      <name>Mélange Bleu (With Bugge Wesseltoft + Nils Petter Molvaer)</name>
+      <released>2006</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
       </availability>
     </album>
-    <track-number>2</track-number>
-    <length>317.346000</length>
-    <popularity>0.26408</popularity>
-  </track>
-  <track href="spotify:track:0cmrwhhERA9RirWokgABSM">
-    <name>Out Here. In There</name>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0201020</id>
-    <album href="spotify:album:0qmx1H0Ae2FCWJTM5NzuEC">
-      <name>Norway Nights (Jazz Club)</name>
-      <released>2010</released>
-      <availability>
-        <territories>AT BE CH CZ DE DK EE ES FI FR HK HR HU IE IT LT LV MY NL NO PL PT RU SE SG SK TR TW UA</territories>
-      </availability>
-    </album>
-    <track-number>4</track-number>
-    <length>343.506000</length>
-    <popularity>0.27508</popularity>
-  </track>
-  <track href="spotify:track:1e9oaIDGRZ0yLibEfJFpyi">
-    <name>How High The Moon</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ1128030</id>
-    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
-      <name>Songs</name>
-      <released>2011</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>3</track-number>
-    <length>403.946000</length>
-    <popularity>0.25677</popularity>
-  </track>
-  <track href="spotify:track:3a9TX0cGsjedjbrgSp1Hhx">
-    <name>Singing</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0901030</id>
-    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
-      <name>Playing</name>
-      <released>2009</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>3</track-number>
-    <length>346.960000</length>
-    <popularity>0.25368</popularity>
+    <track-number>5</track-number>
+    <length>1193.093000</length>
+    <popularity>0.27</popularity>
   </track>
   <track href="spotify:track:00iNcEj46DvJZH2keADffy">
     <name>Try</name>
@@ -353,12 +430,12 @@
       <name>Prime</name>
       <released>2005</released>
       <availability>
-        <territories>AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT JE LI LT LU LV MC MD ME MK MT NL NO PL PT RO RS RU SE SI SK SM TR UA VA</territories>
+        <territories>AD AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MT NL NO PL PT RO SE SI SK TR</territories>
       </availability>
     </album>
     <track-number>10</track-number>
     <length>241.066000</length>
-    <popularity>0.29987</popularity>
+    <popularity>0.26</popularity>
   </track>
   <track href="spotify:track:6ghE8QbfRpa8wE2vRuBTPI">
     <name>I Think It's Gonna Rain Today</name>
@@ -373,63 +450,285 @@
       <name>Nightsong</name>
       <released>1994</released>
       <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
       </availability>
     </album>
     <track-number>3</track-number>
-    <length>258.064000</length>
-    <popularity>0.26241</popularity>
+    <length>258.063000</length>
+    <popularity>0.25</popularity>
   </track>
-  <track href="spotify:track:3CSoqknhXtOJaff0p0bVIx">
-    <name>Chicken Feathers</name>
+  <track href="spotify:track:1W7Qsnn6rNWA7BNrPltkXd">
+    <name>Ntwananu</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ1128050</id>
+    <id type="isrc">NOWAJ1314090</id>
+    <album href="spotify:album:6vQ7MqdkKGbVpsxJA6AWYj">
+      <name>OK World</name>
+      <released>2013</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>366.120000</length>
+    <popularity>0.23</popularity>
+  </track>
+  <track href="spotify:track:25QCUowYiPsdlEvN3vTJba">
+    <name>Try</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
+      <name>Sidsel Endresen</name>
+    </artist>
+    <id type="isrc">NOWAJ0201110</id>
+    <album href="spotify:album:72NJyg6ycMulX9Jrhczy7Y">
+      <name>Electric Jazz Lounge (Jazz Club)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AR AU BE BG BR CH CL CO CR CZ DE DK EE ES FI FR GR HK HR HU IE IS IT LT LU LV MT MY NL NZ PH PL PT RO SE SG SI SK TR TW</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>238.840000</length>
+    <popularity>0.24</popularity>
+  </track>
+  <track href="spotify:track:2xKc6OaocbHKRU3BNmTa3B">
+    <name>Existence - Edit</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">GBF089900475</id>
+    <album href="spotify:album:41qmqZyQEflEVjNFLKb772">
+      <name>True Chillout (3CD set)</name>
+      <released>2007</released>
+      <availability>
+        <territories>AT AU BE CZ HR MY NL PT SE SI SK</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>421.680000</length>
+    <popularity>0.22</popularity>
+  </track>
+  <track href="spotify:track:7f8TWNqFsIUOh1M1DaYRUT">
+    <name>Darn That Dream</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1128010</id>
     <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
       <name>Songs</name>
       <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AR AT AU BE BG BO BR CH CL CO CR CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
-    <track-number>5</track-number>
-    <length>415.680000</length>
-    <popularity>0.24612</popularity>
+    <track-number>1</track-number>
+    <length>478.466000</length>
+    <popularity>0.22</popularity>
   </track>
-  <track href="spotify:track:6yulKnr0cI2bvprXxTufSj">
-    <name>Dreaming</name>
+  <track href="spotify:track:2nC2QbpvqufPvK8i9HJCXM">
+    <name>Om Kvelden</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0901020</id>
-    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
-      <name>Playing</name>
-      <released>2009</released>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200601</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
       </availability>
     </album>
     <track-number>2</track-number>
-    <length>382.520000</length>
-    <popularity>0.24328</popularity>
+    <length>371.860000</length>
+    <popularity>0.24</popularity>
   </track>
-  <track href="spotify:track:1dSoM1r5ARawCEsMkBDYhz">
-    <name>Take 5</name>
+  <track href="spotify:track:6BdgqkDDeRvAAHJtDCc48W">
+    <name>Margit Hjukse</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0901040</id>
-    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
-      <name>Playing</name>
-      <released>2009</released>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200602</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>205.084000</length>
+    <popularity>0.24</popularity>
+  </track>
+  <track href="spotify:track:271B2U5ZBV6IMDJ4P5Frav">
+    <name>It´s Snowing On My Piano</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899700250</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>302.093000</length>
+    <popularity>0.22</popularity>
+  </track>
+  <track href="spotify:track:16ShNPBuinere1Kx1S3xv8">
+    <name>Existence</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ9804030</id>
+    <album href="spotify:album:4M3CkzQhkfpTJBUqB0qQ6M">
+      <name>Sharing</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>327.106000</length>
+    <popularity>0.22</popularity>
+  </track>
+  <track href="spotify:track:4LZWTwsKbIQ1bMQ1rqwWqw">
+    <name>Always Hopeful</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1314030</id>
+    <album href="spotify:album:6vQ7MqdkKGbVpsxJA6AWYj">
+      <name>OK World</name>
+      <released>2013</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>369.000000</length>
+    <popularity>0.21</popularity>
+  </track>
+  <track href="spotify:track:0cmrwhhERA9RirWokgABSM">
+    <name>Out here. In there</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
+      <name>Sidsel Endresen</name>
+    </artist>
+    <id type="isrc">NOWAJ0201020</id>
+    <album href="spotify:album:0qmx1H0Ae2FCWJTM5NzuEC">
+      <name>Norway Nights (Jazz Club)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AR AT BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MC MT MY NI NL NO PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
     <track-number>4</track-number>
-    <length>335.520000</length>
-    <popularity>0.24257</popularity>
+    <length>343.506000</length>
+    <popularity>0.23</popularity>
+  </track>
+  <track href="spotify:track:7iEqry01SQZYwQMtc0KoBu">
+    <name>You Might Say</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ9804040</id>
+    <album href="spotify:album:4M3CkzQhkfpTJBUqB0qQ6M">
+      <name>Sharing</name>
+      <released>1998</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>386.560000</length>
+    <popularity>0.21</popularity>
+  </track>
+  <track href="spotify:track:7ixXMaxJ7eUKsJT7ifWlGr">
+    <name>Josemi</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1314020</id>
+    <album href="spotify:album:6vQ7MqdkKGbVpsxJA6AWYj">
+      <name>OK World</name>
+      <released>2013</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>55.253000</length>
+    <popularity>0.21</popularity>
+  </track>
+  <track href="spotify:track:2mgS0ZjgFbwUHYt4ojyXnl">
+    <name>Truth</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
+      <name>Sidsel Endresen</name>
+    </artist>
+    <id type="isrc">NOWAJ0201010</id>
+    <album href="spotify:album:4RlsJ7EnWPG8T4HFBrk9wG">
+      <name>Out here. In there</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN IE IS IT LI LT LU LV MC MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>325.653000</length>
+    <popularity>0.23</popularity>
+  </track>
+  <track href="spotify:track:7osp4PhQHiksHIz5U27imQ">
+    <name>Moon River</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1128040</id>
+    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
+      <name>Songs</name>
+      <released>2011</released>
+      <availability>
+        <territories>AR AT AU BE BG BO BR CH CL CO CR CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>352.253000</length>
+    <popularity>0.21</popularity>
+  </track>
+  <track href="spotify:track:2NvXQOdaRT9DNa41pPMYUl">
+    <name>Last Spring</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200607</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>353.369000</length>
+    <popularity>0.22</popularity>
   </track>
   <track href="spotify:track:6916SxwnWGOlEaeto8PaZ7">
     <name>Skog</name>
@@ -441,80 +740,197 @@
       <name>Filming</name>
       <released>2004</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR UA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MY NI NL NO PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
     <track-number>1</track-number>
-    <length>364.813000</length>
-    <popularity>0.24095</popularity>
+    <length>364.506000</length>
+    <popularity>0.2</popularity>
   </track>
-  <track href="spotify:track:39Tsk0iy65V7rPtDWaFapm">
-    <name>Change</name>
+  <track href="spotify:track:3InXTSmOmjzni1aln7mzEN">
+    <name>Playing</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">US3470450033</id>
-    <album href="spotify:album:0COJNrcRsmF4WjhCp7AdYg">
-      <name>Rendezvous Lounge</name>
-      <released>2008</released>
+    <id type="isrc">NOWAJ0901010</id>
+    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
+      <name>Playing</name>
+      <released>2009</released>
       <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE FI FR GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
-    <track-number>13</track-number>
-    <length>309.573000</length>
-    <popularity>0.23829</popularity>
+    <track-number>1</track-number>
+    <length>335.621000</length>
+    <popularity>0.2</popularity>
   </track>
-  <track href="spotify:track:2z18TzgrohlfT5leRv8NWR">
-    <name>Lament</name>
+  <track href="spotify:track:469C30oAeo3DpQb9ZgWMGO">
+    <name>Sharanagati</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ1128060</id>
-    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
-      <name>Songs</name>
-      <released>2011</released>
+    <id type="isrc">NOWAJ1314040</id>
+    <album href="spotify:album:6vQ7MqdkKGbVpsxJA6AWYj">
+      <name>OK World</name>
+      <released>2013</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
       </availability>
     </album>
-    <track-number>6</track-number>
-    <length>326.533000</length>
-    <popularity>0.23826</popularity>
+    <track-number>4</track-number>
+    <length>379.200000</length>
+    <popularity>0.2</popularity>
   </track>
-  <track href="spotify:track:5OKDZrytyjW51L3tb9HeVi">
-    <name>We'll Be Together Again</name>
+  <track href="spotify:track:4tNsaaKZEv4FN3BnsqEsnE">
+    <name>Stevtone</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ1128070</id>
-    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
-      <name>Songs</name>
-      <released>2011</released>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200603</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>344.364000</length>
+    <popularity>0.22</popularity>
+  </track>
+  <track href="spotify:track:6RvLCC7zsxPIUvce3f1s4j">
+    <name>Lilja</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200606</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
       </availability>
     </album>
     <track-number>7</track-number>
-    <length>304.026000</length>
-    <popularity>0.23310</popularity>
+    <length>308.565000</length>
+    <popularity>0.22</popularity>
   </track>
-  <track href="spotify:track:7nZ1MHCI0FcEKcBClB7mOb">
-    <name>Like Someone In Love</name>
+  <track href="spotify:track:3a9TX0cGsjedjbrgSp1Hhx">
+    <name>Singing</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ1128080</id>
-    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
-      <name>Songs</name>
-      <released>2011</released>
+    <id type="isrc">NOWAJ0901030</id>
+    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
+      <name>Playing</name>
+      <released>2009</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE FI FR GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
-    <track-number>8</track-number>
-    <length>426.853000</length>
-    <popularity>0.23233</popularity>
+    <track-number>3</track-number>
+    <length>346.581000</length>
+    <popularity>0.2</popularity>
+  </track>
+  <track href="spotify:track:7j2B1yYjSxVg9MGEQLIBqn">
+    <name>In Dulce Jubilo</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899700260</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>365.906000</length>
+    <popularity>0.2</popularity>
+  </track>
+  <track href="spotify:track:5aeGJTeCz4bRmwAEjouXSB">
+    <name>Deilig Er Jorden</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899700280</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>261.360000</length>
+    <popularity>0.2</popularity>
+  </track>
+  <track href="spotify:track:18oWdhcRkUyUqYsfQJktnB">
+    <name>Jeg Lagde Meg Så Silde</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200605</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>358.538000</length>
+    <popularity>0.21</popularity>
+  </track>
+  <track href="spotify:track:14lq51gV8NTT4QLxr94fdX">
+    <name>Byssan Lull</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200608</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>178.884000</length>
+    <popularity>0.21</popularity>
+  </track>
+  <track href="spotify:track:7IVtTjV0nSaf5mBgeEb8V3">
+    <name>Til Ungdommen</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200614</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>15</track-number>
+    <length>222.956000</length>
+    <popularity>0.21</popularity>
   </track>
   <track href="spotify:track:6YO8pLNPVV1P5PWlYJc0xw">
     <name>Darn That Dream</name>
@@ -531,180 +947,200 @@
     </album>
     <track-number>1</track-number>
     <length>478.466000</length>
-    <popularity>0.22835</popularity>
+    <popularity>0.19</popularity>
   </track>
-  <track href="spotify:track:64Dm68epLJSwAaLDRpOFlj">
-    <name>Moon River</name>
+  <track href="spotify:track:37zOV0JvuIOBci0YGu04mX">
+    <name>My Foolish Heart</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ1128040</id>
-    <album href="spotify:album:74S1mR2ovX2cCFbbcuz5Vq">
-      <name>Songs</name>
-      <released>2011</released>
-      <availability>
-        <territories>NO</territories>
-      </availability>
-    </album>
-    <track-number>4</track-number>
-    <length>352.253000</length>
-    <popularity>0.22537</popularity>
-  </track>
-  <track href="spotify:track:1ESTQd9ad0LqcwIIqO7saW">
-    <name>Giant Steps</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ1128090</id>
+    <id type="isrc">NOWAJ1128020</id>
     <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
       <name>Songs</name>
       <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>9</track-number>
-    <length>510.293000</length>
-    <popularity>0.22472</popularity>
-  </track>
-  <track href="spotify:track:25QCUowYiPsdlEvN3vTJba">
-    <name>Try</name>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0201110</id>
-    <album href="spotify:album:72NJyg6ycMulX9Jrhczy7Y">
-      <name>Electric Jazz Lounge (Jazz Club)</name>
-      <released>2007</released>
-      <availability>
-        <territories>AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AR AT AU BE BG BO BR CH CL CO CR CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
     <track-number>2</track-number>
-    <length>239.186000</length>
-    <popularity>0.23752</popularity>
+    <length>317.346000</length>
+    <popularity>0.2</popularity>
   </track>
-  <track href="spotify:track:2hwk9YjcWQ38shynaXeVHU">
-    <name>Talking to myself (Part 1)</name>
+  <track href="spotify:track:1e9oaIDGRZ0yLibEfJFpyi">
+    <name>How High The Moon</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0901050</id>
-    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
-      <name>Playing</name>
-      <released>2009</released>
+    <id type="isrc">NOWAJ1128030</id>
+    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
+      <name>Songs</name>
+      <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AR AT AU BE BG BO BR CH CL CO CR CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>403.946000</length>
+    <popularity>0.2</popularity>
+  </track>
+  <track href="spotify:track:5q0y7Lsi3hQ6xTtbu5cAQm">
+    <name>Mawwal</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1314050</id>
+    <album href="spotify:album:6vQ7MqdkKGbVpsxJA6AWYj">
+      <name>OK World</name>
+      <released>2013</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
       </availability>
     </album>
     <track-number>5</track-number>
-    <length>780.026000</length>
-    <popularity>0.21815</popularity>
+    <length>578.560000</length>
+    <popularity>0.19</popularity>
   </track>
-  <track href="spotify:track:7nDfB1aUTHVbaTy2l2UZuK">
-    <name>Existence - Edit</name>
+  <track href="spotify:track:3TWBzYY9otzIc986docXE5">
+    <name>Hei Hu</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">GBF089900475</id>
-    <album href="spotify:album:4bnNuuhWLsSGePW5y8GZ3P">
-      <name>Café Del Mar: Volumen Cinco y Seis</name>
-      <released>2010</released>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200604</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
       <availability>
-        <territories>AT AU GB HR IT RU</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>237.334000</length>
+    <popularity>0.21</popularity>
+  </track>
+  <track href="spotify:track:2rI54RmxaCOCqFomcSz7r8">
+    <name>Den Fyrste Song</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200609</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
       </availability>
     </album>
     <track-number>10</track-number>
-    <length>421.666000</length>
-    <popularity>0.21574</popularity>
+    <length>218.099000</length>
+    <popularity>0.21</popularity>
   </track>
-  <track href="spotify:track:3nVOqus2bwLQzLR9mCvS4r">
-    <name>Many Rivers To Cross</name>
+  <track href="spotify:track:4W8ZnHVwNVMng4QXVsYhXk">
+    <name>Existence - Live</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0901090</id>
-    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
-      <name>Playing</name>
-      <released>2009</released>
+    <id type="isrc">NOWAJ0304070</id>
+    <album href="spotify:album:6fqXzvIcUnJHgEOUsfiolb">
+      <name>New Conception Off Jazz Live</name>
+      <released>2003</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HU IE IS IT LI LT LU LV MC MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
-    <track-number>9</track-number>
-    <length>242.386000</length>
-    <popularity>0.21463</popularity>
+    <track-number>7</track-number>
+    <length>408.960000</length>
+    <popularity>0.19</popularity>
   </track>
-  <track href="spotify:track:2u3kkMZj08TyxXzzFZPIw0">
+  <track href="spotify:track:4Q99zNo97Y5i3UBaykaZs1">
     <name>Oh Ye</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
     <id type="isrc">NOWAJ0308030</id>
-    <album href="spotify:album:0qmx1H0Ae2FCWJTM5NzuEC">
-      <name>Norway Nights (Jazz Club)</name>
-      <released>2010</released>
-      <availability>
-        <territories>AT BE CH CZ DE DK EE ES FI FR HK HR HU IE IT LT LV MY NL NO PL PT RU SE SG SK TR TW UA</territories>
-      </availability>
-    </album>
-    <track-number>5</track-number>
-    <length>357.613000</length>
-    <popularity>0.21093</popularity>
-  </track>
-  <track href="spotify:track:7xfufsnjR01EpUSFHfuOkO">
-    <name>Hope</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0308040</id>
     <album href="spotify:album:6kg1vl7Y97XYgmRvwsiSRO">
       <name>Filming</name>
       <released>2004</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR UA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MY NI NL NO PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
-    <track-number>4</track-number>
-    <length>485.106000</length>
-    <popularity>0.20951</popularity>
+    <track-number>3</track-number>
+    <length>356.612000</length>
+    <popularity>0.18</popularity>
   </track>
-  <track href="spotify:track:5SHXxKCoJTv1EZJpYPEfG7">
-    <name>Black pearl makes dream</name>
+  <track href="spotify:track:7nZ1MHCI0FcEKcBClB7mOb">
+    <name>Like Someone In Love</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0712010</id>
-    <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
-      <name>Im</name>
-      <released>2007</released>
+    <id type="isrc">NOWAJ1128080</id>
+    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
+      <name>Songs</name>
+      <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
+        <territories>AR AT AU BE BG BO BR CH CL CO CR CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
-    <track-number>1</track-number>
-    <length>367.506000</length>
-    <popularity>0.21128</popularity>
+    <track-number>8</track-number>
+    <length>426.853000</length>
+    <popularity>0.18</popularity>
   </track>
-  <track href="spotify:track:5egv7MhiP9DRuYIYWZKeea">
-    <name>Hands</name>
+  <track href="spotify:track:31W8c1cff3tqM7s0NlvpOf">
+    <name>3 Reasons</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0901080</id>
+    <id type="isrc">NOWAJ1314080</id>
+    <album href="spotify:album:6vQ7MqdkKGbVpsxJA6AWYj">
+      <name>OK World</name>
+      <released>2013</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>525.266000</length>
+    <popularity>0.18</popularity>
+  </track>
+  <track href="spotify:track:1dSoM1r5ARawCEsMkBDYhz">
+    <name>Take 5</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ0901040</id>
     <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
       <name>Playing</name>
       <released>2009</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE FI FR GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
-    <track-number>8</track-number>
-    <length>323.146000</length>
-    <popularity>0.20995</popularity>
+    <track-number>4</track-number>
+    <length>335.249000</length>
+    <popularity>0.18</popularity>
+  </track>
+  <track href="spotify:track:4bOU8ZDchBx5oOZ5nbbXn7">
+    <name>Du Grønne, Glitrende Tre</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899700300</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>212.826000</length>
+    <popularity>0.18</popularity>
   </track>
   <track href="spotify:track:7jHL8yjthFt0XpVdA6y7Zr">
     <name>My Foolish Heart</name>
@@ -721,41 +1157,260 @@
     </album>
     <track-number>2</track-number>
     <length>317.346000</length>
-    <popularity>0.21240</popularity>
+    <popularity>0.18</popularity>
   </track>
-  <track href="spotify:track:4Q99zNo97Y5i3UBaykaZs1">
-    <name>Oh Ye</name>
+  <track href="spotify:track:64Dm68epLJSwAaLDRpOFlj">
+    <name>Moon River</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0308030</id>
-    <album href="spotify:album:6kg1vl7Y97XYgmRvwsiSRO">
-      <name>Filming</name>
-      <released>2004</released>
+    <id type="isrc">NOWAJ1128040</id>
+    <album href="spotify:album:74S1mR2ovX2cCFbbcuz5Vq">
+      <name>Songs</name>
+      <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR UA</territories>
+        <territories>NO</territories>
       </availability>
     </album>
-    <track-number>3</track-number>
-    <length>356.826000</length>
-    <popularity>0.20554</popularity>
+    <track-number>4</track-number>
+    <length>352.253000</length>
+    <popularity>0.18</popularity>
   </track>
-  <track href="spotify:track:04dCkQ1LS1m8sgn5rMiF71">
-    <name>Wy</name>
+  <track href="spotify:track:3CSoqknhXtOJaff0p0bVIx">
+    <name>Chicken Feathers</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0712020</id>
-    <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
-      <name>Im</name>
-      <released>2007</released>
+    <id type="isrc">NOWAJ1128050</id>
+    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
+      <name>Songs</name>
+      <released>2011</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
+        <territories>AR AT AU BE BG BO BR CH CL CO CR CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>415.680000</length>
+    <popularity>0.18</popularity>
+  </track>
+  <track href="spotify:track:5OKDZrytyjW51L3tb9HeVi">
+    <name>We'll Be Together Again</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1128070</id>
+    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
+      <name>Songs</name>
+      <released>2011</released>
+      <availability>
+        <territories>AR AT AU BE BG BO BR CH CL CO CR CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>304.026000</length>
+    <popularity>0.18</popularity>
+  </track>
+  <track href="spotify:track:1snMMeq69fKlIlKVdT6P3P">
+    <name>Mamullah</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1314070</id>
+    <album href="spotify:album:6vQ7MqdkKGbVpsxJA6AWYj">
+      <name>OK World</name>
+      <released>2013</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>297.866000</length>
+    <popularity>0.18</popularity>
+  </track>
+  <track href="spotify:track:7qSSPH4XNwaoQWtNXQb6mO">
+    <name>Mélange Bleu</name>
+    <artist href="spotify:artist:7c9O0hfRy2u32JVcWhoope">
+      <name>Lars Danielsson</name>
+    </artist>
+    <id type="isrc">DEA890602020</id>
+    <album href="spotify:album:1Vhlg79m8xChZNEHPszgdc">
+      <name>Mélange Bleu (With Bugge Wesseltoft + Nils Petter Molvaer)</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>239.533000</length>
+    <popularity>0.22</popularity>
+  </track>
+  <track href="spotify:track:1mxYVEv8dI7C4QERkWh6XH">
+    <name>Birds</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
+      <name>Sidsel Endresen</name>
+    </artist>
+    <id type="isrc">NOWAJ0201070</id>
+    <album href="spotify:album:4RlsJ7EnWPG8T4HFBrk9wG">
+      <name>Out here. In there</name>
+      <released>2002</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN IE IS IT LI LT LU LV MC MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>235.680000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:5WZNEBtptqeqKcqafP2dBJ">
+    <name>Maria durch ein Dornwald ging</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200611</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>282.046000</length>
+    <popularity>0.2</popularity>
+  </track>
+  <track href="spotify:track:0rVj57oOOnFkMW4qBSlSMQ">
+    <name>Sæterjentens Søndag</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200612</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>299.058000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:6PpLRmLRCjUe1zX3iZkmTz">
+    <name>La Folia (Improvisation)</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200613</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>14</track-number>
+    <length>163.957000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:716OPaR9pOhRttEdmeFhDC">
+    <name>Wiegenlied</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <artist href="spotify:artist:2VCAUIEKX0BX7DWfA8qxPb">
+      <name>Henning Kraggerud</name>
+    </artist>
+    <id type="isrc">DEA891200615</id>
+    <album href="spotify:album:2o24AbDEYPoyFNSXxDZp36">
+      <name>Last Spring</name>
+      <released>2012</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>191.132000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:6yulKnr0cI2bvprXxTufSj">
+    <name>Dreaming</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ0901020</id>
+    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
+      <name>Playing</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE FI FR GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
     <track-number>2</track-number>
-    <length>355.093000</length>
-    <popularity>0.20779</popularity>
+    <length>382.200000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:6AKlLTdavSL5R2cIsDqXCW">
+    <name>O Little Town Of Bethlehem</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899700290</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>293.773000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:7qc6Clgl32dMy4IuWch5UV">
+    <name>What Child Is This (Greensleeves)</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899700320</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>224.800000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:71Ax8Q6MeZdsL4RjcTCvZM">
+    <name>Stille Nacht</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899700350</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>344.440000</length>
+    <popularity>0.17</popularity>
   </track>
   <track href="spotify:track:3QdDNsIirDffym2cIFcGlH">
     <name>How High The Moon</name>
@@ -772,47 +1427,7 @@
     </album>
     <track-number>3</track-number>
     <length>403.946000</length>
-    <popularity>0.20910</popularity>
-  </track>
-  <track href="spotify:track:3Jk75U51atpGoZBaCtsHy3">
-    <name>De Viaje</name>
-    <artist href="spotify:artist:5sqVBfJ96nXdHOG7jiWvKh">
-      <name>Josemi Carmona</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:6Ldh7cNprmlTIu9qZTf07b">
-      <name>Oxmo</name>
-    </artist>
-    <id type="isrc">ES5701100041</id>
-    <album href="spotify:album:5k3J8hJkZPWvFeRLryS0SP">
-      <name>Las Pequeñas Cosas</name>
-      <released>2011</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>9</track-number>
-    <length>261.013000</length>
-    <popularity>0.22781</popularity>
-  </track>
-  <track href="spotify:track:0sirySeghj1oZzgqAWHCcC">
-    <name>(All I Wanted Was To Make You) Feel Good</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ9804010</id>
-    <album href="spotify:album:4M3CkzQhkfpTJBUqB0qQ6M">
-      <name>Sharing</name>
-      <released>1998</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW UA</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>532.293000</length>
-    <popularity>0.20131</popularity>
+    <popularity>0.17</popularity>
   </track>
   <track href="spotify:track:2oQvMYJpQSx45djPBccvYt">
     <name>Chicken Feathers</name>
@@ -829,92 +1444,126 @@
     </album>
     <track-number>5</track-number>
     <length>415.680000</length>
-    <popularity>0.20337</popularity>
+    <popularity>0.17</popularity>
   </track>
-  <track href="spotify:track:4W8ZnHVwNVMng4QXVsYhXk">
-    <name>Existence - Live</name>
+  <track href="spotify:track:14fEwGojeZPxgtAWNvZZ8X">
+    <name>Moving Mountains</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0304070</id>
-    <album href="spotify:album:6fqXzvIcUnJHgEOUsfiolb">
-      <name>New Conception Off Jazz Live</name>
-      <released>2003</released>
+    <id type="isrc">NOWAJ1314010</id>
+    <album href="spotify:album:4rZO2ge2e18oL5CEdSFTgI">
+      <name>OK World</name>
+      <released>2013</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
+        <territories>NO</territories>
       </availability>
     </album>
-    <track-number>7</track-number>
-    <length>408.960000</length>
-    <popularity>0.20028</popularity>
+    <track-number>1</track-number>
+    <length>491.333000</length>
+    <popularity>0.17</popularity>
   </track>
-  <track href="spotify:track:1FQnXykCJ0etsIyLBfOue7">
-    <name>Yoyk</name>
+  <track href="spotify:track:0oYLfQjAkqXL0K31aSL4ZF">
+    <name>Ironside</name>
+    <artist href="spotify:artist:7c9O0hfRy2u32JVcWhoope">
+      <name>Lars Danielsson</name>
+    </artist>
+    <id type="isrc">DEA890602023</id>
+    <album href="spotify:album:1Vhlg79m8xChZNEHPszgdc">
+      <name>Mélange Bleu (With Bugge Wesseltoft + Nils Petter Molvaer)</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>462.613000</length>
+    <popularity>0.21</popularity>
+  </track>
+  <track href="spotify:track:7q6WHx3rUOMhieMUYAB8Om">
+    <name>I Think It's Gonna Rain Today</name>
+    <artist href="spotify:artist:1PAozWvFQMbNVSRep26upA">
+      <name>Sidsel Endresen and Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899904013</id>
+    <album href="spotify:album:6f5oHAMUIcoXsa8VtdgWk0">
+      <name>Global Magic</name>
+      <released>2001</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>16</track-number>
+    <length>254.720000</length>
+    <popularity>0.2</popularity>
+  </track>
+  <track href="spotify:track:2u3kkMZj08TyxXzzFZPIw0">
+    <name>Oh Ye</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0712040</id>
+    <id type="isrc">NOWAJ0308030</id>
+    <album href="spotify:album:0qmx1H0Ae2FCWJTM5NzuEC">
+      <name>Norway Nights (Jazz Club)</name>
+      <released>2010</released>
+      <availability>
+        <territories>AD AR AT BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MC MT MY NI NL NO PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>357.613000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:5SHXxKCoJTv1EZJpYPEfG7">
+    <name>Black pearl makes dream</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ0712010</id>
     <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
       <name>Im</name>
       <released>2007</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
       </availability>
     </album>
-    <track-number>4</track-number>
-    <length>303.586000</length>
-    <popularity>0.19834</popularity>
+    <track-number>1</track-number>
+    <length>367.506000</length>
+    <popularity>0.16</popularity>
   </track>
-  <track href="spotify:track:2aSMJYPyoeTQJzIKxbK3mg">
-    <name>Talking to myself (Part 2)</name>
+  <track href="spotify:track:4nry9jmFzNUlRrxmhyPwbl">
+    <name>Det Kimer Nå Til Julefest</name>
     <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
       <name>Bugge Wesseltoft</name>
     </artist>
-    <id type="isrc">NOWAJ0901060</id>
-    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
-      <name>Playing</name>
-      <released>2009</released>
+    <id type="isrc">DEA899700310</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
       <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>6</track-number>
-    <length>428.400000</length>
-    <popularity>0.19919</popularity>
-  </track>
-  <track href="spotify:track:7iEqry01SQZYwQMtc0KoBu">
-    <name>You Might Say</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ9804040</id>
-    <album href="spotify:album:4M3CkzQhkfpTJBUqB0qQ6M">
-      <name>Sharing</name>
-      <released>1998</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW UA</territories>
-      </availability>
-    </album>
-    <track-number>4</track-number>
-    <length>386.560000</length>
-    <popularity>0.19836</popularity>
-  </track>
-  <track href="spotify:track:7FoxpoGkxDSk1MZg0BEdGy">
-    <name>Rytme</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0901070</id>
-    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
-      <name>Playing</name>
-      <released>2009</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR HK HR HU IE IL IN IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
       </availability>
     </album>
     <track-number>7</track-number>
-    <length>285.960000</length>
-    <popularity>0.19172</popularity>
+    <length>259.306000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:2qSvIEIc7YscClbAs7i86T">
+    <name>Es ist ein Ros entsprungen</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899700340</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>192.160000</length>
+    <popularity>0.17</popularity>
   </track>
   <track href="spotify:track:5uwXXB4RU1M1asqmBx8ZR0">
     <name>Lament</name>
@@ -931,7 +1580,200 @@
     </album>
     <track-number>6</track-number>
     <length>326.533000</length>
-    <popularity>0.19592</popularity>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:1ESTQd9ad0LqcwIIqO7saW">
+    <name>Giant Steps</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1128090</id>
+    <album href="spotify:album:3Qmr80hItV2ypCxk73vo89">
+      <name>Songs</name>
+      <released>2011</released>
+      <availability>
+        <territories>AR AT AU BE BG BO BR CH CL CO CR CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IE IS IT LT LU LV MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>510.293000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:5jdaIXAHUaY2SbQvIpNUM4">
+    <name>130 Steps</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ1314100</id>
+    <album href="spotify:album:6vQ7MqdkKGbVpsxJA6AWYj">
+      <name>OK World</name>
+      <released>2013</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GR GT HK HN HR HU IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>364.826000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:2aaVlmdT7pe0jJMVU1chfN">
+    <name>Les Coulisses</name>
+    <artist href="spotify:artist:7c9O0hfRy2u32JVcWhoope">
+      <name>Lars Danielsson</name>
+    </artist>
+    <id type="isrc">DEA890602022</id>
+    <album href="spotify:album:1Vhlg79m8xChZNEHPszgdc">
+      <name>Mélange Bleu (With Bugge Wesseltoft + Nils Petter Molvaer)</name>
+      <released>2006</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>290.426000</length>
+    <popularity>0.2</popularity>
+  </track>
+  <track href="spotify:track:3Jk75U51atpGoZBaCtsHy3">
+    <name>De Viaje</name>
+    <artist href="spotify:artist:5sqVBfJ96nXdHOG7jiWvKh">
+      <name>Josemi Carmona</name>
+    </artist>
+    <artist href="spotify:artist:6Ldh7cNprmlTIu9qZTf07b">
+      <name>Oxmo</name>
+    </artist>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">ES5701100041</id>
+    <album href="spotify:album:5k3J8hJkZPWvFeRLryS0SP">
+      <name>Las Pequeñas Cosas</name>
+      <released>2011</released>
+      <availability>
+        <territories>AD AR AT AU BE BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>261.013000</length>
+    <popularity>0.19</popularity>
+  </track>
+  <track href="spotify:track:2r3nNnvXknSvi9Lq0pP7A1">
+    <name>Hi is</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ0308020</id>
+    <album href="spotify:album:6kg1vl7Y97XYgmRvwsiSRO">
+      <name>Filming</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MY NI NL NO PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>327.726000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:7xfufsnjR01EpUSFHfuOkO">
+    <name>Hope</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ0308040</id>
+    <album href="spotify:album:6kg1vl7Y97XYgmRvwsiSRO">
+      <name>Filming</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HU IE IT LI LT LU LV MC MY NI NL PA PE PH PT PY SE SG SV TW</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>484.461000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:6spSS3oCXis5sRRU42LJbe">
+    <name>El</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ0308060</id>
+    <album href="spotify:album:6kg1vl7Y97XYgmRvwsiSRO">
+      <name>Filming</name>
+      <released>2004</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MY NI NL NO PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>385.729000</length>
+    <popularity>0.15</popularity>
+  </track>
+  <track href="spotify:track:1FQnXykCJ0etsIyLBfOue7">
+    <name>Yoyk</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ0712040</id>
+    <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
+      <name>Im</name>
+      <released>2007</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>303.586000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:3nVOqus2bwLQzLR9mCvS4r">
+    <name>Many Rivers To Cross</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">NOWAJ0901090</id>
+    <album href="spotify:album:58OjP5jzU104kGEcFXYvPe">
+      <name>Playing</name>
+      <released>2009</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE FI FR GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>242.230000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:2IBqQVMpNye5E7HIPneqjK">
+    <name>Kimer, I Klokker</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899700330</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>235.333000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:4nSQrhahX3DAAhrAQ58kZW">
+    <name>Into Eternal Silence</name>
+    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
+      <name>Bugge Wesseltoft</name>
+    </artist>
+    <id type="isrc">DEA899700360</id>
+    <album href="spotify:album:2GVRqMDD7XThNuI6pxqlAX">
+      <name>It's Snowing On My Piano</name>
+      <released>1997</released>
+      <availability>
+        <territories>AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>202.733000</length>
+    <popularity>0.16</popularity>
   </track>
   <track href="spotify:track:3XeNIW9rr28DnZe1qCh9dZ">
     <name>We'll Be Together Again</name>
@@ -948,115 +1790,7 @@
     </album>
     <track-number>7</track-number>
     <length>304.026000</length>
-    <popularity>0.19185</popularity>
-  </track>
-  <track href="spotify:track:2mgS0ZjgFbwUHYt4ojyXnl">
-    <name>Truth</name>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0201010</id>
-    <album href="spotify:album:4RlsJ7EnWPG8T4HFBrk9wG">
-      <name>Out here. In there</name>
-      <released>2002</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>325.653000</length>
-    <popularity>0.20553</popularity>
-  </track>
-  <track href="spotify:track:4uIFbJ502GQyAKzlaa2ciy">
-    <name>Casatana</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:0ttgU53bHq9ERLcvl7mwN4">
-      <name>Michy Mano</name>
-    </artist>
-    <id type="isrc">DEAM80400041</id>
-    <album href="spotify:album:65Q0ECtjcg3ahAH2KQhMU7">
-      <name>The Cool Side Of The Pillow</name>
-      <released>2005</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>370.786000</length>
-    <popularity>0.20751</popularity>
-  </track>
-  <track href="spotify:track:4lArHIE0bqgNo3pHyMvO2S">
-    <name>Man With The Red Face - Live Recording With Bugge Wesseltoft *</name>
-    <artist href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">
-      <name>Laurent Garnier</name>
-    </artist>
-    <id type="isrc">FRV220600560</id>
-    <album href="spotify:album:5K4RafAM87A487iNrrlt1n">
-      <name>Retrospective 94-06</name>
-      <released>2006</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>7</track-number>
-    <length>631.000000</length>
-    <popularity>0.22641</popularity>
-  </track>
-  <track href="spotify:track:7fkEILAkgoYW67WYbXn6os">
-    <name>Acid Eiffel - Live Recording With Bugge Wesseltoft</name>
-    <artist href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">
-      <name>Laurent Garnier</name>
-    </artist>
-    <id type="isrc">FRV220600580</id>
-    <album href="spotify:album:5K4RafAM87A487iNrrlt1n">
-      <name>Retrospective 94-06</name>
-      <released>2006</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>496.000000</length>
-    <popularity>0.21390</popularity>
-  </track>
-  <track href="spotify:track:6spSS3oCXis5sRRU42LJbe">
-    <name>El</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0308060</id>
-    <album href="spotify:album:6kg1vl7Y97XYgmRvwsiSRO">
-      <name>Filming</name>
-      <released>2004</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR UA</territories>
-      </availability>
-    </album>
-    <track-number>6</track-number>
-    <length>386.200000</length>
-    <popularity>0.18660</popularity>
-  </track>
-  <track href="spotify:track:096FNhYvJqqagP6pUtP6hN">
-    <name>Min by</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0712060</id>
-    <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
-      <name>Im</name>
-      <released>2007</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
-      </availability>
-    </album>
-    <track-number>6</track-number>
-    <length>353.746000</length>
-    <popularity>0.18907</popularity>
+    <popularity>0.16</popularity>
   </track>
   <track href="spotify:track:0hWBmVJ9wwNF6Rd7vVeQ6o">
     <name>Like Someone In Love</name>
@@ -1073,747 +1807,7 @@
     </album>
     <track-number>8</track-number>
     <length>426.853000</length>
-    <popularity>0.18995</popularity>
-  </track>
-  <track href="spotify:track:6dbUKADjAtw2GDXAPnoKxS">
-    <name>Out here. In there</name>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0201020</id>
-    <album href="spotify:album:4RlsJ7EnWPG8T4HFBrk9wG">
-      <name>Out here. In there</name>
-      <released>2002</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA</territories>
-      </availability>
-    </album>
-    <track-number>2</track-number>
-    <length>346.426000</length>
-    <popularity>0.19953</popularity>
-  </track>
-  <track href="spotify:track:1axAyvxpPYeQ96tPcYlCNF">
-    <name>Live In Amiens - Live</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0304010</id>
-    <album href="spotify:album:6fqXzvIcUnJHgEOUsfiolb">
-      <name>New Conception Off Jazz Live</name>
-      <released>2003</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>673.471000</length>
-    <popularity>0.18075</popularity>
-  </track>
-  <track href="spotify:track:2r3nNnvXknSvi9Lq0pP7A1">
-    <name>Hi is</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0308020</id>
-    <album href="spotify:album:6kg1vl7Y97XYgmRvwsiSRO">
-      <name>Filming</name>
-      <released>2004</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR UA</territories>
-      </availability>
-    </album>
-    <track-number>2</track-number>
-    <length>328.266000</length>
-    <popularity>0.18209</popularity>
-  </track>
-  <track href="spotify:track:5BJi90kdqAyfkwKJ4xrCZr">
-    <name>Delmager</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0712030</id>
-    <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
-      <name>Im</name>
-      <released>2007</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
-      </availability>
-    </album>
-    <track-number>3</track-number>
-    <length>324.346000</length>
-    <popularity>0.18012</popularity>
-  </track>
-  <track href="spotify:track:0gKYA7ZFEnsnGJbwhNKrk9">
-    <name>Giant Steps</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ1128090</id>
-    <album href="spotify:album:74S1mR2ovX2cCFbbcuz5Vq">
-      <name>Songs</name>
-      <released>2011</released>
-      <availability>
-        <territories>NO</territories>
-      </availability>
-    </album>
-    <track-number>9</track-number>
-    <length>510.293000</length>
-    <popularity>0.18341</popularity>
-  </track>
-  <track href="spotify:track:2cDlhk1XSM8GgTw4V2bDK1">
-    <name>Change</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">US3470450033</id>
-    <album href="spotify:album:45hn2K2KxI4LV3X3QzYaRO">
-      <name>Lifestyle2 - Chill Lounge Vol 1</name>
-      <released>2008</released>
-      <availability>
-        <territories>SE</territories>
-      </availability>
-    </album>
-    <track-number>9</track-number>
-    <length>313.773000</length>
-    <popularity>0.17370</popularity>
-  </track>
-  <track href="spotify:track:5KGGY4E0Rs37zuR9Wa0kqH">
-    <name>Existence - Edit</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">GBF089900475</id>
-    <album href="spotify:album:4UyRfHk6dyvLsjgFs1qyl4">
-      <name>Cafe Del Mar Volume Six</name>
-      <released>1999</released>
-      <availability>
-        <territories>US</territories>
-      </availability>
-    </album>
-    <track-number>10</track-number>
-    <length>423.307000</length>
-    <popularity>0.17795</popularity>
-  </track>
-  <track href="spotify:track:5rHUGRQVY2eBaqLjdY3Fhq">
-    <name>Chain Of Fools</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <id type="isrc">NOLEA9414010</id>
-    <album href="spotify:album:6m8i08YKmj7xgQEuzbVQ17">
-      <name>Nightsong</name>
-      <released>1994</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>185.208000</length>
-    <popularity>0.18708</popularity>
-  </track>
-  <track href="spotify:track:15osoq9p1XO418oeha7mZW">
-    <name>Lone - Live In Paris</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0304040</id>
-    <album href="spotify:album:6fqXzvIcUnJHgEOUsfiolb">
-      <name>New Conception Off Jazz Live</name>
-      <released>2003</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>4</track-number>
-    <length>683.373000</length>
-    <popularity>0.17024</popularity>
-  </track>
-  <track href="spotify:track:6TQROXk6U3hRjcHY1fTGAZ">
-    <name>Piano</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0308050</id>
-    <album href="spotify:album:6kg1vl7Y97XYgmRvwsiSRO">
-      <name>Filming</name>
-      <released>2004</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR UA</territories>
-      </availability>
-    </album>
-    <track-number>5</track-number>
-    <length>167.946000</length>
-    <popularity>0.16678</popularity>
-  </track>
-  <track href="spotify:track:1Ah8A61VNEg3zOghiFuCGd">
-    <name>Hit</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0712050</id>
-    <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
-      <name>Im</name>
-      <released>2007</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
-      </availability>
-    </album>
-    <track-number>5</track-number>
-    <length>144.753000</length>
-    <popularity>0.17061</popularity>
-  </track>
-  <track href="spotify:track:16ShNPBuinere1Kx1S3xv8">
-    <name>Existence</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ9804030</id>
-    <album href="spotify:album:4M3CkzQhkfpTJBUqB0qQ6M">
-      <name>Sharing</name>
-      <released>1998</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW UA</territories>
-      </availability>
-    </album>
-    <track-number>3</track-number>
-    <length>327.106000</length>
-    <popularity>0.17291</popularity>
-  </track>
-  <track href="spotify:track:6nYnLhBOIazu9Igft5GvAd">
-    <name>Live In Cologne - Live</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0304020</id>
-    <album href="spotify:album:6fqXzvIcUnJHgEOUsfiolb">
-      <name>New Conception Off Jazz Live</name>
-      <released>2003</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>2</track-number>
-    <length>616.240000</length>
-    <popularity>0.16283</popularity>
-  </track>
-  <track href="spotify:track:4Pe64FRTGocUQG1kDNGQmQ">
-    <name>Sharing - Live In Paris</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0304030</id>
-    <album href="spotify:album:6fqXzvIcUnJHgEOUsfiolb">
-      <name>New Conception Off Jazz Live</name>
-      <released>2003</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>3</track-number>
-    <length>541.000000</length>
-    <popularity>0.16589</popularity>
-  </track>
-  <track href="spotify:track:5m8deHa3piLSf58pmZTKXj">
-    <name>Vidde</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0712070</id>
-    <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
-      <name>Im</name>
-      <released>2007</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
-      </availability>
-    </album>
-    <track-number>7</track-number>
-    <length>239.480000</length>
-    <popularity>0.16189</popularity>
-  </track>
-  <track href="spotify:track:7p3eXlu4tUd7cihXvFLumx">
-    <name>Road Home</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0712100</id>
-    <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
-      <name>Im</name>
-      <released>2007</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
-      </availability>
-    </album>
-    <track-number>10</track-number>
-    <length>200.173000</length>
-    <popularity>0.16325</popularity>
-  </track>
-  <track href="spotify:track:2auZJhexODsDu4qAsW7jsX">
-    <name>Somewhere In Between</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ9601010</id>
-    <album href="spotify:album:0aou8YiShEs00gkqowRmZT">
-      <name>New Conception Of Jazz</name>
-      <released>1996</released>
-      <availability>
-        <territories>AT AU BE CH CZ DE DK EE ES FI FR GB HK IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>285.666000</length>
-    <popularity>0.16060</popularity>
-  </track>
-  <track href="spotify:track:5SYu7ml33WP8CUZ7aBXUMY">
-    <name>Gherbelize It</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:0ttgU53bHq9ERLcvl7mwN4">
-      <name>Michy Mano</name>
-    </artist>
-    <id type="isrc">DEAM80400042</id>
-    <album href="spotify:album:65Q0ECtjcg3ahAH2KQhMU7">
-      <name>The Cool Side Of The Pillow</name>
-      <released>2005</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>2</track-number>
-    <length>404.733000</length>
-    <popularity>0.17587</popularity>
-  </track>
-  <track href="spotify:track:7LcBphbE6CaKaU8Otojq71">
-    <name>What Child Is This (Greensleeves)</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">DEA899700320</id>
-    <album href="spotify:album:38mxgZDoIJD92bEfOBbZo5">
-      <name>The Jubilee Album - 20 Magic Years</name>
-      <released>2012</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>17</track-number>
-    <length>444.760000</length>
-    <popularity>0.16238</popularity>
-  </track>
-  <track href="spotify:track:1IBmuaVGe32SRI1oeijMeW">
-    <name>Nature Boy</name>
-    <artist href="spotify:artist:4Gd6M7Ceuk2MBGNJl9ozk8">
-      <name>Mike Mainieri</name>
-    </artist>
-    <artist href="spotify:artist:0lI9jV3rgsfftBIU04jtxI">
-      <name>Nils-Petter Molvaer</name>
-    </artist>
-    <artist href="spotify:artist:3GNzfnhVE1aY6fgK403107">
-      <name>Jan Bang</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:5bfm02egcLod4AD8RHNwvl">
-      <name>Anders Engen</name>
-    </artist>
-    <artist href="spotify:artist:6vhAdh6nzXvypchnvzWU8g">
-      <name>Eivand Aarset</name>
-    </artist>
-    <artist href="spotify:artist:6wPyVCy5qWC6i3fDsbM9eG">
-      <name>DJ Strangefruit</name>
-    </artist>
-    <artist href="spotify:artist:6KRqpgcx3IlzqHGiyrBHbJ">
-      <name>Paolo Vinaccia</name>
-    </artist>
-    <artist href="spotify:artist:7c9O0hfRy2u32JVcWhoope">
-      <name>Lars Danielsson</name>
-    </artist>
-    <id type="isrc">USEZT0612648</id>
-    <album href="spotify:album:3wbHooFAKQ0aqtcVXgWmzR">
-      <name>Northern Lights</name>
-      <released>2006</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>476.013000</length>
-    <popularity>0.22494</popularity>
-  </track>
-  <track href="spotify:track:4X2WNNgZSS35a9a2TVV58G">
-    <name>Okay</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <id type="isrc">NOLEA9841100</id>
-    <album href="spotify:album:0Syz71nEjaKlrkBTbXjN8E">
-      <name>Duplex Ride</name>
-      <released>1999</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>10</track-number>
-    <length>233.665000</length>
-    <popularity>0.16933</popularity>
-  </track>
-  <track href="spotify:track:0nnbIixj5XJYzFpv0bZ9Fu">
-    <name>Yellow Is the Colour &amp; Existence (Sublimage Edit) (feat. (Sublimage Edit))</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:55wZcK4hSc4PhNB3A6yU9a">
-      <name>(Sublimage Edit)</name>
-    </artist>
-    <id type="isrc">TCABB1150552</id>
-    <album href="spotify:album:2MSGsyq9BYa5Gg5YwwOCql">
-      <name>Sublimage - Velas Boutique</name>
-      <released>2011</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>329.712000</length>
-    <popularity>0.17273</popularity>
-  </track>
-  <track href="spotify:track:3ED9XmMT10IlA2qveXBeMY">
-    <name>Yellow is the Colour</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0102030</id>
-    <album href="spotify:album:0Z1TTlKpYCCitBYNS1L3me">
-      <name>Delicious Jazz - As You Like It</name>
-      <released>2005</released>
-      <availability>
-        <territories>AT AU CN CZ GB NL SK</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>377.053000</length>
-    <popularity>0.15831</popularity>
-  </track>
-  <track href="spotify:track:0AFRqkf7cvmANVxGiaNdJ3">
-    <name>Frik</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0308070</id>
-    <album href="spotify:album:6kg1vl7Y97XYgmRvwsiSRO">
-      <name>Filming</name>
-      <released>2004</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR UA</territories>
-      </availability>
-    </album>
-    <track-number>7</track-number>
-    <length>274.000000</length>
-    <popularity>0.15503</popularity>
-  </track>
-  <track href="spotify:track:4R706kqYdUQUrpyZE4xArJ">
-    <name>Filming</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0308080</id>
-    <album href="spotify:album:6kg1vl7Y97XYgmRvwsiSRO">
-      <name>Filming</name>
-      <released>2004</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HR HU IE IL IN IT LT LV MY NL NO PL PT RU SE SG SK TH TR UA</territories>
-      </availability>
-    </album>
-    <track-number>8</track-number>
-    <length>475.053000</length>
-    <popularity>0.15237</popularity>
-  </track>
-  <track href="spotify:track:5z9OknJwksWKWZNpabZjO6">
-    <name>Eve Nin - Les Gammas Remix</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ9804061</id>
-    <album href="spotify:album:72NJyg6ycMulX9Jrhczy7Y">
-      <name>Electric Jazz Lounge (Jazz Club)</name>
-      <released>2007</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR HK HR HU IE IL IN IT LT LV MY NL NZ PL PT RU SE SG SK TH TR TW UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>11</track-number>
-    <length>372.613000</length>
-    <popularity>0.15325</popularity>
-  </track>
-  <track href="spotify:track:3nIKLXACDUoe94R94SbmqM">
-    <name>Fot</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0712080</id>
-    <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
-      <name>Im</name>
-      <released>2007</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
-      </availability>
-    </album>
-    <track-number>8</track-number>
-    <length>251.240000</length>
-    <popularity>0.15404</popularity>
-  </track>
-  <track href="spotify:track:7gTGEdnhiHpN0E4GmMcBR0">
-    <name>Im</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0712090</id>
-    <album href="spotify:album:5V2RZvTA37koR1CbyA02e0">
-      <name>Im</name>
-      <released>2007</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE FI FR GB HK HR HU IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
-      </availability>
-    </album>
-    <track-number>9</track-number>
-    <length>447.986000</length>
-    <popularity>0.15759</popularity>
-  </track>
-  <track href="spotify:track:2uuvstA7OxR8Pcy4tpzbYu">
-    <name>New Conception Of Jazz</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ9601020</id>
-    <album href="spotify:album:0aou8YiShEs00gkqowRmZT">
-      <name>New Conception Of Jazz</name>
-      <released>1996</released>
-      <availability>
-        <territories>AT AU BE CH CZ DE DK EE ES FI FR GB HK IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TR UA</territories>
-      </availability>
-    </album>
-    <track-number>2</track-number>
-    <length>311.000000</length>
-    <popularity>0.15863</popularity>
-  </track>
-  <track href="spotify:track:1bunCXOsi5dDJnXHo116XU">
-    <name>Sharing</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ9804020</id>
-    <album href="spotify:album:4M3CkzQhkfpTJBUqB0qQ6M">
-      <name>Sharing</name>
-      <released>1998</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TW UA</territories>
-      </availability>
-    </album>
-    <track-number>2</track-number>
-    <length>282.933000</length>
-    <popularity>0.15439</popularity>
-  </track>
-  <track href="spotify:track:6kgz6J2cFjzDwJiLHK2T2R">
-    <name>Try - Chilluminati Remix</name>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0201111</id>
-    <album href="spotify:album:482GslzRgXNsccHV7vM2BG">
-      <name>Jazzland Remixed 2</name>
-      <released>2002</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PT SE SG SK UA</territories>
-      </availability>
-    </album>
-    <track-number>7</track-number>
-    <length>295.373000</length>
-    <popularity>0.16009</popularity>
-  </track>
-  <track href="spotify:track:2i8AhXntOk6zFQ3ibyzRdu">
-    <name>You Call Me</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <id type="isrc">NOLEA9841040</id>
-    <album href="spotify:album:0Syz71nEjaKlrkBTbXjN8E">
-      <name>Duplex Ride</name>
-      <released>1999</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>4</track-number>
-    <length>353.959000</length>
-    <popularity>0.15965</popularity>
-  </track>
-  <track href="spotify:track:7rw2CmvbefTGwFfGqsvBTk">
-    <name>River</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <id type="isrc">NOLEA9841050</id>
-    <album href="spotify:album:0Syz71nEjaKlrkBTbXjN8E">
-      <name>Duplex Ride</name>
-      <released>1999</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>5</track-number>
-    <length>472.424000</length>
-    <popularity>0.16636</popularity>
-  </track>
-  <track href="spotify:track:3wvpYQp4FMksJMTm434KGd">
-    <name>Tellement Gadjo Que Je Suis Gypsy</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:0ttgU53bHq9ERLcvl7mwN4">
-      <name>Michy Mano</name>
-    </artist>
-    <id type="isrc">DEAM80400043</id>
-    <album href="spotify:album:65Q0ECtjcg3ahAH2KQhMU7">
-      <name>The Cool Side Of The Pillow</name>
-      <released>2005</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>3</track-number>
-    <length>298.373000</length>
-    <popularity>0.15997</popularity>
-  </track>
-  <track href="spotify:track:78I3wGyN7znUGngzDEiNwD">
-    <name>Bangosali</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <artist href="spotify:artist:0ttgU53bHq9ERLcvl7mwN4">
-      <name>Michy Mano</name>
-    </artist>
-    <id type="isrc">DEAM80400044</id>
-    <album href="spotify:album:65Q0ECtjcg3ahAH2KQhMU7">
-      <name>The Cool Side Of The Pillow</name>
-      <released>2005</released>
-      <availability>
-        <territories>AD AE AF AG AI AL AM AN AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW ZZ</territories>
-      </availability>
-    </album>
-    <track-number>4</track-number>
-    <length>529.426000</length>
-    <popularity>0.15918</popularity>
-  </track>
-  <track href="spotify:track:2h03Ot9I34ikC7wZEpa4Jn">
-    <name>Live At Blå - Live</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0304050</id>
-    <album href="spotify:album:6fqXzvIcUnJHgEOUsfiolb">
-      <name>New Conception Off Jazz Live</name>
-      <released>2003</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>5</track-number>
-    <length>1246.573000</length>
-    <popularity>0.14259</popularity>
-  </track>
-  <track href="spotify:track:6BQTFU0tJKRgw8ypYZbFeP">
-    <name>Feel Good - Live</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0304060</id>
-    <album href="spotify:album:6fqXzvIcUnJHgEOUsfiolb">
-      <name>New Conception Off Jazz Live</name>
-      <released>2003</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK HU IE IL IT LT LV MY NL NO NZ PL PT RU SE SG SK TH TR UA ZA</territories>
-      </availability>
-    </album>
-    <track-number>6</track-number>
-    <length>430.800000</length>
-    <popularity>0.14736</popularity>
-  </track>
-  <track href="spotify:track:6IMCCzqQBbGMi9ptE3muao">
-    <name>Change - Chilluminati Remix</name>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0102011</id>
-    <album href="spotify:album:482GslzRgXNsccHV7vM2BG">
-      <name>Jazzland Remixed 2</name>
-      <released>2002</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PT SE SG SK UA</territories>
-      </availability>
-    </album>
-    <track-number>3</track-number>
-    <length>353.506000</length>
-    <popularity>0.14556</popularity>
-  </track>
-  <track href="spotify:track:3UtujUMaFOtthBsPdN2GQI">
-    <name>Survival Techniques 1+2</name>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0201030</id>
-    <album href="spotify:album:4RlsJ7EnWPG8T4HFBrk9wG">
-      <name>Out here. In there</name>
-      <released>2002</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA</territories>
-      </availability>
-    </album>
-    <track-number>3</track-number>
-    <length>303.840000</length>
-    <popularity>0.15086</popularity>
-  </track>
-  <track href="spotify:track:1mxYVEv8dI7C4QERkWh6XH">
-    <name>Birds</name>
-    <artist href="spotify:artist:3nXJ669yt47ssgwwGeFat3">
-      <name>Sidsel Endresen</name>
-    </artist>
-    <artist href="spotify:artist:4p35pLn1lRgqoVVsnqNZEK">
-      <name>Bugge Wesseltoft</name>
-    </artist>
-    <id type="isrc">NOWAJ0201070</id>
-    <album href="spotify:album:4RlsJ7EnWPG8T4HFBrk9wG">
-      <name>Out here. In there</name>
-      <released>2002</released>
-      <availability>
-        <territories>AT AU BE CH CN CZ DE DK EE ES FI FR GB HK IE IT LT LV MY NL NO NZ PL PT RU SE SG SK TW UA</territories>
-      </availability>
-    </album>
-    <track-number>7</track-number>
-    <length>235.680000</length>
-    <popularity>0.15801</popularity>
+    <popularity>0.16</popularity>
   </track>
 </tracks>
-<!-- Last-Modified: Expires: Mon, 18 Jun 2012 20:40:17 GMT -->
+<!-- Last-Modified: Vary: Accept-Encoding -->

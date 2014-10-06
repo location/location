@@ -1,10 +1,15 @@
+DROP TABLE tags;
+DROP TABLE votement;
+DROP TABLE location;
+
 CREATE TABLE tags (
        name TEXT NOT NULL,
-       tags TEXT NOT NULL,
+       data TEXT NOT NULL,
        glat DECIMAL(10, 8) NOT NULL,
        glon DECIMAL(11, 8) NOT NULL,
        link TEXT,
-       grad FLOAT
+       grad FLOAT,
+       location BIGINT REFERENCES location(id)
 ) Engine="MyISAM" DEFAULT CHARSET=utf8;
 
 CREATE TABLE votement (

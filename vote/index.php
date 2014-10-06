@@ -10,7 +10,7 @@ if ($_POST['name']!=NULL && $_POST['glat']!=NULL && $_POST['glon']!=NULL && $_PO
   /* $location->info .= $location->news($_POST['glat'], $_POST['glon'], 1000);  */
   /* $location->info .= "</span></p>\n";  */
 } else {
-  header("Location: http://news.oka.no");
+  header("Location: http://news.oka.no/");
 }
 
 // header("Location: http://location.gl/news/?glat=" . $_POST['glat'] . "&glon=" . $_POST['glon'] . "&grad=100");

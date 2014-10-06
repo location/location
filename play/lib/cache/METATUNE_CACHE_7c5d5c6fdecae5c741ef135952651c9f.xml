@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
   <opensearch:Query role="request" startPage="1" searchTerms="Tord Gustavsen Trio"/>
-  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:totalResults>26</opensearch:totalResults>
   <opensearch:startIndex>0</opensearch:startIndex>
   <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
   <track href="spotify:track:4dGgRF2PgYECxvdZJC5R4c">
@@ -19,7 +19,432 @@
     </album>
     <track-number>9</track-number>
     <length>284.173000</length>
-    <popularity>0.09127</popularity>
+    <popularity>0.13</popularity>
+  </track>
+  <track href="spotify:track:7iQ0gbUNqv0dsmXkDpv7jm">
+    <name>Song Of Yearning</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283406</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>496.693000</length>
+    <popularity>0.11</popularity>
+  </track>
+  <track href="spotify:track:7qDssyHXtjrFKP8yFzazuz">
+    <name>Where Breathing Starts</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283409</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>529.200000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:0HAiw4h4UpZcBUWv3CHL2I">
+    <name>At Home</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601701</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>366.160000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:5IF9fe5E8dAyODKoZj9Q99">
+    <name>Deep As Love</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283401</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>354.360000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:6HRTrjk5dpeDvOpdZ6CLcx">
+    <name>Graceful Touch</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283402</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>230.173000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:3yAArxNC50e6a83w6mbsgs">
+    <name>IGN</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283403</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>273.600000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:71RXR8l0IpctWrEznJuHBk">
+    <name>Melted Matter</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283404</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>325.133000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:3C5VopUF6jUlZyxcPAzofb">
+    <name>At A Glance</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283405</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>258.893000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:4u800fDzdQ7wcD4FHlnBLW">
+    <name>Turning Point</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283407</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>347.973000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:4cQwlmSecEkulmB6tyxYEA">
+    <name>Interlude</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283408</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>61.866000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:456aoWeZVykeM3U1doW6Mz">
+    <name>Going Places</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283410</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>333.266000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:6n7qEfiGWcFfzzZ0Dh9FhZ">
+    <name>Your Eyes</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283411</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>307.626000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:5ReQzU8J8sG4xlDCIjOsqu">
+    <name>Graceful Touch - Variation</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330283412</id>
+    <album href="spotify:album:4o0J3CbMgJv1PlUTbw17V8">
+      <name>Changing Places</name>
+      <released>2003</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>273.626000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:37LYkb0iinXR1ZAct97NBx">
+    <name>Vicar Street</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601702</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>222.533000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:7u94NAmSsGRYxofz6WN3Ye">
+    <name>Draw Near</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601703</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>231.466000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:28c3mdtZCEXpdIQ85pWolU">
+    <name>Blessed Feet</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601704</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>364.360000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:54wT4Px9d6qqQF22DIWQbj">
+    <name>Sani</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601705</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>156.733000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:7mEJ5mItpLH9PUdkJHoDHG">
+    <name>Interlude</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601706</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>138.893000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:4UMyt4gjRmve4tigqgtQeT">
+    <name>Karmosin</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601707</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>308.506000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:0h1XwEgbXPitariheDGrBB">
+    <name>Where We Went</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601709</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>285.706000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:6GFNgjkL7gUPpYRfkq09A6">
+    <name>Vesper</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601712</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>12</track-number>
+    <length>264.946000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:3hyZnPvpFViojYImUzRNog">
+    <name>Still There</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601708</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>257.600000</length>
+    <popularity>0.04</popularity>
+  </track>
+  <track href="spotify:track:5j4RVNRF6cDo2vhRPKOTE2">
+    <name>Cocoon</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601710</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>348.493000</length>
+    <popularity>0.04</popularity>
+  </track>
+  <track href="spotify:track:1Vj9uj89WsPyZqtHNK9WcT">
+    <name>Around You</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601711</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>333.333000</length>
+    <popularity>0.04</popularity>
+  </track>
+  <track href="spotify:track:3KkVOlK4iYHYEOpi8iKkVK">
+    <name>Wide Open</name>
+    <artist href="spotify:artist:3aTJxwDLCqCNvjrG7USP1a">
+      <name>Tord Gustavsen Trio</name>
+    </artist>
+    <id type="isrc">DEB330601713</id>
+    <album href="spotify:album:1vKKuJsLK9uzYH7QybxBSA">
+      <name>Being There</name>
+      <released>2007</released>
+      <availability>
+        <territories>MX</territories>
+      </availability>
+    </album>
+    <track-number>13</track-number>
+    <length>279.853000</length>
+    <popularity>0.04</popularity>
   </track>
 </tracks>
-<!-- Last-Modified: Expires: Thu, 12 Jul 2012 16:37:36 GMT -->
+<!-- Last-Modified: Vary: Accept-Encoding -->

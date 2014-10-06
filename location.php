@@ -48,6 +48,62 @@ class Location {
     return $data;
   }
 
+  function metrical($name) {
+
+    $this->name = $name;
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    $query = "SELECT DISTINCT * FROM location WHERE name = '" . $this->db->real_escape_string($name) . "';";
+
+    // echo $query;
+
+    $result = $this->db->query($query);
+
+    $i = 0;
+
+    $X = 0.0;
+    $Y = 0.0;
+    $Z = 0.0;
+
+    $num_coords = mysqli_num_rows($result);
+
+    while($object = mysqli_fetch_object($result)) {
+
+      $lat = $object->glat * pi()/180;
+      $lon = $object->glon * pi()/180;
+
+      $a = cos($lat) * cos($lon);
+      $b = cos($lat) * sin($lon);
+      $c = sin($lat);
+      
+      $X += $a;
+      $Y += $b;
+      $Z += $c;
+      
+      // print $X .",". $Y .",". $Z . "<br />\n";
+    }
+    
+    $X /= $num_coords;
+    $Y /= $num_coords;
+    $Z /= $num_coords;
+
+    $lon = atan2($Y, $X);
+    $hyp = sqrt($X * $X + $Y * $Y);
+    $lat = atan2($Z, $hyp);
+
+    if ($lat == 0 && $lon == 0) {
+      $this->glat = 0;
+      $this->glon = 0;
+    } else {
+      $this->glat = $lat * 180 / pi();
+      $this->glon = $lon * 180 / pi();
+    }
+
+    mysqli_close($this->db);   
+
+    return ($this);
+  }
+
   function Midpoint($name) {
 
     $this->name = $name;
@@ -148,7 +204,7 @@ class Location {
     if ($lat == 0 && $lon == 0) {
       $data .= "<p>None</p>";
     } else {
-      $data .= "<a href='http://location.gl/news/?glat=" . $lat*180/pi() . "&glon=" . $lon*180/pi() . "&grad=" . $this->grad . "'>http://location.gl/news/?glat=" . $lat*180/pi() . "&glon=" . $lon*180/pi() . "&grad=" . $this->grad . "</a>";
+      $data .= "<a href='http://location.gl/news/?name=" . $name . "&glat=" . $lat*180/pi() . "&glon=" . $lon*180/pi() . "&grad=" . $this->grad . "'>http://location.gl/news/?name=" . $name . "&glat=" . $lat*180/pi() . "&glon=" . $lon*180/pi() . "&grad=" . $this->grad . "</a>";
     }
 
     mysqli_close($this->db);   
@@ -222,7 +278,8 @@ class Location {
     return $data;
   }
 
-  function news($glat, $glon, $grad) {
+  function news($name, $glat, $glon, $grad) {
+    $this->name = $name;
     $this->glat = $glat;
     $this->glon = $glon;
     $this->grad = $grad;
@@ -235,8 +292,9 @@ class Location {
     $pt4 = $this->glon - $this->grad / 111.1;
 
     // Verify this
-    $query="SELECT * FROM location WHERE MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), ggeo);\n";
-    
+    $query="SELECT * FROM location WHERE name = '".$name."' AND MBRContains(GeomFromText('LineString(".$pt1." ".$pt2.", ".$pt3." ".$pt4.")'), ggeo);\n";
+    echo $query;
+
     $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
 
     // $query = "SELECT DISTINCT location.name,location.glat,location.glon,votement.distance,location.link FROM votement,location WHERE location.name = '" . $name . "' AND votement.name = location.name AND location.glat = votement.glat AND location.glon = votement.glon ORDER BY votement.distance;";
@@ -288,7 +346,7 @@ class Location {
         $data[$row['id']] = array( "id" => $row['id'] ,"name" => $row['name']);
       }
 
-    // print_r($data);
+    print_r($data);
     return json_encode($data);
    
   }
@@ -332,7 +390,7 @@ class Location {
 
     /* if ($grad['California'] < 1); */ // UPDATE votement SET vote = vote + 1 WHERE name = 'California' AND id = 1;
 
-    $query = "INSERT INTO location (name, glat, glon, ggeo, link, vote, time) VALUES ('" . $this->db->real_escape_string($name) . "', " . $this->db->real_escape_string($glat) . ", " . $this->db->real_escape_string($glon) . ", POINT(" . $this->db->real_escape_string($glat) . "," . $this->db->real_escape_string($glon) . "), '" . $this->db->real_escape_string($link) . "', 1, NOW());";
+    $query = "INSERT INTO location (name, glat, glon, ggeo, link, vote, time) VALUES ('" . $this->db->real_escape_string($name) . "', " . $this->db->real_escape_string($glat) . ", " . $this->db->real_escape_string($glon) . ", POINT(" . $this->db->real_escape_string($glat) . "," . $this->db->real_escape_string($glon) . "), '" . $this->db->real_escape_string($link) . "', 1, " . time() . ");";
 
     // echo "<p>" . $query . "</p>\n";
 
@@ -369,14 +427,53 @@ class Location {
     return PUSHNAME;
   }
 
-  function pull($name, $glat, $glon, $link, $grad) {
+  function pull($name, $glat, $glon, $link, $grad, $vote) {
     // Location Tags already indexed for $link, pull from database table locationtags for $name, $glat, $glon, $link, $grad
-    return "<location link='http://newonflix.com/article1.html' glat='60' glon='10' grad='100'>Tag1</location><location link='http://newonflix.com/article2.html' glat='60' glon='10' grad='100'>Tag2</location link='http://newonflix.com/article3.html' glat='60' glon='10' grad='100'>Tag3</location>";
+
+    $this->name = $name;
+    $this->glat = $glat;
+    $this->glon = $glon;
+    $this->link = $link;
+    $this->grad = $grad;
+    $this->vote = $vote;
+
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    $query = "SELECT votement.name,votement.vote,SUM(distance)/COUNT(distance) AS grad FROM votement WHERE name = '" . $this->db->real_escape_string($name) . "';";
+
+    // echo $query;
+
+    $result = $this->db->query($query);
+
+    $i = 0;
+
+    $X = 0.0;
+    $Y = 0.0;
+    $Z = 0.0;
+
+    $num_coords = mysqli_num_rows($result);
+
+    if ($num_coords > 0) {
+      
+      print "<lns release='" . PROTOCOL . "' sessiont='" . microtime() . "'>\n";
+      while($object = mysqli_fetch_object($result)) {
+	
+	// print_r($object);
+	
+	$item = $object;
+	
+	$midp = $this->metrical($item->name);
+
+	print "<location name='" . $item->name . "' glat='" . $midp->glat . "' glon='" . $midp->glon . "' grad='" . $item->grad . "' vote='" . $item->vote . "'>" . $item->name . " " . $midp->glat . " " . $midp->glon . " " . $item->grad . " " . $item->vote . "</location>\n";
+	
+      }
+      print "</lns>\n";
+    }
   }
   
-  function push($name, $glat, $glon, $link, $grad) {
+  function push($name, $glat, $glon, $link, $grad, $vote) {
     // Fetch HTML on http://newonflix.com/article1.html ($link) using curl
-
+    
     // Look for all occurences of '$name' in HTML on http://newonflix.com/article1.html ($link) in the pattern "<a href='http://location.gl/$name'>$name</a>"  /* REGEXP? */
 
     // Return occurences of '$name'
@@ -397,6 +494,17 @@ class Location {
     // Location Tags already indexed for $link, pull from database table locationtags for $name, $glat, $glon, $link, $grad
     // FIXME: return "&lt;location name='" . $name . "' link='" . $link . "' glat='" . $glat . "' glon='" . $glon . "' grad='" . $grad . "'&gt;&lt;a href='http://location.gl/" . $name . "'&gt;&" . $name . "&lt;/a&gt;&lt;/location&gt;";
 
+    $this->db = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE) or die("Error " . mysqli_error($db));
+
+    $query = "INSERT INTO location (name, glat, glon, ggeo, link, vote, time) VALUES ('" . $this->db->real_escape_string($name) . "', " . $this->db->real_escape_string($glat) . ", " . $this->db->real_escape_string($glon) . ", POINT(" . $this->db->real_escape_string($glat) . "," . $this->db->real_escape_string($glon) . "), '" . $this->db->real_escape_string($link) . "', 1, NOW());";
+
+    // print $query . "\n";
+
+    $result = $this->db->query($query);
+
+    mysqli_close($this->db);
+
+    
     return "<location name='" . $name . "' link='http://location.gl/" . $name . "'><a href='http://location.gl/" . $name . "'>&" . $name . "</a></location>";
 
   }
@@ -500,9 +608,9 @@ class Location {
 
   }
 
-}
+  }
 
-class Event extends Location {
+class Date extends Location {
   public function __construct() {
     parent::__construct();
   }

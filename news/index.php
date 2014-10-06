@@ -13,11 +13,11 @@ require_once("../location.php");
 $location = new Location();
 
 if ($_POST['glat'] != NULL && $_POST['glon'] != NULL && $_POST['grad'] != NULL) {
-  echo $location->news($_POST['glat'],$_POST['glon'],$_POST['grad']);
+  echo $location->news($_POST['name'],$_POST['glat'],$_POST['glon'],$_POST['grad']);
 }
 
 if ($_GET['glat'] != NULL && $_GET['glon'] != NULL && $_GET['grad'] != NULL) {
-  echo $location->news($_GET['glat'],$_GET['glon'],$_GET['grad']);
+  echo $location->news($_GET['name'],$_GET['glat'],$_GET['glon'],$_GET['grad']);
 }
 ?>
 </body>

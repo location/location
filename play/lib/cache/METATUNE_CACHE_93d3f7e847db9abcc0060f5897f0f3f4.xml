@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tracks xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.spotify.com/ns/music/1">
-  <opensearch:Query role="request" startPage="1" searchTerms="Brian Transeau, aka BT"/>
-  <opensearch:totalResults>0</opensearch:totalResults>
-  <opensearch:startIndex>0</opensearch:startIndex>
-  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
-</tracks>
-<!-- Last-Modified: Expires: Fri, 24 Feb 2012 11:50:46 GMT -->

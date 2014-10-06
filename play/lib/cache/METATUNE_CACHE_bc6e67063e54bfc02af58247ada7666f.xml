@@ -4,23 +4,6 @@
   <opensearch:totalResults>63</opensearch:totalResults>
   <opensearch:startIndex>0</opensearch:startIndex>
   <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
-  <track href="spotify:track:2h8GLydTso7lmQohIF3nvm">
-    <name>Joe Dallesandro</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOUM70500584</id>
-    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
-      <name>Jumping On Cars</name>
-      <released>2005</released>
-      <availability>
-        <territories>AU DK FR GB HK MY NO SG</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>309.163000</length>
-    <popularity>0.4</popularity>
-  </track>
   <track href="spotify:track:2j1JKZpIVl1nxoZqDVDSOg">
     <name>Propaganda</name>
     <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
@@ -35,8 +18,25 @@
       </availability>
     </album>
     <track-number>18</track-number>
-    <length>280.247000</length>
+    <length>279.933000</length>
     <popularity>0.37</popularity>
+  </track>
+  <track href="spotify:track:2h8GLydTso7lmQohIF3nvm">
+    <name>Joe Dallesandro</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOUM70500584</id>
+    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
+      <name>Jumping On Cars</name>
+      <released>2005</released>
+      <availability>
+        <territories>BG CY CZ DK FR GB HK MT MY NO PH SK TW</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>308.840000</length>
+    <popularity>0.36</popularity>
   </track>
   <track href="spotify:track:0ktGcu6X0sfqL0yi3y6OB5">
     <name>Miss You Like Crazy</name>
@@ -48,12 +48,12 @@
       <name>Jumping On Cars</name>
       <released>2005</released>
       <availability>
-        <territories>AU DK FR GB HK MY NO SG</territories>
+        <territories>BG CY CZ DK FR GB HK MT MY NO PH SK TW</territories>
       </availability>
     </album>
     <track-number>2</track-number>
-    <length>198.858000</length>
-    <popularity>0.35</popularity>
+    <length>198.613000</length>
+    <popularity>0.31</popularity>
   </track>
   <track href="spotify:track:29YVaI3WQh2F8uTdwte5iH">
     <name>Wide Awake</name>
@@ -69,24 +69,7 @@
       </availability>
     </album>
     <track-number>2</track-number>
-    <length>221.630000</length>
-    <popularity>0.34</popularity>
-  </track>
-  <track href="spotify:track:4Ro5sshJT6S6Aj2qucwHnP">
-    <name>Hey Baby</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0300152</id>
-    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
-      <name>Tonight, Captain?</name>
-      <released>2003</released>
-      <availability>
-        <territories>EE LT LV NL NO NZ</territories>
-      </availability>
-    </album>
-    <track-number>2</track-number>
-    <length>236.219000</length>
+    <length>221.373000</length>
     <popularity>0.3</popularity>
   </track>
   <track href="spotify:track:2GkccKa5CO0vliB1FyX356">
@@ -103,8 +86,42 @@
       </availability>
     </album>
     <track-number>5</track-number>
-    <length>279.881000</length>
-    <popularity>0.3</popularity>
+    <length>279.573000</length>
+    <popularity>0.27</popularity>
+  </track>
+  <track href="spotify:track:4Ro5sshJT6S6Aj2qucwHnP">
+    <name>Hey Baby</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0300152</id>
+    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
+      <name>Tonight, Captain?</name>
+      <released>2003</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>2</track-number>
+    <length>235.960000</length>
+    <popularity>0.26</popularity>
+  </track>
+  <track href="spotify:track:6Uh9RaCRLroHoFGJ9xaFMP">
+    <name>Propaganda</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOPYA0015010</id>
+    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>283.893000</length>
+    <popularity>0.24</popularity>
   </track>
   <track href="spotify:track:5k4GIAmpBHcQGAP719BmHr">
     <name>Cellophane Eyes</name>
@@ -120,25 +137,8 @@
       </availability>
     </album>
     <track-number>9</track-number>
-    <length>225.159000</length>
-    <popularity>0.25</popularity>
-  </track>
-  <track href="spotify:track:6Uh9RaCRLroHoFGJ9xaFMP">
-    <name>Propaganda</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOPYA0015010</id>
-    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
-      </availability>
-    </album>
-    <track-number>4</track-number>
-    <length>284.195000</length>
-    <popularity>0.25</popularity>
+    <length>224.893000</length>
+    <popularity>0.23</popularity>
   </track>
   <track href="spotify:track:5G36PjX5R4uoyH0a0kVhD1">
     <name>Joe Dallesandro - Radio Edit</name>
@@ -154,24 +154,7 @@
       </availability>
     </album>
     <track-number>16</track-number>
-    <length>253.422000</length>
-    <popularity>0.23</popularity>
-  </track>
-  <track href="spotify:track:1MWpwlHVeP55CEktXZ607b">
-    <name>Ocean Drive</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOUM70500578</id>
-    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
-      <name>Jumping On Cars</name>
-      <released>2005</released>
-      <availability>
-        <territories>AU DK FR GB HK MY NO SG</territories>
-      </availability>
-    </album>
-    <track-number>5</track-number>
-    <length>186.073000</length>
+    <length>253.146000</length>
     <popularity>0.21</popularity>
   </track>
   <track href="spotify:track:30JbZWr8GdrOx36ZnYidSw">
@@ -184,267 +167,12 @@
       <name>Jeans For Onassis</name>
       <released>2000</released>
       <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
       </availability>
     </album>
     <track-number>2</track-number>
-    <length>224.349000</length>
-    <popularity>0.2</popularity>
-  </track>
-  <track href="spotify:track:7lcZGz9pX3iMlk2QJRRARP">
-    <name>Shaking like a tambourine</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOUM70500577</id>
-    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
-      <name>Jumping On Cars</name>
-      <released>2005</released>
-      <availability>
-        <territories>AU DK FR GB HK MY NO SG</territories>
-      </availability>
-    </album>
-    <track-number>4</track-number>
-    <length>207.224000</length>
+    <length>224.080000</length>
     <popularity>0.19</popularity>
-  </track>
-  <track href="spotify:track:76e4GasNJqHu5GGnITosvo">
-    <name>The Asphalt Beach</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015020</id>
-    <album href="spotify:album:6PqTpgLHXA7QDqk6qmUHKW">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>NO</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>254.599000</length>
-    <popularity>0.18</popularity>
-  </track>
-  <track href="spotify:track:1wYKD2fXIpq4sIuvfdCGsH">
-    <name>Hey Harvey</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015070</id>
-    <album href="spotify:album:6PqTpgLHXA7QDqk6qmUHKW">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>NO</territories>
-      </availability>
-    </album>
-    <track-number>8</track-number>
-    <length>287.045000</length>
-    <popularity>0.18</popularity>
-  </track>
-  <track href="spotify:track:724KNMXOv74nWcMaE6ud43">
-    <name>Substitute for love</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOUM70500576</id>
-    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
-      <name>Jumping On Cars</name>
-      <released>2005</released>
-      <availability>
-        <territories>AU DK FR GB HK MY NO SG</territories>
-      </availability>
-    </album>
-    <track-number>3</track-number>
-    <length>191.067000</length>
-    <popularity>0.17</popularity>
-  </track>
-  <track href="spotify:track:71Xw9EyLLzHRIiin81Cp1j">
-    <name>The Asphalt Beach</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015020</id>
-    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>258.703000</length>
-    <popularity>0.17</popularity>
-  </track>
-  <track href="spotify:track:5ho84QC2v1uvTfaaDS4z2D">
-    <name>Cellophane Eyes</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015080</id>
-    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
-      </availability>
-    </album>
-    <track-number>7</track-number>
-    <length>225.159000</length>
-    <popularity>0.16</popularity>
-  </track>
-  <track href="spotify:track:6oeAeF7pQZqYLYd8M4vgY4">
-    <name>Out Of Town</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOUM70500579</id>
-    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
-      <name>Jumping On Cars</name>
-      <released>2005</released>
-      <availability>
-        <territories>AU DK FR GB HK MY NO SG</territories>
-      </availability>
-    </album>
-    <track-number>6</track-number>
-    <length>221.081000</length>
-    <popularity>0.16</popularity>
-  </track>
-  <track href="spotify:track:2qpAc6XP8PjCYMpHVfJukb">
-    <name>Hey Harvey</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015070</id>
-    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
-      </availability>
-    </album>
-    <track-number>6</track-number>
-    <length>287.724000</length>
-    <popularity>0.15</popularity>
-  </track>
-  <track href="spotify:track:33aJFMvhjf7lrZHrrJCaSl">
-    <name>Berlin</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015050</id>
-    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
-      </availability>
-    </album>
-    <track-number>9</track-number>
-    <length>208.923000</length>
-    <popularity>0.14</popularity>
-  </track>
-  <track href="spotify:track:32dXnm1TdNQeEarUvVzE4z">
-    <name>Between You And Me</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOUM70500581</id>
-    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
-      <name>Jumping On Cars</name>
-      <released>2005</released>
-      <availability>
-        <territories>AU DK FR GB HK MY NO SG</territories>
-      </availability>
-    </album>
-    <track-number>8</track-number>
-    <length>179.824000</length>
-    <popularity>0.14</popularity>
-  </track>
-  <track href="spotify:track:4y5jLP3J94jUXCt6WuCS3k">
-    <name>Light My Way</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOUM70500582</id>
-    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
-      <name>Jumping On Cars</name>
-      <released>2005</released>
-      <availability>
-        <territories>AU DK FR GB HK MY NO SG</territories>
-      </availability>
-    </album>
-    <track-number>9</track-number>
-    <length>207.303000</length>
-    <popularity>0.14</popularity>
-  </track>
-  <track href="spotify:track:7Ej9Kyn8Baj0Cej0KFs9fe">
-    <name>Bobby, Come Back</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOUM70500583</id>
-    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
-      <name>Jumping On Cars</name>
-      <released>2005</released>
-      <availability>
-        <territories>AU DK FR GB HK MY NO SG</territories>
-      </availability>
-    </album>
-    <track-number>10</track-number>
-    <length>345.008000</length>
-    <popularity>0.14</popularity>
-  </track>
-  <track href="spotify:track:382FilzoYmSsSD7Qmbv7nJ">
-    <name>Berlin</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015050</id>
-    <album href="spotify:album:6PqTpgLHXA7QDqk6qmUHKW">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>NO</territories>
-      </availability>
-    </album>
-    <track-number>6</track-number>
-    <length>207.590000</length>
-    <popularity>0.13</popularity>
-  </track>
-  <track href="spotify:track:5tfzO7tr1Y8evyP3uGcZYs">
-    <name>There Is A Wave</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOUM70500580</id>
-    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
-      <name>Jumping On Cars</name>
-      <released>2005</released>
-      <availability>
-        <territories>AU DK FR GB HK MY NO SG</territories>
-      </availability>
-    </album>
-    <track-number>7</track-number>
-    <length>257.605000</length>
-    <popularity>0.13</popularity>
-  </track>
-  <track href="spotify:track:3kOdQgCytFKlfeBFgLCQJH">
-    <name>Electro Boy</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015030</id>
-    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
-      </availability>
-    </album>
-    <track-number>3</track-number>
-    <length>198.126000</length>
-    <popularity>0.11</popularity>
   </track>
   <track href="spotify:track:76VuucNn4bbhKnUJQ3PzVZ">
     <name>Electro Boy</name>
@@ -460,7 +188,126 @@
       </availability>
     </album>
     <track-number>3</track-number>
-    <length>196.452000</length>
+    <length>196.226000</length>
+    <popularity>0.17</popularity>
+  </track>
+  <track href="spotify:track:1MWpwlHVeP55CEktXZ607b">
+    <name>Ocean Drive</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOUM70500578</id>
+    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
+      <name>Jumping On Cars</name>
+      <released>2005</released>
+      <availability>
+        <territories>BG CY CZ DK FR GB HK MT MY NO PH SK TW</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>185.840000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:1wYKD2fXIpq4sIuvfdCGsH">
+    <name>Hey Harvey</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015070</id>
+    <album href="spotify:album:6PqTpgLHXA7QDqk6qmUHKW">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>286.733000</length>
+    <popularity>0.16</popularity>
+  </track>
+  <track href="spotify:track:76e4GasNJqHu5GGnITosvo">
+    <name>The Asphalt Beach</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015020</id>
+    <album href="spotify:album:6PqTpgLHXA7QDqk6qmUHKW">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>254.320000</length>
+    <popularity>0.15</popularity>
+  </track>
+  <track href="spotify:track:382FilzoYmSsSD7Qmbv7nJ">
+    <name>Berlin</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015050</id>
+    <album href="spotify:album:6PqTpgLHXA7QDqk6qmUHKW">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>207.346000</length>
+    <popularity>0.14</popularity>
+  </track>
+  <track href="spotify:track:5ho84QC2v1uvTfaaDS4z2D">
+    <name>Cellophane Eyes</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015080</id>
+    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>224.893000</length>
+    <popularity>0.13</popularity>
+  </track>
+  <track href="spotify:track:7lcZGz9pX3iMlk2QJRRARP">
+    <name>Shaking like a tambourine</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOUM70500577</id>
+    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
+      <name>Jumping On Cars</name>
+      <released>2005</released>
+      <availability>
+        <territories>BG CY CZ DK FR GB HK MT MY NO PH SK TW</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>204.010000</length>
+    <popularity>0.13</popularity>
+  </track>
+  <track href="spotify:track:71Xw9EyLLzHRIiin81Cp1j">
+    <name>The Asphalt Beach</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015020</id>
+    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>1</track-number>
+    <length>258.413000</length>
     <popularity>0.12</popularity>
   </track>
   <track href="spotify:track:7e6OOLKEhJmsoc6HEcPexs">
@@ -477,93 +324,8 @@
       </availability>
     </album>
     <track-number>4</track-number>
-    <length>318.314000</length>
-    <popularity>0.12</popularity>
-  </track>
-  <track href="spotify:track:3YnYcH72gwNOwyo7mrgzlT">
-    <name>Rebel against your own rules</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0300314</id>
-    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
-      <name>Tonight, Captain?</name>
-      <released>2003</released>
-      <availability>
-        <territories>EE LT LV NL NO NZ</territories>
-      </availability>
-    </album>
-    <track-number>1</track-number>
-    <length>263.749000</length>
-    <popularity>0.12</popularity>
-  </track>
-  <track href="spotify:track:1n75vP8PfAQFvIkWGthFI8">
-    <name>Loveenterprise</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015060</id>
-    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
-      </availability>
-    </album>
-    <track-number>5</track-number>
-    <length>209.054000</length>
-    <popularity>0.1</popularity>
-  </track>
-  <track href="spotify:track:3Pd4AqUz3ubYsc3kePQrje">
-    <name>Keep It To Yourself</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015040</id>
-    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
-      </availability>
-    </album>
-    <track-number>8</track-number>
-    <length>307.411000</length>
-    <popularity>0.1</popularity>
-  </track>
-  <track href="spotify:track:6YYkzWAUEGry1zplkLp5ix">
-    <name>Envy</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015090</id>
-    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
-      </availability>
-    </album>
-    <track-number>10</track-number>
-    <length>232.088000</length>
-    <popularity>0.1</popularity>
-  </track>
-  <track href="spotify:track:2C8sb31CfIm3wnGtW1MSVj">
-    <name>Loveenterprise</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0015060</id>
-    <album href="spotify:album:6PqTpgLHXA7QDqk6qmUHKW">
-      <name>Jeans For Onassis</name>
-      <released>2000</released>
-      <availability>
-        <territories>NO</territories>
-      </availability>
-    </album>
-    <track-number>7</track-number>
-    <length>210.571000</length>
-    <popularity>0.1</popularity>
+    <length>317.986000</length>
+    <popularity>0.11</popularity>
   </track>
   <track href="spotify:track:5f0WmIx79v5R0RwQgHIYtz">
     <name>Envy</name>
@@ -579,75 +341,143 @@
       </availability>
     </album>
     <track-number>10</track-number>
-    <length>226.990000</length>
+    <length>226.733000</length>
     <popularity>0.11</popularity>
   </track>
-  <track href="spotify:track:3ofTAbi6Cpvra70r6oo55w">
-    <name>Ten stories high</name>
+  <track href="spotify:track:724KNMXOv74nWcMaE6ud43">
+    <name>Substitute for love</name>
     <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
       <name>Briskeby</name>
     </artist>
-    <id type="isrc">NOAMM0300312</id>
-    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
-      <name>Tonight, Captain?</name>
-      <released>2003</released>
+    <id type="isrc">NOUM70500576</id>
+    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
+      <name>Jumping On Cars</name>
+      <released>2005</released>
       <availability>
-        <territories>EE LT LV NL NO NZ</territories>
+        <territories>BG CY CZ DK FR GB HK MT MY NO PH SK TW</territories>
       </availability>
     </album>
     <track-number>3</track-number>
-    <length>219.068000</length>
+    <length>190.826000</length>
     <popularity>0.11</popularity>
   </track>
-  <track href="spotify:track:6oCeBOkQos107B50PHQXIC">
-    <name>Valentine</name>
+  <track href="spotify:track:6oeAeF7pQZqYLYd8M4vgY4">
+    <name>Out Of Town</name>
     <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
       <name>Briskeby</name>
     </artist>
-    <id type="isrc">NOAMM0300313</id>
-    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
-      <name>Tonight, Captain?</name>
-      <released>2003</released>
+    <id type="isrc">NOUM70500579</id>
+    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
+      <name>Jumping On Cars</name>
+      <released>2005</released>
       <availability>
-        <territories>EE LT LV NL NO NZ</territories>
+        <territories>BG CY CZ DK FR GB HK MT MY NO PH SK TW</territories>
       </availability>
     </album>
-    <track-number>4</track-number>
-    <length>207.982000</length>
-    <popularity>0.1</popularity>
+    <track-number>6</track-number>
+    <length>220.813000</length>
+    <popularity>0.11</popularity>
   </track>
-  <track href="spotify:track:7J62e2uJbe7ogDbbB3MsBv">
-    <name>Hallelujah</name>
+  <track href="spotify:track:7Ej9Kyn8Baj0Cej0KFs9fe">
+    <name>Bobby, Come Back</name>
     <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
       <name>Briskeby</name>
     </artist>
-    <id type="isrc">NOAMM0300308</id>
-    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
-      <name>Tonight, Captain?</name>
-      <released>2003</released>
+    <id type="isrc">NOUM70500583</id>
+    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
+      <name>Jumping On Cars</name>
+      <released>2005</released>
       <availability>
-        <territories>EE LT LV NL NO NZ</territories>
+        <territories>BG CY CZ DK FR GB HK MT MY NO PH SK TW</territories>
       </availability>
     </album>
-    <track-number>5</track-number>
-    <length>252.246000</length>
+    <track-number>10</track-number>
+    <length>344.640000</length>
     <popularity>0.1</popularity>
   </track>
-  <track href="spotify:track:0HXVkH394vUvvLrJrGPN6d">
-    <name>The Asphalt Beach - Reprise</name>
+  <track href="spotify:track:3kOdQgCytFKlfeBFgLCQJH">
+    <name>Electro Boy</name>
     <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
       <name>Briskeby</name>
     </artist>
-    <id type="isrc">NOAMM0015110</id>
+    <id type="isrc">NOAMM0015030</id>
     <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
       <name>Jeans For Onassis</name>
       <released>2000</released>
       <availability>
-        <territories>AT CH DE DK FI HK IS MY NO PL PT SE SG</territories>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
       </availability>
     </album>
-    <track-number>11</track-number>
-    <length>106.906000</length>
+    <track-number>3</track-number>
+    <length>197.880000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:2qpAc6XP8PjCYMpHVfJukb">
+    <name>Hey Harvey</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015070</id>
+    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>287.413000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:3Pd4AqUz3ubYsc3kePQrje">
+    <name>Keep It To Yourself</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015040</id>
+    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>307.093000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:33aJFMvhjf7lrZHrrJCaSl">
+    <name>Berlin</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015050</id>
+    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>208.680000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:2C8sb31CfIm3wnGtW1MSVj">
+    <name>Loveenterprise</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015060</id>
+    <album href="spotify:album:6PqTpgLHXA7QDqk6qmUHKW">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>210.333000</length>
     <popularity>0.08</popularity>
   </track>
   <track href="spotify:track:7IsyIXJmlZUajOQ8xEPDgi">
@@ -664,8 +494,110 @@
       </availability>
     </album>
     <track-number>11</track-number>
-    <length>289.476000</length>
+    <length>289.173000</length>
     <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:5tfzO7tr1Y8evyP3uGcZYs">
+    <name>There Is A Wave</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOUM70500580</id>
+    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
+      <name>Jumping On Cars</name>
+      <released>2005</released>
+      <availability>
+        <territories>BG CY CZ DK FR GB HK MT MY NO PH SK TW</territories>
+      </availability>
+    </album>
+    <track-number>7</track-number>
+    <length>257.306000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:32dXnm1TdNQeEarUvVzE4z">
+    <name>Between You And Me</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOUM70500581</id>
+    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
+      <name>Jumping On Cars</name>
+      <released>2005</released>
+      <availability>
+        <territories>BG CY CZ DK FR GB HK MT MY NO PH SK TW</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>179.600000</length>
+    <popularity>0.08</popularity>
+  </track>
+  <track href="spotify:track:4y5jLP3J94jUXCt6WuCS3k">
+    <name>Light My Way</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOUM70500582</id>
+    <album href="spotify:album:7lQrqjgCkpIJM2V4pQBYmX">
+      <name>Jumping On Cars</name>
+      <released>2005</released>
+      <availability>
+        <territories>BG CY CZ DK FR GB HK MT MY NO PH SK TW</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>207.066000</length>
+    <popularity>0.09</popularity>
+  </track>
+  <track href="spotify:track:1n75vP8PfAQFvIkWGthFI8">
+    <name>Loveenterprise</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015060</id>
+    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>208.800000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:6YYkzWAUEGry1zplkLp5ix">
+    <name>Envy</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015090</id>
+    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>10</track-number>
+    <length>231.813000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:0HXVkH394vUvvLrJrGPN6d">
+    <name>The Asphalt Beach - Reprise</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0015110</id>
+    <album href="spotify:album:1cMcyl63yMZRfGfYm7pwm9">
+      <name>Jeans For Onassis</name>
+      <released>2000</released>
+      <availability>
+        <territories>AT BR CH CZ DE DK EE ES FI HK HU IS LT LV MY NO PH PL PT SE SG SK TW</territories>
+      </availability>
+    </album>
+    <track-number>11</track-number>
+    <length>106.746000</length>
+    <popularity>0.06</popularity>
   </track>
   <track href="spotify:track:3ahu0X1j064agVqFimPNGS">
     <name>The Asphalt Beach</name>
@@ -681,25 +613,76 @@
       </availability>
     </album>
     <track-number>12</track-number>
-    <length>101.991000</length>
-    <popularity>0.08</popularity>
+    <length>101.826000</length>
+    <popularity>0.06</popularity>
   </track>
-  <track href="spotify:track:5U5gPLVs5tgH7cm20uUWQQ">
-    <name>Sweet sensation</name>
+  <track href="spotify:track:3YnYcH72gwNOwyo7mrgzlT">
+    <name>Rebel against your own rules</name>
     <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
       <name>Briskeby</name>
     </artist>
-    <id type="isrc">NOAMM0300309</id>
+    <id type="isrc">NOAMM0300314</id>
     <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
       <name>Tonight, Captain?</name>
       <released>2003</released>
       <availability>
-        <territories>EE LT LV NL NO NZ</territories>
+        <territories>NO</territories>
       </availability>
     </album>
-    <track-number>6</track-number>
-    <length>248.115000</length>
-    <popularity>0.08</popularity>
+    <track-number>1</track-number>
+    <length>263.466000</length>
+    <popularity>0.07</popularity>
+  </track>
+  <track href="spotify:track:3ofTAbi6Cpvra70r6oo55w">
+    <name>Ten stories high</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0300312</id>
+    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
+      <name>Tonight, Captain?</name>
+      <released>2003</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>3</track-number>
+    <length>218.813000</length>
+    <popularity>0.06</popularity>
+  </track>
+  <track href="spotify:track:6oCeBOkQos107B50PHQXIC">
+    <name>Valentine</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0300313</id>
+    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
+      <name>Tonight, Captain?</name>
+      <released>2003</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>4</track-number>
+    <length>207.746000</length>
+    <popularity>0.05</popularity>
+  </track>
+  <track href="spotify:track:7J62e2uJbe7ogDbbB3MsBv">
+    <name>Hallelujah</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0300308</id>
+    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
+      <name>Tonight, Captain?</name>
+      <released>2003</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>5</track-number>
+    <length>251.973000</length>
+    <popularity>0.07</popularity>
   </track>
   <track href="spotify:track:47eUc47NNYZEJfBCgCRv2v">
     <name>End of summer</name>
@@ -711,46 +694,12 @@
       <name>Tonight, Captain?</name>
       <released>2003</released>
       <availability>
-        <territories>EE LT LV NL NO NZ</territories>
+        <territories>NO</territories>
       </availability>
     </album>
     <track-number>7</track-number>
-    <length>256.638000</length>
-    <popularity>0.09</popularity>
-  </track>
-  <track href="spotify:track:4oGED53thIzMQybqomHFtJ">
-    <name>Trying to loose you</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0300311</id>
-    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
-      <name>Tonight, Captain?</name>
-      <released>2003</released>
-      <availability>
-        <territories>EE LT LV NL NO NZ</territories>
-      </availability>
-    </album>
-    <track-number>8</track-number>
-    <length>203.851000</length>
-    <popularity>0.09</popularity>
-  </track>
-  <track href="spotify:track:75p2icObNHqHWwcFhF8589">
-    <name>Dancing</name>
-    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
-      <name>Briskeby</name>
-    </artist>
-    <id type="isrc">NOAMM0300316</id>
-    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
-      <name>Tonight, Captain?</name>
-      <released>2003</released>
-      <availability>
-        <territories>EE LT LV NL NO NZ</territories>
-      </availability>
-    </album>
-    <track-number>9</track-number>
-    <length>254.729000</length>
-    <popularity>0.08</popularity>
+    <length>256.360000</length>
+    <popularity>0.06</popularity>
   </track>
   <track href="spotify:track:2k1RRkQlmlclcW9qHOkdTz">
     <name>Tale for loffen</name>
@@ -766,8 +715,8 @@
       </availability>
     </album>
     <track-number>8</track-number>
-    <length>119.769000</length>
-    <popularity>0.09</popularity>
+    <length>119.600000</length>
+    <popularity>0.08</popularity>
   </track>
   <track href="spotify:track:0FALZ2Y7meptgVjF4Cx75D">
     <name>Bo på Briskeby Blues (org.)</name>
@@ -783,8 +732,59 @@
       </availability>
     </album>
     <track-number>1</track-number>
-    <length>1312.605000</length>
-    <popularity>0.05</popularity>
+    <length>1311.400000</length>
+    <popularity>0.02</popularity>
+  </track>
+  <track href="spotify:track:5U5gPLVs5tgH7cm20uUWQQ">
+    <name>Sweet sensation</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0300309</id>
+    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
+      <name>Tonight, Captain?</name>
+      <released>2003</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>6</track-number>
+    <length>247.826000</length>
+    <popularity>0.04</popularity>
+  </track>
+  <track href="spotify:track:4oGED53thIzMQybqomHFtJ">
+    <name>Trying to loose you</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0300311</id>
+    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
+      <name>Tonight, Captain?</name>
+      <released>2003</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>8</track-number>
+    <length>203.600000</length>
+    <popularity>0.03</popularity>
+  </track>
+  <track href="spotify:track:75p2icObNHqHWwcFhF8589">
+    <name>Dancing</name>
+    <artist href="spotify:artist:0vwcghB4GeosdKQs0SOizP">
+      <name>Briskeby</name>
+    </artist>
+    <id type="isrc">NOAMM0300316</id>
+    <album href="spotify:album:4sTg7rtRResGfp7rYyVpia">
+      <name>Tonight, Captain?</name>
+      <released>2003</released>
+      <availability>
+        <territories>NO</territories>
+      </availability>
+    </album>
+    <track-number>9</track-number>
+    <length>254.440000</length>
+    <popularity>0.03</popularity>
   </track>
   <track href="spotify:track:5Cy7NP6Jyk3a0u7jhDM1HY">
     <name>Get lost</name>
@@ -796,12 +796,12 @@
       <name>Tonight, Captain?</name>
       <released>2003</released>
       <availability>
-        <territories>EE LT LV NL NO NZ</territories>
+        <territories>NO</territories>
       </availability>
     </album>
     <track-number>10</track-number>
-    <length>143.012000</length>
-    <popularity>0.06</popularity>
+    <length>142.813000</length>
+    <popularity>0.04</popularity>
   </track>
   <track href="spotify:track:6CTB9ZOY5h6KBPjw9fGPwb">
     <name>The mess we are in</name>
@@ -813,12 +813,12 @@
       <name>Tonight, Captain?</name>
       <released>2003</released>
       <availability>
-        <territories>EE LT LV NL NO NZ</territories>
+        <territories>NO</territories>
       </availability>
     </album>
     <track-number>11</track-number>
-    <length>188.400000</length>
-    <popularity>0.07</popularity>
+    <length>188.173000</length>
+    <popularity>0.03</popularity>
   </track>
   <track href="spotify:track:4dGUoeMdHZyTy6EN6gZxLZ">
     <name>The electric field</name>
@@ -830,12 +830,12 @@
       <name>Tonight, Captain?</name>
       <released>2003</released>
       <availability>
-        <territories>EE LT LV NL NO NZ</territories>
+        <territories>NO</territories>
       </availability>
     </album>
     <track-number>12</track-number>
-    <length>274.364000</length>
-    <popularity>0.07</popularity>
+    <length>274.053000</length>
+    <popularity>0.03</popularity>
   </track>
   <track href="spotify:track:2yyasG2F3BaknmeNxcQmfq">
     <name>Tang</name>
@@ -851,8 +851,8 @@
       </availability>
     </album>
     <track-number>2</track-number>
-    <length>248.533000</length>
-    <popularity>0.04</popularity>
+    <length>248.266000</length>
+    <popularity>0.02</popularity>
   </track>
   <track href="spotify:track:3VTr33fqO4NkK59MzwNURM">
     <name>Å møte en gammel kjenning noen år senere</name>
@@ -868,8 +868,8 @@
       </availability>
     </album>
     <track-number>3</track-number>
-    <length>108.527000</length>
-    <popularity>0.04</popularity>
+    <length>108.360000</length>
+    <popularity>0.02</popularity>
   </track>
   <track href="spotify:track:5tyLGwyJGrSMAzEA5ZtU1i">
     <name>Uplift Blues</name>
@@ -885,8 +885,8 @@
       </availability>
     </album>
     <track-number>4</track-number>
-    <length>138.568000</length>
-    <popularity>0.02</popularity>
+    <length>138.373000</length>
+    <popularity>0.01</popularity>
   </track>
   <track href="spotify:track:6E1pIgGGnhqEsVGtBljRMi">
     <name>Desembel lys</name>
@@ -902,7 +902,7 @@
       </availability>
     </album>
     <track-number>5</track-number>
-    <length>132.345000</length>
+    <length>132.160000</length>
     <popularity>0.01</popularity>
   </track>
   <track href="spotify:track:5Nurrx56uVZBuuPTgkIxnM">
@@ -919,8 +919,8 @@
       </availability>
     </album>
     <track-number>6</track-number>
-    <length>130.384000</length>
-    <popularity>0.02</popularity>
+    <length>130.199000</length>
+    <popularity>0.01</popularity>
   </track>
   <track href="spotify:track:11h9YUC9DqeMjWGe44mubP">
     <name>Funny</name>
@@ -936,8 +936,8 @@
       </availability>
     </album>
     <track-number>7</track-number>
-    <length>199.093000</length>
-    <popularity>0.03</popularity>
+    <length>198.866000</length>
+    <popularity>0.02</popularity>
   </track>
   <track href="spotify:track:6TzNYoHqyuwVzFjYWEPTiS">
     <name>Min nye blå dyne</name>
@@ -953,8 +953,8 @@
       </availability>
     </album>
     <track-number>9</track-number>
-    <length>37.361000</length>
-    <popularity>0.02</popularity>
+    <length>37.266000</length>
+    <popularity>0.01</popularity>
   </track>
   <track href="spotify:track:1btvpfmBK0OjMR9uWYYsO6">
     <name>Kropper</name>
@@ -970,8 +970,8 @@
       </availability>
     </album>
     <track-number>10</track-number>
-    <length>67.663000</length>
-    <popularity>0.03</popularity>
+    <length>67.533000</length>
+    <popularity>0.01</popularity>
   </track>
   <track href="spotify:track:4hTchfIJpLGaTdleTtzpVo">
     <name>Amper juli blues</name>
@@ -987,7 +987,7 @@
       </availability>
     </album>
     <track-number>11</track-number>
-    <length>81.990000</length>
+    <length>81.866000</length>
     <popularity>0.01</popularity>
   </track>
   <track href="spotify:track:4kai7au2HY7mK0AjUNoHpx">
@@ -1004,7 +1004,7 @@
       </availability>
     </album>
     <track-number>12</track-number>
-    <length>44.341000</length>
+    <length>44.240000</length>
     <popularity>0.02</popularity>
   </track>
   <track href="spotify:track:6ZWpyThrKzDdBRfkD1kL2A">
@@ -1021,7 +1021,7 @@
       </availability>
     </album>
     <track-number>13</track-number>
-    <length>91.873000</length>
+    <length>91.733000</length>
     <popularity>0.01</popularity>
   </track>
   <track href="spotify:track:0y6u0X1dUtTbMGBQ62wmgO">
@@ -1038,7 +1038,7 @@
       </availability>
     </album>
     <track-number>14</track-number>
-    <length>37.178000</length>
+    <length>37.093000</length>
     <popularity>0.01</popularity>
   </track>
   <track href="spotify:track:0ceKF99c8FmU0urfgAcCW0">
@@ -1051,12 +1051,12 @@
       <name>Sitte fast på Notodden...</name>
       <released>1977</released>
       <availability>
-        <territories>AT DE EE FI FR HK IS LT LV MY NL NO PL PT SE</territories>
+        <territories>AT DE EE ES FI FR HK HR HU IS LT LV MY NL NO PH PL PT SE SI TR TW</territories>
       </availability>
     </album>
     <track-number>7</track-number>
-    <length>354.655000</length>
-    <popularity>0.03</popularity>
+    <length>354.293000</length>
+    <popularity>0.04</popularity>
   </track>
   <track href="spotify:track:2wINioeHD2OM9kf228DQhF">
     <name>Sitter Fast På Notodden Med briskeby Blues På Nytt - Bonus track</name>
@@ -1068,12 +1068,12 @@
       <name>Sitte fast på Notodden...</name>
       <released>1977</released>
       <availability>
-        <territories>AT DE EE FI FR HK IS LT LV MY NL NO PL PT SE</territories>
+        <territories>AT DE EE ES FI FR HK HR HU IS LT LV MY NL NO PH PL PT SE SI TR TW</territories>
       </availability>
     </album>
     <track-number>12</track-number>
-    <length>181.890000</length>
-    <popularity>0.03</popularity>
+    <length>181.666000</length>
+    <popularity>0.04</popularity>
   </track>
 </tracks>
 <!-- Last-Modified: Vary: Accept-Encoding -->
