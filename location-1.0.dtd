@@ -1,4 +1,5 @@
 <!ELEMENT location EMPTY >
+<!ATTLIST location file CDATA #REQUIRED >
 <!ATTLIST location name CDATA #REQUIRED >
 <!ATTLIST location link CDATA #REQUIRED >
 <!ATTLIST location glat NMTOKEN #REQUIRED >

@@ -22,6 +22,7 @@ CREATE TABLE votement (
 
 CREATE TABLE location (
        id BIGINT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+       file TEXT NOT NULL,
        name TEXT NOT NULL,
        KEY name_idx (name(2048)),
        glat DECIMAL(10, 8) NOT NULL,
