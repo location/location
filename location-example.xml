@@ -1,3 +1,2 @@
-<?xml version="1.0"?>
-<!DOCTYPE location SYSTEM "location-1.0.dtd">
-<location name="location" link="http://www.github.com/location" glat="60" glon="10" grad="10" vote="1" />
+<!DOCTYPE ​location​SYSTEM "http://raw.githubusercontent.com/location/location/ma ster/location­1.0.dtd">
+<location​name​="concert" data="Daryl Hall & John Oates, Greek Theater, 29.08.2015 from $69.50" link="http://www.hallandoates.com/tour.html?dc_id=793" geo="37.873596,­122.25443" ​radius="150km" notBefore="2015­08­25T20:00" notAfter="2015­08­29T20:00" price="$69.50" />

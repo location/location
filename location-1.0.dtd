@@ -1,8 +1,9 @@
 <!ELEMENT location EMPTY >
-<!ATTLIST location file CDATA #REQUIRED >
 <!ATTLIST location name CDATA #REQUIRED >
+<!ATTLIST location data CDATA #REQUIRED >
 <!ATTLIST location link CDATA #REQUIRED >
-<!ATTLIST location glat NMTOKEN #REQUIRED >
-<!ATTLIST location glon NMTOKEN #REQUIRED >
-<!ATTLIST location grad NMTOKEN #REQUIRED >
-<!ATTLIST location vote NMTOKEN #REQUIRED >
+<!ATTLIST location geo CDATA #REQUIRED >
+<!ATTLIST location radius NMTOKEN #REQUIRED >
+<!ATTLIST location notBefore CTIME #REQUIRED >
+<!ATTLIST location notAfter CTIME #REQUIRED >
+<!ATTLIST location price NMTOKEN #REQUIRED >
