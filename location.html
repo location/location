@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=240; user-scalable=no" />
+    <title>W3C Proposal: Location-aware Content Tag in HTML</title>
+  </head>
+  <body>
+    <h1>W3C Proposal: Location-aware Content Tag in HTML</h1>
+    <p>This is a proposal for a new Location-aware Content Tag in HTML: &lt;location&gt;</p>
+    <p>The location element acts as a container for information about the location of content, more precisely, information about the location of a document creation device such as a mobile device.</p>
+    <h2>Version</h2>
+    <h3>1.1</h3>
+    <p>The current version of the &lt;location&gt; proposal is 1.1.</p>
+    <h2>Development</h2>
+    <p>git clone <a href='https://github.com/location/location.git'>https://github.com/location/location.git</a></p>
+    <h2>Downloads</h2>
+    <ul>
+      <li><a href='location-1.1.dtd'>location-1.1.dtd</a></li>
+    </ul>
+    <h3>Extern Example</h3>
+    <ul>
+      <li><a href="location.html">location.html</a></li>
+      <li><a href="location-source.xml">location-source.xml</a></li>
+    </ul>
+    <h2>Inline Example</h2>
+    <pre>
+    &lt;location href="http://maps.bing.com/" glat="59.929196399999995" glon="10.7901335"&gt;
+      &lt;p&gt;&lt;a href="http://www.aamotsoftware.com/"&gt;Ole Aamot Software&lt;/a&gt;&lt;br /&gt;
+	Frydenbergveien 56&lt;br /&gt;
+	NO-0575 OSLO&lt;br /&gt;Norway&lt;/p&gt;
+    &lt;/location&gt;
+    &lt;location href="http://kart.finn.no/" glat="59.9563446" glon="10.7624335"&gt;
+      &lt;p&gt;&lt;a href="http://www.operasoftware.com/"&gt;Opera Software ASA&lt;/a&gt;&lt;br /&gt;
+	Gjerdrums vei 19&lt;br /&gt;
+	NO-0484 OSLO&lt;br /&gt;Norway&lt;/p&gt;
+    &lt;/location&gt;
+    &lt;location href="http://maps.google.com/" glat="37.4219999" glon="-122.0862462"&gt;
+      &lt;p&gt;&lt;a href="http://www.google.com/"&gt;Google, Inc.&lt;/a&gt;&lt;br /&gt;
+	1600 Amphitheatre Pkwy&lt;br /&gt;
+	Mountain View&lt;br /&gt;
+	CA 94043&lt;br /&gt;
+	United States
+      &lt;/p&gt;
+    &lt;/location&gt;
+    </pre>
+  </body>
+</html>

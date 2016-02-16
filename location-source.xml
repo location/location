@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE location SYSTEM "location-1.1.dtd">
+<locations>
+  <location href="http://maps.bing.com/" glat="59.929196399999995" glon="10.7901335">
+    <p><a href="http://www.aamotsoftware.com/">Ole Aamot Software</a><br />
+    Frydenbergveien 56<br />
+    NO-0575 OSLO<br />Norway</p>
+  </location>
+  <location href="http://kart.finn.no/" glat="59.9563446" glon="10.7624335">
+    <p><a href="http://www.operasoftware.com/">Opera Software ASA</a><br />
+    Gjerdrums vei 19<br />
+    NO-0484 OSLO<br />Norway</p>
+  </location>
+    <location href="http://maps.google.com/" glat="37.4219999" glon="-122.0862462">
+      <p><a href="http://www.google.com/">Google, Inc.</a><br />
+	1600 Amphitheatre Pkwy<br />
+	Mountain View<br />
+	CA 94043<br />
+	United States
+      </p>
+    </location>
+</locations>
