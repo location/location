@@ -1,11 +1,3 @@
 <?xml version="1.0"?>
 <!DOCTYPE location SYSTEM "http://aamotsoftware.com/location-1.2.dtd">
-<location name="Ole Aamot Software" href="http://maps.bing.com/" lat="59.929196399999995" lon="10.7901335">
-  <p><a href="http://www.aamotsoftware.com/">Ole Aamot Software</a><br />
-  Frydenbergveien 56<br />
-  NO-0575 OSLO<br />Norway</p>
-  <pubDate>Sat, 27 Feb 2016 23:22:00 +0100</pubDate>
-  <title>Ole Aamot Software</title>
-  <link>http://www.aamotsoftware.com/</link>
-  <description>Software Company</description>
-</location>
+<location name="Aamot Software" href="http://aamotsoftware.com/" lat="59.929196399999995" lon="10.7901335">Aamot Software</location>
