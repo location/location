@@ -1,0 +1,9 @@
+<!ELEMENT location (#PCDATA) >
+<!ATTLIST location alt NMTOKEN #REQUIRED >
+<!ATTLIST location lat NMTOKEN #REQUIRED >
+<!ATTLIST location lon NMTOKEN #REQUIRED >
+<!ATTLIST location location CDATA #REQUIRED >
+<!ATTLIST location name CDATA #REQUIRED >
+<!ATTLIST location href CDATA #REQUIRED >
+<!ATTLIST location radius NMTOKEN #REQUIRED >
+<!ATTLIST location server CDATA #REQUIRED >
