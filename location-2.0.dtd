@@ -1,0 +1,41 @@
+<!ELEMENT location (#PCDATA) >
+<!-- location is the root element -->
+
+<!ATTLIST location alt NMTOKEN #IMPLIED >
+<!-- The location alt attribute contains the physical altitude -->
+
+<!ATTLIST location href CDATA #REQUIRED >
+<!-- The location href attribute contains the link destination -->
+
+<!ATTLIST location lat NMTOKEN #REQUIRED >
+<!-- The location lat attribute contains the physical latitude -->
+
+<!ATTLIST location address CDATA #IMPLIED >
+<!-- The location address attribute contains the postal address -->
+
+<!ATTLIST location lon NMTOKEN #REQUIRED >
+<!-- The location lon attribute contains the physical longitude -->
+
+<!ATTLIST location name CDATA #REQUIRED >
+<!-- The location name attribute contains the link name -->
+
+<!ATTLIST location notafter CDATA #IMPLIED >
+<!-- The location notafter attribute contains the date and time value that specifies when the link becomes invalid -->
+
+<!ATTLIST location notbefore CDATA #IMPLIED >
+<!-- The location notbefore attribute contains the date and time value that specifies when the link becomes valid -->
+
+<!ATTLIST location paid CDATA #IMPLIED >
+<!-- The location paid attribute contains the price in USD -->
+
+<!ATTLIST location radius NMTOKEN #IMPLIED >
+<!-- The location radius attribute contains the radius range in kilometers -->
+
+<!ATTLIST location server CDATA #IMPLIED >
+<!-- The location server attribute contains the location server address -->
+
+<!ATTLIST location service CDATA #REQUIRED >
+<!-- The location service attribute contains the service category -->
+
+<!ATTLIST location src CDATA #IMPLIED >
+<!-- The location src attribute contains the location source link -->
