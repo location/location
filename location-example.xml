@@ -1,2 +1,2 @@
 <!DOCTYPE location SYSTEM "http://www.aamotsoftware.com/location­2.0.dtd">
-<location name="concert" href="http://www.hallandoates.com/tour.html?dc_id=793" lat="37.873596" lon="­122.25443" radius="150" notBefore="2015­08­25T20:00" notAfter="2015­08­29T20:00" price="$69.50">Daryl Hall &amp; John Oates, Greek Theater, 29.08.2015 from $69.50</location>
+<location name="concert" href="http://www.hallandoates.com/tour.html?dc_id=793" lat="37.873596" lon="­122.25443" radius="150" notBefore="2015­08­25T20:00" notAfter="2015­08­29T20:00" paid="69.50">Daryl Hall &amp; John Oates, Greek Theater, 29.08.2015 from $69.50</location>
