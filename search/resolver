@@ -1,0 +1,81 @@
+# Written by Ole Aamot, 20200409
+
+from cgi import parse_qs, escape
+from urllib import quote_plus
+import cgi
+import urllib3
+import mysql.connector
+from mysql.connector import Error
+import hashlib
+from math import radians, cos, sin, asin, sqrt
+import textwrap
+from cgi import parse_qs, escape
+from bs4 import BeautifulSoup
+import cgi
+import time
+
+def piperpal_resolver(l,n,s,lat,lon):
+    p = http.request('GET', l)
+    o = p.data
+    y = BeautifulSoup(o, "lxml")
+    m = hashlib.sha256(p.data).hexdigest()
+    locationtags = y.find_all("location")
+    i = 0
+    print locationtags
+    while (i < len(locationtags)):
+        name = y.findAll("location")[i]["name"]
+        glat = y.findAll("location")[i]["lat"]
+        glon = y.findAll("location")[i]["lon"]
+	service = y.findAll("location")[i]["service"]
+        data = y.findAll("location")[i]
+        href = y.findAll("location")[i]["href"]
+        r = haversine(float(glat),float(glon),float(lat),float(lon))
+#        print map
+        print(gindex(r,name,m,href,data,glat,glon,lat,lon))
+	linker = 'https://api.piperpal.com/resolver/?name=' + quote_plus(name.encode('utf-8'), safe=':/') + '&service=' + quote_plus(service.encode('utf-8'), safe=':/') + '&location=' + quote_plus(href.encode('utf-8'), safe=':/') + '&glat=' + glat + '&glon=' + glon + '&paid=1'
+	insert = http.request('GET', linker)
+	print linker
+	print insert
+	object = insert.data
+#	tester = BeautifulSoup(object, "lxml")
+#	macron = hashlib.sha256(insert.data).hexdigest()
+	i = i + 1
+        piperpal_resolver(href,s,n,lat,lon)
+    return (y,i)
+
+def haversine(lat1, lon1, lon2, lat2):
+    """
+    Calculate the great circle distance between two points 
+    on the earth (specified in decimal degrees)
+    """
+    # convert decimal degrees to radians 
+    lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
+
+    # haversine formula 
+    dlon = lon2 - lon1 
+    dlat = lat2 - lat1 
+    a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
+    c = 2 * asin(sqrt(a)) 
+    r = 6371 # Radius of earth in kilometers. Use 3956 for miles
+    return c * r
+
+def gindex(radius,n,d,l,query,my_lat,my_lon,lat,lon):
+    return radius,n,d,l,query,my_lat,my_lon,lat,lon
+services = dict()
+services = ('Restaurant','Bar','Concert','Film','Books','Health','Clothes','Food','Music','Electronics','Transport','Rental')
+http = urllib3.PoolManager()
+q = 'Wikipedia'
+p = 1
+l = 'http://www.piperpal.com/piperpal.xml';
+lat = '37.42242500'
+lon = '-122.08755550'
+service = 'Books'
+for x in range(-90, 91):
+    for y in range(-180, 181):
+           print x,y,lat,lon,q,l,0
+           print x,y,lat,lon,q,l,1
+           for z in services:
+#                if (z=="Restaurant"):
+   		 print z,x,y,lat,lon,q,l,1
+#                 print "Restaurant"
+		 piperpal_resolver(l,1,z,lat,lon)

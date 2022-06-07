@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^([\sa-åA-Å0-9]+)$ /?query=$1&radius=100000&search=Go [R=301,L,NE,NC]
+RewriteRule ^([\sa-åA-Å0-9]+)([\ ])(\()([\sa-åA-Å0-9]+)(\))$ /service/$4 [R]
+RewriteRule ^([\sa-åA-Å0-9]+)([\:])([\sa-åA-Å0-9]+)$ /service/$1/$3 [R]

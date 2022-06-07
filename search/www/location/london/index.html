@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <meta property="al:android:app_name" content="Piperpal" />
+    <meta property="al:android:package" content="com.piperpal.api.android" />
+    <meta property="al:android:url" content="https://www.piperpal.com/Android" />
+    <!--[if IE]><![endif]-->
+    <meta charset="utf-8">
+    
+    <!--[if IE 8]>
+	<link href="/css/common_o2.1_ie8-91981ea8f3932c01fab677a25d869e49.css" media="all" rel="stylesheet" type="text/css" />
+	<![endif]-->
+    <!--[if !(IE 8)]><!-->
+	<link href="/css/common_o2.1-858f47868a8d0e12dfa7eb60fa84fb17.css" media="all" rel="stylesheet" type="text/css" />
+	<!--<![endif]-->
+	
+        <!--[if lt IE 9]>
+	    <link href="/css/airglyphs-ie8-9f053f042e0a4f621cbc0cd75a0a520c.css" media="all" rel="stylesheet" type="text/css" />
+	    <![endif]-->
+	
+	<link href="/css/main-f3fcc4027aaa2c83f08a1d51ae189e3b.css" media="screen" rel="stylesheet" type="text/css" />
+	<!--[if IE 7]>
+	    <link href="/css/p1_ie_7-0ab7be89d3999d751ac0e89c44a0ab50.css" media="screen" rel="stylesheet" type="text/css" />
+	    <![endif]-->
+	<!--[if IE 6]>
+	    <link href="/css/p1_ie_6-7d6a1fd8fe9fdf1ce357f6b864c83979.css" media="screen" rel="stylesheet" type="text/css" />
+	    <![endif]-->
+	<script type="text/javascript" src="https://www.piperpal.com/piperpal-autocomplete-tours.php"></script>
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+	<link rel="dns-prefetch" href="//maps.googleapis.com">
+	<link rel="dns-prefetch" href="//maps.gstatic.com">
+	<link rel="dns-prefetch" href="//mts0.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//www.piperpal.com">
+	<title>Location Tags in London, United Kingdom</title>
+	<link href="my_style_form.css" type="text/css" rel="stylesheet" />
+	<link href='http://fonts.googleapis.com/css?family=Titillium+Web:700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+<h1>Location Tags in London, United Kingdom</h1>
+<script type="text/javascript" src="https://api.piperpal.com/location/json.php?service=Books&glat=51.5073219&glon=-0.1276474"></script>
+<script language="JavaScript">
+var obj = JSON.parse(locations);
+for (i=0; i < obj.locations.length; i++) {
+   document.write("<h1>" + obj.locations[i].name + "</h1><h2><a href='" + obj.locations[i].location + "'>" + obj.locations[i].location + "</a> (" + obj.locations[i].distance + ")</h2><h3>" + " " + obj.locations[i].service + " " + "</h3>\n");
+   <!--document.write("<p>" + obj.locations[i].distance + "</p><form method='GET' action='/search.php'><input type='text' name='name' placeholder='' value='" + obj.locations[i].name + "'/><input type='hidden' name='glat' value='" + obj.locations[i].glat + "' /><input type='hidden' name='glon' value='" + obj.locations[i].glon + "'/><span id='geopher'></span><select name='service'><option value='Food'>Food</option><option selected value='Search'>Search</option></select><input type='submit' value='Search' /><br />"); -->
+}
+</script>
+<location name="Berkeley" location="http://berkeley.edu/" service="Books" glat="59.9340451" glon="10.7481188" notbefore="2020-03-30 12:00:00" notafter="2020-03-31 12:00:00" paid="50" />
+<location name="Palo Alto" lat="37.4375596" lon="-122.11922789999998" href="http://berkeley.edu/">
+<p>Check out <a href="https://www.geopher.com/">Geopher</a> and <a href="http://piperpal.com/">Piperpal</a>.</p>
+</location>
+</body>
+</html>
+

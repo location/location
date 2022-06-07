@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+    <!--[if IE 8]>
+	<link href="/css/common_o2.1_ie8-91981ea8f3932c01fab677a25d869e49.css" media="all" rel="stylesheet" type="text/css" />
+	<![endif]-->
+    <!--[if !(IE 8)]><!-->
+	<link href="/css/common_o2.1-858f47868a8d0e12dfa7eb60fa84fb17.css" media="all" rel="stylesheet" type="text/css" />
+	<!--<![endif]-->
+	
+        <!--[if lt IE 9]>
+	    <link href="/css/airglyphs-ie8-9f053f042e0a4f621cbc0cd75a0a520c.css" media="all" rel="stylesheet" type="text/css" />
+	    <![endif]-->
+	
+	<link href="/css/main-f3fcc4027aaa2c83f08a1d51ae189e3b.css" media="screen" rel="stylesheet" type="text/css" />
+	<!--[if IE 7]>
+	    <link href="/css/p1_ie_7-0ab7be89d3999d751ac0e89c44a0ab50.css" media="screen" rel="stylesheet" type="text/css" />
+	    <![endif]-->
+	<!--[if IE 6]>
+	    <link href="/css/p1_ie_6-7d6a1fd8fe9fdf1ce357f6b864c83979.css" media="screen" rel="stylesheet" type="text/css" />
+	    <![endif]-->
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+	<link rel="dns-prefetch" href="//maps.googleapis.com">
+	<link rel="dns-prefetch" href="//maps.gstatic.com">
+	<link rel="dns-prefetch" href="//mts0.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//www.piperpal.com">
+	<title>piperpal.com - Location-based Search Engine</title>
+	<link href="my_style_form.css" type="text/css" rel="stylesheet" />
+	<link href='http://fonts.googleapis.com/css?family=Titillium+Web:700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
+	<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+  </head>
+  <!-- Styles -->
+  <style>
+    #name label{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    }
+    #name_submit{
+    padding-left: 100px;
+    }
+    #name div{
+    margin-top: 1em;
+    }
+    textarea{
+    vertical-align: top;
+    height: 5em;
+    }
+
+    .error{
+    display: none;
+    margin-left: 10px;
+    }
+
+    .error_show{
+    color: red;
+    margin-left: 10px;
+    }
+
+    input.invalid, textarea.invalid{
+    border: 2px solid red;
+    }
+
+    input.valid, textarea.valid{
+    border: 2px solid green;
+    }
+    </style>
+  <body>
+    <!-- JavaScript Code -->
+    <script>
+      $(document).ready(function() {
+      <!-- Real-time Validation -->
+      <!--Name can't be blank-->
+      $('#name').on('input', function() {
+      var input=$(this);
+      var is_name=input.val();
+      if(is_name){input.removeClass("invalid").addClass("valid");}
+      else{input.removeClass("valid").addClass("invalid");}
+      });
+
+      <!--Email must be an email -->
+      $('#email').on('input', function() {
+      var input=$(this);
+      var re = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+      var is_email=re.test(input.val());
+      if(is_email){input.removeClass("invalid").addClass("valid");}
+      else{input.removeClass("valid").addClass("invalid");}
+      });
+
+      <!--Website must be a website -->
+      $('#location').on('input', function() {
+      var input=$(this);
+      if (input.val().substring(0,4)=='www.'){input.val('http://www.'+input.val().substring(4));}
+      var re = /(http|ftp|https):\/\/[\w-]+(\.[\w-]+)+([\w.,@?^=%&amp;:\/~+#-]*[\w@?^=%&amp;\/~+#-])?/;
+      var is_url=re.test(input.val());
+      if(is_url){input.removeClass("invalid").addClass("valid");}
+      else{input.removeClass("valid").addClass("invalid");}
+      });
+
+      <!--Message can't be blank -->
+      $('#service').keyup(function(event) {
+      var input=$(this);
+      var message=$(this).val();
+      console.log(message);
+      if(message){input.removeClass("invalid").addClass("valid");}
+      else{input.removeClass("valid").addClass("invalid");}
+      });
+
+      <!-- After Form Submitted Validation-->
+      $("#submit button").click(function(event){
+      var form_data=$("#name").serializeArray();
+      var error_free=true;
+      for (var input in form_data){
+      var element=$("#name_"+form_data[input]['name']);
+      var valid=element.hasClass("valid");
+      var error_element=$("span", element.parent());
+      if (!valid){error_element.removeClass("error").addClass("error_show"); error_free=false;}
+      else{error_element.removeClass("error_show").addClass("error");}
+      }
+      if (!error_free){
+      event.preventDefault();
+      }
+      else{
+      alert('No errors: Form will be submitted');
+      }
+      });
+      });
+    </script>
+    <h1>Piperpal</h1>
+    <form id="form" method="GET" action="https://api.piperpal.com/location/push.php">
+      <table>
+	<tr>
+	  <td>Text: <input id="name" type="text" name="name" placeholder="Example: FriendliestCoffeeShop" size="24" /><span class="error">This field is required</span></td>
+	</tr>
+	<tr>
+	  <td>Email: <input id="email" type="text" name="email" placeholder="your.name@gmail.com" /><span class="error">This field is required</span></td>
+	</tr>
+	<tr>
+	  <td>Service: <select id="service" name="service"><option value="Restaurant">Restaurant</option><option value="Bar">Bar</option><option value="Concert">Concert</option><option value="Film">Film</option><option value="Books">Books</option><option value="Health">Health</option><option value="Clothes">Clothes</option><option value="Food">Food</option><option value="Music">Music</option><option value="Electronics">Electronics</option><option value="Transport">Transport</option><option value="Rental">Rental</option></select></td>
+	</tr>
+	<tr>
+	  <td>Location: <input type="text" name="location" placeholder="https://yourwebsite.com/" /></td>
+	</tr>
+	<!--
+	<tr>
+	  <td>Latitude: <input type="text" name="glat" value="37.4375596"></td>
+	</tr>
+	<tr>
+	  <td>Longitude: <input type="text" name="glon" value="-122.11922789999998"></td>									      </tr>
+	-->
+	<tr>
+	  <td>Payment: <input type="text" name="paid" value="50"></td>
+	</tr>
+	<tr>
+	  <td><input type="submit" name="Submit" value="Submit" /></td>
+	</tr>
+      </table>
+    </form>
+    <h2>Piperpal / Were / Here / After</h2>
+    <p>Peter Norvig at Google came up with <a href="https://api.piperpal.com/location/push.php?name=GoogleResearch&service=Search&location=https://research.google.com/&glat=37.4375596&glon=-122.11922789999998&paid=50">&amp;GoogleResearch</a> at <a href="https://api.piperpal.com/location/push.php?name=GoogleVisitorCenter&service=Search&location=https://www.google.com/&glat=37.4375596&glon=-122.11922789999998&paid=50">&amp;GoogleVisitorCenter</a> in Palo Alto, California in 2015...</p>
+    <p>Ole Aamot thought that the <a href="https://api.piperpal.com/location/push.php?name=FriendliestCoffeeShop&service=Search&location=https://www.kaffebrenneriet.no/butikkene/l%C3%B8renveien-43-l%C3%B8ren&glat=59.930553&glon=10.7919344&paid=50">&amp;FriendliestCoffeeShop</a> is at <a href="https://api.piperpal.com/location/push.php?name=Kaffebrenneriet&service=Search&location=https://www.kaffebrenneriet.no/butikkene/l%C3%B8renveien-43-l%C3%B8ren&glat=59.930553&glon=10.7919344&paid=50">&amp;Kaffebrenneriet</a> in Oslo, Norway in 2019...</p>
+    <p>We thought that the <a href="https://api.piperpal.com/location/push.php?name=ClassyItalianRestaurant&service=Restaurant&glat=59.9181062glon=10.7405857&location=http://www.tekehtopa.no/&paid=50">&amp;ClassyItalianRestaurant</a> is <a href="https://api.piperpal.com/location/push.php?name=Tekehtopa&service=Restaurant&glat=59.9181062glon=10.7405857&location=http://www.tekehtopa.no/&paid=50">&amp;Tekehtopa</a> in Oslo, Norway on September 11, 2019...</p>
+    <p>We ate at <a href="https://api.piperpal.com/location/push.php?name=TheBestLunchPlace&service=Restaurant&location=http://www.cafediroma.no/&glat=59.9224999&glon=10.7549504&paid=50">&amp;TheBestLunchPlace</a> on July 4th, 2020 which we thought was as good as <a href="https://api.piperpal.com/location/push.php?name=CafediRoma&service=Restaurant&location=http://www.cafediroma.no/&glat=59.9224999&glon=10.7549504&paid=50">&CafediRoma</a> in Sofienberggata 6, Oslo at 12 pm...</p>
+    <p>We got similar <a href="https://api.piperpal.com/location/push.php?name=WarmNordicJackets&service=Clothes&location=http://www.stormberg.com/&glat=59.9292125&glon=10.7898633&paid=50">&WarmNordicJackets</a> from <a href="https://api.piperpal.com/location/push.php?name=StormbergOslo&service=Clothes&location=http://www.stormberg.com/&glat=59.9292125&glon=10.7898633&paid=50">&amp;StormbergOslo</a> which we thought was better than <a href="https://api.piperpal.com/location/push.php?name=HellyHansen&service=Clothes&location=http://www.hellyhansen.com/&paid=50">&HellyHansen</a> for shorter tours at 6 pm in Norway in December 2021...</p>
+    <script type="text/javascript" src="https://api.piperpal.com/location/?service=Search">
+    </script>
+    <script
+       src="https://code.jquery.com/jquery-3.3.1.js"
+       integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+       crossorigin="anonymous">
+      var newLink = "https://api.piperpal.com/location/?service=Search";
+      $('script').each(function() {
+      var link = $(this).attr('src');
+      })
+    </script>
+    <script language="JavaScript">
+      var obj = JSON.parse(locations);
+      for (i=0; i < obj.locations.length; i++) {
+		    document.write("<p><h2><a href='https://piperpal.com/" + obj.locations[i].name + "'>" + obj.locations[i].name + "</a></h2><p>" + obj.locations[i].distance + " km away</p><p><b><a href='" + obj.locations[i].location + "'>" + obj.locations[i].location + "</a></b></p><p><i>" + obj.locations[i].service + " " + "</i></p>\n");
+      }
+		    </script>
+</td>
+</tr>
+</table>
+  </body>
+</html>

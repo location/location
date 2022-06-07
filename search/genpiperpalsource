@@ -1,0 +1,22 @@
+#!/usr/bin/perl
+
+use CGI;
+use DBI;
+
+sub get_locations {
+    my $c = CGI->new;
+    my $dbh = DBI->connect("DBI:mysql:database=piperpal;host=piperpal.mysql.domeneshop.no", "piperpal", "xxxxxxxx", {'RaiseError' => 1});
+    print "<?xml version='1.0'?>\n";
+    print "<piperpal version='2.0'>\n";
+    $dbh->do ("SELECT DISTINCT email,name,glat,glon,location,modified,created,service,paid FROM piperpal WHERE modified < NOW() and created > NOW();");
+    my $sth = $dbh->prepare ("SELECT DISTINCT email,name,glat,glon,location,modified,created,service,paid FROM piperpal WHERE modified < NOW() and created > NOW() ORDER by name;");
+    $sth->execute();
+    while (my $ref = $sth->fetchrow_hashref()) {
+                print "<location src='http://api.piperpal.com/location' service='" . $ref->{'service'} . ":" . $ref->{'email'} . "' name='" . $ref->{'name'} . "' lat='" . $ref->{'glat'} . "' lon='" . $ref->{'glon'} . "' href='" . $ref->{'location'} . "' notbefore='" . $ref->{'modified'} . "' notafter='" . $ref->{'created'} . "' paid='" . $ref->{'paid'} . "'>" . $ref->{'name'} . "</location>\n";
+    }
+    $sth->finish();
+    $dbh->disconnect();
+    print "</piperpal>\n";
+    return;
+}
+&get_locations;
