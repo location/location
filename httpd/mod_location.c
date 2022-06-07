@@ -4,14 +4,14 @@
 **    # Sample apache2.conf configuration
 **    LoadModule location_module modules/mod_location.so
 **    <Location /location>
-**         name "localhost"
-**         link "http://localhost/location/"
-**         tags "a b c"
-**         glat "0"
-**         glon "0"
-**         grad "0"
-**         vote "0"
-**         rank "0"
+**         location_name "localhost"
+**         location_tags "a cab ac"
+**         location_link "http://localhost/location/"
+**         location_glat "0"
+**         location_glon "0"
+**         location_grad "0"
+**         location_vote "0"
+**         location_rank "0"
 **         SetHandler location
 **    </Location>
 **
@@ -35,6 +35,7 @@
 **    Content-Type: text/html
 **    
 **    Location-name: "location"
+**    Location-tags: "a b c"
 **    Location-link: "http://localhost/location/"
 **    Location-glat: "0"
 **    Location-glon: "0"
@@ -100,7 +101,7 @@ static int location_handler(request_rec *r)
       ap_rprintf(r, "Location-glon: \"%s\"\n", config->location_glon);
       ap_rprintf(r, "Location-grad: \"%s\"\n", config->location_grad);
       ap_rprintf(r, "Location-vote: \"%s\"\n", config->location_vote);
-      ap_rprintf(r, "Location-rack: \"%s\"\n", config->location_rank);
+      ap_rprintf(r, "Location-rank: \"%s\"\n", config->location_rank);
      }
     return OK;
 }
