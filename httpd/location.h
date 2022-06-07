@@ -1,12 +1,13 @@
 #ifndef LOCATION_H
 #define LOCATION_H
 
-#define name "location"
-#define link "http://localhost/location/"
-#define glat 0
-#define glon 0
-#define grad 0
-#define vote 0
-#define rack 0
+static const char* location_name = "location";
+static const char* location_tags = "location";
+static const char* location_link = "http://localhost/location/";
+static const char* location_glat = "0";
+static const char* location_glon = "0";
+static const char* location_grad = "0";
+static const char* location_vote = "0";
+static const char* location_rank = "0";
 
 #endif /* LOCATION_H */

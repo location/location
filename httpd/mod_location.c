@@ -11,7 +11,7 @@
 **         glon "0"
 **         grad "0"
 **         vote "0"
-**         rack "0"
+**         rank "0"
 **         SetHandler location
 **    </Location>
 **
@@ -40,7 +40,7 @@
 **    Location-glon: "0"
 **    Location-grad: "0"
 **    Location-vote: "0"
-**    Location-rack: "0"
+**    Location-rank: "0"
 */ 
 
 #include "httpd.h"
@@ -50,14 +50,39 @@
 #include "location.h"
 
 typedef struct {
-    CONF_VALUE *name;
-    CONF_VALUE *link;
-    CONF_VALUE *glat;
-    CONF_VALUE *glon;
-    CONF_VALUE *grad;
-    CONF_VALUE *vote;
-    CONF_VALUE *rack;
+    char *location_name;
+    char *location_tags;
+    char *location_link;
+    char *location_glat;
+    char *location_glon;
+    char *location_grad;
+    char *location_vote;
+    char *location_rank;
 } location_config;
+
+static const command_rec location_directives[] = {
+  AP_INIT_TAKE1 ("location_name", TAKE1, NULL, RSRC_CONF, "Relative location path, such as 'location'"),
+  AP_INIT_TAKE1 ("location_tags", TAKE1, NULL, RSRC_CONF, "Relative location tags, such as 'cab', 'dab'"),
+  AP_INIT_TAKE1 ("location_link", TAKE1, NULL, RSRC_CONF, "URL to location path, such as 'http://localhost/location/'"),
+  AP_INIT_TAKE1 ("location_glat", TAKE1, NULL, RSRC_CONF, "Location Latitude, such as '62.08372'"),
+  AP_INIT_TAKE1 ("location_glon", TAKE1, NULL, RSRC_CONF, "Location Longitude, such as '10.39710'"),
+  AP_INIT_TAKE1 ("location_grad", TAKE1, NULL, RSRC_CONF, "Location Radius, such as '50' km"),
+  AP_INIT_TAKE1 ("location_vote", TAKE1, NULL, RSRC_CONF, "Location Vote, such as '0' or '1'"),
+  AP_INIT_TAKE1 ("location_rank", TAKE1, NULL, RSRC_CONF, "Location Rank, such as '1', '2', or '3'")
+};
+
+static void location_register_hooks(apr_pool_t *p);
+
+/* Dispatch list for API hooks */
+module AP_MODULE_DECLARE_DATA location_module = {
+    STANDARD20_MODULE_STUFF,
+    NULL,                  /* create per-dir    config structures */
+    NULL,                  /* merge  per-dir    config structures */
+    NULL,                  /* create per-server config structures */
+    NULL,                  /* merge  per-server config structures */
+    location_directives,   /* table of config file commands       */
+    location_register_hooks  /* register hooks                      */
+};
 
 /* The sample content handler */
 static int location_handler(request_rec *r)
@@ -68,15 +93,15 @@ static int location_handler(request_rec *r)
     location_config *config = (location_config*) ap_get_module_config(r->per_dir_config, &location_module);
     r->content_type = "text/html";      
     if (!r->header_only) {
-      ap_rprintf("Location-name: \"%s\"\n", config->name);
-      ap_rprintf("Location-tags: \"%s\"\n", config->tags):
-      ap_rprintf("Location-link: \"%s\"\n", config->link);
-      ap_rprintf("Location-glat: \"%s\"\n", config->glat);
-      ap_rprintf("Location-glon: \"%s\"\n", config->glon);
-      ap_rprintf("Location-grad: \"%s\"\n", config->grad);
-      ap_rprintf("Location-vote: \"%s\"\n", config->vote);
-      ap_rprintf("Location-rack: \"%s\"\n", config->rank);
-    }
+      ap_rprintf(r, "Location-name: \"%s\"\n", config->location_name);
+      ap_rprintf(r, "Location-tags: \"%s\"\n", config->location_tags);
+      ap_rprintf(r, "Location-link: \"%s\"\n", config->location_link);
+      ap_rprintf(r, "Location-glat: \"%s\"\n", config->location_glat);
+      ap_rprintf(r, "Location-glon: \"%s\"\n", config->location_glon);
+      ap_rprintf(r, "Location-grad: \"%s\"\n", config->location_grad);
+      ap_rprintf(r, "Location-vote: \"%s\"\n", config->location_vote);
+      ap_rprintf(r, "Location-rack: \"%s\"\n", config->location_rank);
+     }
     return OK;
 }
 
@@ -84,27 +109,3 @@ static void location_register_hooks(apr_pool_t *p)
 {
     ap_hook_handler(location_handler, NULL, NULL, APR_HOOK_MIDDLE);
 }
-
-static const command_rec location_directives[] =
-{
- AP_INIT_TAKE1 ("name", TAKE1, NULL, RSRC_CONF, "Relative location path, such as 'location'")
- AP_INIT_TAKE1 ("tags", TAKE1, NULL, RSRC_CONF, "Relative location tags, such as 'cab', 'dab'")
- AP_INIT_TAKE1 ("link", TAKE1, NULL, RSRC_CONF, "URL to location path, such as 'http://localhost/location/'")
- AP_INIT_TAKE1 ("glat", TAKE1, NULL, RSRC_CONF, "Location Latitude, such as '62.08372'")
- AP_INIT_TAKE1 ("glon", TAKE1, NULL, RSRC_CONF, "Location Longitude, such as '10.3971'")
- AP_INIT_TAKE1 ("grad", TAKE1, NULL, RSRC_CONF, "Location Radius, such as '100' km")
- AP_INIT_TAKE1 ("vote", TAKE1, NULL, RSRC_CONF, "Location Vote, such as '1' or '0'")
- AP_INIT_TAKE1 ("rack", TAKE1, NULL, RSRC_CONF, "Location Rack, such as 'K1', 'M1'")
-}
-
-/* Dispatch list for API hooks */
-module AP_MODULE_DECLARE_DATA location_module = {
-    STANDARD20_MODULE_STUFF, 
-    NULL,                  /* create per-dir    config structures */
-    NULL,                  /* merge  per-dir    config structures */
-    NULL,                  /* create per-server config structures */
-    NULL,                  /* merge  per-server config structures */
-    location_directives,   /* table of config file commands       */
-    location_register_hooks  /* register hooks                      */
-};
-
